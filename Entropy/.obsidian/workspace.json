@@ -68,8 +68,23 @@
               "icon": "lucide-file",
               "title": "Spells"
             }
+          },
+          {
+            "id": "6c17b55f9e4aee60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sets/Gloves.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gloves"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -216,16 +231,17 @@
   },
   "active": "e933cd324b7dbc32",
   "lastOpenFiles": [
+    "Core Concepts/Status Effects.md",
+    "Core Concepts/Damage Types.md",
+    "Skillsets and Species/Boxer.md",
+    "Skillsets and Species/Human.md",
+    "Sets/Gloves.md",
     "Sets/Ice.md",
     "Sets/Flame.md",
     "Core Concepts/Spells.md",
-    "Skillsets and Species/Boxer.md",
     "Skillsets and Species/Knight.md",
     "Core Concepts/Weapons.md",
-    "Core Concepts/Status Effects.md",
-    "Skillsets and Species/Human.md",
     "Sets/Swords.md",
-    "Sets/Gloves.md",
     "Stats/Criticals.md",
     "Stats/EP.md",
     "Core Concepts/Player Characters.md",
@@ -241,7 +257,6 @@
     "Sets/Goblins.md",
     "Sets/Axes.md",
     "Stats/Proficiencies.md",
-    "Core Concepts/Damage Types.md",
     "Story",
     "Core Concepts",
     "Stats",

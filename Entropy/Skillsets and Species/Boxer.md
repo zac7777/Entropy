@@ -55,5 +55,9 @@ Heated palms:
 - *Brittle ice:* Whenever you deal cold damage to a creature, the next attack you would deal to them will deal double damage after all other bonuses are applied
 
 Charged fingers:
+- 
 
 Life knuckles:
+- *Leaching strike:* 4AP, the next time you would use an unarmed, or "Glove" attack, you may heal half the damage dealt
+- *Pass strength:* 2 AP, target creature in melee range heals 1d10 + Endurance damage, you take rot damage equal to half the health healed, this may only be activated twice per combat
+- *Pain to life:* 3 AP, any number of other target creatures within 10m heal damage equal to half the amount of life you lost since your last turn
