@@ -35,6 +35,9 @@ AP: 5 + Power
 
 *Surprise elbow:* 3 AP, Melee Range + 1m, 1d6 bludgeoning damage, if this is not the first attack action you made this turn the target is immobilised until your next turn
 
+Accuracy: +30
+Critical: 
+
 *Leap:* 2 AP, move 4m in any direction, ignoring anything on the floor, your next attack this turn has +20 accuracy, this may only be activated twice per turn
 
 #### Level 2:
@@ -55,9 +58,14 @@ Heated palms:
 - *Brittle ice:* Whenever you deal cold damage to a creature, the next attack you would deal to them will deal double damage after all other bonuses are applied
 
 Charged fingers:
-- 
+- *Tiring strikes:* Whenever you land a critical hit the creature hit gets -1 EP
+- *Electrode phalanges:* 1 AP, each hit you land this turn deals an additional 1d4 Electric damage, this may only be activated 4 times per turn
+- *Gut shocker:* 4 AP, Melee Range, 1d4 bludgeoning damage + Power d6 Electric damage
+
+  Accuracy: +15
+  Critical: +5 + Power
 
 Life knuckles:
-- *Leaching strike:* 4AP, the next time you would use an unarmed, or "Glove" attack, you may heal half the damage dealt
+- *Leaching strike:* 4 AP, the next time you would use an unarmed, or "Glove" attack, you may heal half the damage dealt
 - *Pass strength:* 2 AP, target creature in melee range heals 1d10 + Endurance damage, you take rot damage equal to half the health healed, this may only be activated twice per combat
 - *Pain to life:* 3 AP, any number of other target creatures within 10m heal damage equal to half the amount of life you lost since your last turn
