@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "5cbff9378f7f1cf7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3c5262c5cf6b8d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30d14b212304c7c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Entropy/Structure/Maths Rules.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Maths Rules"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1aa22b449f558faf",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d8c491d1f53b8fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "befe7b695dc0b96a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0677996f1784eb9c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0832707af70be026",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "75eae9fdc46af263",
+    "type": "split",
+    "children": [
+      {
+        "id": "a93fba736de097c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97e14ed3c4d54d95",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Entropy/Structure/Maths Rules.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Maths Rules"
+            }
+          },
+          {
+            "id": "fc35cb9a60378ee6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Entropy/Structure/Maths Rules.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Maths Rules"
+            }
+          },
+          {
+            "id": "9dfedef37aef5778",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "be92a08beb8d7373",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Entropy/Structure/Maths Rules.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Maths Rules"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "befe7b695dc0b96a",
+  "lastOpenFiles": [
+    "Entropy/Structure/Welcome.md",
+    "Entropy/Structure/Maths Rules.md"
+  ]
+}
