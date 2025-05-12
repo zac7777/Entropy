@@ -1,0 +1,59 @@
+A close range beater, and master of their hands. Trained for precise healing or hurting, managing the energy through their very palms.
+
+Primary Stat: Power
+Secondary Stat: Endurance
+
+Weapon proficiencies: Contact, Light, Manageable, Heavy, Primitive, Advanced, Rare, Legendary
+
+Armour Proficiencies: Half, Full, Light, Manageable, Heavy, Martial, Advanced
+
+**Pathways:**
+Empty hand
+	Conserving energy is seen as a boon over mastery of the elements, bloodied knuckles don't need fancy tricks
+Heated palms
+	Thermal energy from the centre of the hand, to freeze, to burn, all will scatter enemies into pieces
+Charged fingers
+	The static potential at one's fingertips, who could resist the power of thunder in one's palm
+Life knuckles
+	Control over life and death at a mere touch, draining and donating, only those who deserve their energy should have it
+
+## Progression
+
+##### Base:
+EP bonus: +30
+Melee range bonus: +1m
+
+---
+#### Level 1:
+
+HP: 2d8 + 6 * Endurance
+AP: 5 + Power
+
+*Relentless beating:* Whenever an attack you make with a glove hits, your next move costs 1 AP less to activate, this cannot reduce an AP cost to less then one, and can only activate 4 times a turn
+###### Moves
+*Gloves off:* 1 AP, put an equipped glove into storage, the next spell you cast has a +2 to it's minimum roll, this may only be activated once per turn
+
+*Surprise elbow:* 3 AP, Melee Range + 1m, 1d6 bludgeoning damage, if this is not the first attack action you made this turn the target is immobilised until your next turn
+
+*Leap:* 2 AP, move 4m in any direction, ignoring anything on the floor, your next attack this turn has +20 accuracy, this may only be activated twice per turn
+
+#### Level 2:
+
+HP: Previous HP + 1d8 + 2 * Endurance
+AP: 7 + Power
+
+###### Pathway bonuses
+
+Empty hand: 
+- *Conservation of strength:* Whenever you end your turn with EP remaining, that EP will be added to your AP pool next turn, however you may not begin a turn with more than double your max AP
+- *Preferred material:* You gain two additional proficiencies with any weapon with the "Insulator" condition
+- *True power:* Whenever a weapon uses your Power attribute for an equation, add 1 to your Power value
+
+Heated palms:
+- *Blue flame:* Any opponent that would be immune to heat damage instead has resistance
+- *Conductor to combustion:* Weapons you control can be used to cast Fire or Ice Conduit spells, this does not overwrite the effect of "Insulator"
+- *Brittle ice:* Whenever you deal cold damage to a creature, the next attack you would deal to them will deal double damage after all other bonuses are applied
+
+Charged fingers:
+
+Life knuckles:
