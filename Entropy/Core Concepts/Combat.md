@@ -1,6 +1,6 @@
 In combat, each combatant has several stats that effect how they fight:
 - [[HP]]: Determined by Class + Level
-- [[EP]]: Determined by Endurance
+- [[EP]]: Determined by Endurance + Level + Class
 - [[AP]]: Determined by Class + Level
 - [[DT]]: Determined by armour
 - [[Proficiencies]]: Determined by Class

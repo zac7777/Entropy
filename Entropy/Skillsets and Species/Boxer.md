@@ -47,7 +47,7 @@ AP: 7 + Power
 Empty hand: 
 - *Conservation of strength:* Whenever you end your turn with EP remaining, that EP will be added to your AP pool next turn, however you may not begin a turn with more than double your max AP
 - *Preferred material:* You gain two additional proficiencies with any weapon with the "Insulator" condition
-- *True power:* Whenever a weapon uses your Power attribute for an equation, add 1 to your Power value
+- *True power:* Whenever anything uses your Power attribute for an equation, add 1 to your Power value until that calculation is complete
 
 Heated palms:
 - *Blue flame:* Any opponent that would be immune to heat damage instead has resistance
