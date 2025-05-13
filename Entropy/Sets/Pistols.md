@@ -42,7 +42,7 @@ Critical: 0
 
 ---
 
-*Fire:* 2 AP: 20m, this move may only be used nine times before the "reload" action must be used
+*Fire:* 2 AP: 30m, this move may only be used nine times before the "reload" action must be used
 
 Accuracy: +20
 Critical: +5

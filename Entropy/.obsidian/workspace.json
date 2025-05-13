@@ -22,45 +22,45 @@
             }
           },
           {
-            "id": "1bf42278e1902784",
+            "id": "996a726e5a7aa59f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skillsets and Species/Knight.md",
+                "file": "Core Concepts/Items.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Knight"
+              "title": "Items"
             }
           },
           {
-            "id": "ff011e14a8a4de32",
+            "id": "8485d5958f8de80b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skillsets and Species/Boxer.md",
+                "file": "Core Concepts/Miscellaneous.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Boxer"
+              "title": "Miscellaneous"
             }
           },
           {
-            "id": "264f1be75a56033e",
+            "id": "9a2ee485eaff47ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pistols.md",
+                "file": "Sets/Shoes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pistols"
+              "title": "Shoes"
             }
           },
           {
@@ -74,84 +74,42 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
-        "id": "2076f1c3854f8e0f",
+        "id": "108e43e32e415a56",
         "type": "tabs",
         "children": [
           {
-            "id": "f7231c15f90296d2",
+            "id": "f58a7a0307f34130",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sets/Axes.md",
+                "file": "Stats/EP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Axes"
+              "title": "EP"
             }
           },
           {
-            "id": "0c0a0dc5a760fad6",
+            "id": "01c2d2f2c1c82855",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core Concepts/Weapons.md",
+                "file": "Sets/Gloves.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Weapons"
-            }
-          },
-          {
-            "id": "20acca8c56eba83f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sets/Leathers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Leathers"
-            }
-          },
-          {
-            "id": "d8f263d87783a244",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ammunition.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ammunition"
-            }
-          },
-          {
-            "id": "7e2f3cabee90b342",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Small Cartridges.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Small Cartridges"
+              "title": "Gloves"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -296,34 +254,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e2f3cabee90b342",
+  "active": "035a772837dab23d",
   "lastOpenFiles": [
-    "Pistols.md",
-    "Ammunition.md",
-    "Small Cartridges.md",
-    "Sets/Axes.md",
+    "Sets/Shoes.md",
+    "Sets/Gloves.md",
+    "Skillsets and Species/Boxer.md",
+    "Sets/Flame.md",
+    "Sets/Leathers.md",
+    "Core Concepts/Armours.md",
+    "Core Concepts/Miscellaneous.md",
+    "Core Concepts/Items.md",
+    "Core Concepts/Storage.md",
+    "Stats/EP.md",
+    "Stats/AP.md",
+    "Sets/Small Cartridges.md",
+    "Core Concepts/Ammunition.md",
     "Core Concepts/Weapons.md",
     "Structure/Welcome.md",
-    "Sets/Leathers.md",
-    "Skillsets and Species/Boxer.md",
-    "Sets/Gloves.md",
+    "Sets/Pistols.md",
+    "Sets/Axes.md",
     "Core Concepts/Combat.md",
     "Core Concepts/Damage Types.md",
     "Skillsets and Species/Survivalist.md",
     "Skillsets and Species/Knight.md",
-    "Stats/AP.md",
     "Sets/Ice.md",
     "Stats/DT.md",
     "Core Concepts/Status Effects.md",
     "Skillsets and Species/Human.md",
-    "Sets/Flame.md",
     "Core Concepts/Spells.md",
-    "Sets/Swords.md",
-    "Stats/Criticals.md",
-    "Stats/EP.md",
-    "Core Concepts/Player Characters.md",
-    "Sets/Light.md",
-    "Skillsets and Species/Spellslinger.md",
     "Story",
     "Core Concepts",
     "Stats",
