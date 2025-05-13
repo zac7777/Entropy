@@ -9,7 +9,7 @@ Armour Proficiencies: Half, Full, Light, Manageable, Martial, Advanced, Rare, Le
 
 **Pathways:**
 Hidden death
-	An invisible, silent, sharp feeling is the last most of their targets will ever feel, try to make sure their allies don't notice you either
+	An invisible, silent, sharp feeling is the last most of your targets will ever feel, try to make sure their allies don't notice you either
 Collateraliser
 	Standing next to each-other is the last thing your targets want, when your every strike will send them all to death, hand in hand
 Hunter
