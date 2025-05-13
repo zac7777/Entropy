@@ -29,20 +29,17 @@ Weapon proficiency bonus: +1
 HP: 4d12 + 2 * Power
 AP: 3 + Endurance
 
-*Zero in:* whenever you land a hit (either with a spell or a weapon), spells you cast this turn have +1 to their minimum and you gain +5 accuracy until end of turn
+*Zero in:* whenever you land a hit (either with a spell or a weapon), spells you cast this turn have +1 to their minimum and you gain -5 accuracy until end of turn
 ###### Moves
-*Stand Stalwart:* 1 AP, you and target creature that can see you both gain +2 DT to Slicing, Bludgeoning, and Mental until your next turn
+*Hold breath:* 1 AP, you gain -10 accuracy for your next attack and automatically fail the next spell minimum that targets you, this may only be activated once per turn
 
-*Righteous Backhand:* 2 AP, Melee Range, 1d6 bludgeoning damage, gain +2 DT to a type of your choice until your next turn
-
-Accuracy: +5
-Critical: + Connection
+*Hunker down:* 3 AP, you gain +10 dodge and -10 accuracy until you next move or are moved
 
 *Blade Focus:* 4 AP, your next attack with a Martial weapon will deal double damage after all other bonuses are applied
 
 #### Level 2:
 
-HP: Previous HP + 1d10 + Endurance
+HP: Previous HP + 1d12
 AP: 3 + Endurance * 2
 
 ###### Pathway bonuses
