@@ -20,20 +20,6 @@
               "icon": "lucide-file",
               "title": "Damage Types"
             }
-          },
-          {
-            "id": "0884876e099ee977",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sets/Gloves.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gloves"
-            }
           }
         ]
       },
@@ -68,8 +54,23 @@
               "icon": "lucide-file",
               "title": "Knight"
             }
+          },
+          {
+            "id": "ff011e14a8a4de32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skillsets and Species/Boxer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Boxer"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -214,16 +215,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2046792cbfaf7dfc",
+  "active": "ff011e14a8a4de32",
   "lastOpenFiles": [
+    "Sets/Axes.md",
+    "Sets/Gloves.md",
+    "Core Concepts/Combat.md",
     "Core Concepts/Damage Types.md",
     "Skillsets and Species/Survivalist.md",
     "Skillsets and Species/Boxer.md",
     "Skillsets and Species/Knight.md",
-    "Sets/Gloves.md",
     "Stats/AP.md",
     "Sets/Ice.md",
-    "Core Concepts/Combat.md",
     "Stats/DT.md",
     "Core Concepts/Status Effects.md",
     "Skillsets and Species/Human.md",
@@ -241,7 +243,6 @@
     "Stats/Dodge.md",
     "Stats/Action List.md",
     "Sets/Goblins.md",
-    "Sets/Axes.md",
     "Story",
     "Core Concepts",
     "Stats",
