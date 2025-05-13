@@ -10,3 +10,4 @@
 [[Axes]]
 [[Gloves]]
 [[Swords]]
+[[Pistols]]
