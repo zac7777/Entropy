@@ -4,112 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "903eb6fe9a2683c8",
+        "id": "c53f8246d5a1bb21",
         "type": "tabs",
         "children": [
           {
-            "id": "2046792cbfaf7dfc",
+            "id": "c4a0bbe642f4f205",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core Concepts/Combat.md",
+                "file": "Sets/Gods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Combat"
+              "title": "Gods"
             }
           },
           {
-            "id": "996a726e5a7aa59f",
+            "id": "fa9e851d179e86b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core Concepts/Items.md",
+                "file": "Core Concepts/Status Effects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Items"
-            }
-          },
-          {
-            "id": "8485d5958f8de80b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core Concepts/Miscellaneous.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Miscellaneous"
-            }
-          },
-          {
-            "id": "9a2ee485eaff47ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sets/Shoes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Shoes"
-            }
-          },
-          {
-            "id": "035a772837dab23d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Status Effects"
             }
           }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "108e43e32e415a56",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f58a7a0307f34130",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stats/EP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "EP"
-            }
-          },
-          {
-            "id": "01c2d2f2c1c82855",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sets/Gloves.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gloves"
-            }
-          }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,8 +180,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "035a772837dab23d",
+  "active": "c4a0bbe642f4f205",
   "lastOpenFiles": [
+    "Core Concepts/Status Effects.md",
+    "Sets/Gods.md",
+    "Skillsets and Species/Human.md",
     "Sets/Shoes.md",
     "Sets/Gloves.md",
     "Skillsets and Species/Boxer.md",
@@ -279,9 +208,6 @@
     "Skillsets and Species/Knight.md",
     "Sets/Ice.md",
     "Stats/DT.md",
-    "Core Concepts/Status Effects.md",
-    "Skillsets and Species/Human.md",
-    "Core Concepts/Spells.md",
     "Story",
     "Core Concepts",
     "Stats",

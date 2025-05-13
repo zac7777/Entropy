@@ -11,6 +11,8 @@ Move action: 1 AP, move 1 meter in any direction
 
 Swap weapon action: 2 AP, swap any equipment from either hand to storage, or from storage to hand
 
+Speak action: 1 AP, you may speak up to two sentences verbally
+
 Unarmed action: 2 AP, Melee range, 1 + Power bludgeoning damage
 
 Accuracy: +20 - Reasoning * 2
