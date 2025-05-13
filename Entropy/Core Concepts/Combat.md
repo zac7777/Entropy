@@ -1,3 +1,5 @@
+Combat initiates when a person or group wishes to attack another, then each combatant takes turns in an order determined by highest to lowest Insight + 1d10 (plus any other bonuses), if two creatures get the same value: player characters will go before non-players, players can decide between themselves who goes first, and a game-master can decide the order of equal valued non-players.
+
 In combat, each combatant has several stats that effect how they fight:
 - [[HP]]: Determined by Class + Level
 - [[EP]]: Determined by Endurance + Level + Class
