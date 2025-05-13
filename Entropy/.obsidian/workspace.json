@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Structure/Maths Rules.md",
+                "file": "Core Concepts/Player Characters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maths Rules"
+              "title": "Player Characters"
             }
           }
         ],
@@ -221,6 +221,7 @@
   },
   "active": "522fe8b4e08f8768",
   "lastOpenFiles": [
+    "Structure/Maths Rules.md",
     "Core Concepts/Combat.md",
     "Core Concepts/Player Characters.md",
     "Skillsets and Species/Duelist.md",
@@ -246,7 +247,6 @@
     "Sets/Small Cartridges.md",
     "Core Concepts/Ammunition.md",
     "Core Concepts/Weapons.md",
-    "Structure/Welcome.md",
     "Story",
     "Core Concepts",
     "Stats",

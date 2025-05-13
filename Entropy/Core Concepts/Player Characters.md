@@ -1,6 +1,6 @@
 ## Attributes
 
-Upon creation each player character is given values on 6 attributes, each defining their physical, mental and personal capabilities. They can be rolled, or chosen by a person to match whatever character they wish to create.
+Upon creation each player character is given values on 6 attributes, each defining their physical, mental and personal capabilities. They can be rolled, or chosen by a person to match whatever character they wish to create ( often characters don't begin with Attribute values bigger than +4, but you can do what you want if it matches your character )
 
 | Type     | Name       | Determined by | Description                                                                 |
 | -------- | ---------- | ------------- | --------------------------------------------------------------------------- |
@@ -13,7 +13,7 @@ Upon creation each player character is given values on 6 attributes, each defini
 
 ## Classes
 
-A player also chooses one or more classes, this will majorly define how they fight, and also possibly how they act outside of combat. Each class has a major and minor attribute that is required for functioning as that archetype.
+A player also chooses one class upon creation, this will majorly define how they fight, and also possibly how they act outside of combat. Each class has a major and minor attribute that is required for functioning as that archetype.
 
 |                     | Ranged, Spread                    | Ranged, Precise              | Melee, Precise             | Melee, Spread            |
 | ------------------- | --------------------------------- | ---------------------------- | -------------------------- | ------------------------ |
@@ -30,3 +30,16 @@ A player will also have a creature type, they will gain any bonuses, move speed,
 
 [[Human]]
 [[Arachnine]]
+
+## Levels
+
+Levels are a vague guideline for the power-level of characters, creatures, and items. In addition, players get bonuses every certain amount of levels:
+
+##### Every single level
+- A player may gain a new level of a class they have unlocked already
+
+##### Every other level
+- A player may, instead of upping the level of an already known class, unlock a new class and begin at it's first level, a player can have a maximum of five classes
+
+##### Every fourth level
+- A player may, instead of any class alterations, increase one of their Attribute values by one, this cannot increase them beyond +5
