@@ -29,3 +29,4 @@ The classes are also intended to match the four Keywords of it's column and row.
 A player will also have a creature type, they will gain any bonuses, move speed, and melee range from that species. A species will also affect their physical appearance.
 
 [[Human]]
+[[Arachnine]]

@@ -13,7 +13,7 @@ Critical: +5
 
 ---
 
-*Fire:* 3 AP: 20m, -1 damage to the ammunition used, when used roll a d10, if the result is a 0 this weapon will explode dealing 1d8 damage to all creatures within 5m, if the result is a 1 this weapon will break, this move may only be used once before the "reload" action must be used
+*Fire:* 3 AP: 20m, -1 damage to the ammunition used, when used roll a d10, if the result is a 0 this weapon will explode dealing 1d8 damage to all creatures within 5m instead of firing, if the result is a 1 this weapon will break, this move may only be used once before the "reload" action must be used
 
 Accuracy: +40
 Critical: 0
