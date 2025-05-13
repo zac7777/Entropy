@@ -4,79 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c53f8246d5a1bb21",
+        "id": "c94ae1d9b092739f",
         "type": "tabs",
         "children": [
           {
-            "id": "70c72882368c8718",
+            "id": "3496a495b791ee0c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Skillsets and Species/Soldier.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Soldier"
-            }
-          },
-          {
-            "id": "868c0e4223716163",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core Concepts/Player Characters.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Player Characters"
-            }
-          },
-          {
-            "id": "3a6bc8f7b8034b03",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
-      },
-      {
-        "id": "4caa5c83cca691ba",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "adb2a3f2bb4c5b1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Skillsets and Species/Knight.md",
-                "mode": "source",
-                "source": false
-              },
               "icon": "lucide-file",
-              "title": "Knight"
-            }
-          },
-          {
-            "id": "d9b23669384a12c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stats/EP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "EP"
+              "title": "New tab"
             }
           }
         ]
@@ -224,15 +162,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "70c72882368c8718",
+  "active": "3496a495b791ee0c",
   "lastOpenFiles": [
-    "Skillsets and Species/Knight.md",
-    "Stats/EP.md",
+    "Core Concepts/Player Characters.md",
     "Skillsets and Species/Soldier.md",
+    "Stats/EP.md",
+    "Skillsets and Species/Knight.md",
     "Skillsets and Species/Human.md",
     "Skillsets and Species/Sniper.md",
     "Skillsets and Species/Arachnine.md",
-    "Core Concepts/Player Characters.md",
     "Sets/Pistols.md",
     "Sets/Shoes.md",
     "Sets/Gods.md",

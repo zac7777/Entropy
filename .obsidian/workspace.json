@@ -11,14 +11,10 @@
             "id": "30d14b212304c7c1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Entropy/Structure/Maths Rules.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Maths Rules"
+              "title": "New tab"
             }
           }
         ]
@@ -168,9 +164,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "befe7b695dc0b96a",
+  "active": "30d14b212304c7c1",
   "lastOpenFiles": [
-    "Entropy/Structure/Welcome.md",
-    "Entropy/Structure/Maths Rules.md"
+    "Entropy/Skillsets and Species/Arachnine.md",
+    "Entropy/Sets/Gods.md",
+    "Entropy/Core Concepts/Player Characters.md",
+    "Entropy/Sets/Light.md",
+    "Entropy/Sets/Leathers.md",
+    "Entropy/Sets/Ice.md",
+    "Entropy/Sets/Gloves.md",
+    "Entropy/Sets/Goblins.md",
+    "Entropy/Sets/Pistols.md",
+    "Entropy/Core Concepts/Armours.md",
+    "Entropy/Sets/Flame.md",
+    "Entropy/Sets/Axes.md",
+    "Entropy/Core Concepts/Weapons.md",
+    "Entropy/Core Concepts/Storage.md",
+    "Entropy/Core Concepts/Status Effects.md",
+    "Entropy/Core Concepts/Spells.md",
+    "Entropy/Core Concepts/Non-player Creatures.md",
+    "Entropy/Sets/Shoes.md",
+    "Entropy/Core Concepts/Miscellaneous.md",
+    "Entropy/Core Concepts/Items.md",
+    "Entropy/Core Concepts/Damage Types.md",
+    "Entropy/Core Concepts/Combat.md",
+    "Entropy/Core Concepts/Ammunition.md",
+    "Entropy/Structure/Maths Rules.md",
+    "Entropy/Sets/Small Cartridges.md",
+    "Entropy/Structure/Welcome.md"
   ]
 }
