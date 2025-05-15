@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sets/Swords.md",
+                "file": "Structure/Developer notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Swords"
+              "title": "Developer notes"
             }
           }
         ]
@@ -168,6 +168,9 @@
   },
   "active": "6a400f57651a0cb8",
   "lastOpenFiles": [
+    "Skillsets and Species/Knight.md",
+    "Structure/Developer notes.md",
+    "Sets/Swords.md",
     "Sets/Pistol Attachments.md",
     "Sets/Leathers.md",
     "Sets/Gloves.md",
@@ -177,13 +180,11 @@
     "Core Concepts/Armours.md",
     "Story/Ehlen.md",
     "Skillsets and Species/Soldier.md",
-    "Skillsets and Species/Knight.md",
     "Stats/DT.md",
     "Sets/Pistols.md",
     "Sets/Ice.md",
     "Sets/Flame.md",
     "Core Concepts/Spells.md",
-    "Sets/Swords.md",
     "Core Concepts/Damage Types.md",
     "Core Concepts/Status Effects.md",
     "Sets/Small Cartridges.md",
@@ -193,7 +194,6 @@
     "Skillsets and Species/Human.md",
     "Skillsets and Species/Boxer.md",
     "Structure/Welcome.md",
-    "Structure/Maths Rules.md",
     "Story",
     "Core Concepts",
     "Stats",
