@@ -45,13 +45,17 @@ AP: 3 + Endurance * 2
 ###### Pathway bonuses
 
 Commander: 
-- 
+- *Strength in squads:* gain +2 accuracy for each allied creature within 20m
+- *Light instruction:* in any downtime you may teach one of your allies how to use a single weapon, this will give them +2 proficiency in that specific weapon (this does not apply to categories like "Pistols" only one weapon like "Manufactured handgun")
+- *Harden spirit:* 2 AP, target ally that can hear you gains +2 to it's next avoidance roll when targeted by a spell
 
 Battle mage:
 - 
 
 Gun nut:
-- 
+- *Passionate tinkering:* in any downtime you may add or remove attachments from firearms, you now also gain the knowledge to craft any craftable attachments that are used for guns
+- *Tactical reload:* 1 AP, you may activate the "reload" move on any number of equipped weapons for free, this may only be activated once per combat
+- *Dead eye:* 5 AP, you may activate the "fire" move on any number of equipped weapons an amount of times equal to your Power (as long as your weapons don't run out of cartridges) as long as they all target the same creature, you gain -10 accuracy for all of these attacks
 
 Mass assassin:
 - 

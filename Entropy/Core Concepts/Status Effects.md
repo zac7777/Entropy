@@ -2,4 +2,6 @@
 
 *Immobilised:* A creature that is immobilised loses all movement actions from it's action list until the effect ends
 
+*Bleeding:* A creature that is bleeding takes 1d4 Rot damage at the beginning of their turn, this can be applied multiple times
+
 #gameInformation 

@@ -3,6 +3,7 @@ Each player and creature can collect many items and keep them in their [[Storage
 ### Types of items:
 - [[Weapons]]
 - [[Armours]]
+- [[Attachments]]
 - [[Spells]]
 - [[Ammunition]]
 - [[Miscellaneous]]
