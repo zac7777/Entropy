@@ -32,3 +32,5 @@ Critical: +5
 
 ---
 *The blade most young squires start their careers with, easy to learn with room for mastery*
+
+#itemSet #weapons 

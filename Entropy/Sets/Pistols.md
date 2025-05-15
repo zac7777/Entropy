@@ -55,3 +55,5 @@ Proficiency requirement: 2
 
 ---
 *Simple and common, perfectly effective enough to bring down thieves and escaping prisoners*
+
+#itemSet #weapons 

@@ -16,3 +16,5 @@ Augmenter of bodies
 	Everyone in a doctor's team has potential, it's important they have the right upgrades to achieve it
 Recycler of the dead
 	Such a waste death is, clearly their parts are better served in a new, combat ready form, with a creator willing to care for them
+
+#gameInformation #class

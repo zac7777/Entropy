@@ -24,3 +24,5 @@
 *Damage:* 1d4 piercing damage, when this bullet lands a critical hit the target is stunned
 *Accuracy:* +15
 *Critical:* +15
+
+#itemSet #ammunition

@@ -11,3 +11,5 @@ Dodge bonus: +2
 
 ---
 *Won't offer much cover or winter protection, but will defend against the odd stab or spark*
+
+#itemSet #armours

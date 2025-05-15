@@ -25,3 +25,5 @@ Roll minimum: -4
 
 ---
 *The perfect shape for business, sacrifices must be made for perfect business, the best deals are worth it*
+
+#itemSet #spells 

@@ -16,3 +16,5 @@ Petrifier
 	Fear is the strongest emotion of all, not only can it cause one to attack their nightmare, but even freeze the strongest warriors
 Distracter
 	 The core to a successful soldier is focus and dedication, so clearly they're the best targets to uproot
+
+#gameInformation #class

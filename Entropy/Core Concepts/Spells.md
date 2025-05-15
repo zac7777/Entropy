@@ -14,3 +14,5 @@ When a player casts a spell onto a target in combat, that target rolls a d10 + t
 [[Light]]
 [[Ice]]
 [[Hexus]]
+
+#itemType 

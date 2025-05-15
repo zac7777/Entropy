@@ -55,3 +55,5 @@ Gun nut:
 
 Mass assassin:
 - 
+
+#gameInformation #class

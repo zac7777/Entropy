@@ -16,3 +16,5 @@ Owe
 	It deserves more than you could ever sacrifice to it, time to make others pay the endless debt
 Peace
 	 All must reach a mindless enlightenment, a conversion by words or the blade
+
+#gameInformation #class

@@ -3,3 +3,5 @@ Each player can only carry so many items, whether it be in their arms, in their 
 This maximum can be calculated by:
 
 Carry weight = Level * ( 10 + Power ), then any bonuses that player may have
+
+#gameRules 

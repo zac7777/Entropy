@@ -32,3 +32,5 @@ Critical: +8
 
 ---
 *Although they might have some of the weakest bodies in their tribe, their hearts burn with just as much passion as any other of their kin*
+
+#creatureSet 

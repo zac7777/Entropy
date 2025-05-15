@@ -16,3 +16,5 @@ Backstabber
 	A keen eye for positioning and an invisible hand makes the last thing they'll ever feel a sharp pain in their back
 Blaster
 	A mix of an arsonist, demolitions expert and shotgun-firing-corpse-maker, exploding into a rain of treasure and future flammables
+
+#gameInformation #class

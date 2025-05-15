@@ -17,3 +17,5 @@ Roll minimum: 2
 
 ---
 *An orb of light generated from the mouth, bright enough to blind those dumb enough to look into it, and it's pulses are enough to enrage even the most stalwart of warriors*
+
+#itemSet #spells 

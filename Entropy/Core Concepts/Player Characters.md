@@ -43,3 +43,6 @@ Levels are a vague guideline for the power-level of characters, creatures, and i
 
 ##### Every fourth level
 - A player may, instead of any class alterations, increase one of their Attribute values by one, this cannot increase them beyond +5
+
+
+#gameInformation 

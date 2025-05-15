@@ -11,3 +11,5 @@
 [[Gloves]]
 [[Swords]]
 [[Pistols]]
+
+#itemType 

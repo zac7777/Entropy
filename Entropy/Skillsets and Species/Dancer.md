@@ -16,3 +16,5 @@ Enraging act
 	A performance designed to disturb and annoy, manipulating your foes has never been easier, just keep yourself safe too
 Dance of bullets
 	A gun in hand, movements in mind, and the trigger-finger to execute the both the show, and the audience
+
+#gameInformation #class

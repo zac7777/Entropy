@@ -9,3 +9,5 @@
 ### Nighlush, Queen by boldness
 
 *Favour:* Once per combat, you may take a speak action for free to say something intimidating to target intelligent creature than can hear you, if your game-master decides it is worthy that creature will immediately surrender it's weapons.
+
+#creatureSet 

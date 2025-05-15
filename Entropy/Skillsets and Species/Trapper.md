@@ -16,3 +16,5 @@ Armourer
 	While not perfect, magic binds makes a great option as temporary armour for oneself and allies
 Searer
 	Cindering chains are a painful and effective weapon, the cries of your enemies should be treated as feedback on your attacks
+
+#gameInformation #class

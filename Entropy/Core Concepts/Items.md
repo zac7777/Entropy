@@ -6,3 +6,5 @@ Each player and creature can collect many items and keep them in their [[Storage
 - [[Spells]]
 - [[Ammunition]]
 - [[Miscellaneous]]
+
+#gameInformation 

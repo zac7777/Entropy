@@ -29,3 +29,5 @@ Critical: +15
 
 ---
 *A sharpened rock held in one's hand for a sharper blow*
+
+#itemSet #weapons

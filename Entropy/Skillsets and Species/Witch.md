@@ -16,3 +16,5 @@ Witch of the world
 	Nature is the greatest source for all arcane, whether it be the deafening crack of lightning, or the unstoppable flow of lava from a volcano
 Witch of the bond
 	 A protection focused caster, not only for oneself but for allies too, teamwork is the real magic
+
+#gameInformation #class

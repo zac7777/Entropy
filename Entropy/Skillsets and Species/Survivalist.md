@@ -16,3 +16,5 @@ Herbalist
 	Using the natural fauna present as medicine keeps this survivalist safe, nature's gifts give much more than meets the eye
 Armourer
 	Wearing clothes that hide, protect, and strengthen keep this survivalist safe, what good is powerful offence with no defence
+
+#gameInformation #class

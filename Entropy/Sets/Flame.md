@@ -15,3 +15,5 @@ Roll minimum: 5
 
 ---
 *Light flecks of metallic friction shot straight through thin flesh*
+
+#itemSet #spells

@@ -16,3 +16,5 @@ Whitesmith
 	The smaller things matter more sometimes, delicate instruments of ammunition and homelife, but if you want to use them you'll have to find more kit
 Experimentalist
 	What is the point of inventing if not to create something new! Create unique weapons inspired, and permitted, by the gods above.
+
+#gameInformation #class

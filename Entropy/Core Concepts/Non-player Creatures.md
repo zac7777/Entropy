@@ -1,1 +1,3 @@
 [[Goblins]]
+
+#gameInformation 

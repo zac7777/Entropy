@@ -16,3 +16,5 @@ Blade wielder
 	This duelist doesn't care for fancy guns nor spells, the tools of the ancient serve fine enough for the disposal of foes
 Jack of all
 	Variation is said to be the spice of life, and while it may take more energy to constantly swich style, a wide arsenal can wipe any threat from the field
+
+#gameInformation #class

@@ -17,3 +17,5 @@ Unarmed action: 2 AP, Melee range, 1 + Power bludgeoning damage
 
 Accuracy: +20 - Reasoning * 2
 Critical: +10
+
+#gameInformation #species

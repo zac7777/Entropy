@@ -16,3 +16,5 @@ Enchanter
 	Non-magical items are boring, keep your enemies guessing with a cold metal weapon filled with your arcane mastery
 Songstress
 	Illusions of sound and sight, this spellslinger will keep their foes confused and enraged without lifting a fist nor weapon
+
+#gameInformation #class

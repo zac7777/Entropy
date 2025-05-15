@@ -8,3 +8,5 @@
 
 ## Armour sets
 [[Leathers]]
+
+#itemType 

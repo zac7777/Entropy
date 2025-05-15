@@ -22,3 +22,5 @@ Roll minimum: 6
 
 ---
 *Silent, Cold, and Sharp; Ice makes for the perfect versatile assassin's tool*
+
+#itemSet #spells 

@@ -16,3 +16,5 @@ Hunter
 	Tracking each foes trail and making sure they end exactly where you want them to, leaving message-corpses in your wake
 Giant slayer
 	Heavy armour and dense flesh make difficult kills for others, but not this sniper, massive damage with a very specific kind of victim.
+
+#gameInformation #class

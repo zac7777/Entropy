@@ -10,3 +10,5 @@ In combat, each combatant has several stats that effect how they fight:
 - [[Dodge]]: Determined by reasoning + armour + armour proficiency
 - [[Accuracy]]: Chance determined by weapon + weapon proficiency
 - [[Criticals]]: Chance determined by weapon + connection
+
+#gameRules

@@ -16,3 +16,5 @@ Herd of the Dead
 	Not as animalistic as their counterparts, but just as devoid of humanity
 Clave of Machines
 	An advanced army engineered to have no will of their own, weapons raised to serve their creator
+
+#gameInformation #class
