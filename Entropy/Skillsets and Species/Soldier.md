@@ -33,7 +33,7 @@ AP: 3 + Endurance
 ###### Moves
 *Hold breath:* 1 AP, you gain -10 accuracy for your next attack with a medium or long weapon and automatically fail the next spell minimum that targets you, this may only be activated once per turn
 
-*Hunker down:* 3 AP, you gain +10 dodge and -10 accuracy until you next move or are moved
+*Hunker down:* 2 AP, if you have not moved this turn you may pay 0 AP instead, while "Hunkered Down" you have -10 accuracy and +10 dodge, moves that affect your allies cost 1 AP less (This cannot reduce their cost to below 1), and if you would receive knockback you may roll 1d10 + Endurance, if this roll is higher than the distance you would be knocked the knockback fails to move you. If you move more than 2m in one turn this effect will end.
 
 *Rally cry:* 4 AP, all allies that can hear you gain +1 AP on their next turn and +2 DT to mental damage until the end of combat
 
@@ -55,7 +55,7 @@ Battle mage:
 Gun nut:
 - *Passionate tinkering:* in any downtime you may add or remove attachments from firearms, you now also gain the knowledge to craft any craftable attachments that are used for guns
 - *Tactical reload:* 1 AP, you may activate the "reload" move on any number of equipped weapons for free, this may only be activated once per combat
-- *Dead eye:* 5 AP, you may activate the "fire" move on any number of equipped weapons an amount of times equal to your Power (as long as your weapons don't run out of cartridges) as long as they all target the same creature, you gain -10 accuracy for all of these attacks
+- *Dead eye:* 5 AP, you may activate the "fire" move a total amount of times equal to your Power distributed on any number of equipped weapons (as long as your weapons don't run out of cartridges). As long as they all target the same creature, you gain -10 accuracy for all of these attacks
 
 Mass assassin:
 - 

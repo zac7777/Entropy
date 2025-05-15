@@ -49,7 +49,7 @@ Critical: +5
 
 ---
 
-*Reload:* 2 AP: return all ammunition currently loaded to storage, this action costs 9 rounds of "9 millimetre" or a variant to use
+*Reload:* 2 AP: return all ammunition currently loaded to storage, this action costs up to 9 rounds of "9 millimetre" or a variant to use
 
 Proficiency requirement: 2
 

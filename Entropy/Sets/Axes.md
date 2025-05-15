@@ -1,6 +1,6 @@
 ## Level 1
 #### Rock axe
-*Contact, Light, Primitive, Crafted(1 rock, Something to sharpen it)*
+*Contact, Light, Primitive, Improvised(1 rock, Something to sharpen it)*
 
 Weight: 0.5kg
 

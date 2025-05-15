@@ -2,7 +2,7 @@
 #### Short Sword
 *Contact, Manageable, Martial, Common*
 
-Weight: 2kg
+Weight: 1kg
 
 ##### Actions
 
@@ -20,11 +20,11 @@ Critical: +10
 
 ---
 
-*Pommel:* 2 AP: Melee Range, 1d4 + ( Power * 2 ) bludgeoning damage, on critical hit stun the target
+*Pommel:* 1 AP: Melee Range, 1d4 + ( Power * 2 ) bludgeoning damage, on critical hit stun the target
 
 Proficiency requirement: 2
 
-Accuracy: +10
+Accuracy: +20
 Critical: +5
 
 ---

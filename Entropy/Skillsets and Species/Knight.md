@@ -1,4 +1,4 @@
-A honed blade for their deity of choice, fighting for their friends and what they believe is right. Able to stand even when opposition seems insurmountable
+A honed blade for their unquestionable goals, fighting for their friends and what they believe is right. Able to stand even when opposition seems insurmountable
 
 Primary Stat: Endurance
 Secondary Stat: Connection
@@ -38,7 +38,7 @@ AP: 5 + Connection / 2
 Accuracy: +5
 Critical: + Connection
 
-*Blade Focus:* 4 AP, your next attack with a Martial weapon will deal double damage after all other bonuses are applied
+*Blade Focus:* 4 AP, your next attack with a Martial weapon will deal double damage after all other bonuses are applied, this can only be applied once before the weapon must be used
 
 #### Level 2:
 

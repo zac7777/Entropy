@@ -1,6 +1,6 @@
 ## Level 1
 #### Cobbled straps
-*Partial, Light, Primitive, Crafted(3 or more leather scraps, a sturdy affixer)*
+*Partial, Light, Primitive, Improvised(3 or more leather scraps, a sturdy affixer)*
 
 Weight: 3kg
 

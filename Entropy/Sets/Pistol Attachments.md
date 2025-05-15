@@ -16,7 +16,7 @@ Weight: 0.5kg
 *Sometimes worth it, but most of the time suppression isn't better than godsent firepower*
 
 #### Improvised bayonet
-*Crafted(Small sharp object, A sturdy affixer)*
+Improvised(Small sharp object, A sturdy affixer)*
 
 Weight: 0.5kg
 

@@ -31,6 +31,15 @@ Accuracy: +10
 Critical: +5
 
 ---
-*The blade most young squires start their careers with, easy to learn with room for mastery*
+
+*Force insulation:* 4 AP: target creature in melee range + 2m cannot cast spells from their hands, this effect lasts until that creature attacks you
+
+Proficiency requirement: 1
+
+Avoidance type: Power
+Roll minimum: 5 + Power (Your Power)
+
+---
+*A lightweight material, mobile enough for strong strikes and sturdy enough to survive them, so strong in-fact spells cannot be cast through them*
 
 #itemSet #weapons 
