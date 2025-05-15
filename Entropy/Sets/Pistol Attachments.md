@@ -34,3 +34,5 @@ Critical: +12
 
 ---
 *Desperate close range encounters require desperate crafting, quicker to begin poking than to swap to a sidearm*
+
+#itemSet #Attachments

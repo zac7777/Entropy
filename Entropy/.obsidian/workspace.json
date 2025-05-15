@@ -87,8 +87,7 @@
               "title": "Damage Types"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "686aa0096e5bed5d",
@@ -268,11 +267,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "70e30592ba21b55d",
+  "active": "6b0506592d47a7c4",
   "lastOpenFiles": [
+    "Sets/Pistol Attachments.md",
     "Core Concepts/Status Effects.md",
     "Core Concepts/Damage Types.md",
-    "Sets/Pistol Attachments.md",
     "Sets/Swords.md",
     "Sets/Axes.md",
     "Sets/Small Cartridges.md",
