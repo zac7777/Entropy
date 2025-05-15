@@ -1,6 +1,6 @@
 ## Attributes
 
-Upon creation each player character is given values on 6 attributes, each defining their physical, mental and personal capabilities. They can be rolled, or chosen by a person to match whatever character they wish to create ( often characters don't begin with Attribute values bigger than +4, but you can do what you want if it matches your character )
+Upon creation, each player character is given values for 6 attributes, each defining their physical, mental and personal capabilities. They can be rolled, or chosen by a person to match whatever character they wish to create (often, characters don't begin with Attribute values bigger than +4, but you can do what you want, if it matches your character).
 
 | Type     | Name       | Determined by | Description                                                                 |
 | -------- | ---------- | ------------- | --------------------------------------------------------------------------- |
