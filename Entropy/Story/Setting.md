@@ -6,3 +6,5 @@ Entropy is based in an omniverse of dying energy, dense pockets of energy are co
 Some large collections of energy happen to be complex enough to form consciousness, these are powerful and mobile enough to act as extra-planar beings to lower species, or gods.
 
 - [[Gods]]
+
+#gameInformation #lore 

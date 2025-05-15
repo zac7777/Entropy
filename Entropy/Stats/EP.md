@@ -3,3 +3,5 @@ Energy Points; the resource used when an action is made, when it reaches 0, the 
 EP can be calculated by: 
 
 EP = Level * ( 10 + Endurance ), then any bonuses that player may have
+
+#gameRules #statistic

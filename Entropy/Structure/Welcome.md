@@ -6,3 +6,5 @@
 [[Maths Rules]]
 [[Damage Types]]
 [[Status Effects]]
+
+#structure

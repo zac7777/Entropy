@@ -3,3 +3,5 @@ When a weapon hits, it might by chance be extra powerful, this chance is determi
 The Critical Chance can be calculated by:
 
 Chance =  5 + Connection * 2, then any bonuses that player may have
+
+#gameRules #statistic

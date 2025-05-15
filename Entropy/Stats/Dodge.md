@@ -3,3 +3,5 @@ Each attack has the potential to miss, and each creature has the potential to do
 For player characters, that player's dodge can be calculated by:
 
 Dodge = Reasoning * 2 + Armour proficiency, then any bonuses that player may have
+
+#gameRules #statistic

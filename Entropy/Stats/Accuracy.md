@@ -3,3 +3,5 @@ Each attack has the potential to miss, and each creature has the potential to do
 Whenever an attack is made, it's accuracy can be calculated by:
 
 Accuracy = attack's accuracy - number of weapon proficiencies
+
+#gameRules #statistic

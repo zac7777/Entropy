@@ -93,3 +93,5 @@ Cons:
 - People die young, successful birth-rate low, absolutely no scientific advancements made
 - A strong set of laws keep any divergence locked up or executed, people truly believe change will end the world
 - There is lots of infighting between factions of the Woldok, when people disagree on the past it's important only one version is remembered
+
+#lore #plane

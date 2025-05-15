@@ -19,3 +19,5 @@ Entropy follows several rules for the many calculations in it's ruleset:
 | d100   | Two Pentagonal Bi-Pyramids | From 1 to 100 (If you roll 0+00 that is a 100) |
 
   A number before the "d" describes how many rolls you must make and add for a calculation, there may also be a value before the d such as "Power" this means you rolls you make and add is equal to that value (if this value is negative, you make that many roll then subtract the total instead).
+
+#gameInformation 
