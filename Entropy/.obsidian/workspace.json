@@ -20,6 +20,65 @@
               "icon": "lucide-file",
               "title": "Player Characters"
             }
+          },
+          {
+            "id": "4f4503fba1c0b1a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skillsets and Species/Soldier.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Soldier"
+            }
+          },
+          {
+            "id": "7daeaa97f8cb1d69",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "7d1a79b665b699d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Concepts/Damage Types.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Damage Types"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "804b67ed47cdb4f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d78b867d6aa230c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skillsets and Species/Knight.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Knight"
+            }
           }
         ]
       }
@@ -166,19 +225,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a400f57651a0cb8",
+  "active": "4f4503fba1c0b1a7",
   "lastOpenFiles": [
-    "Core Concepts/Spells.md",
+    "Core Concepts/Damage Types.md",
+    "Skillsets and Species/Soldier.md",
+    "Skillsets and Species/Knight.md",
+    "Sets/Flame.md",
+    "Core Concepts/Combat.md",
+    "Structure/Developer notes.md",
     "Core Concepts/Player Characters.md",
+    "Core Concepts/Spells.md",
     "Core Concepts/Non-player Creatures.md",
     "Core Concepts/Miscellaneous.md",
     "Core Concepts/Items.md",
-    "Core Concepts/Damage Types.md",
-    "Core Concepts/Combat.md",
     "Core Concepts/Attachments.md",
     "Core Concepts/Armours.md",
     "Core Concepts/Ammunition.md",
-    "Structure/Developer notes.md",
     "Story/Ehlen.md",
     "Structure/Welcome.md",
     "Structure/Maths Rules.md",
@@ -189,11 +251,8 @@
     "Stats/AP.md",
     "Skillsets and Species/Trickster.md",
     "Skillsets and Species/Survivalist.md",
-    "Skillsets and Species/Soldier.md",
-    "Skillsets and Species/Knight.md",
     "Skillsets and Species/Doctor.md",
     "Skillsets and Species/Boxer.md",
-    "Sets/Swords.md",
     "Story",
     "Core Concepts",
     "Stats",
