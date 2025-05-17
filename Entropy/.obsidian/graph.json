@@ -6,109 +6,17 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "tag:#weapons  ",
-      "color": {
-        "a": 1,
-        "rgb": 14048348
-      }
-    },
-    {
-      "query": "tag:#armours",
-      "color": {
-        "a": 1,
-        "rgb": 14069084
-      }
-    },
-    {
-      "query": "tag:#spells",
-      "color": {
-        "a": 1,
-        "rgb": 10443990
-      }
-    },
-    {
-      "query": "tag:#ammunition",
-      "color": {
-        "a": 1,
-        "rgb": 6084188
-      }
-    },
-    {
-      "query": "tag:#creatureSet",
-      "color": {
-        "a": 1,
-        "rgb": 6084269
-      }
-    },
-    {
-      "query": "tag:#lore  ",
-      "color": {
-        "a": 1,
-        "rgb": 6073814
-      }
-    },
-    {
-      "query": "tag:#class  ",
-      "color": {
-        "a": 1,
-        "rgb": 6053078
-      }
-    },
-    {
-      "query": "tag:#species  ",
-      "color": {
-        "a": 1,
-        "rgb": 6063574
-      }
-    },
-    {
-      "query": "tag:#structure  ",
-      "color": {
-        "a": 1,
-        "rgb": 11815825
-      }
-    },
-    {
-      "query": "tag:#gameRules  ",
-      "color": {
-        "a": 1,
-        "rgb": 16755200
-      }
-    },
-    {
-      "query": "tag:#gameInformation  ",
-      "color": {
-        "a": 1,
-        "rgb": 15662603
-      }
-    },
-    {
-      "query": "tag:#itemType  ",
-      "color": {
-        "a": 1,
-        "rgb": 11392604
-      }
-    },
-    {
-      "query": "tag:#miscellaneous  ",
-      "color": {
-        "a": 1,
-        "rgb": 16743156
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 1,
-  "repelStrength": 20,
+  "centerStrength": 0.5,
+  "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 30,
   "scale": 0.6316046762907506,
-  "close": false
+  "close": true
 }
