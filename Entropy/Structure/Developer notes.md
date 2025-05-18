@@ -15,6 +15,8 @@ Here, me and Cameron can talk easier
 	- Witch
 	- Zealot
 - Maybe give all classes another secondary attribute, idk i still need to consider it
+	- Cause it defo would be nice to include all 30 combinations
+	- But the way the first couple classes have been written, I'm not sure there's room for another
 - Write some test combats
 - Maybe a short-ish one-shot too, to test out character creation
 - Think more about non-combat play
@@ -29,3 +31,4 @@ Here, me and Cameron can talk easier
 - More playable species
 - More non-player creatures
 	- Maybe some kind of pet system with them
+- Fix my grammar
