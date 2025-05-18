@@ -11,5 +11,6 @@
 [[Gloves]]
 [[Swords]]
 [[Pistols]]
+[[Slow Rifles]]
 
 #itemType 

@@ -2,6 +2,7 @@ Here, me and Cameron can talk easier
 
 ### Task list (We going Kanban with this shit):
 - Finish first 2 levels of all classes
+	- Beastmaster
 	- Dancer
 	- Doctor
 	- Duelist
