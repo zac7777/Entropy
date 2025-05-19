@@ -52,7 +52,7 @@ Commander:
 Battle mage:
 - *Weak resistance:* if a target of a spell you cast rolls 5 lower than the minimum, that spell will deal double damage after all other bonuses are applied
 - *Imbue:* 3 AP, choose a move from a spell you know, the next attack with target weapon within 5m will cast that spell when it hits a target, the spell will be casted where the weapon hits, and any creatures that would be affected by the spell will automatically fail the avoidance roll
-- *Lay trap:* 1 AP, the next spell you cast will instead be cast as an invisible trap attached to a surface within 20m. When a creature steps within 1m of this trap, the spell will be cast with an additional minimum equal to your Power.
+- *Lay trap:* 1 AP, the next spell you cast will instead be cast as an invisible trap attached to a surface within 20m. When a creature steps within 1m of this trap, the spell will be cast at that location with an additional minimum equal to your Power
 
 Gun nut:
 - *Passionate tinkering:* in any downtime you may add or remove attachments from firearms, you now also gain the knowledge to craft any craftable attachments that are used for guns

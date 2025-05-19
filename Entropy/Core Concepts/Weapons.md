@@ -12,5 +12,6 @@
 [[Swords]]
 [[Pistols]]
 [[Slow Rifles]]
+[[Thrown Explosives]]
 
 #itemType 

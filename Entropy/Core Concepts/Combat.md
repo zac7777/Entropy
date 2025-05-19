@@ -5,6 +5,7 @@ In combat, each combatant has several stats that effect how they fight:
 - [[EP]]: Determined by Endurance + Level + Class
 - [[AP]]: Determined by Class + Level
 - [[DT]]: Determined by armour
+- [[Resistance and Immunity]]: Determined by armour + Class + Species
 - [[Proficiencies]]: Determined by Class
 - [[Action List]]: Size determined by Memory, Contents decided by player
 - [[Dodge]]: Determined by reasoning + armour + armour proficiency

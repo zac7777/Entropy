@@ -31,11 +31,11 @@ AP: 1 + Reasoning
 
 *Pure focus:* being "Aimed" instead ends whenever you use a move other than "fire", "reload", "move", or if you are moved by an effect (this no longer ends when your turn does)
 ###### Moves
-*Take no prisoners:* 2 AP, this turn whenever you reduce an opponent's HP to below 1, gain 1 AP
+*Take no prisoners:* 2 AP, this turn whenever you reduce an opponent's HP to below 1, gain 1 AP, this may only be activated 
 
 *Iron aim:* 3 AP, (This move puts you into the "Aimed" condition), While "Aimed" you have -5 accuracy and -20 dodge, "fire" moves on weapons you use cost 1 AP less (This cannot reduce their cost to below 1). This move may only be activated while you have a medium or long weapon that does not have an attached sight.
 
-*Identify threat:* 4 AP, target creature you can see takes an additional damage equal to your Reasoning every time it would be damaged, this effect ends when you lose sight of that creature or if you re-use this move on a different creature. This may only be activated once per turn.
+*Identify threat:* 4 AP, target creature you can see takes an additional mental damage equal to your Reasoning every time it would be damaged, this effect ends when you lose sight of that creature or if you re-use this move on a different creature. This may only be activated once per turn.
 
 #### Level 2:
 
@@ -48,7 +48,9 @@ Hidden death:
 - 
 
 Collateraliser:
-- 
+- *Explosive knowledge:* in any downtime you may create up to 5 "explosive" variants of any ammo you have in storage by combining 2 of the regular ammunition and any flammable item
+- *Ranged Boomer:* you gain an additional +5m * Endurance to the effective range of "Throw" moves from weapons
+- *Arsonist's lifestyle:* you gain a resistance to fire and shock damage
 
 Hunter:
 - 
@@ -56,6 +58,7 @@ Hunter:
 Giant slayer:
 - *Denting repetition:* Whenever you roll for a weapon attack, if the result after all bonuses applied is within a range of plus or minus your reasoning to the last attack you made on that target, that attack will ignore any DT when damage is calculated
 - *Deep wounds:* If an enemy creature is brought to below half their maximum HP, instead of doubling their EP loss, they now triple it
+- *Improvised elementalism:* 2 AP, the next attack you make with a medium or long weapon will deal an additional 1d4 + Reasoning damage of any magical type you choose
 
 
 #gameInformation #class

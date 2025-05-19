@@ -33,7 +33,7 @@ AP: 5 + Power
 ###### Moves
 *Gloves off:* 1 AP, put an equipped glove into storage, the next spell you cast has a +2 to it's minimum roll, this may only be activated once per turn
 
-*Leap:* 2 AP, move 4m in any direction, ignoring anything on the floor, your next attack this turn has +20 accuracy, this may only be activated twice per turn
+*Leap:* 2 AP, move 4m in any direction, ignoring anything on the floor, your next attack this turn has +20 accuracy, this may only be activated up to twice per turn
 
 *Surprise elbow:* 3 AP, Melee Range + 1m, 1d6 bludgeoning damage, if this is not the first attack action you made this turn the target is immobilised until your next turn
 
@@ -67,7 +67,7 @@ Charged fingers:
 
 Life knuckles:
 - *Leaching strike:* 4 AP, the next time you would use an unarmed, or "Glove" attack, you may heal half the damage dealt
-- *Pass strength:* 2 AP, target creature in melee range heals 1d10 + Endurance damage, you take rot damage equal to half the health healed, this may only be activated twice per combat
+- *Pass strength:* 2 AP, target creature in melee range heals 1d10 + Endurance damage, you take rot damage equal to half the health healed, this may only be activated up to twice per combat
 - *Pain to life:* 3 AP, any number of other target creatures within 10m heal damage equal to half the amount of life you lost since your last turn
 
 #gameInformation #class
