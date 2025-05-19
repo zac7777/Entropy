@@ -7,7 +7,6 @@ Here, me and Cameron can talk easier
 	- Doctor
 	- Duelist
 	- Smith
-	- Sniper
 	- Spellslinger
 	- Survivalist
 	- Thief
