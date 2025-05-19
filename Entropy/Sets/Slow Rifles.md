@@ -26,3 +26,34 @@ Proficiency requirement: 3
 
 ---
 *A basic design, simple and effective. With the technology of ammunition already invented, manipulating cartridges to fire can be done with one's own hands*
+
+## Level 2
+#### Mass-produced bolt rifle
+*Long, Manageable, Advanced, Rare*
+
+Weight: 3kg
+
+##### Actions
+
+*Stock bash:* 2 AP: Melee Range, 1d6 bludgeoning damage
+
+Accuracy: +12
+Critical: +1
+
+---
+
+*Fire:* 4 AP: 30m, this move may only be used five times before the "reload" action must be used
+
+Accuracy: +20
+Critical: +5
+
+---
+
+*Reload:* 3 AP: return all ammunition currently loaded to storage, this action costs up to 5 rounds of ".223 Remington" or a variant to use
+
+Proficiency requirement: 2
+
+---
+*Best used in squads, veterans of great battles still here the ringing of staggered fire*
+
+#itemSet #weapons 

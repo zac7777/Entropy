@@ -26,7 +26,6 @@ Weight: 0.5kg
 
 ##### Actions
 
-
 *Stab:* 3 AP: Melee Range + 1m, 1 + Power piercing damage, on critical hit the target gets bleeding
 
 Accuracy: +30

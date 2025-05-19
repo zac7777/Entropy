@@ -2,5 +2,6 @@ Items can be modified with the use of attachments, but only certain characters k
 
 ## Attachment sets
 [[Pistol Attachments]]
+[[Slow Rifle Attachments]]
 
 #itemType 
