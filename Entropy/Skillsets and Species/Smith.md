@@ -1,6 +1,6 @@
 A collector and tinkerer of fine weapons, knowledgeable on the technical side of their function, but not exactly skilled with their use.
 
-Primary Stat: Power
+Primary Stat: Endurance
 Secondary Stat: Memory
 
 Weapon Proficiencies: None

@@ -8,6 +8,16 @@
         "type": "tabs",
         "children": [
           {
+            "id": "963e8b1cec48473b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
             "id": "6a400f57651a0cb8",
             "type": "leaf",
             "state": {
@@ -19,20 +29,6 @@
               },
               "icon": "lucide-file",
               "title": "Player Characters"
-            }
-          },
-          {
-            "id": "d91bb465823b36b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Skillsets and Species/Duelist.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Duelist"
             }
           },
           {
@@ -64,33 +60,41 @@
             }
           },
           {
-            "id": "84036d9462463f97",
+            "id": "69580ba69f16eed1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/Factions/Ospresis.md",
+                "file": "Story/Planes/Ehlen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ospresis"
-            }
-          },
-          {
-            "id": "555cd15a8633b82a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Resources/Ehlen Map Resource.png"
-              },
-              "icon": "lucide-image",
-              "title": "Ehlen Map Resource"
+              "title": "Ehlen"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
+      },
+      {
+        "id": "d74cfd0dd1aaabca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c766998067b36e70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skillsets and Species/Doctor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Doctor"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,14 +239,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "555cd15a8633b82a",
+  "active": "c766998067b36e70",
   "lastOpenFiles": [
-    "Story/Planes/Ehlen.md",
-    "Resources",
-    "Resources/Ehlen Map Resource.png",
     "Core Concepts/Player Characters.md",
+    "Skillsets and Species/Thief.md",
+    "Skillsets and Species/Beastmaster.md",
+    "Skillsets and Species/Survivalist.md",
+    "Skillsets and Species/Spellslinger.md",
     "Skillsets and Species/Doctor.md",
+    "Skillsets and Species/Zealot.md",
     "Skillsets and Species/Duelist.md",
+    "Skillsets and Species/Smith.md",
+    "Story/Planes/Ehlen.md",
+    "Resources/Ehlen Map Resource.png",
+    "Resources",
     "Story/Factions/Ospresis.md",
     "Story/Factions/Jyasla.md",
     "Story/Factions/Imeron.md",
@@ -261,11 +271,6 @@
     "Sets/Slow Rifles.md",
     "Sets/Thrown Explosives.md",
     "Stats/Resistance and Immunity.md",
-    "Stats/Criticals.md",
-    "Sets/Large Cartridges.md",
-    "Sets/Axes.md",
-    "Sets/Pistols.md",
-    "Sets/Small Cartridges.md",
     "Story",
     "Core Concepts",
     "Stats",

@@ -1,7 +1,7 @@
 A researcher of many spells, knowing each of their purpose, and finding it best to use them carelessly and sequentially.
 
-Primary Stat: Reasoning
-Secondary Stat: Connection/Power
+Primary Stat: Memory
+Secondary Stat: Connection
 
 Weapon Proficiencies: Light, Advanced, Rare, Legendary
 

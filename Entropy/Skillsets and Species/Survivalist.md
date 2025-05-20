@@ -1,7 +1,7 @@
 In this world for longer than anyone expected, a great knowledge on their environment and constant planning keeps this adventurer safe from constant harm.
 
 Primary Stat: Connection
-Secondary Stat: Endurance
+Secondary Stat: Reasoning
 
 Weapon Proficiencies: Light, Manageable, Medium, Long, Primitive, Martial, Crafted, Common
 

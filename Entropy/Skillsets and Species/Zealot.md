@@ -1,7 +1,7 @@
 There is no greater magic than dedication to one's god, and the emotions that that devotion springs to mind. 
 
 Primary Stat: Memory
-Secondary Stat: Insight
+Secondary Stat: Power
 
 Weapon Proficiencies: Contact, Manageable, Heavy, Primitive, Martial, Crafted, Common, Rare
 

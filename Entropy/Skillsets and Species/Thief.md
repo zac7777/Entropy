@@ -1,6 +1,6 @@
 Other's possessions are earned with silence, stealth, and relentlessness. With enough luck or thinking, maybe they could make multiple steals at once.
 
-Primary Stat: Endurance
+Primary Stat: Power
 Secondary Stat: Reasoning
 
 Weapon Proficiencies: Light, Contact, Short, Primitive, Martial, Advanced, Common, Rare, Legendary

@@ -1,7 +1,7 @@
 The master of a small army of weak minded creatures, dominating their every action, and unlocking their full potential.
 
 Primary Stat: Connection
-Secondary Stat: Memory
+Secondary Stat: Insight
 
 Weapon proficiencies: Contact, Short, Martial, Light, Manageable, Crafted
 

@@ -15,12 +15,12 @@ Upon creation, each player character is given values for 6 attributes, each defi
 
 A player also chooses one class upon creation, this will majorly define how they fight, and also possibly how they act outside of combat. Each class has a major and minor attribute that is required for functioning as that archetype.
 
-|                     | Ranged, Spread                    | Ranged, Precise              | Melee, Precise             | Melee, Spread            |
-| ------------------- | --------------------------------- | ---------------------------- | -------------------------- | ------------------------ |
-| Support, Variable   | [[Doctor]] **INS**, REA           | [[Witch]] **MEM**, POW       | [[Boxer]] **POW**, END     | [[Knight]] **END**, CON  |
-| Support, Specific   | [[Smith]] **POW**, MEM            | [[Survivalist]] **CON**, END | [[Trapper]] **CON**, POW   | [[Dancer]] **INS**, END  |
-| Supported, Specific | [[Soldier]] **END**, POW          | [[Sniper]] **REA**, END      | [[Thief]] **END**, REA     | [[Duelist]] **REA**, MEM |
-| Supported, Variable | [[Spellslinger]] **REA**, CON/POW | [[Beastmaster]] **CON**, MEM | [[Trickster]] **INS**, MEM | [[Zealot]] **MEM**, INS  |
+|                     | Ranged, Spread                | Ranged, Precise              | Melee, Precise             | Melee, Spread            |
+| ------------------- | ----------------------------- | ---------------------------- | -------------------------- | ------------------------ |
+| Support, Variable   | [[Doctor]] **REA**, MEM       | [[Witch]] **MEM**, POW       | [[Boxer]] **POW**, END     | [[Knight]] **END**, CON  |
+| Support, Specific   | [[Smith]] **END**, MEM        | [[Survivalist]] **CON**, REA | [[Trapper]] **CON**, POW   | [[Dancer]] **INS**, END  |
+| Supported, Specific | [[Soldier]] **END**, POW      | [[Sniper]] **REA**, END      | [[Thief]] **POW**, REA     | [[Duelist]] **INS**, REA |
+| Supported, Variable | [[Spellslinger]] **MEM**, CON | [[Beastmaster]] **CON**, INS | [[Trickster]] **INS**, MEM | [[Zealot]] **MEM**, POW  |
 
 The classes are also intended to match the four Keywords of it's column and row.
 

@@ -1,7 +1,7 @@
 An intelligent healer, knowledgeable on all topics on biological forms, for creation, conversion, or destruction of the flesh that binds most of us mortals.
 
-Primary Stat: Insight
-Secondary Stat: Reasoning
+Primary Stat: Reasoning
+Secondary Stat: Memory
 
 Weapon Proficiencies: Short, Medium, Advanced, Light, Common, Rare
 
