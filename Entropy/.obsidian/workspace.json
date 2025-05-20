@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "7daeaa97f8cb1d69",
+            "id": "d91bb465823b36b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Structure/Developer notes.md",
+                "file": "Skillsets and Species/Duelist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Developer notes"
+              "title": "Duelist"
             }
           },
           {
@@ -48,71 +48,49 @@
               "icon": "lucide-file",
               "title": "Developer notes"
             }
+          },
+          {
+            "id": "c32de4cba0056d34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Concepts/Non-player Creatures.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Non-player Creatures"
+            }
+          },
+          {
+            "id": "84036d9462463f97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Story/Factions/Ospresis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ospresis"
+            }
+          },
+          {
+            "id": "555cd15a8633b82a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Resources/Ehlen Map Resource.png"
+              },
+              "icon": "lucide-image",
+              "title": "Ehlen Map Resource"
+            }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "c4a19f71dc11fb18",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ed337aa02aa244e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Skillsets and Species/Knight.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Knight"
-            }
-          },
-          {
-            "id": "91ca4c01df5ee988",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core Concepts/Weapons.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Weapons"
-            }
-          },
-          {
-            "id": "722a3710a8549459",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sets/Thrown Explosives.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Thrown Explosives"
-            }
-          },
-          {
-            "id": "e6f423687e0cb7e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stats/Criticals.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Criticals"
-            }
-          }
-        ]
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -257,34 +235,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35be11ccae4054f3",
+  "active": "555cd15a8633b82a",
   "lastOpenFiles": [
+    "Story/Planes/Ehlen.md",
+    "Resources",
+    "Resources/Ehlen Map Resource.png",
+    "Core Concepts/Player Characters.md",
+    "Skillsets and Species/Doctor.md",
+    "Skillsets and Species/Duelist.md",
+    "Story/Factions/Ospresis.md",
+    "Story/Factions/Jyasla.md",
+    "Story/Factions/Imeron.md",
+    "Story/Factions/Furcoasa.md",
+    "Story/Factions/The Sighted.md",
+    "Story/Factions/Woldok.md",
+    "Core Concepts/Combat.md",
+    "Story/Planes",
+    "Story/Factions",
+    "Core Concepts/Weapons.md",
+    "Core Concepts/Non-player Creatures.md",
+    "Structure/Developer notes.md",
     "Skillsets and Species/Sniper.md",
     "Skillsets and Species/Knight.md",
     "Sets/Hexus.md",
     "Sets/Slow Rifles.md",
     "Sets/Thrown Explosives.md",
-    "Core Concepts/Combat.md",
     "Stats/Resistance and Immunity.md",
     "Stats/Criticals.md",
     "Sets/Large Cartridges.md",
     "Sets/Axes.md",
     "Sets/Pistols.md",
-    "Core Concepts/Weapons.md",
     "Sets/Small Cartridges.md",
-    "Skillsets and Species/Boxer.md",
-    "Skillsets and Species/Soldier.md",
-    "Sets/Slow Rifle Attachments.md",
-    "Sets/Gloves.md",
-    "Sets/Ice.md",
-    "Sets/Flame.md",
-    "Sets/Swords.md",
-    "Stats/HP.md",
-    "Core Concepts/Attachments.md",
-    "Sets/Pistol Attachments.md",
-    "Core Concepts/Ammunition.md",
-    "Skillsets and Species/Duelist.md",
-    "Skillsets and Species/Doctor.md",
     "Story",
     "Core Concepts",
     "Stats",

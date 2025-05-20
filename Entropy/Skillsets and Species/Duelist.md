@@ -1,6 +1,6 @@
 A wielder of as many weapons at once, slashing, shooting, and spelling their way to a quick death for their enemies.
 
-Primary Stat: Insight
+Primary Stat: Reasoning
 Secondary Stat: Memory
 
 Weapon Proficiencies: Contact, Medium, Long, Simple, Martial, Light, Manageable, Common, Rare, Legendary

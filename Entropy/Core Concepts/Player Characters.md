@@ -17,9 +17,9 @@ A player also chooses one class upon creation, this will majorly define how they
 
 |                     | Ranged, Spread                    | Ranged, Precise              | Melee, Precise             | Melee, Spread            |
 | ------------------- | --------------------------------- | ---------------------------- | -------------------------- | ------------------------ |
-| Support, Variable   | [[Doctor]] **REA**, INS           | [[Witch]] **MEM**, POW       | [[Boxer]] **POW**, END     | [[Knight]] **END**, CON  |
+| Support, Variable   | [[Doctor]] **INS**, REA           | [[Witch]] **MEM**, POW       | [[Boxer]] **POW**, END     | [[Knight]] **END**, CON  |
 | Support, Specific   | [[Smith]] **POW**, MEM            | [[Survivalist]] **CON**, END | [[Trapper]] **CON**, POW   | [[Dancer]] **INS**, END  |
-| Supported, Specific | [[Soldier]] **END**, POW          | [[Sniper]] **REA**, END      | [[Thief]] **END**, REA     | [[Duelist]] **INS**, MEM |
+| Supported, Specific | [[Soldier]] **END**, POW          | [[Sniper]] **REA**, END      | [[Thief]] **END**, REA     | [[Duelist]] **REA**, MEM |
 | Supported, Variable | [[Spellslinger]] **REA**, CON/POW | [[Beastmaster]] **CON**, MEM | [[Trickster]] **INS**, MEM | [[Zealot]] **MEM**, INS  |
 
 The classes are also intended to match the four Keywords of it's column and row.

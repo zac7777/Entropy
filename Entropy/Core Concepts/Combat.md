@@ -12,4 +12,8 @@ In combat, each combatant has several stats that effect how they fight:
 - [[Accuracy]]: Chance determined by weapon + weapon proficiency
 - [[Criticals]]: Chance determined by weapon + connection
 
+## Turns
+
+Once turn order is determined, each individual turn acts the same: a creature makes any number of moves until they reach their AP limit for spending their EP.
+
 #gameRules
