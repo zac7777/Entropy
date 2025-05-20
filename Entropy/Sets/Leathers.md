@@ -4,8 +4,8 @@
 
 Weight: 3kg
 
-Bludgeoning Reduction: -1
-Heat Reduction: -1
+Bludgeoning DT: -1
+Heat DT: -1
 
 Dodge bonus: +2
 
