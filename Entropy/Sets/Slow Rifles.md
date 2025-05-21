@@ -42,7 +42,7 @@ Critical: +1
 
 ---
 
-*Fire:* 4 AP: 30m, this move may only be used five times before the "reload" action must be used
+*Fire:* 4 AP: 30m, this move may only be used up to five times before the "reload" action must be used
 
 Accuracy: +20
 Critical: +5
@@ -54,6 +54,6 @@ Critical: +5
 Proficiency requirement: 2
 
 ---
-*Best used in squads, veterans of great battles still here the ringing of staggered fire*
+*Best used in squads, veterans of great battles still hear the ringing of staggered fire*
 
 #itemSet #weapons 
