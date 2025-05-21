@@ -1,0 +1,1 @@
+Olo's realm, the consciousness of morally significant creatures will be maintained here until their rewards or punishments are carried out fully. Not many mortals are aware of Æx's existence.

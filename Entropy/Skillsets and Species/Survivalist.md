@@ -3,9 +3,9 @@ In this world for longer than anyone expected, a great knowledge on their enviro
 Primary Stat: Connection
 Secondary Stat: Reasoning
 
-Weapon Proficiencies: Light, Manageable, Medium, Long, Primitive, Martial, Crafted, Common
+Weapon Proficiencies: Light, Manageable, Medium, Long, Primitive, Martial, Improvised, Common
 
-Armour Proficiencies: Partial, Half, Manageable, Heavy, Primitive, Martial, Crafted, Common
+Armour Proficiencies: Partial, Half, Manageable, Heavy, Primitive, Martial, Improvised, Common
 
 **Pathways:**
 Scavenger

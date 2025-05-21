@@ -1,6 +1,6 @@
 ## Level 1
 #### Pipe gun
-*Medium, Manageable, Primitive, Crafted(2 pipes of sturdy material, some kind of priming mechanism or external hammer/striker, a sturdy affixer)*
+*Medium, Manageable, Primitive, Improvised(2 pipes of sturdy material, some kind of priming mechanism or external hammer/striker, a sturdy affixer)*
 
 Weight: 2kg
 

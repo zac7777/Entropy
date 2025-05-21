@@ -15,7 +15,7 @@ Critical: +10
 *Designed for excavating mines, if it's good enough to cut through rock, flesh shouldn't be too much of a wall*
 
 #### Molotov cocktail
-*Short, Light, Primitive, Crafted(A fragile container, Liquid fuel, Cloth)*
+*Short, Light, Primitive, Improvised(A fragile container, Liquid fuel, Cloth)*
 
 Weight: 0.5kg
 

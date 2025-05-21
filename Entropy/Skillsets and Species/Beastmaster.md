@@ -3,9 +3,9 @@ The master of a small army of weak minded creatures, dominating their every acti
 Primary Stat: Connection
 Secondary Stat: Insight
 
-Weapon proficiencies: Contact, Short, Martial, Light, Manageable, Crafted
+Weapon proficiencies: Contact, Short, Martial, Light, Manageable, Improvised
 
-Armour Proficiencies: Partial, Half, Light, Primitive, Crafted
+Armour Proficiencies: Partial, Half, Light, Primitive, Improvised
 
 **Pathways:**
 Flock of Flight

@@ -5,7 +5,7 @@ Secondary Stat: Memory
 
 Weapon Proficiencies: None
 
-Armour Proficiencies: Partial, Full, Manageable, Heavy, Simple, Crafted, Common
+Armour Proficiencies: Partial, Full, Manageable, Heavy, Simple, Improvised, Common
 
 **Pathways:**
 Weaponsmith

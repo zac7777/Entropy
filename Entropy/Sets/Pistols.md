@@ -1,6 +1,6 @@
 ## Level 1
 #### Light pipe gun
-*Medium, Light, Primitive, Crafted(2 pipes of sturdy material, some kind of priming mechanism or external hammer/striker, a sturdy affixer)*
+*Medium, Light, Primitive, Improvised(2 pipes of sturdy material, some kind of priming mechanism or external hammer/striker, a sturdy affixer)*
 
 Weight: 1kg
 

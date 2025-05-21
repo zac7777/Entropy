@@ -3,7 +3,7 @@ Whether it be through study, relationships, or natural talent, witches have a ma
 Primary Stat: Memory
 Secondary Stat: Power
 
-Weapon Proficiencies: Primitive, Advanced, Crafted, Legendary
+Weapon Proficiencies: Primitive, Advanced, Improvised, Legendary
 
 Armour Proficiencies: Full, Martial, Rare, Legendary
 

@@ -5,7 +5,7 @@ Secondary Stat: Reasoning
 
 Weapon Proficiencies: Light, Contact, Short, Primitive, Martial, Advanced, Common, Rare, Legendary
 
-Armour Proficiencies: Partial, Half, Light, Primitive, Martial, Crafted, Common
+Armour Proficiencies: Partial, Half, Light, Primitive, Martial, Improvised, Common
 
 **Pathways:**
 Commandeer

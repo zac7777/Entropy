@@ -3,9 +3,9 @@ There is no greater magic than dedication to one's god, and the emotions that th
 Primary Stat: Memory
 Secondary Stat: Power
 
-Weapon Proficiencies: Contact, Manageable, Heavy, Primitive, Martial, Crafted, Common, Rare
+Weapon Proficiencies: Contact, Manageable, Heavy, Primitive, Martial, Improvised, Common, Rare
 
-Armour Proficiencies: Partial, Half, Full, Manageable, Heavy, Primitive, Martial, Crafted, Common
+Armour Proficiencies: Partial, Half, Full, Manageable, Heavy, Primitive, Martial, Improvised, Common
 
 **Pathways:**
 Rage
