@@ -18,16 +18,16 @@ Blaster
 	A mix of an arsonist, demolitions expert and shotgun-firing-corpse-maker, exploding into a rain of treasure and future flammables## Progression
 
 ##### Base:
-EP bonus: +25
-Weapon proficiency bonus: +1
+EP bonus: +50
+Roll minimum for non-spell moves: +2
 
 ---
 #### Level 1:
 
-HP: 4d12 + 2 * Power
-AP: 3 + Endurance
+HP: 2d6 + 2 * Power
+AP: 3 + Reasoning * 3
 
-*Zero in:* whenever you land a hit (either with a spell or a weapon), spells you cast this turn have +1 to their minimum and you gain -5 accuracy until end of turn
+*Keen eye:* if you search a container or body, you gain advantage with any rolls to determine what you find (this applies both in and out of combat)
 ###### Moves
 *Hold breath:* 1 AP, you gain -10 accuracy for your next attack with a medium or long weapon and automatically fail the next spell minimum that targets you, this may only be activated once per turn
 
