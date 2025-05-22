@@ -19,7 +19,7 @@ Blaster
 
 ##### Base:
 EP bonus: +50
-Roll minimum for non-spell moves: +2
+Roll minimum for non-spell challenges: +2 ( this applies to the moves **you** activate )
 
 ---
 #### Level 1:
@@ -29,11 +29,14 @@ AP: 3 + Reasoning * 3
 
 *Keen eye:* if you search a container or body, you gain advantage with any rolls to determine what you find (this applies both in and out of combat)
 ###### Moves
-*Hold breath:* 1 AP, you gain -10 accuracy for your next attack with a medium or long weapon and automatically fail the next spell minimum that targets you, this may only be activated once per turn
+*Duck:* 1 AP, you gain +20 dodge until your next turn, this ends your turn
 
-*Hunker down:* 2 AP, if you have not moved this turn you may pay 0 AP instead. While "Hunkered Down" you have -10 accuracy and +10 dodge, your moves that affect your allies cost 1 AP less (This cannot reduce their cost to below 1), and if you would receive knockback you may roll 1d10 + Endurance, if this roll is higher than the distance you would be knocked the knockback fails to move you. If you move more than 2m in one turn this effect will end.
+*Bait:* 2 AP, you throw an item that weighs less than 1kg, within melee range at any target within 5m * Power, then if a creature that can see you fails the avoidance roll they lose awareness of you
 
-*Rally cry:* 4 AP, all allies that can hear you gain +1 AP on their next turn and +2 DT to mental damage until the end of combat
+Avoidance type: Memory
+Roll minimum: 2 + Power
+
+*Switch:* 4 AP, until the end of your turn your attacks on targets that are unaware of you deal triple damage after all other bonuses are applied
 
 #### Level 2:
 
