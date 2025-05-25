@@ -8,7 +8,7 @@ Weapon Proficiencies: Light, Contact, Short, Primitive, Martial, Advanced, Commo
 Armour Proficiencies: Partial, Half, Light, Primitive, Martial, Improvised, Common
 
 **Pathways:**
-Commandeer
+Commandeerer
 	Using a soldier's weapon against them is a sure-fire way to make sure you're never outgunned, just make sure they haven't got a sidearm
 Saboteur
 	Opponents' weapons are made fragile and useless by this thief, sadly the salvage is destroyed, but at least you leave with your life
@@ -36,16 +36,16 @@ AP: 3 + Reasoning * 3
 Avoidance type: Memory
 Roll minimum: 2 + Power
 
-*Switch:* 4 AP, until the end of your turn your attacks on targets that are unaware of you deal triple damage after all other bonuses are applied
+*Switch:* 4 AP, until the end of your turn your attacks on targets that are unaware of you deal triple damage after all other bonuses are applied, this may only be activated once per turn
 
 #### Level 2:
 
-HP: Previous HP + 1d12
-AP: 3 + Endurance * 2
+HP: Previous HP + Power
+AP: 5 + Reasoning * 3
 
 ###### Pathway bonuses
 
-Commandeer: 
+Commandeerer: 
 - 
 
 Saboteur:

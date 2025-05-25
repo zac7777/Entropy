@@ -84,8 +84,7 @@
               "title": "Combat"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -232,13 +231,13 @@
   },
   "active": "8f7afed5ba4730c3",
   "lastOpenFiles": [
-    "Core Concepts/Combat.md",
+    "Classes/Soldier.md",
     "Classes/Thief.md",
+    "Core Concepts/Combat.md",
     "Sets/Flame.md",
     "Structure/Maths Rules.md",
     "Skillsets and Species/Untitled.md",
     "Species",
-    "Classes/Soldier.md",
     "Sets/Shotguns.md",
     "Sets/Shells.md",
     "Sets/Slow Rifles.md",
