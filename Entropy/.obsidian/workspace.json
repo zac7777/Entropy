@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core Concepts/Combat.md",
+                "file": "Classes/Duellist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Combat"
+              "title": "Duellist"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "c4b42dc7919b4837",
@@ -62,58 +62,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Species/Human.md",
+                "file": "Classes/Soldier.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Human"
-            }
-          },
-          {
-            "id": "5369b51fbb748308",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core Concepts/Status Effects.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Status Effects"
-            }
-          },
-          {
-            "id": "92f67b45ff32e777",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sets/Axes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Axes"
-            }
-          },
-          {
-            "id": "702d622714f9f846",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes/Sniper.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sniper"
+              "title": "Soldier"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -258,19 +215,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f7afed5ba4730c3",
+  "active": "ac83c23589182e3a",
   "lastOpenFiles": [
+    "Classes/Soldier.md",
+    "Species/Human.md",
+    "Classes/Duellist.md",
+    "Core Concepts/Combat.md",
+    "Development/Developer notes.md",
     "Classes/Thief.md",
     "Classes/Sniper.md",
     "Sets/Axes.md",
-    "Species/Human.md",
     "Core Concepts/Status Effects.md",
     "Classes/Knight.md",
     "Species/Arachnine.md",
     "Core Concepts/Attachments.md",
-    "Classes/Soldier.md",
     "Stats/Proficiencies.md",
-    "Core Concepts/Combat.md",
     "Sets/Flame.md",
     "Structure/Maths Rules.md",
     "Skillsets and Species/Untitled.md",
@@ -285,8 +244,6 @@
     "Core Concepts/Armours.md",
     "Classes/Zealot.md",
     "Classes/Witch.md",
-    "Classes/Trapper.md",
-    "Sets/Thrown Explosives.md",
     "Development",
     "Resources/Ehlen Map Resource.png",
     "Resources",
