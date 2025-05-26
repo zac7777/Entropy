@@ -9,7 +9,6 @@ Here, me and Cameron can talk easier
 	- Smith
 	- Spellslinger
 	- Survivalist
-	- Thief
 	- Trapper
 	- Trickster
 	- Witch
@@ -24,7 +23,6 @@ Here, me and Cameron can talk easier
 		- I feel like it'd be silly to still have the EP system outside of combat
 		- But we might need restrictions on the usage of certain spells
 	- How much do we leave up to GMs?
-	- Probably need do say **something** about stealth given the wording soldier, sniper and thief are gonna have
 	- You'll almost certainly know how official DnD exploration is supposed to go, I always wing it, so this is a conversation to be had with you
 - Just make a vast array of early-game items, showing off what our system is built to handle
 	- This has got to include non-damage focused combat utilities like food and drugs (potions if you're a groomer)

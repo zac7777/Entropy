@@ -34,7 +34,7 @@ AP: 3 + Reasoning * 3
 *Bait:* 2 AP, you throw an item that weighs less than 1kg, within melee range at any target within 5m * Power, then if a creature that can see you fails the avoidance roll they lose awareness of you
 
 Avoidance type: Memory
-Roll minimum: 2 + Power
+Roll minimum: 2 + Power (Yours)
 
 *Switch:* 4 AP, until the end of your turn your attacks on targets that are unaware of you deal triple damage after all other bonuses are applied, this may only be activated once per turn
 
@@ -46,15 +46,41 @@ AP: 5 + Reasoning * 3
 ###### Pathway bonuses
 
 Commandeerer: 
-- 
+- *Mechanical intuition:* if you have no proficiency with an item you may now equip it, this does not allow you to use moves with a proficiency requirement
+- *Frantic disarm:* 2 AP, target weapon an opposing creature within melee range has equipped is sent 5m away to the floor behind them
+
+  Avoidance type: Power
+  Roll minimum: 4 + Reasoning - the target's weapon proficiency
+  
+- *Pitiful yoink:* 3 AP, equip target weapon an opposing creature within melee range has equipped
+
+  Avoidance type: Endurance
+  Roll minimum: 2 + Reasoning
 
 Saboteur:
-- 
+- *Engineering hobby:* in any downtime you may add or remove attachments from primitive or martial weapons
+- *Salvager:* while searching containers or bodies, if you find broken items you may store them and repair them in later downtimes
+- *Destructive eye:* whenever you or an allied creature within melee range + 2m lands a critical hit, you may destroy an equipped item of the target instead of dealing double damage
 
 Backstabber:
-- 
+- *Unseen stride:* 2 AP, move 4 meters in any direction, any target that fails the avoidance roll will not gain awareness of you as you move
+
+  Avoidance type: Insight
+  Roll minimum: 4
+
+- *Surgical pierce:* 3 AP, Melee Range + 1m, 1d8 piercing damage, on critical hit cripple a chosen limb of the target, if your target has awareness of you this move costs 2 AP more to activate
+
+  Accuracy: +13
+  Critical: +19
+
+- *Pick pockets:* 5 AP, you may view target creature's storage and move any number of items into your storage. For each item to be successfully moved the target must fail the avoidance roll per each item, as soon as the challenge is succeeded the target gains awareness of you. If the target is aware of you, they gain an additional +4 to the avoidance roll.
+
+  Avoidance type: Connection
+  Roll minimum: 2 + Reasoning
 
 Blaster:
-- 
+- *Strong blasts:* Whenever damage you deal to a creature would be reduced to below 2 it is reduced to 2 instead. Whenever a move you use applies knockback to a creature, it applies that much + Power * 2m
+- *Arcane boom:* Spells you cast that deal shock and/or heat damage have an additional +2 minimum
+- *Pre-blast sight:* 4 AP, you may look through a destructible surface as if it is transparent
 
 #gameInformation #class
