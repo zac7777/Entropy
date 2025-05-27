@@ -9,13 +9,13 @@ Number of limbs: four hands, four feet, one head
 
 Move action: 2 AP, move 3 meters in any direction
 
-Swap weapon action: 3 AP, swap any equipment from either hand to storage, or from storage to hand
+Swap weapon action: 3 AP, swap any one equipment from either hand to storage, or from storage to hand
 
 Speak action: 1 AP, you may speak up to two sentences verbally or one telepathically
 
 Unarmed action: 3 AP, Melee range, Power bludgeoning damage
 
-Accuracy: +25 - Reasoning
+Accuracy: +25 - Connection
 Critical: +15
 
 #gameInformation #species

@@ -29,18 +29,18 @@ Insight bonus when determining turn order: +3
 HP: 2d8 + Insight
 AP: 5 + Reasoning
 
-*Zero in:* whenever you land a hit (either with a spell or a weapon), spells you cast this turn have +1 to their minimum and you gain -5 accuracy until end of turn
+*Pre-emptive strike:* before turn order is determined and combat begins you may make any attack that costs less than 4 AP for no cost
 ###### Moves
-*Hold breath:* 1 AP, you gain -10 accuracy for your next attack with a medium or long weapon and automatically fail the next spell minimum that targets you, this may only be activated once per turn
+*Violent overture:* 1 AP, you gain an additional amount of AP equal to your Reasoning * 2, this effect lasts until the end of your turn. You may not spend AP in your next turn. This may only be activated once per turn, and only in your first turn
 
-*Hunker down:* 2 AP, if you have not moved this turn you may pay 0 AP instead. While "Hunkered Down" you have -10 accuracy and +10 dodge, your moves that affect your allies cost 1 AP less (This cannot reduce their cost to below 1), and if you would receive knockback you may roll 1d10 + Endurance, if this roll is higher than the distance you would be knocked the knockback fails to move you. If you move more than 2m in one turn this effect will end.
+*Draw:* 1 AP, swap any number of equipment from either hand to storage, or from storage to hand, this may only be activated up to twice per turn
 
-*Rally cry:* 4 AP, all allies that can hear you gain +1 AP on their next turn and +2 DT to mental damage until the end of combat
+*Double attack:* 1 AP, the next time you use a move on an equipped weapon you may activate a move with the same AP cost on a different equipped weapon without paying the AP cost
 
 #### Level 2:
 
-HP: Previous HP + 1d12
-AP: 3 + Endurance * 2
+HP: Previous HP + 1d8 + Insight
+AP: 4 + Reasoning * 2
 
 ###### Pathway bonuses
 
@@ -49,6 +49,7 @@ Quickdraw gunslinger:
 
 Maelstrom of magic:
 - 
+
 Blade wielder:
 - 
 

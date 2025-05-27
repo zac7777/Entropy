@@ -12,7 +12,7 @@ Holy warrior
 	Serving the deity is the highest honour for this knight, with it's power in their hands they can achieve mystical feats
 Dedicated guardsman
 	Protecting their friends is the highest honour for this knight, as long as they are protected at all cost, they can do the work dealing with enemies
-Walking tank
+Living tank
 	Protecting themself is the highest honour for this knight, they'll withstand all the abuse they can
 Master swordsman
 	Honing their blade is the highest honour for this knight, they'll make everyone they care about proud with their ability to cut foes down
@@ -57,7 +57,7 @@ Dedicated Guardsman:
 - *Guard:* 3 AP, target creature within melee range gains +30 dodge, whenever an attack fails to hit them it will hit you instead. This effect lasts as long as they are within melee range
 - *Block:* 2 AP, gain +15 dodge until your next turn, this may only be activated once per turn
 
-Walking Tank:
+Living Tank:
 - *Stable body:* whenever you would take physical damage, if you have not moved this combat, halve the incoming damage
 - *Defence expert:* whenever an non-knight ally in range uses a move that applies a DT bonus to themselves, double the given DT
 - *Attract attention:* 2 AP, target creature that can see you must attack you at-least twice next turn if able
