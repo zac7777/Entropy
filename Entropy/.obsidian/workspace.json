@@ -62,12 +62,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Soldier.md",
+                "file": "Core Concepts/Combat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Soldier"
+              "title": "Combat"
             }
           }
         ]
@@ -217,10 +217,10 @@
   },
   "active": "ac83c23589182e3a",
   "lastOpenFiles": [
-    "Classes/Soldier.md",
-    "Species/Human.md",
-    "Classes/Duellist.md",
     "Core Concepts/Combat.md",
+    "Classes/Soldier.md",
+    "Classes/Duellist.md",
+    "Species/Human.md",
     "Development/Developer notes.md",
     "Classes/Thief.md",
     "Classes/Sniper.md",

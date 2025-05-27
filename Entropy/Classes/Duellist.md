@@ -21,13 +21,13 @@ Jack of all
 
 ##### Base:
 EP bonus: +15
-Weapon proficiency bonus: +1
+Insight bonus when determining turn order: +3
 
 ---
 #### Level 1:
 
-HP: 4d12 + 2 * Power
-AP: 3 + Endurance
+HP: 2d8 + Insight
+AP: 5 + Reasoning
 
 *Zero in:* whenever you land a hit (either with a spell or a weapon), spells you cast this turn have +1 to their minimum and you gain -5 accuracy until end of turn
 ###### Moves
