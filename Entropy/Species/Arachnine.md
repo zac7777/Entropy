@@ -1,9 +1,10 @@
+*Many armed, many eyed, these humanoid insects have a strong connection to the web of energy that flows through their world, they flock to creative and entrepreneurial hobbies*
 
 Melee range: 1m
 
 Number of limbs: four hands, four feet, one head
 
-*Natural arcane talent:* upon creation Arachnines may choose a signature spell, this spell has a + 2 minimum to all applicable moves
+*Natural arcane talent:* upon creation Arachnines may choose a signature spell, this spell has a +2 minimum to all applicable moves
 
 ---
 

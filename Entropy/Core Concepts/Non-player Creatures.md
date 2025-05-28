@@ -1,3 +1,4 @@
 [[Goblins]]
+[[Spiders]]
 
 #gameInformation 

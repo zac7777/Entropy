@@ -6,4 +6,6 @@
 
 *Crippled:* Each limb of a creature can be crippled individually, this means they can no longer equip a weapon in that limb or use that limb to cast spells. If any of a creature's legs are crippled the cost of their movement action is doubled, if all legs are crippled they can no longer use movement actions.
 
+*Blinded:* A creature that is blinded loses awareness of all other creatures, then any attacks they make have +20 accuracy, and any challenges they make have -2 to their minimum.
+
 #gameInformation 

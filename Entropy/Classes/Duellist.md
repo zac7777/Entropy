@@ -54,6 +54,7 @@ Blade wielder:
 - 
 
 Jack of all:
+- *Chaotic escalation:* whenever you deal damage to a creature, if it's the first time you've dealt that type of damage, it deals an additional 1d4 of that damage type per each other damage type you've dealt this turn
 - 
 
 

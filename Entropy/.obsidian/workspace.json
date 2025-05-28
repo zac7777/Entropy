@@ -8,6 +8,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "8f7afed5ba4730c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Development/Developer notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Developer notes"
+            }
+          },
+          {
             "id": "6a400f57651a0cb8",
             "type": "leaf",
             "state": {
@@ -22,17 +36,17 @@
             }
           },
           {
-            "id": "8f7afed5ba4730c3",
+            "id": "ea35f058272b1a70",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/Developer notes.md",
+                "file": "Species/Gefelan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Developer notes"
+              "title": "Gefelan"
             }
           },
           {
@@ -48,9 +62,67 @@
               "icon": "lucide-file",
               "title": "Duellist"
             }
+          },
+          {
+            "id": "c02c7116b874a9e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Species/Human.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Human"
+            }
+          },
+          {
+            "id": "af3775e9a33769e5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
+      },
+      {
+        "id": "b767cb33d5b9207e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2737999e997f9d15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Species/Gefelan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gefelan"
+            }
+          },
+          {
+            "id": "2417bab38b089c91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Species/Arachnine.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arachnine"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,35 +267,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ac83c23589182e3a",
+  "active": "af3775e9a33769e5",
   "lastOpenFiles": [
-    "Classes/Knight.md",
+    "Species/Gefelan.md",
     "Species/Arachnine.md",
-    "Classes/Duellist.md",
     "Species/Human.md",
-    "Core Concepts/Combat.md",
+    "Core Concepts/Player Characters.md",
+    "Classes/Duellist.md",
+    "Core Concepts/Non-player Creatures.md",
+    "Core Concepts/Miscellaneous.md",
+    "Sets/Spiders.md",
+    "Core Concepts/Status Effects.md",
     "Classes/Soldier.md",
+    "Core Concepts/Damage Types.md",
+    "Sets/Goblins.md",
+    "Sets/Snacks.md",
+    "Sets/Axes.md",
+    "Sets/Shoes.md",
+    "Core Concepts/Items.md",
+    "Story/Factions/Furcoasa.md",
+    "Story/Planes/Ehlen.md",
+    "Classes/Knight.md",
+    "Core Concepts/Combat.md",
     "Development/Developer notes.md",
     "Classes/Thief.md",
     "Classes/Sniper.md",
-    "Sets/Axes.md",
-    "Core Concepts/Status Effects.md",
     "Core Concepts/Attachments.md",
     "Stats/Proficiencies.md",
     "Sets/Flame.md",
-    "Structure/Maths Rules.md",
-    "Skillsets and Species/Untitled.md",
     "Species",
-    "Sets/Shotguns.md",
-    "Sets/Shells.md",
-    "Sets/Slow Rifles.md",
-    "Sets/Large Cartridges.md",
-    "Core Concepts/Ammunition.md",
-    "Core Concepts/Weapons.md",
-    "Core Concepts/Player Characters.md",
-    "Core Concepts/Armours.md",
-    "Classes/Zealot.md",
-    "Classes/Witch.md",
     "Development",
     "Resources/Ehlen Map Resource.png",
     "Resources",

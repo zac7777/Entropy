@@ -30,6 +30,7 @@ A player will also have a creature type, they will gain any bonuses, move speed,
 
 [[Human]]
 [[Arachnine]]
+[[Gefelan]]
 
 ## Levels
 

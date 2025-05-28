@@ -1,3 +1,4 @@
+*Some of the few intelligent mammals that barely resemble their more feral primate ancestors, capable of many talents with a strong sense of entitlement to boot.*
 
 Melee range: 1m
 

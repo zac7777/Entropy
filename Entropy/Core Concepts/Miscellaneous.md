@@ -1,6 +1,7 @@
-Any items I didn't feel fit with the rest, these are mostly gonna be jokes.
+Utility items that can offer moves and/or bonuses.
 
 ## Item sets
 [[Shoes]]
+[[Snacks]]
 
 #itemType 
