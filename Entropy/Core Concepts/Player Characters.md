@@ -1,3 +1,5 @@
+Players interact with the world of Entropy through their characters, and beneath personalities and histories is the three mechanical pieces of each creature: moves, abilities, and stats. These can be granted from the class, species or creation of a character or they can be earned through a story's many trials.
+
 ## Attributes
 
 Upon creation, each player character is given values for 6 attributes, each defining their physical, mental and personal capabilities. They can be rolled, or chosen by a person to match whatever character they wish to create (often, characters don't begin with Attribute values bigger than +4, but you can do what you want if it matches your character).
@@ -44,5 +46,11 @@ Levels are a vague guideline for the power-level of characters, creatures, and i
 
 ##### Every fourth level
 - A player may, instead of any class alterations, increase one of their Attribute values by one, this cannot increase them beyond +5
+
+
+## Learnable skills
+
+[[Unarmed Moves]]
+[[Features]]
 
 #gameInformation 
