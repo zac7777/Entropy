@@ -4,6 +4,9 @@
 
 Weight: 1kg
 
+One handed: -2 Accuracy
+Two handed: +1 AP cost to all moves
+
 ##### Actions
 
 *Swing:* 3 AP: Melee Range + 1m, 1d8 + Power slashing damage

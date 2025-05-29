@@ -4,6 +4,9 @@
 
 Weight: 1kg
 
+One handed:
+Two handed: -1 AP cost for "Hook" and "Uppercut"
+
 *Insulator:* While a player has this equipped they cannot cast spells from their hands
 
 ---

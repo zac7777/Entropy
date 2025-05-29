@@ -4,6 +4,9 @@
 
 Weight: 2kg
 
+One handed: +2 AP to all moves, +20 Accuracy to "Fire"
+Two handed: Unusable
+
 ##### Actions
 
 *Stock bash:* 2 AP: Melee Range, 1d6 bludgeoning damage

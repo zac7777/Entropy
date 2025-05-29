@@ -4,6 +4,9 @@
 
 Weight: 1kg
 
+One handed: Unusable
+Two handed:
+
 ##### Actions
 
 *Bash:* 1 AP: Melee Range, 1 bludgeoning damage, when used roll a d10, if the result is lower than 3 this weapon will break
@@ -32,6 +35,9 @@ Proficiency requirement: 3
 *Medium, Light, Advanced, Common*
 
 Weight: 1kg
+
+One handed:
+Two handed: -5 Accuracy to "Fire", +5 Accuracy to "Whip"
 
 ##### Actions
 

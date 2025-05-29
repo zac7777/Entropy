@@ -4,6 +4,9 @@
 
 Weight: 0.5kg
 
+One handed: 
+Two handed: Unusable
+
 ##### Actions
 
 *Throw:* 2 AP, 15m, all creatures within 5m of the target take 1d8 shock damage, activate only if you have a source of flame
@@ -18,6 +21,9 @@ Critical: +10
 *Short, Light, Primitive, Improvised(A fragile container, Liquid fuel, Cloth)*
 
 Weight: 0.5kg
+
+One handed: 
+Two handed: Unusable
 
 ##### Actions
 

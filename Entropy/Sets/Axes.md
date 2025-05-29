@@ -4,6 +4,8 @@
 
 Weight: 0.5kg
 
+One handed:
+Two handed: +1 damage to all moves
 ##### Actions
 
 *Swing:* 1 AP: Melee Range, 1 slashing damage
