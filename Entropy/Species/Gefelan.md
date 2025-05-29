@@ -4,7 +4,7 @@ Melee range: 1m
 
 Number of limbs: two hands, two feet, one head, one tail
 
-*Natural mobility:* when calculating the damage after falling you take half damage, you also have an additional +1 proficiency with unarmed moves
+*Natural mobility:* when calculating the damage after falling you take half damage, you also have an additional +1 proficiency level with unarmed moves, it now costs only 2 AP to get up while knocked
 
 ---
 
