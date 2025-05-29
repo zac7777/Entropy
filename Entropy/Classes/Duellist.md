@@ -45,11 +45,11 @@ AP: 4 + Reasoning * 2
 ###### Pathway bonuses
 
 Quickdraw gunslinger: 
-- *Successive force:* after landing 4 hits on a creature in one turn, they will be knocked back 2m * Power
+- *Successive force:* after landing 4 hits on a creature in one turn, they will be given knockback of 2m * Insight
 - *Mag dump:* 5 AP, you fire all of the cartridges currently loaded in one of your firearms in quick succession, these attacks may only target one creature all together, they gain +30 accuracy, and cannot critically hit
 
 Maelstrom of magic:
-- 
+- *Rising power:* your spells each have an additional minimum equal to have the number of spells you have cast this turn (your first two spells get no bonus, the next two get +1 and so on)
 
 Blade wielder:
 - 
