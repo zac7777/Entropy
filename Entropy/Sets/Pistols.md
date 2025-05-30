@@ -37,7 +37,7 @@ Proficiency requirement: 3
 Weight: 1kg
 
 One handed:
-Two handed: -5 Accuracy to "Fire", +5 Accuracy to "Whip"
+Two handed: -10 Accuracy to "Fire", +10 Accuracy to "Whip"
 
 ##### Actions
 

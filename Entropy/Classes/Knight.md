@@ -65,6 +65,6 @@ Living Tank:
 Master swordsman:
 - *Finesse motion:* 3 AP, moves from martial or advanced weapons that cost more than 3 AP cost 1 less to activate this turn, this may only be activated once per turn
 - *Honed draw:* 0 AP, swap any equipment from either hand to storage, or from storage to hand, this may only be activated once per turn
-- *Parry:* 2 AP, the next time you would be hit with a contact or short weapon, instead you may perform a move from your held weapons with an AP cost less than 5 without paying that cost, using this move Immediately ends your turn
+- *Parry:* 2 AP, the next time you would be hit with a contact or short weapon, instead you may perform a move from your equipped weapons with an AP cost less than 5 without paying their cost, using this move Immediately ends your turn
 
 #gameInformation #class

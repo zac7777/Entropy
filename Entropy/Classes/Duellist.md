@@ -46,14 +46,16 @@ AP: 4 + Reasoning * 2
 
 Quickdraw gunslinger: 
 - *Successive force:* after landing 4 hits on a creature in one turn, they will be given knockback of 2m * Reasoning
-- *Dual wielding mastery:* while holding two or more firearms
+- *Dual wielding mastery:* while having two or more firearms equipped, each third "Fire" move activated fires an additional time
 - *Mag dump:* 5 AP, you fire all of the cartridges currently loaded in one of your firearms in quick succession, these attacks may only target one creature all together, they gain +30 accuracy, and cannot critically hit
 
 Maelstrom of magic:
 - *Rising power:* your spells each have an additional minimum equal to have the number of spells you have cast this turn (your first two spells get no bonus, the next two get +1 and so on)
 
 Blade wielder:
-- 
+- *Stab and weave:* 1 AP, each attack you activate this turn increases your dodge by +2 until the beginning of your next turn
+- *Prepare conviction:* 2 AP, the next time you are hit with a contact or short weapon, half the incoming damage, on your next turn you will have an additional 4 AP
+- *Focus to vitals:* 3 AP, each attack you land this turn will apply one additional bleeding effect
 
 Jack of all:
 - *Chaotic escalation:* whenever you deal damage to a creature, if it's the first time you've dealt that type of damage, it deals an additional 1d4 of that damage type per each other damage type you've dealt this turn
