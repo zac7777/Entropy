@@ -5,7 +5,6 @@ Here, me and Cameron can talk easier
 	- Beastmaster
 	- Dancer
 	- Doctor
-	- Duelist
 	- Smith
 	- Spellslinger
 	- Survivalist

@@ -77,8 +77,7 @@
               "title": "Ehlen"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "34436b4fda6c0bd2",
@@ -111,9 +110,22 @@
               "icon": "lucide-file",
               "title": "Status Effects"
             }
+          },
+          {
+            "id": "a06dad6ac7c52854",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Concepts/Spells.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spells"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -258,11 +270,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ac83c23589182e3a",
+  "active": "8f7afed5ba4730c3",
   "lastOpenFiles": [
-    "Core Concepts/Status Effects.md",
     "Classes/Duellist.md",
     "Classes/Knight.md",
+    "Core Concepts/Spells.md",
+    "Sets/Hexus.md",
+    "Core Concepts/Status Effects.md",
     "Sets/Pistols.md",
     "Story/Planes/Ehlen.md",
     "Development/Developer notes.md",
@@ -284,8 +298,6 @@
     "Core Concepts/Non-player Creatures.md",
     "Core Concepts/Miscellaneous.md",
     "Sets/Spiders.md",
-    "Classes/Soldier.md",
-    "Core Concepts/Damage Types.md",
     "Species",
     "Development",
     "Resources/Ehlen Map Resource.png",

@@ -50,7 +50,7 @@ AP: 7 + Connection
 Holy Warrior: 
 - *True Prophet:* Gain your deity's favour bonus
 - *Powered trinkets:* You may use any holy items as spellcasting conduits
-- *Conveyor of light:* Light spells you cast have a +1 to their minimum roll
+- *Conveyor of light:* "Light" spells you cast have a +1 to their minimum roll
 
 Dedicated Guardsman:
 - *Well placed confidence:* If there is an allied creature within 5m range with maximum health, your attacks deal an additional 1d6 mental damage

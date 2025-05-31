@@ -51,15 +51,18 @@ Quickdraw gunslinger:
 
 Maelstrom of magic:
 - *Rising power:* your spells each have an additional minimum equal to have the number of spells you have cast this turn (your first two spells get no bonus, the next two get +1 and so on)
+- *Double cast:* 3 AP, the next spell you cast will affect an additional target that is within 10m of the first target
+- *Reinforce energy:* 4 AP, every applicable spell you cast this turn has advantage on it's damage rolls, and every target has disadvantage on the avoidance roll. You cannot activate movement actions this turn, and you gain -20 dodge until your next turn
 
 Blade wielder:
 - *Stab and weave:* 1 AP, each attack you activate this turn increases your dodge by +2 until the beginning of your next turn
 - *Prepare conviction:* 2 AP, the next time you are hit with a contact or short weapon, half the incoming damage, on your next turn you will have an additional 4 AP
-- *Focus to vitals:* 3 AP, each attack you land this turn will apply one additional bleeding effect
+- *Vital strikes:* 3 AP, each attack you land this turn will apply one additional bleeding effect
 
 Jack of all:
-- *Chaotic escalation:* whenever you deal damage to a creature, if it's the first time you've dealt that type of damage, it deals an additional 1d4 of that damage type per each other damage type you've dealt this turn
-- 
+- *Chaotic escalation:* whenever you deal damage to a creature, if it's the first time you've dealt that type of damage, it deals an additional damage of that type equal to your Insight per each other damage type you've dealt this turn
+- *Equal eyes:* if you receive an increase to your spell's minimums from anything but this ability you additionally receive that much of an decrease to your accuracy multiplied by 5, if you receive a decrease to your accuracy from anything but this ability you additionally increase your spell's minimums by that amount divided by 5
+- *Arcane weaponry:* you may use martial weapons as spellcasting conduits, spells cast through them gain an additional +1 to their minimum roll, but have -5m range
 
 
 #gameInformation #class
