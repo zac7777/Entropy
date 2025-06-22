@@ -69,15 +69,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/Planes/Ehlen.md",
+                "file": "Story/Factions/Furcoasa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ehlen"
+              "title": "Furcoasa"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "34436b4fda6c0bd2",
@@ -124,8 +125,23 @@
               "icon": "lucide-file",
               "title": "Spells"
             }
+          },
+          {
+            "id": "54ee4bc7a3d2c8b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sets/Gods.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gods"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -270,16 +286,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f7afed5ba4730c3",
+  "active": "54ee4bc7a3d2c8b6",
   "lastOpenFiles": [
+    "Story/Planes/Æx.md",
+    "Story/Factions/Furcoasa.md",
+    "Sets/Gods.md",
+    "Story/Planes/Ehlen.md",
+    "Development/Developer notes.md",
     "Classes/Duellist.md",
     "Classes/Knight.md",
     "Core Concepts/Spells.md",
     "Sets/Hexus.md",
     "Core Concepts/Status Effects.md",
     "Sets/Pistols.md",
-    "Story/Planes/Ehlen.md",
-    "Development/Developer notes.md",
     "Core Concepts/Weapons.md",
     "Sets/Shotguns.md",
     "Sets/Gloves.md",
@@ -295,9 +314,6 @@
     "Sets/Unarmed Moves.md",
     "Sets/Features.md",
     "Species/Human.md",
-    "Core Concepts/Non-player Creatures.md",
-    "Core Concepts/Miscellaneous.md",
-    "Sets/Spiders.md",
     "Species",
     "Development",
     "Resources/Ehlen Map Resource.png",

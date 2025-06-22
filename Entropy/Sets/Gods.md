@@ -24,4 +24,9 @@ The last being creatures see before they die, born before the very first plane, 
 
 *Favour:* Once per turn, you may convince your Game Master that you are acting morally correct in a situation, if they decide you indeed are, you gain complete immunity to any chosen effect that is about to hit you.
 
+### Palraq, courage's soul
+(Any)
+Died many times, never stayed that way. Pushed through the suffocation and freeze between planes just to meet his love once more. Her very spirit is found within anyone that fights and will not back down until victory is attained. It's often disputed whether Palraq was ever a conscious person, or always an incarnation of the mindless determination found from prey to apex.
+
+*Favour:* Once per combat, you may tell your Game Master that a certain action is narratively crucial to your character's story, if they decide you are correct, you may activate that action without any cost or restriction (this applies to range, requirements, AP cost, ETC)
 #creatureSet 
