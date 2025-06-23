@@ -14,5 +14,6 @@
 [[Slow Rifles]]
 [[Thrown Explosives]]
 [[Shotguns]]
+[[Wands]]
 
 #itemType 
