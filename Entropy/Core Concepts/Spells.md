@@ -16,6 +16,6 @@ Spells are often learned from tomes or professionals, however during downtime pl
 [[Light]]
 [[Ice]]
 [[Hexus]]
-
+[[Bond]]
 
 #itemType 

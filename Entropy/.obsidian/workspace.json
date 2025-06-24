@@ -76,6 +76,20 @@
               "icon": "lucide-file",
               "title": "Witch"
             }
+          },
+          {
+            "id": "42d74bcbcd8e784c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Species/Arachnine.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arachnine"
+            }
           }
         ],
         "currentTab": 4
@@ -113,17 +127,17 @@
             }
           },
           {
-            "id": "8ba9cfceb1f6f6c7",
+            "id": "b4d9aea415df9b93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core Concepts/Spells.md",
+                "file": "Sets/Bond.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spells"
+              "title": "Bond"
             }
           },
           {
@@ -141,7 +155,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -288,13 +302,16 @@
   },
   "active": "565fcff6dd1b6bc3",
   "lastOpenFiles": [
+    "Sets/Bond.md",
+    "Classes/Witch.md",
+    "Species/Arachnine.md",
+    "Sets/Hexus.md",
+    "Core Concepts/Spells.md",
+    "Sets/Ice.md",
     "Stats/Resistance and Immunity.md",
     "Core Concepts/Damage Types.md",
-    "Classes/Witch.md",
-    "Core Concepts/Spells.md",
     "Classes/Knight.md",
     "Stats/DT.md",
-    "Sets/Hexus.md",
     "Stats/EP.md",
     "Sets/Flame.md",
     "Core Concepts/Status Effects.md",
@@ -311,9 +328,6 @@
     "Sets/Features.md",
     "Sets/Unarmed Moves.md",
     "Core Concepts/Player Characters.md",
-    "Classes/Dancer.md",
-    "Classes/Beastmaster.md",
-    "Classes/Boxer.md",
     "Species",
     "Development",
     "Resources/Ehlen Map Resource.png",

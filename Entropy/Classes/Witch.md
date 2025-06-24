@@ -35,7 +35,7 @@ AP: 5 + Memory
 
 *Focus into Item:* 3 AP, you may cast spells using an equipped Conduit's bonuses even if it is not a "Conduit" spell until end of turn.
 
-*Transport Lair:* 6 AP, you summon a personal field of arcane comfort of 10m in diameter at your location, objects can be stored here, rituals prepared and then moved. The lair always exists in physical space and time, and conscious beings teleported this way will be stunned if done so during combat. This action is incredibly loud and bright, all creatures within 200m will gain awareness of you.
+*Transport Lair:* 6 AP, you summon a personal, circular field of arcane comfort of 10m in diameter at your location, objects can be stored here, rituals prepared and then moved. The lair always exists in physical space and time, and conscious beings teleported this way will be stunned if done so during combat. This action is incredibly loud and bright, all creatures within 200m will gain awareness of you. Any unequipped/stored objects within 10m of you will be teleported to the last location of your lair, and conscious beings will be pushed to the exterior of the circle.
 
 #### Level 2:
 
@@ -58,6 +58,7 @@ Witch of the World:
 
 Witch of the Bond: 
 - *Protective Lair:* your lair now offers a shield around the circumference stretching 50m high, creatures and objects of your choice cannot enter as though it was an invisible wall, but the shield will be destroyed if it sustains 30 points of damage and cannot be regenerated until combat ends
-- 
+- *Acceptable Aura:* the first spell you cast that targets an ally each turn has -1 to it's minimum and +10m to it's range
+- *Repair Rune:* 4 AP: target creature other than you within melee range has all crippled limbs repaired and regains 5 EP
 
 #gameInformation #class
