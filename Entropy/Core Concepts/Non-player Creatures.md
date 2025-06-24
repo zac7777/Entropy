@@ -1,4 +1,5 @@
 [[Goblins]]
 [[Spiders]]
+[[Undead]]
 
 #gameInformation 

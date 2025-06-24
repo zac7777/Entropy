@@ -50,7 +50,11 @@ Witch of the Pious:
 
 Witch of the Dead: 
 - *Necrotic Lair:* undead creatures are no longer stunned when teleported by your lair, and during combat, at the beginning of your turn, you may deal 2d4 Rot damage to any number of creatures within your lair
-- 
+- *One with the Dead:* if you would be dealt Rot damage, you instead heal 1d4 HP, any challenges targeting Undead creatures also have a 1 higher minimum
+- *Assimilate into Death:* 2 AP, all Undead creatures that can see you (and fail the avoidance roll) lose awareness of you, any movement action you'd want them to take is now automatically taken
+
+  Avoidance type: Reasoning
+  Roll minimum: +3
 
 Witch of the World: 
 - *Wild Lair:* while within your lair, creatures of your choice gain vulnerability to Heat, Lightning, Cold, and Toxic damage. Your Lair's size is now extended to 25m in diameter

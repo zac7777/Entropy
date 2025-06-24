@@ -17,5 +17,6 @@ Spells are often learned from tomes or professionals, however during downtime pl
 [[Ice]]
 [[Hexus]]
 [[Bond]]
+[[Summon Undead]]
 
 #itemType 
