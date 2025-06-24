@@ -46,7 +46,8 @@ AP: 6 + Memory
 
 Witch of the Pious: 
 - *Holy Lair:* while within your lair, you and any allies gain your deities favour bonus
-- 
+- *Power Prayer:* 2 AP: until end of turn, when a spell you cast deals damage it deals an additional Mental damage equal to your Power
+- *Life Prayer:* 2 AP: heal each creature within your Lair by 1d4 + Memory, each gains +2 DT to Mental and Slicing until your next turn
 
 Witch of the Dead: 
 - *Necrotic Lair:* undead creatures are no longer stunned when teleported by your lair, and during combat, at the beginning of your turn, you may deal 2d4 Rot damage to any number of creatures within your lair
@@ -58,7 +59,12 @@ Witch of the Dead:
 
 Witch of the World: 
 - *Wild Lair:* while within your lair, creatures of your choice gain vulnerability to Heat, Lightning, Cold, and Toxic damage. Your Lair's size is now extended to 25m in diameter
-- 
+- *Reclaim Nature:* 3 AP, you create a small twisting web of branches that ensnare a target creature within 20m, they are immobilised for 3 turns and gain vulnerability to Piercing damage. This can only target creatures shorter than 3m
+
+  Avoidance type: Power
+  Roll minimum: +4 + Connection (Yours)
+
+- *Channel Disaster:* 9 AP, you gain 18 AP this turn and 20 EP. This may only be activated while near a strong elemental source, and then you may only use that AP to cast spells of a type that matches the source (e.g. Flame spells if near a volcano, Lightning if in the heart of a storm). This may only be activated once per combat. 
 
 Witch of the Bond: 
 - *Protective Lair:* your lair now offers a shield around the circumference stretching 50m high, creatures and objects of your choice cannot enter as though it was an invisible wall, but the shield will be destroyed if it sustains 30 points of damage and cannot be regenerated until combat ends

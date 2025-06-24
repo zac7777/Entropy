@@ -17,4 +17,46 @@ Petrifier
 Distracter
 	 The core to a successful soldier is focus and dedication, so clearly they're the best targets to uproot
 
+## Progression
+
+##### Base:
+EP bonus: +12
+||NOT SURE YET||
+
+---
+#### Level 1:
+
+HP: 4d10 + 4 * Endurance
+AP: 5 + Connection / 2
+
+*Resistant heart:* Whenever incoming damage to this knight would be reduced to below one, it is reduced to zero instead of one
+###### Moves
+*Stand Stalwart:* 1 AP, you and target creature that can see you both gain +2 DT to Slicing, Bludgeoning, and Mental until your next turn
+
+*Righteous Backhand:* 2 AP, Melee Range, 1d6 bludgeoning damage, gain +2 DT to a type of your choice until your next turn
+
+Accuracy: +5
+Critical: + Connection
+
+*Blade Focus:* 4 AP, your next attack with a Martial weapon will deal double damage after all other bonuses are applied, this can only be applied once before the weapon must be used
+
+#### Level 2:
+
+HP: Previous HP + 1d10 + Endurance
+AP: 7 + Connection
+
+###### Pathway bonuses
+
+Holy Warrior: 
+- 
+
+Dedicated Guardsman:
+- 
+
+Living Tank:
+- 
+
+Master swordsman:
+- 
+
 #gameInformation #class

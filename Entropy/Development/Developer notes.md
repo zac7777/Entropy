@@ -10,7 +10,6 @@ Here, me and Cameron can talk easier
 	- Survivalist
 	- Trapper
 	- Trickster
-	- Witch
 	- Zealot
 - Maybe give all classes another secondary attribute, idk i still need to consider it
 	- Cause it defo would be nice to include all 30 combinations

@@ -22,112 +22,41 @@
             }
           },
           {
-            "id": "565fcff6dd1b6bc3",
+            "id": "6416a2ae9a556819",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Witch.md",
+                "file": "Classes/Trickster.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Witch"
-            }
-          },
-          {
-            "id": "1a1142e9bd45e924",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sets/Goblins.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Goblins"
-            }
-          },
-          {
-            "id": "a446b8fa6bab85ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sets/Undead.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Undead"
+              "title": "Trickster"
             }
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "bb5961a7a82504af",
+        "id": "c4ac48ad0dc3bb4d",
         "type": "tabs",
         "children": [
           {
-            "id": "b4d9aea415df9b93",
+            "id": "d75fa86083123fc0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core Concepts/Spells.md",
+                "file": "Classes/Knight.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spells"
-            }
-          },
-          {
-            "id": "6fff6d116c8adc2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sets/Summon Undead.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Summon Undead"
-            }
-          },
-          {
-            "id": "306a3905188d9851",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core Concepts/Status Effects.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Status Effects"
-            }
-          },
-          {
-            "id": "acd81c184f4ec712",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes/Sniper.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sniper"
+              "title": "Knight"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -272,34 +201,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "565fcff6dd1b6bc3",
+  "active": "6416a2ae9a556819",
   "lastOpenFiles": [
-    "Sets/Summon Undead.md",
+    "Classes/Knight.md",
+    "Classes/Trickster.md",
+    "Development/Developer notes.md",
+    "Core Concepts/Spells.md",
+    "Core Concepts/Damage Types.md",
     "Classes/Witch.md",
+    "Core Concepts/Status Effects.md",
+    "Sets/Summon Undead.md",
     "Classes/Sniper.md",
     "Classes/Soldier.md",
     "Sets/Undead.md",
-    "Core Concepts/Status Effects.md",
     "Stats/Resistance and Immunity.md",
     "Sets/Goblins.md",
     "Core Concepts/Non-player Creatures.md",
     "Sets/Bond.md",
-    "Core Concepts/Spells.md",
     "Species/Arachnine.md",
     "Sets/Hexus.md",
     "Sets/Ice.md",
-    "Core Concepts/Damage Types.md",
-    "Classes/Knight.md",
     "Stats/DT.md",
     "Stats/EP.md",
     "Sets/Flame.md",
-    "Development/Developer notes.md",
     "Classes/Spellslinger.md",
     "Sets/Pistols.md",
     "Sets/Wands.md",
     "Sets/Gloves.md",
     "Sets/Leathers.md",
-    "Sets/Swords.md",
     "Species",
     "Development",
     "Resources/Ehlen Map Resource.png",
