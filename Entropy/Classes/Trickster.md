@@ -21,42 +21,48 @@ Distracter
 
 ##### Base:
 EP bonus: +12
-||NOT SURE YET||
+Amount of Spell Focuses: +1
 
 ---
 #### Level 1:
 
-HP: 4d10 + 4 * Endurance
-AP: 5 + Connection / 2
+HP: 1d10 + 2 * Memory
+AP: 6 + Insight / 2
 
-*Resistant heart:* Whenever incoming damage to this knight would be reduced to below one, it is reduced to zero instead of one
+*Forced Ignorance:* During combat, enemy creatures with no awareness of you have -2 Reasoning and Memory
 ###### Moves
-*Stand Stalwart:* 1 AP, you and target creature that can see you both gain +2 DT to Slicing, Bludgeoning, and Mental until your next turn
+*Taunt:* 1 AP, target creature that can see you is aggravated against you for a turn
 
-*Righteous Backhand:* 2 AP, Melee Range, 1d6 bludgeoning damage, gain +2 DT to a type of your choice until your next turn
+Avoidance type: Insight
+Roll minimum: 4
 
-Accuracy: +5
-Critical: + Connection
+*Guiding Whisper:* 2 AP, target creature within 40m hears up to two sentences from another creature that you remember the voice of as if it was said from 10m behind them, they will believe that they are actually hearing this voice from that creature if they fail the avoidance roll. Even if they succeed the challenge, they will likely investigate the source anyway ( this can be determined by your Game Master )
 
-*Blade Focus:* 4 AP, your next attack with a Martial weapon will deal double damage after all other bonuses are applied, this can only be applied once before the weapon must be used
+Avoidance type: Memory
+Roll minimum: 3
+
+*Shimmering double:* 5 AP, you create a low-grade illusion of yourself within 5m from you, creatures that fail the avoidance roll will be tricked by it and lose awareness of you (enemies will begin to attack it)
+
+Avoidance type: Reasoning
+Roll minimum: 5
 
 #### Level 2:
 
-HP: Previous HP + 1d10 + Endurance
-AP: 7 + Connection
+HP: Previous HP + 1d10
+AP: 5 + Insight
 
 ###### Pathway bonuses
 
-Holy Warrior: 
+Imitator: 
 - 
 
-Dedicated Guardsman:
+Soothing Seer:
 - 
 
-Living Tank:
+Petrifier:
 - 
 
-Master swordsman:
+Distractor:
 - 
 
 #gameInformation #class

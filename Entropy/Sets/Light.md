@@ -1,10 +1,10 @@
 ## Level 1
 #### Infuriating flicker
-*Medium, Conduit, Primitive, Common*
+*Medium, Focus, Primitive, Common*
 
 ##### Actions
 
-*Attract combat:* 3 AP: target creature that can see you must use all it's AP next turn to attack you until it can no longer attack
+*Attract combat:* 3 AP: target creature that can see you is Aggravated against you for 3 turns
 
 Avoidance type: Insight
 Roll minimum: 3

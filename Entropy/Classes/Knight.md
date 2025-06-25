@@ -36,7 +36,7 @@ AP: 5 + Connection / 2
 *Righteous Backhand:* 2 AP, Melee Range, 1d6 bludgeoning damage, gain +2 DT to a type of your choice until your next turn
 
 Accuracy: +5
-Critical: + Connection
+Critical: 0 + Connection
 
 *Blade Focus:* 4 AP, your next attack with a Martial weapon will deal double damage after all other bonuses are applied, this can only be applied once before the weapon must be used
 
