@@ -35,8 +35,7 @@
               "title": "Trickster"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "c4ac48ad0dc3bb4d",
@@ -230,11 +229,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6416a2ae9a556819",
+  "active": "8f7afed5ba4730c3",
   "lastOpenFiles": [
     "Core Concepts/Status Effects.md",
-    "Sets/Light.md",
     "Classes/Trickster.md",
+    "Sets/Light.md",
     "Core Concepts/Spells.md",
     "Stats/Accuracy.md",
     "Sets/Summon Undead.md",
