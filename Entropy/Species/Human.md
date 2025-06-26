@@ -2,7 +2,7 @@
 
 Melee range: 1m
 
-Number of limbs: two hands, two feet, one head
+Number of limbs: two arms, two legs, one head
 
 *Indomitable spirit:* whenever a human would be killed for the first time each combat, they may instead go to 1 hit point
 
