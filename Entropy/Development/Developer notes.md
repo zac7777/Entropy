@@ -9,7 +9,6 @@ Here, me and Cameron can talk easier
 	- Spellslinger
 	- Survivalist
 	- Trapper
-	- Trickster
 	- Zealot
 - Write some test combats
 - Maybe a short-ish one-shot too, to test out character creation (Characters go in [[Test Characters]])

@@ -86,6 +86,12 @@ Petrifier:
   Critical: +5
 
 Distractor:
-- 
+- *Light Feet:* 2 AP, for three turns, your movement actions no longer make noise, so enemy creatures won't gain awareness of you unless you're in their field of vision.
+- *Silence:* 3 AP, any target within 50m will not make noise for until it uses 2 AP to succeed the Avoidance roll, if the target is non-conscious it will automatically fail each avoidance roll and will be silenced for three turns.
+
+  Avoidance type: Power
+  Roll minimum: 7
+
+- *Generate:* 4 AP, this action requires focus, any target within 50m will begin to generate any noise in memory, or a noise you could reasonably come up with. The noise can be loud enough to cause 2d4 shock damage to any creature within 10m, but this will cause you to lose focus on all spells
 
 #gameInformation #class

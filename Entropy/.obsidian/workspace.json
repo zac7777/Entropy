@@ -59,8 +59,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "c4ac48ad0dc3bb4d",
@@ -267,8 +266,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6416a2ae9a556819",
+  "active": "8f7afed5ba4730c3",
   "lastOpenFiles": [
+    "Classes/Trickster.md",
     "Classes/Witch.md",
     "Sets/Unarmed Moves.md",
     "Development/Test Characters.md",
@@ -287,7 +287,6 @@
     "Sets/Flame.md",
     "Sets/Bond.md",
     "Sets/Axes.md",
-    "Classes/Trickster.md",
     "Core Concepts/Damage Types.md",
     "Core Concepts/Status Effects.md",
     "Classes/Knight.md",
