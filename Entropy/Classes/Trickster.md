@@ -29,7 +29,7 @@ Amount of Spell Focuses: +1
 HP: 1d10 + 2 * Memory
 AP: 6 + Insight / 2
 
-*Forced Ignorance:* During combat, enemy creatures with no awareness of you have -2 Reasoning and Memory
+*Blissful Ignorance:* During combat, enemy creatures with no awareness of you have -2 Reasoning and Memory
 ###### Moves
 *Taunt:* 1 AP, target creature that can see you is aggravated against you for a turn
 
@@ -57,10 +57,24 @@ Imitator:
 - 
 
 Soothing Seer:
-- 
+- *Tiring Strikes:* If a hit you land ( with a spell or weapon ) would reduce the amount of EP a creature has, it gives an additional -2 EP
+- *Choke out:* 4 AP, Melee range +1m, 2d4 + Power suffocation damage, target receives ( - 1 - Memory ) EP
+
+  Accuracy: +27
+  Critical: -1 + Insight
+
+- *Coma:* 6 AP, Target creature within 30m with less than 5 EP is placed into a permanent state of magical sleep, they can only be awoken by astounding stimulants or an expert healer.
+
+  Avoidance type: Endurance
+  Roll minimum: 4
 
 Petrifier:
-- 
+- *Easy Targets:* Weapon attacks you make against stunned targets have advantage on the hit and any damage rolls. If you would ever become stunned you may roll 1d6 + Insight, if you roll higher than a 5 you do not become stunned.
+- *Traumatic amnesia:* If you stun a creature, if that is the first time that creature has been stunned this combat, it will lose awareness of you, and get -2 Memory until the end of combat
+- *Shrieking War-cry:* 3 AP, all creatures within 10m in front of you, 1d6 shock damage, if the target was unaware of you they are stunned.
+
+  Accuracy: +32 - ( Insight * 2 )
+  Critical: +5
 
 Distractor:
 - 

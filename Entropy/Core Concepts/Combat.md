@@ -5,20 +5,21 @@ In combat, each combatant has several stats that effect how they fight:
 - [[EP]]: Determined by Endurance + Level + Class
 - [[AP]]: Determined by Class + Level
 - [[DT]]: Determined by armour
-- [[Resistance and Immunity]]: Determined by armour + Class + Species
+- [[Vulnerabilities, Resistances, and Immunities]]: Determined by armour + Class + Species
 - [[Proficiencies]]: Determined by Class
 - [[Action List]]: Size determined by Memory, Contents decided by player
 - [[Dodge]]: Determined by reasoning + armour + armour proficiency
 - [[Accuracy]]: Chance determined by weapon + weapon proficiency
 - [[Criticals]]: Chance determined by weapon + connection
 
+It's often better for Game Masters to keep these hidden from players, both for immersion, and surprise when certain actions turn out as failures or shocking successes.
 ## Turns
 
 Once turn order is determined, each individual turn acts the same: a creature makes any number of moves until they reach their AP limit for spending their EP.
 
 ## Moves
 
-Turns are composed of moves that have AP costs, there are three different types of moves:
+Turns are composed of moves that have AP costs, there are four different types of moves:
 
 - Attacks: these are often made with weapons, they deal direct damage and sometimes have extra abilities. They also have an accuracy and critical value, and only target one creature within a given range unless specified otherwise. Whether or not an attack hits or crits is determined by a d100 roll and two bounds:
 
@@ -28,6 +29,8 @@ Turns are composed of moves that have AP costs, there are three different types 
 - Challenges: these are often spells or special moves, they sometimes deal damage or have special effects and target only one creature within a given range unless specified otherwise. These have avoidance types and minimums, describing the modifier the target should add to their d10 roll then if they roll below the minimum they will fail the challenge and the move will hit as described.
 
 - Statuses: these apply lasting effects to creatures or objects ranging from next use to for several turns.
+
+- Utilities: this includes any other kind of move such as walking or equipping a weapon, these often require no rolls or calculations, and are necessary to a rounded action list
 
 ## Awareness
 
