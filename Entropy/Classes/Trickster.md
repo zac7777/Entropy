@@ -54,7 +54,16 @@ AP: 5 + Insight
 ###### Pathway bonuses
 
 Imitator: 
-- *Innate Tricks:* "Illusion" spells you cast have -1 AP costs, this cannot reduce their cost to below 2 AP
+- *Innate Tricks:* "Illusion" spells you cast have -1 AP costs, this cannot reduce their cost to below 2 AP, you may also change any "Illusion" spell's avoidance type to Memory or Reasoning.
+- *High-Spectrum Light:* 3 AP, any Illusion you are currently focused on now becomes blindingly bright, damaging any creature touching them that fails the avoidance roll for 2d6 + Memory radiation damage. The illusions will last for 2 turns, purely white, still in their previous shape.
+
+  Avoidance type: Endurance
+  Roll minimum: 8
+
+- *Personal Reformation:* 5 AP, your body becomes invisible, replaced with a humanoid form of any conscious creature in your memory, it will mimic your movements, and fool any creature that fails the avoidance roll.
+
+  Avoidance type: Insight
+  Roll minimum: 6 + Connection ( yours )
 
 Soothing Seer:
 - *Tiring Strikes:* If a hit you land ( with a spell or weapon ) would reduce the amount of EP a creature has, it gives an additional -2 EP

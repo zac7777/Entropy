@@ -46,15 +46,15 @@ Mass-produced bolt rifle: +5 proficiency
 
    Accuracy: +20 - Reasoning * 2
    Critical: +10
-4. *Stock bash:* 2 AP: Melee Range, 1d6 bludgeoning damage
+4. *Stock bash:* 2 AP, Melee Range, 1d6 bludgeoning damage
 
    Accuracy: +12
    Critical: +1
-5. *Fire:* 4 AP: 30m, this move may only be used five times before the "reload" action must be used
+5. *Fire:* 4 AP, 30m, this move may only be used five times before the "reload" action must be used
 
    Accuracy: +20
    Critical: +5
-6. *Reload:* 3 AP: return all ammunition currently loaded to storage, this action costs up to 5 rounds of ".223 Remington" or a variant to use
+6. *Reload:* 3 AP, return all ammunition currently loaded to storage, this action costs up to 5 rounds of ".223 Remington" or a variant to use
 
    Proficiency requirement: 2
 7. *Hold breath:* 1 AP, you gain -10 accuracy for your next attack with a medium or long weapon and automatically fail the next spell minimum that targets you, this may only be activated once per turn

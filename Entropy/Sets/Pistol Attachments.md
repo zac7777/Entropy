@@ -16,7 +16,7 @@ Weight: 0.5kg
 *Sometimes worth it, but most of the time suppression isn't better than godsent firepower*
 
 #### Improvised bayonet
-Improvised(Small sharp object, A sturdy affixer)*
+*Improvised(Small sharp object, A sturdy affixer)*
 
 Weight: 0.5kg
 
@@ -26,7 +26,7 @@ Weight: 0.5kg
 
 ##### Actions
 
-*Stab:* 3 AP: Melee Range + 1m, 1 + Power piercing damage, on critical hit the target gets bleeding
+*Stab:* 3 AP, Melee Range + 1m, 1 + Power piercing damage, on critical hit the target gets bleeding
 
 Accuracy: +30
 Critical: +12

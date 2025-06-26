@@ -3,7 +3,7 @@
 
 ##### Actions
 
-*Stomp:* 3 AP: Melee Range, 2d8 + Power bludgeoning damage, activate only on a Knocked target
+*Stomp:* 3 AP, Melee Range, 2d8 + Power bludgeoning damage, activate only on a Knocked target
 
 Proficiency requirement: 1
 
@@ -18,7 +18,7 @@ Critical: +24
 
 ##### Actions
 
-*Sweep:* 4 AP: Melee Range + 1m, 1d6 + 3 bludgeoning damage, on a critical hit knock the target
+*Sweep:* 4 AP, Melee Range + 1m, 1d6 + 3 bludgeoning damage, on a critical hit knock the target
 
 Proficiency requirement: 2
 

@@ -46,8 +46,8 @@ AP: 6 + Memory
 
 Witch of the Pious: 
 - *Holy Lair:* while within your lair, you and any allies gain your deities favour bonus
-- *Power Prayer:* 2 AP: until end of turn, when a spell you cast deals damage it deals an additional Mental damage equal to your Power
-- *Life Prayer:* 2 AP: heal each creature within your Lair by 1d4 + Memory, each gains +2 DT to Mental and Slicing until your next turn
+- *Power Prayer:* 2 AP, until end of turn, when a spell you cast deals damage it deals an additional Mental damage equal to your Power
+- *Life Prayer:* 2 AP, heal each creature within your Lair by 1d4 + Memory, each gains +2 DT to Mental and Slicing until your next turn
 
 Witch of the Dead: 
 - *Necrotic Lair:* undead creatures are no longer stunned when teleported by your lair, and during combat, at the beginning of your turn, you may deal 2d4 Rot damage to any number of creatures within your lair
@@ -69,6 +69,6 @@ Witch of the World:
 Witch of the Bond: 
 - *Protective Lair:* your lair now offers a shield around the circumference stretching 50m high, creatures and objects of your choice cannot enter as though it was an invisible wall, but the shield will be destroyed if it sustains 30 points of damage and cannot be regenerated until combat ends
 - *Acceptable Aura:* the first spell you cast that targets an ally each turn has -1 to it's minimum and +10m to it's range
-- *Repair Rune:* 4 AP: target creature other than you within melee range has all crippled limbs repaired and regains 5 EP
+- *Repair Rune:* 4 AP, target creature other than you within melee range has all crippled limbs repaired and regains 5 EP
 
 #gameInformation #class

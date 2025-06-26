@@ -9,21 +9,21 @@ Two handed:
 
 ##### Actions
 
-*Bash:* 1 AP: Melee Range, 1 bludgeoning damage, when used roll a d10, if the result is lower than 3 this weapon will break
+*Bash:* 1 AP, Melee Range, 1 bludgeoning damage, when used roll a d10, if the result is lower than 3 this weapon will break
 
 Accuracy: +30
 Critical: +5
 
 ---
 
-*Fire:* 3 AP: 20m, -1 damage to the ammunition used, when used roll a d10, if the result is a 0 this weapon will explode dealing 1d8 damage to all creatures within 5m instead of firing, if the result is a 1 this weapon will break, this move may only be used once before the "reload" action must be used
+*Fire:* 3 AP, 20m, -1 damage to the ammunition used, when used roll a d10, if the result is a 0 this weapon will explode dealing 1d8 damage to all creatures within 5m instead of firing, if the result is a 1 this weapon will break, this move may only be used once before the "reload" action must be used
 
 Accuracy: +40
 Critical: 0
 
 ---
 
-*Reload:* 4 AP: this action costs 1 round of "Small Ammo" to use
+*Reload:* 4 AP, this action costs 1 round of "Small Ammo" to use
 
 Proficiency requirement: 3
 
@@ -41,21 +41,21 @@ Two handed: -10 Accuracy to "Fire", +10 Accuracy to "Whip"
 
 ##### Actions
 
-*Whip:* 1 AP: Melee Range, 1 bludgeoning damage
+*Whip:* 1 AP, Melee Range, 1 bludgeoning damage
 
 Accuracy: +20
 Critical: 0
 
 ---
 
-*Fire:* 2 AP: 30m, this move may only be used nine times before the "reload" action must be used
+*Fire:* 2 AP, 30m, this move may only be used nine times before the "reload" action must be used
 
 Accuracy: +20
 Critical: +5
 
 ---
 
-*Reload:* 2 AP: return all ammunition currently loaded to storage, this action costs up to 9 rounds of "9 millimetre" or a variant to use
+*Reload:* 2 AP, return all ammunition currently loaded to storage, this action costs up to 9 rounds of "9 millimetre" or a variant to use
 
 Proficiency requirement: 2
 

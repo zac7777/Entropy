@@ -9,21 +9,21 @@ Two handed: Unusable
 
 ##### Actions
 
-*Stock bash:* 2 AP: Melee Range, 1d6 bludgeoning damage
+*Stock bash:* 2 AP, Melee Range, 1d6 bludgeoning damage
 
 Accuracy: +5
 Critical: +3
 
 ---
 
-*Fire:* 2 AP: 10m, this move may only be used once before the "reload" action must be used
+*Fire:* 2 AP, 10m, this move may only be used once before the "reload" action must be used
 
 Accuracy: +20
 Critical: 0
 
 ---
 
-*Reload:* 3 AP: this action costs 1 round of "20 Gauge buckshot" or a variant to use
+*Reload:* 3 AP, this action costs 1 round of "20 Gauge buckshot" or a variant to use
 
 Proficiency requirement: 2
 

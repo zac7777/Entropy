@@ -8,21 +8,21 @@ One handed:
 Two handed: +1 damage to all moves
 ##### Actions
 
-*Swing:* 1 AP: Melee Range, 1 slashing damage
+*Swing:* 1 AP, Melee Range, 1 slashing damage
 
 Accuracy: +20
 Critical: +5
 
 ---
 
-*Poke:* 2 AP: Melee Range, 1d4 piercing damage, on critical hit -1 EP to the target
+*Poke:* 2 AP, Melee Range, 1d4 piercing damage, on critical hit -1 EP to the target
 
 Accuracy: +20
 Critical: +5
 
 ---
 
-*Throw:* 2 AP: 20m, 1d4 piercing damage, on critical hit -1 EP to the target, this unequips this weapon
+*Throw:* 2 AP, 20m, 1d4 piercing damage, on critical hit -1 EP to the target, this unequips this weapon
 
 Proficiency requirement: 2
 

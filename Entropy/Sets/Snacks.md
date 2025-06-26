@@ -7,7 +7,7 @@ Weight: 0.5kg
 
 ---
 
-*Throw:* 2 AP: 20m, 1 bludgeoning damage
+*Throw:* 2 AP, 20m, 1 bludgeoning damage
 
 Accuracy: +40
 Critical: +2
