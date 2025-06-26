@@ -2,7 +2,9 @@
 
 *Immobilised:* A creature that is immobilised cannot activate any movement actions until the effect ends
 
-*Bleeding:* A creature that is bleeding takes 1d4 Rot damage at the beginning of their turn, this can be applied multiple times. A creature only stops bleeding at the end of combat or healed by a move that specifically stops bleeding.
+*Bleeding:* A creature that is bleeding takes 1d6 rot damage at the beginning of their turn, this can be applied multiple times. A creature only stops bleeding at the end of combat or healed by a move that specifically stops bleeding.
+
+Poisoned: A creature that is poisoned takes 1d4 - 1 toxic damage whenever they take an action, this cannot be applied multiple times. A creature is not healed from poison until they are acted on by a move that specifically heals poison.
 
 *Crippled:* Each limb of a creature can be crippled individually, this means they can no longer equip a weapon in that limb or use that limb to cast spells. If any of a creature's legs are crippled the cost of their movement action is doubled, if all legs are crippled they can no longer use movement actions.
 

@@ -35,6 +35,9 @@ A player will also have a creature type, they will gain any bonuses, move speed,
 [[Gefelan]]
 [[Dafall]]
 [[Ocham]]
+[[Lemen]]
+[[Reptus]]
+[[Incanus]]
 
 ## Levels
 
