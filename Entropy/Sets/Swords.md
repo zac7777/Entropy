@@ -84,6 +84,6 @@ Avoidance type: Power
 Roll minimum: 5
 
 ---
-*It was prophesized that the day a Zweihander became lighter than a feather, martial arts would become irrelevant*
+*It's been prophesized that the day a Zweihander became lighter than a feather, martial arts would become irrelevant*
 
 #itemSet #weapons 

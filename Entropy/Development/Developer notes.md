@@ -12,7 +12,7 @@ Here, me and Cameron can talk easier
 	- Trickster
 	- Zealot
 - Write some test combats
-- Maybe a short-ish one-shot too, to test out character creation
+- Maybe a short-ish one-shot too, to test out character creation (Characters go in [[Test Characters]])
 - Think more about non-combat play
 	- How much do we mechanise it?
 		- I feel like it'd be silly to still have the EP system outside of combat

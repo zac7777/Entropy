@@ -34,6 +34,6 @@ Turns are composed of moves that have AP costs, there are four different types o
 
 ## Awareness
 
-Many types of fighters try to avoid the gaze of their opponents during combat, "Awareness" describes this phenomena in Entropy combat, if a creature has awareness of another they know where they are, otherwise they cannot target them. Awareness is gained when a creature can see another or hears them speak, then awareness is lost when they can no longer see them or by certain moves.
+Many types of fighters try to avoid the gaze of their opponents during combat, "Awareness" describes this phenomena in Entropy combat, if a creature has awareness of another they know where they are, otherwise they cannot target them and must target a location in hopes that it will hit the creature anyway. Awareness is gained when a creature can see another or hears them speak, then awareness is lost when they can no longer see them or by certain moves.
 
 #gameRules

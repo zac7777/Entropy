@@ -54,7 +54,7 @@ AP: 5 + Insight
 ###### Pathway bonuses
 
 Imitator: 
-- 
+- *Innate Tricks:* "Illusion" spells you cast have -1 AP costs, this cannot reduce their cost to below 2 AP
 
 Soothing Seer:
 - *Tiring Strikes:* If a hit you land ( with a spell or weapon ) would reduce the amount of EP a creature has, it gives an additional -2 EP
