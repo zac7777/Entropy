@@ -31,14 +31,14 @@ AP: 3 + Connection
 
 *Home Territory:* If standing within the effect of a spell you are focused on, you will not be affected by that spell, instead your movement actions will move you an extra 1m and any attacks or challenges made against you will have disadvantage
 ###### Moves
-*Selective Entrapment:* 2 AP, until the end of your next turn, if a spell you control would effect target creature, you may instead have it not.
+*Selective Entrapment:* 2 AP, target a creature, until the end of your next turn, if a spell you control would effect that creature, you may instead have it not.
 
-*Detective's Field:* 3 AP, this spell requires focus, you gain awareness of all creatures within 40m if they fail the avoidance roll.
+*Detective's Field:* 3 AP, this spell requires focus, you gain awareness of all creatures within 40m if they fail the avoidance roll. This effect ends when focus does.
 
 Avoidance type: Connection
 Roll minimum: 3 + Reasoning ( yours )
 
-*The Web:* 5 AP, this spell requires focus, all creatures within 20m are immobilised if they fail the avoidance roll, otherwise they take 1d4 - 2 slicing slicing damage whenever they make an action within this area. This effect lasts for three turns.
+*The Web:* 5 AP, this spell requires focus, all creatures within 20m are immobilised if they fail the avoidance roll, otherwise they take 1d4 - 2 slicing slicing damage whenever they make an action within this area. This effect lasts for three turns, or until focus ends.
 
 Avoidance type: Power
 Roll minimum: 6
@@ -57,9 +57,20 @@ Environmentalist:
 - 
 
 Armourer:
-- 
+- *Braided Bones:* you have a resistance to bludgeoning and shock damage, you can no longer receive DT bonuses from any source other than you and your equipment.
+- *Micronic Weave:* in any downtime you may reinforce a piece of armour you own with energetic thread, during combat you may spell-focus on this weave to gain +5 DT to any physical type ( select one type when reinforcing the armour ). This may only be applied to each piece of armour once, this weave adds no weight.
+- *Protective Circle:* 3 AP, this spell requires focus, all creatures within 40m gain +2 DT to bludgeoning and piercing damage, and lingering effects ( such as status effects, buffs, or nerfs ) of your choice no longer apply to those creatures, as long as they remain in the range.
 
 Searer:
-- 
+- *Binding Melt:* 2 AP, any creatures you currently have immobilised take Connection d6 - 5 heat damage and are no longer immobilised
+- *Fire Trap:* 3 AP, place an invisible trap attached to any surface or object within 30m. When a creature steps within 1m of this trap, they and any other creatures within 5m will be basted with a pillar of flaming chains dealing 2d10 heat damage and knocking each back 10m
+
+  Avoidance type: Reasoning
+  Roll minimum: 8
+
+- *Permanent Weld:* 6 AP, any creatures you currently have immobilised and fail the avoidance roll will now be immobilised until you lose focus, if they succeed the roll they will take 1d6 + Power heat damage
+
+  Avoidance type: Connection
+  Roll minimum: 4
 
 #gameInformation #class

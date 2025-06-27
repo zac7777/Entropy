@@ -35,8 +35,7 @@
               "title": "Trapper"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "874cba2549c39f80",
@@ -76,16 +75,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Witch.md",
+                "file": "Classes/Soldier.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Witch"
+              "title": "Soldier"
+            }
+          },
+          {
+            "id": "74c6c4e8080ddbdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/Soldier.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Soldier"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -230,17 +243,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2f0646c24a57529",
+  "active": "8f7afed5ba4730c3",
   "lastOpenFiles": [
+    "Classes/Trapper.md",
+    "Development/Developer notes.md",
+    "Classes/Soldier.md",
+    "Core Concepts/Combat.md",
     "Classes/Witch.md",
     "Classes/Knight.md",
-    "Classes/Trapper.md",
     "Core Concepts/Damage Types.md",
     "Stats/EP.md",
     "Structure/Welcome.md",
     "Development/Test Characters.md",
     "Pasted image 20250626202807.png",
-    "Development/Developer notes.md",
     "Sets/Unarmed Moves.md",
     "Sets/Features.md",
     "Species/Incanus.md",
@@ -250,7 +265,6 @@
     "Core Concepts/Status Effects.md",
     "Species/Arachnine.md",
     "Stats/HP.md",
-    "Core Concepts/Combat.md",
     "Species/Lemen.md",
     "Species/Ocham.md",
     "Species/Gefelan.md",
