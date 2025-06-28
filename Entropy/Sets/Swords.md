@@ -76,7 +76,7 @@ Critical: +23
 
 ---
 
-*Quillon Hook:* 2 AP, target creature within Melee Range unequips a light and/or contact weapon
+*Quillon Hook:* 2 AP, target creature within Melee Range unequips a light and/or contact weapon, the weapon is sent 5m away to the ground
 
 Proficiency requirement: 4
 

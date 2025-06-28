@@ -51,10 +51,17 @@ AP: 3 + Connection * 2
 ###### Pathway bonuses
 
 Punisher: 
-- 
+- *Perceptive attacks:* your attacks against creatures gain +2 Accuracy for each Nerf you have applied to them
+- *Clip their Wings:* 1 AP, until end of turn, whenever you land a critical hit on an immobilised creature, you may cripple any one of their limbs
+- *Hooked Chain:* 5 AP, target creature within 20m unequips a non-contact weapon, the weapons is sent 1m away from you on the ground
+
+  Avoidance type: Power
+  Roll minimum: 
 
 Environmentalist:
-- 
+- *Comfort's Reach:* If standing within the effect of a spell you are focused on, your melee range is increased by 1m, your movement is now silent and will only cause creatures to gain awareness of you if you stand directly in front of them, and you have +2 DT to mental damage
+- *Dragging Tangles:* creatures of your choice's movement actions while within the effect of a spell you are focused on cost 2 AP more
+- *Primitive Fort:* in any long downtime, you can create a shelter of magical chains around yourself and one other creature, they will sustain 20 points of damage before collapsing
 
 Armourer:
 - *Braided Bones:* you have a resistance to bludgeoning and shock damage, you can no longer receive DT bonuses from any source other than you and your equipment.
