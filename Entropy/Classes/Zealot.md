@@ -21,7 +21,7 @@ Peace
 
 ##### Base:
 EP bonus: +30
-Maximum action list size: +10
+Action list size: +10
 
 ---
 #### Level 1:

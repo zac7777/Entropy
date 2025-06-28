@@ -4,7 +4,7 @@ Melee range: 1m
 
 Number of limbs: four arms, four legs, one head
 
-*Natural arcane talent:* upon creation Arachnines may choose a signature spell, this spell has a +2 minimum to all applicable moves
+*Natural arcane talent:* upon creation Sparach may choose a signature spell, this spell has a +2 minimum to all applicable moves
 
 ---
 

@@ -31,7 +31,9 @@ The classes are also intended to match the four Keywords of it's column and row.
 A player will also have a creature type, they will gain any bonuses, move speed, and melee range from that species. A species will also affect their physical appearance.
 
 [[Human]]
-[[Arachnine]]
+[[Elf]]
+[[Dwarf]]
+[[Sparach]]
 [[Gefelan]]
 [[Dafall]]
 [[Ocham]]
@@ -46,7 +48,7 @@ Levels are a vague guideline for the power-level of characters, creatures, and i
 ##### Every single level
 - A player may gain a new level of a class they have unlocked already
 
-##### Every other level
+##### Every even level
 - A player may, instead of upping the level of an already known class, unlock a new class and begin at it's first level, a player can have a maximum of five classes
 
 ##### Every fourth level
