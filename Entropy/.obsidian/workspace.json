@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Trapper.md",
+                "file": "Classes/Zealot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trapper"
+              "title": "Zealot"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "874cba2549c39f80",
@@ -47,12 +48,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sets/Swords.md",
+                "file": "Stats/Action List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Swords"
+              "title": "Action List"
+            }
+          },
+          {
+            "id": "f69a9a489b46e002",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Concepts/Player Characters.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Player Characters"
             }
           },
           {
@@ -75,15 +90,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Soldier.md",
+                "file": "Sets/Axes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Soldier"
+              "title": "Axes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,14 +244,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f7afed5ba4730c3",
+  "active": "f2f0646c24a57529",
   "lastOpenFiles": [
+    "Core Concepts/Player Characters.md",
+    "Classes/Zealot.md",
+    "Sets/Axes.md",
+    "Classes/Soldier.md",
+    "Classes/Trickster.md",
     "Classes/Trapper.md",
+    "Classes/Survivalist.md",
+    "Development/Developer notes.md",
+    "Stats/Action List.md",
     "Sets/Swords.md",
     "Core Concepts/Damage Types.md",
     "Classes/Knight.md",
-    "Classes/Soldier.md",
-    "Development/Developer notes.md",
     "Core Concepts/Combat.md",
     "Classes/Witch.md",
     "Stats/EP.md",
@@ -247,16 +269,10 @@
     "Species/Incanus.md",
     "Species/Human.md",
     "Species/Reptus.md",
-    "Core Concepts/Player Characters.md",
     "Core Concepts/Status Effects.md",
     "Species/Arachnine.md",
     "Stats/HP.md",
     "Species/Lemen.md",
-    "Species/Ocham.md",
-    "Species/Gefelan.md",
-    "Species/Dafall.md",
-    "Classes/Trickster.md",
-    "Sets/Snacks.md",
     "Species",
     "Development",
     "Resources/Ehlen Map Resource.png",
