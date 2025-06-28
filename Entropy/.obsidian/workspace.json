@@ -36,20 +36,6 @@
             }
           },
           {
-            "id": "9b1a86662ce49862",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Species/Dwarf.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dwarf"
-            }
-          },
-          {
             "id": "f2f0646c24a57529",
             "type": "leaf",
             "state": {
@@ -62,23 +48,9 @@
               "icon": "lucide-file",
               "title": "Zealot"
             }
-          },
-          {
-            "id": "8d1f36ed79d32df1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Species/Elf.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Elf"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "0a89c82154d93351",
@@ -90,12 +62,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Species/Human.md",
+                "file": "Species/Reptus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Human"
+              "title": "Reptus"
             }
           }
         ]
@@ -243,12 +215,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b1a86662ce49862",
+  "active": "eca9e31705ccce73",
   "lastOpenFiles": [
+    "Species/Goblin.md",
+    "Species/Reptus.md",
+    "Pasted image 20250628201830.png",
     "Core Concepts/Player Characters.md",
-    "Species/Dwarf.md",
-    "Species/Elf.md",
+    "Species/Terraque.md",
     "Species/Human.md",
+    "Species/Dafall.md",
+    "Species/Sparach.md",
+    "Species/Ocham.md",
+    "Species/Lemen.md",
+    "Species/Incanus.md",
+    "Species/Gefelan.md",
+    "Species/Elf.md",
+    "Species/Dwarf.md",
     "Development/Test Characters.md",
     "Development/Developer notes.md",
     "Sets/Armours/Leathers.md",
@@ -264,20 +246,10 @@
     "Sets/Spells",
     "Sets/Ammunition",
     "Sets/Weapons",
-    "Species/Sparach.md",
     "Sets/Weapons/Axes.md",
     "Classes/Soldier.md",
     "Classes/Trickster.md",
     "Classes/Trapper.md",
-    "Classes/Survivalist.md",
-    "Stats/Action List.md",
-    "Sets/Weapons/Swords.md",
-    "Core Concepts/Damage Types.md",
-    "Classes/Knight.md",
-    "Core Concepts/Combat.md",
-    "Classes/Witch.md",
-    "Stats/EP.md",
-    "Structure/Welcome.md",
     "Pasted image 20250626202807.png",
     "Species",
     "Development",

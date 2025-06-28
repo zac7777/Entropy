@@ -10,7 +10,7 @@ Number of limbs: two arms, two legs, one head, one tail
 
 Move action: 1 AP, move 1 meter in any direction
 
-Swap weapon action: 2 AP, swap any one equipment from either hand to storage, or from storage to hand
+Swap weapon action: 4 AP, swap any one equipment from either hand to storage, or from storage to hand
 
 Speak action: 1 AP, you may speak up to three sentences verbally
 
