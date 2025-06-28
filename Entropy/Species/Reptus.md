@@ -1,4 +1,4 @@
-*Scaled folk, survivors of the grandest extinctions and apocalypses, after generations of seeing death, a species develops a sense of humour. Drawn to entertainment and the arts, especially musical.*
+*Scaled folk, survivors of the grandest extinctions and apocalypses, after generations of seeing death, a species develops a sense of humour. Drawn to entertainment and the arts, especially music.*
 
 Melee range: 2m
 

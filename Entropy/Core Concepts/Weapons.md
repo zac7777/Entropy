@@ -15,5 +15,6 @@
 [[Thrown Explosives]]
 [[Shotguns]]
 [[Wands]]
+[[Bows]]
 
 #itemType 
