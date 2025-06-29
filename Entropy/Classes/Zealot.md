@@ -51,7 +51,13 @@ AP: 3 + Power * 2
 ###### Pathway bonuses
 
 Rage: 
-- *State of Fury:* 4 AP, you are Aggravated against target creature within 10m, lose all spell focus and are vulnerable to all magical damage types, however you gain +2 to Power and Endurance and gain +20 critical. This state lasts for 3 turns or until you lose a Memory or Reasoning challenge.
+- *Power Through:* twice per combat, if you would be challenged on Endurance or Connection, you may instead use your Power bonus
+- *Relentless Retaliation:* 3 AP, this spell requires focus, the next time you attack target creature within 20m that dealt damage to you since your last turn, it will be an automatic critical hit and you may cripple one of their limbs
+
+  Avoidance type: Insight
+  Roll minimum: 9
+
+- *State of Fury:* 5 AP, you are Aggravated against target creature within 10m, lose all spell focus and are vulnerable to all magical damage types, however you gain +2 to Power and Endurance and gain +20 critical. This state lasts for 3 turns or until you lose a Memory or Reasoning challenge.
 
 Joy:
 - *Manic State:* 6 AP, you are Blinded, all creatures within 40m gain awareness of you, at the beginning of each of your turns you take 1d4 + 1 suffocation damage, however your movement actions move you an additional 2m each time you activate them, have advantage on challenges made against you, and your weapon attacks cost 1 AP less. This state lasts for 5 turns or until you take mental damage.
