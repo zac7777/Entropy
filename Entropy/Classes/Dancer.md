@@ -17,4 +17,6 @@ Enraging act
 Dance of bullets
 	A gun in hand, movements in mind, and the trigger-finger to execute the both the show, and the audience
 
+
++10 Dodge
 #gameInformation #class
