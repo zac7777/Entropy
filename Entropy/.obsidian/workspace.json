@@ -62,6 +62,20 @@
               "icon": "lucide-file",
               "title": "Zealot"
             }
+          },
+          {
+            "id": "51eef0b3991dab67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sets/Miscellaneous/Snacks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Snacks"
+            }
           }
         ],
         "currentTab": 3
@@ -118,16 +132,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sets/Spells/Mind.md",
+                "file": "Sets/Miscellaneous/Medicines.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mind"
+              "title": "Medicines"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -272,10 +285,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ed60aff09d5b64d4",
+  "active": "f2f0646c24a57529",
   "lastOpenFiles": [
+    "Classes/Duellist.md",
+    "Classes/Dancer.md",
     "Classes/Zealot.md",
     "Core Concepts/Status Effects.md",
+    "Sets/Miscellaneous/Medicines.md",
+    "Sets/Miscellaneous/Snacks.md",
     "Sets/Spells/Mind.md",
     "Sets/Spells/Flame.md",
     "Core Concepts/Spells.md",
@@ -283,7 +300,6 @@
     "Development/Test Characters.md",
     "Development/Developer notes.md",
     "Core Concepts/Player Characters.md",
-    "Classes/Duellist.md",
     "Sets/Ammunition/Small Cartridges.md",
     "Sets/Weapons/Bows.md",
     "Sets/Weapons/Slow Rifles.md",
@@ -298,9 +314,6 @@
     "Species/Human.md",
     "Species/Dafall.md",
     "Species/Sparach.md",
-    "Species/Ocham.md",
-    "Species/Lemen.md",
-    "Species/Incanus.md",
     "Sets/Miscellaneous",
     "Sets/Creatures",
     "Sets/Armours",

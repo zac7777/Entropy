@@ -33,7 +33,7 @@ AP: 1 + Power * 2
 ###### Moves
 *Deep Breath:* 1 AP, you lose all spell focus, until end of turn your attacks have -5 Accuracy, this may only be activated up to four times per turn
 
-*Psych Up:* 3 AP, until end of turn your attacks have -20 Accuracy and your spells have -2 Minimum rolls, but damage rolls you make this turn have advantage, and any creature you hit either succeeds the avoidance roll or will be stunned
+*Psych Up:* 3 AP, until end of turn your attacks have -20 Accuracy and your spells have -2 Minimum rolls, but damage rolls you make this turn have advantage, and any creature you hit either succeeds the avoidance roll or will be Stunned
 
 Avoidance type: Endurance
 Roll minimum: 5
@@ -58,9 +58,9 @@ Joy:
 
 Owe:
 - *Apologetics:*
-- *State of Guilt:*
+- *State of Guilt:* 3 AP, you are Knocked, you unequip any equipped weapons, and lose -2 to Memory and Reasoning, however, whenever you apply a Buff to an allied creature they get +2 DT to any magical type in addition, spells you cast have a +1 minimum, and if another creature within Melee range would be hit by a spell or a weapon, you may choose to have it hit you instead. This state lasts for 2 turns or until you use the "swap weapon action".
 
 Peace:
-- *Empty State:*
+- *Empty State:* 4 AP, you are Stunned, at the beginning of your turn you are Stunned, this action immediately ends your turn, however at the end of each turn, gain +1 HP for each remaining AP, you have +2 Connection and Insight, attacks against you have disadvantage. This state lasts for 4 turns or if you move or are moved.
 
 #gameInformation #class
