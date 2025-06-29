@@ -8,7 +8,6 @@ Here, me and Cameron can talk easier
 	- Smith
 	- Spellslinger
 	- Survivalist
-	- Zealot
 - Probs need to re-do Knight, Soldier, and Boxer as they were done very early days
 - Write some test combats
 - Maybe a short-ish one-shot too, to test out character creation (Characters go in [[Test Characters]])

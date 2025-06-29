@@ -33,7 +33,7 @@ AP: 5 + Power
 ###### Moves
 *Gloves off:* 1 AP, put an equipped glove into storage, the next spell you cast has a +2 to it's minimum roll, this may only be activated once per turn
 
-*Leap:* 2 AP, move 4m in any direction, ignoring anything on the floor, your next attack this turn has +20 accuracy, this may only be activated up to twice per turn
+*Leap:* 2 AP, move 5m in any direction, ignoring anything on the floor, your next attack this turn has +20 accuracy, this may only be activated up to twice per turn
 
 *Surprise elbow:* 3 AP, Melee Range + 1m, 1d6 bludgeoning damage, if this is not the first attack action you made this turn the target is immobilised until your next turn
 

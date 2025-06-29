@@ -38,7 +38,7 @@ AP: 1 + Power * 2
 Avoidance type: Endurance
 Roll minimum: 5
 
-*Righteous Charge:* 4 AP, you rush forward 20m, dealing 1d4 bludgeoning damage to any creatures in your way that the attack hits
+*Righteous Charge:* 6 AP, you rush forward 20m, dealing 1d4 bludgeoning damage to any creatures in your way that the attack hits
 
 Accuracy: +24 - Power
 Critical: +7
@@ -60,13 +60,22 @@ Rage:
 - *State of Fury:* 5 AP, you are Aggravated against target creature within 10m, lose all spell focus and are vulnerable to all magical damage types, however you gain +2 to Power and Endurance and gain +20 critical. This state lasts for 3 turns or until you lose a Memory or Reasoning challenge.
 
 Joy:
-- *Manic State:* 6 AP, you are Blinded, all creatures within 40m gain awareness of you, at the beginning of each of your turns you take 1d4 + 1 suffocation damage, however your movement actions move you an additional 2m each time you activate them, have advantage on challenges made against you, and your weapon attacks cost 1 AP less. This state lasts for 5 turns or until you take mental damage.
+- *Shared Love:* creatures with awareness of you are vulnerable to mental and cold damage, whenever you stun a creature they receive an additional 1d6 + Insight mental damage
+- *Blissful Skip:* 4 AP, move up to 12m in any direction, all creatures within 40m gain awareness of you
+- *Manic State:* 6 AP, you are Blinded, all creatures within 40m gain awareness of you, at the beginning of each of your turns you take 1d4 + 1 suffocation damage, however your movement actions move you an additional 2m each time you activate them, have advantage on challenges made against you, and your weapon attacks cost 1 AP less ( this cannot reduce their cost to below 2 AP ). This state lasts for 5 turns or until you take mental damage.
 
 Owe:
-- *Apologetics:*
+- *Paid Debt:* you gain -1 Accuracy, +1 Dodge and +1 Critical for each Buff you currently have applied to creatures
+- *Apologetics:* 3 AP, other creatures of your choice within 30m that can hear you gain advantage on their next two hit rolls, and will receive double healing from any source for three turns, all of that given that they succeed the hit roll
+
+  Avoidance type: Connection
+  Roll minimum: 4 - Insight ( yours )
+
 - *State of Guilt:* 3 AP, you are Knocked, you unequip any equipped weapons, and lose -2 to Memory and Reasoning, however, whenever you apply a Buff to an allied creature they get +2 DT to any magical type in addition, spells you cast have a +1 minimum, and if another creature within Melee range would be hit by a spell or a weapon, you may choose to have it hit you instead. This state lasts for 2 turns or until you use the "swap weapon action".
 
 Peace:
+- *True Silence:* whenever you kill a creature, you may gain a "Mark of Silence" these may be spent whenever you would become Stunned to be immune to it until the next time you would be stunned. You begin each combat with 0 marks.
+- *Pacify:* 2 AP and a "Mark of Silence", your next hit against a creature also gives -4 EP, this may only be activated twice per turn.
 - *Empty State:* 4 AP, you are Stunned, at the beginning of your turn you are Stunned, this action immediately ends your turn, however at the end of each turn, gain +1 HP for each remaining AP, you have +2 Connection and Insight, attacks against you have disadvantage. This state lasts for 4 turns or if you move or are moved.
 
 #gameInformation #class
