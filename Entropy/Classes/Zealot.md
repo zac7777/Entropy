@@ -51,15 +51,16 @@ AP: 3 + Power * 2
 ###### Pathway bonuses
 
 Rage: 
-- 
+- *State of Fury:* 4 AP, you are Aggravated against target creature within 10m, lose all spell focus and are vulnerable to all magical damage types, however you gain +2 to Power and Endurance and gain +20 critical. This state lasts for 3 turns or until you lose a Memory or Reasoning challenge.
 
 Joy:
-- 
+- *Manic State:* 6 AP, you are Blinded, all creatures within 40m gain awareness of you, at the beginning of each of your turns you take 1d4 + 1 suffocation damage, however your movement actions move you an additional 2m each time you activate them, have advantage on challenges made against you, and your weapon attacks cost 1 AP less. This state lasts for 5 turns or until you take mental damage.
 
 Owe:
-- 
+- *Apologetics:*
+- *State of Guilt:*
 
 Peace:
-- 
+- *Empty State:*
 
 #gameInformation #class

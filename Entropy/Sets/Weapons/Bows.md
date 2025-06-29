@@ -8,7 +8,7 @@ One handed: Unusable
 Two handed: 
 ##### Actions
 
-*Draw:* 2 AP, this action costs 1 arrow of any to use
+*Draw:* 2 AP, this action costs 1 arrow of any type to use
 
 Proficiency requirement: 2
 

@@ -21,5 +21,6 @@ If a spell has a lingering effect, it will often be tagged with "Focus" most cas
 [[Bond]]
 [[Summon Undead]]
 [[Illusion]]
+[[Mind]]
 
 #itemType 

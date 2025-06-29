@@ -29,7 +29,7 @@ Insight bonus when determining turn order: +3
 HP: 2d8 + Insight
 AP: 5 + Reasoning
 
-*Pre-emptive strike:* before turn order is determined and combat begins you may make any attack that costs less than 4 AP for no cost
+*Pre-emptive strike:* before turn order is determined and combat begins you may activate any attack on an equipped weapon that costs less than 4 AP for no cost
 ###### Moves
 *Violent overture:* 1 AP, you gain an additional amount of AP equal to your Reasoning * 2, this effect lasts until the end of your turn. You may not spend AP in your next turn. This may only be activated once per turn, and only in your first turn
 
