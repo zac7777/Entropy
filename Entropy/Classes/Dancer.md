@@ -49,7 +49,7 @@ AP: 6 + Endurance
 
 Light feeted ballet: 
 - *Silent Act:* if a creature attempts to hit you while it has no awareness of you, it's attack has +20 Accuracy or the challenge has -3 minimum
-- *The Ensemble:* ||SOMETHING TEAM FOCUSED||
+- *The Ensemble:* you gain +2 dodge for each allied creature within 20m
 - *Tip Toe:* 3 AP, move up to 10m in any direction, this is silent and will only cause creatures to gain awareness of you if you stand directly in front of them, you gain +15 Dodge until your next turn
 
 Living buzzsaw:
@@ -61,9 +61,24 @@ Living buzzsaw:
   Roll minimum
 
 Enraging act:
-- 
+- *Minimise Attention:* 1 AP, target creature that has awareness of you and is further than 10m away loses awareness of you or any creatures of your choice within 20m
+
+  Avoidance type: Memory
+  Roll minimum: 5
+
+- *Become a Pariah:* 3 AP, all creatures that can see you are Aggravated against you
+
+  Avoidance type: Reasoning
+  Roll minimum: 4
+
+- *Interpret Hatred:* 5 AP, target creature that can see you is Aggravated against another target creature they can see
+
+  Avoidance type: Insight
+  Roll minimum: 5 + Insight ( yours )
 
 Dance of bullets:
-- 
+- *Run and Gun:* whenever you use the "Fire" action on a weapon, you may also move 1m in any direction, if you do that action has +5 Accuracy
+- *Large Audience:* whenever you land a hit on a creature, if you have not damaged that creature before this turn, you deal an additional Insight - 1d4 mental damage to each creature that you've damaged this turn
+- *Firing Duet:* for each ally within 10m with a gun equipped, they all gain +5 Accuracy
 
 #gameInformation #class

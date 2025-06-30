@@ -90,12 +90,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Trapper.md",
+                "file": "Classes/Duellist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trapper"
+              "title": "Duellist"
             }
           },
           {
@@ -259,18 +259,18 @@
   },
   "active": "f2f0646c24a57529",
   "lastOpenFiles": [
+    "Classes/Duellist.md",
+    "Classes/Soldier.md",
+    "Classes/Dancer.md",
     "Classes/Trapper.md",
     "Classes/Zealot.md",
-    "Classes/Dancer.md",
     "Classes/Thief.md",
-    "Classes/Soldier.md",
     "Classes/Knight.md",
     "Classes/Boxer.md",
     "Core Concepts/Status Effects.md",
     "Classes/Spellslinger.md",
     "Sets/Miscellaneous/Snacks.md",
     "Development/Developer notes.md",
-    "Classes/Duellist.md",
     "Sets/Miscellaneous/Medicines.md",
     "Sets/Spells/Mind.md",
     "Sets/Spells/Flame.md",
