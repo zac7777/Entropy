@@ -90,12 +90,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Boxer.md",
+                "file": "Classes/Soldier.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Boxer"
+              "title": "Soldier"
             }
           },
           {
@@ -259,14 +259,16 @@
   },
   "active": "f2f0646c24a57529",
   "lastOpenFiles": [
-    "Classes/Boxer.md",
+    "Classes/Soldier.md",
     "Classes/Dancer.md",
+    "Classes/Knight.md",
+    "Classes/Boxer.md",
+    "Core Concepts/Status Effects.md",
     "Classes/Spellslinger.md",
     "Classes/Zealot.md",
     "Sets/Miscellaneous/Snacks.md",
     "Development/Developer notes.md",
     "Classes/Duellist.md",
-    "Core Concepts/Status Effects.md",
     "Sets/Miscellaneous/Medicines.md",
     "Sets/Spells/Mind.md",
     "Sets/Spells/Flame.md",
@@ -284,8 +286,6 @@
     "Species/Reptus.md",
     "Species/Goblin.md",
     "Pasted image 20250628201830.png",
-    "Species/Terraque.md",
-    "Species/Human.md",
     "Sets/Miscellaneous",
     "Sets/Creatures",
     "Sets/Armours",

@@ -29,16 +29,16 @@ Dodge bonus: +15
 HP: 3d6 + 2 * Insight
 AP: 4 + Endurance
 
-*The Sequence:* whenever an attack or spell misses you, if the target is within 10m, you may activate an attack move targeting that creature that costs less than 3 AP for free
+*The Sequence:* whenever an attack or spell misses you, if the source is within 10m, you may activate an attack move targeting that creature that costs less than 3 AP for free
 ###### Moves
-*Gloves off:* 1 AP, put an equipped glove into storage, the next spell you cast has a +2 to it's minimum roll, this may only be activated once per turn
+*Predetermine:* 1 AP, tell your GM exactly what moves you will activate this turn, as long as you perform these moves exactly as explained, you gain -10 Accuracy and +2 DT to slicing until your next turn. If at any point the described sequence is not replicated, you are Knocked and gain vulnerability to mental damage until your next turn, losing the Accuracy and DT bonus described before
 
-*Leap:* 2 AP, move 5m in any direction, ignoring anything on the floor, your next attack this turn has +20 accuracy, this may only be activated up to twice per turn
+*Wide Spin:* 5 AP, you may activate any attack that costs 3 AP or less and would only target one creature for free, instead it targets every creature it's valid for it to target and the damage roll has advantage ( within range and any other requirements ).
 
-*Surprise elbow:* 3 AP, Melee Range + 1m, 1d6 bludgeoning damage, if this is not the first attack action you made this turn the target is immobilised until your next turn
+*Finale:* 7 AP, Melee Range + 1m, Insight d10 slicing damage, this can only target a creature that you have damaged 5 times this combat
 
-Accuracy: +30
-Critical: 0
+Accuracy: +14
+Critical: +8
 
 #### Level 2:
 
@@ -51,7 +51,12 @@ Light feeted ballet:
 - 
 
 Living buzzsaw:
-- 
+- *Sever Flesh:* whenever you deal damage to a creature, if it's the third or later time you have, apply one level of bleeding
+- *Spin:* 2 AP, while "Spinning" you have +12 dodge, movement actions cost -1 AP ( this cannot reduce their cost to below 2 AP ), and if any creature steps within Melee range +2m they receive 1d4 + Endurance slicing damage. However, while spinning you cannot spell focus, gain awareness of creatures, or succeed challenges based on Reasoning or Memory. This effect end when you are knocked back or choose to end the effect.
+- *Interpret Pain:* 4 AP, target creature that can see you gains vulnerability to slicing damage and loses any DT to slicing, piercing, and shock. This effect lasts for 3 turns.
+
+  Avoidance type: Reasoning
+  Roll minimum
 
 Enraging act:
 - 
