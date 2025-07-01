@@ -36,4 +36,12 @@ Turns are composed of moves that have AP costs, there are four different types o
 
 Many types of fighters try to avoid the gaze of their opponents during combat, "Awareness" describes this phenomena in Entropy combat, if a creature has awareness of another they know where they are, otherwise they cannot target them and must target a location in hopes that it will hit the creature anyway. Awareness is gained when a creature can see another or hears them speak, then awareness is lost when they can no longer see them or by certain moves.
 
+## Cover
+
+Fights should take place in environments with obstacles and shape, the amount of cover is dependant on how much of a creature can be hit through it, then that amount effects the accuracy. For example:
+
+- Quarter cover: +25 Accuracy or -1 minimum
+- Half cover: +50 Accuracy or -2 minimum
+- Full cover: +100 Accuracy or -10 minimum
+
 #gameRules
