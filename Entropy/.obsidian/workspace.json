@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "eca9e31705ccce73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core Concepts/Player Characters.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Player Characters"
-            }
-          },
-          {
             "id": "a6fadc064bdd4a94",
             "type": "leaf",
             "state": {
@@ -46,35 +32,55 @@
             }
           },
           {
-            "id": "fde51376ed1a62b2",
+            "id": "2c56e699989c3c28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/Factions/Jyasla.md",
+                "file": "Development/Test Characters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jyasla"
-            }
-          },
-          {
-            "id": "5b176f661e8e7bef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core Concepts/Non-player Creatures.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Non-player Creatures"
+              "title": "Test Characters"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
+      },
+      {
+        "id": "82ca905503f610d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "194ced700e490fb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stats/Accuracy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Accuracy"
+            }
+          },
+          {
+            "id": "5d5b308cb3591571",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sets/Miscellaneous/Features.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Features"
+            }
+          }
+        ]
       },
       {
         "id": "1881fe5a23ff266f",
@@ -86,72 +92,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core Concepts/Status Effects.md",
+                "file": "Core Concepts/Classes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Status Effects"
+              "title": "Classes"
             }
           },
           {
-            "id": "cb41ed5d41f7eb18",
+            "id": "f2d49e57ad1de2bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core Concepts/Miscellaneous.md",
+                "file": "Sets/Spells/Flame.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Miscellaneous"
-            }
-          },
-          {
-            "id": "ec24119fd828d0e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sets/Miscellaneous/Snacks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Snacks"
-            }
-          },
-          {
-            "id": "07be15ad2f631638",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sets/Miscellaneous/Hats.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hats"
-            }
-          },
-          {
-            "id": "ff631ff770b3f442",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sets/Ammunition/Shells.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Shells"
+              "title": "Flame"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -296,34 +260,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fde51376ed1a62b2",
+  "active": "2c56e699989c3c28",
   "lastOpenFiles": [
+    "Sets/Spells/Flame.md",
+    "Development/Test Characters.md",
     "Sets/Miscellaneous/Snacks.md",
-    "Sets/Weapons/Wands.md",
-    "Story/Factions/Jyasla.md",
-    "Sets/Creatures/Inkbeasts.md",
-    "Species/Ocham.md",
-    "Sets/Weapons/Swords.md",
-    "Sets/Spells/Bond.md",
-    "Sets/Miscellaneous/Jewellery.md",
-    "Sets/Miscellaneous/Hats.md",
-    "Sets/Weapons/Shotguns.md",
-    "Core Concepts/Miscellaneous.md",
-    "Sets/Ammunition/Shells.md",
-    "Sets/Ammunition/Small Cartridges.md",
-    "Sets/Weapons/Bows.md",
-    "Sets/Weapons/Pistols.md",
+    "Sets/Weapons/Spoons.md",
+    "Stats/Accuracy.md",
+    "Classes/Soldier.md",
+    "Species/Human.md",
+    "Sets/Miscellaneous/Features.md",
+    "Core Concepts/Storage.md",
+    "Stats/Criticals.md",
+    "Stats/Dodge.md",
+    "Stats/Action List.md",
+    "Core Concepts/Classes.md",
+    "Classes/Sniper.md",
     "Core Concepts/Status Effects.md",
-    "Sets/Miscellaneous/Masks.md",
-    "Sets/Weapons/Slow Rifles.md",
-    "Sets/Armours/Leathers.md",
+    "Sets/Weapons/Knives.md",
+    "Core Concepts/Weapons.md",
     "Sets/Weapons/Axes.md",
-    "Species/Gefelan.md",
-    "Sets/Creatures/Undead.md",
-    "Sets/Miscellaneous/Shoes.md",
-    "Sets/Creatures/Goblins.md",
-    "Core Concepts/Non-player Creatures.md",
-    "Development/Developer notes.md",
+    "Sets/Weapons/Swords.md",
+    "Core Concepts/Species.md",
+    "Core Concepts/Player Characters.md",
+    "Core Concepts/Items.md",
+    "Core Concepts/Miscellaneous.md",
+    "Core Concepts/Spells.md",
+    "Sets/Weapons/Hammers.md",
+    "Sets/Miscellaneous/Hats.md",
     "Pasted image 20250628201830.png",
     "Sets/Miscellaneous",
     "Sets/Creatures",

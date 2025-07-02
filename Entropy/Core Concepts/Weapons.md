@@ -8,8 +8,11 @@
 
 ## Weapon sets
 [[Axes]]
+[[Hammers]]
 [[Gloves]]
 [[Swords]]
+[[Knives]]
+[[Spoons]]
 [[Pistols]]
 [[Slow Rifles]]
 [[Thrown Explosives]]
