@@ -1,5 +1,5 @@
 ## Level 1
-#### Spark palms
+#### Spark Palms
 *Contact, Martial, Innate*
 
 ##### Actions

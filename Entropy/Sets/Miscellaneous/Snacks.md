@@ -3,11 +3,11 @@
 Weight: 0.5kg
 ##### Moves
 
-*Eat:* 1 AP, recover 2 HP and 5 EP
+*Eat:* 1 AP, recover 2 HP and 5 EP, this consumes the apple
 
 ---
 
-*Throw:* 2 AP, 20m, 1 bludgeoning damage
+*Throw:* 2 AP, 20m, 1 bludgeoning damage, this unequips this item
 
 Accuracy: +40
 Critical: +2
