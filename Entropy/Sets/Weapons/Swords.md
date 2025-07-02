@@ -9,7 +9,7 @@ Two handed: +1 AP cost to all moves
 
 ##### Actions
 
-*Swing:* 3 AP, Melee Range + 1m, 1d8 + Power slashing damage
+*Swing:* 3 AP, Melee Range + 1m, 1d8 + Power slicing damage
 
 Accuracy: +15
 Critical: +5
@@ -33,6 +33,41 @@ Critical: +5
 ---
 *The blade most young squires start their careers with, easy to learn with room for mastery*
 
+#### The Paintbrush
+*Contact, Manageable, Martial, Legendary*
+
+Weight: 1kg
+
+*Inkbuster:* you are immune to blindness from non-magical sources, this weapon begins to glow bright orange when in the presence of animated ink
+
+One handed: -8 Accuracy
+Two handed: +1 AP cost to all moves
+
+##### Actions
+
+*Swing:* 3 AP, Melee Range + 1m, 1d8 + Power slicing damage
+
+Accuracy: +10
+Critical: +6
+
+---
+
+*Stab:* 4 AP, Melee Range + 2m, 2d6 + Insight piercing damage
+
+Accuracy: +5
+Critical: +19
+
+---
+
+*Pommel:* 1 AP, Melee Range, 1d4 + Power bludgeoning damage, on critical hit stun the target
+
+Proficiency requirement: 3
+
+Accuracy: +18
+Critical: +4
+
+---
+*The painter of Medius found it a perfect tool to convey his work, time to give those beasts a lesson in critical wound analysis*
 ## Level 6
 #### Zweihander
 *Contact, Heavy, Martial, Rare*
@@ -44,7 +79,7 @@ Two handed:
 
 ##### Actions
 
-*Swing:* 3 AP, Melee Range + 2m, 3d8 + ( Power * 2 ) slashing damage
+*Swing:* 3 AP, Melee Range + 2m, 3d8 + ( Power * 2 ) slicing damage
 
 Accuracy: +20
 Critical: +9

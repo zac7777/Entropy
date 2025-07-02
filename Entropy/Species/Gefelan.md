@@ -14,7 +14,7 @@ Swap weapon action: 3 AP, swap any one equipment from either hand to storage, or
 
 Speak action: 1 AP, you may speak up to three sentences verbally
 
-Unarmed action: 3 AP, Melee range, 1d4 + Power slashing damage
+Unarmed action: 3 AP, Melee range, 1d4 + Power slicing damage
 
 Accuracy: +10
 Critical: +5

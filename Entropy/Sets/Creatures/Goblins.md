@@ -26,7 +26,7 @@ Mental Reduction: -3
 
 *Move:* 1 AP, move 1 meter in any direction
 
-*Pummel:* 2 AP, 1 meter range, 1 bludgeoning damage
+*Pummel:* 2 AP, 1m, 1 bludgeoning damage
 Accuracy: +30
 Critical: +8
 
