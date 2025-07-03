@@ -3,9 +3,9 @@ A wielder of as many weapons at once, slashing, shooting, and spelling their way
 Primary Stat: Insight
 Secondary Stat: Reasoning
 
-Weapon Proficiencies: Contact, Medium, Long, Simple, Martial, Light, Manageable, Common, Rare, Legendary
+Weapon Proficiencies: Contact, Medium, Long, Primitive, Martial, Light, Manageable, Common, Rare, Legendary
 
-Armour Proficiencies: Partial, Half, Light, Manageable, Simple, Martial
+Armour Proficiencies: Partial, Half, Light, Manageable, Primitive, Martial
 
 **Pathways:**
 Quickdraw gunslinger

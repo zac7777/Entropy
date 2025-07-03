@@ -3,7 +3,7 @@ A weaver of traps and binds, insidious and strong enough to trap the gods themse
 Primary Stat: Connection
 Secondary Stat: Power
 
-Weapon Proficiencies: Contact, Short, Simple, Improvised, Legendary
+Weapon Proficiencies: Contact, Short, Primitive, Improvised, Legendary
 
 Armour Proficiencies: Held, Half, Light, Manageable, Improvised, Common
 

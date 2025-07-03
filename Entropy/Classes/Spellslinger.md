@@ -5,7 +5,7 @@ Secondary Stat: Connection
 
 Weapon Proficiencies: Light, Advanced, Rare, Legendary
 
-Armour Proficiencies: Held, Light, Simple, Common
+Armour Proficiencies: Held, Light, Primitive, Common
 
 **Pathways:**
 Elementalist
