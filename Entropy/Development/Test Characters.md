@@ -387,4 +387,72 @@ Roll minimum: 4
 Avoidance type: Insight
 Roll minimum: 7
 14. Mindless Underdemons: *Accept Joy:* 2 AP, challenges targeting creatures you summoned with this spell have a 2 higher minimum until end of turn, you gain vulnerability to mental damage until the end of combat
-15. 
+
+
+## Cameron's character
+
+Lemen
+Level 1 Soldier
+#### Attributes
+
+Pow: +2
+End: +2
+Mem: -2
+Rea: -4
+Ins: -2
+Con: +1
+
+*Zero in:* whenever you land a hit (either with a spell or a weapon), spells you cast this turn have +1 to their minimum and you gain -5 accuracy until end of turn
+
+*Energy Pure:* Lemen have resistance to bludgeoning and radiant damage. When reduced to 0 EP for the first time each combat, instead of falling unconscious they will take an extra turn, then after that turn will fall unconscious losing 5 HP.
+#### Stats
+
+HP: 34
+EP: 37
+AP: 5
+Melee range: 2m
+Piercing DT: -1
+Electric DT: -1
+Action List Size: 13
+Armour Proficiency: +4
+Dodge: -4
+Critical Modifier: +7
+Max carry weight: 12
+Carry load: 5
+
+#### Equipment
+
+1x Chain Scraps
+1x Lumber axe (+5 Proficiency)
+#### Storage
+
+2x Antidote
+Creeping frost
+#### Action list
+
+1. Move action: 2 AP, move 3 meters in any direction
+2. Speak action: 1 AP, you may speak up to one sentence verbally
+3. Swap weapon action: 4 AP, swap any equipment from either hand to storage, or from storage to hand
+4. Unarmed action: 2 AP, 2m, 2d8 - 2 heat damage
+
+Accuracy: +20
+Critical: +10
+
+5. *Hunker down:* 2 AP, if you have not moved this turn you may pay 0 AP instead. While "Hunkered Down" you have -10 accuracy and +10 dodge, your moves that affect your allies cost 1 AP less (This cannot reduce their cost to below 1), and if you would receive knockback you may roll 1d10 + Endurance, if this roll is higher than the distance you would be knocked the knockback fails to move you. If you move more than 2m in one turn this effect will end.
+6. *Rally cry:* 4 AP, all allies that can hear you gain +1 AP on their next turn and +2 DT to mental damage until the end of combat
+7. Lumber axe: *Swing:* 2 AP, 3m, 2d4 -1 slicing damage
+
+Accuracy: +17
+Critical: +20
+
+8. Antidote: *Drink:* 3 AP, recover 1 HP and heal the Poisoned status effect, this consumes the Antidote
+9. Creeping frost: *Bite:* 2 AP, 5m, 1d4 + Power cold damage
+
+Avoidance type: Power
+Roll minimum: 4
+10. *Trap:* 3 AP, target creature within 10m is immobilised for 3 turns
+
+Avoidance type: Power
+Roll minimum: 6
+11. *Icicle spikes:* 3 AP, the next attack target contact weapon within melee range + 2m deals an additional 1d8 + Power piercing damage, this can only be applied to each weapon once
+12. 
