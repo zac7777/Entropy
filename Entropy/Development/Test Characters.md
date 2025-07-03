@@ -309,3 +309,82 @@ Roll minimum: 7
 Avoidance type: Endurance
 Roll minimum: 6
 10. Minor Soul Entanglement: *Telepathic Projection:* 2 AP, you may speak three sentences to target creature within 50m telepathically (it produces no sound and cannot be misheard)
+
+## Will's Character
+
+Dafall
+Level 1 Witch
+#### Attributes
+
+Pow: +2
+End: -2
+Mem: +4
+Rea: -3
+Ins: +1
+Con: -1
+
+*Intuitive Arcanum:* Upon the creation of a Witch, they may select a spell set. During downtime, they may learn innate spells from this set of any level. ([[Summon Demon]])
+
+*Darker People:* any move that would make a creature lose awareness of a Dafall has +1 to it's minimum. During combat, if no creature has awareness of a Dafall, they have +2 DT to heat, radiation, and mental damage.
+#### Stats
+
+HP: 11
+EP: 23
+AP: 9
+Melee range: 1m
+Action List Size: 25
+Armour Proficiency: 0
+Dodge: -5
+Critical Modifier: +3
+Max carry weight: 12
+Carry load: 4.5
+
+#### Equipment
+
+1x Break-action single shotgun (+1 Proficiency)
+#### Storage
+
+3x Energy Bar
+
+8x 20 Gauge buckshot
+*Multi-shot:* DT is multiplied by 10 when damage is calculated
+*Damage:* 10d4 + 1 piercing damage
+*Accuracy:* +25
+*Critical:* +17
+
+1x Extra-magical stick
+*Conduit:* This weapon allows you to cast "Conduit" spells with it
+
+Summon Demon
+#### Action list
+
+1. Move action: 1 AP, move 1 meter in any direction
+2. Speak action: 1 AP, you may speak up to three sentences verbally
+3. Swap weapon action: 4 AP, swap any equipment from either hand to storage, or from storage to hand
+4. Unarmed action: 1 AP, 1m, 1d4 bludgeoning damage
+
+Accuracy: +34
+Critical: +18
+5. *Arcane Sight:* 1 AP, for each creature you can see, you gain knowledge of the spells currently in their action list, and you can ask your Game Master for their damage thresholds to each Magical type.
+6. *Focus into Item:* 3 AP, you may cast spells using an equipped Conduit's bonuses even if it is not a "Conduit" spell until end of turn.
+7. *Transport Lair:* 6 AP, you summon a personal, circular field of arcane comfort of 10m in diameter at your location, objects can be stored here, rituals prepared and then moved. The lair always exists in physical space and time, and conscious beings teleported this way will be stunned if done so during combat. This action is incredibly loud and bright, all creatures within 200m will gain awareness of you. Any unequipped/stored objects within 10m of you will be teleported to the last location of your lair, and conscious beings will be pushed to the exterior of the circle.
+8. Break-action single shotgun: *Stock bash:* 2 AP, Melee Range, 1d6 bludgeoning damage
+
+Accuracy: +4
+Critical: +6
+9. Break-action single shotgun: *Fire:* 2 AP, 10m, this move may only be used once before the "reload" action must be used
+
+Accuracy: +19
+Critical: +3
+10. Break-action single shotgun: *Reload:* 3 AP, this action costs 1 round of "20 Gauge buckshot" or a variant to use
+11. Energy Bar: *Eat:* 1 AP, recover 10 EP and lose 1 HP, this consumes the Energy Bar
+12. Summon Demon: *Raise Sprite:* 3 AP, raises a "Sprite" creature from [[Demons]] out of nearby soft ground, it must fail the avoidance roll for each action you want it to take, otherwise the Game Master will decide how it acts. It takes it's turn immediately after yours.
+
+Avoidance type: Connection
+Roll minimum: 4
+10. Summon Demon: *Raise Sadista:* 6 AP, raises a "Sadista" creature from [[Demons]] out of nearby soft ground, it must fail the avoidance roll for each action you want it to take, otherwise the Game Master will decide how it acts. It takes it's turn immediately after yours.
+
+Avoidance type: Insight
+Roll minimum: 7
+10. Summon Demon: *Accept Joy:* 2 AP, challenges targeting creatures you summoned with this spell have a 2 higher minimum until end of turn, you gain vulnerability to mental damage until the end of combat
+11. 

@@ -1,6 +1,6 @@
 ## Level 1
 #### Break-action single shotgun
-*Short, Light, Martial, Common*
+*Short, Light, Advanced, Common*
 
 Weight: 2kg
 

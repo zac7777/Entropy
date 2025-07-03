@@ -20,7 +20,7 @@ Witch of the Bond
 ## Progression
 
 ##### Base:
-EP bonus: +7
+EP bonus: +15
 AP costs for spells: -1 ( this cannot reduce their cost to below 1 )
 
 ---
