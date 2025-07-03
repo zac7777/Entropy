@@ -31,7 +31,7 @@ Proficiency requirement: 3
 *A rudimentary firearm, fragile but better than nothing. Easily modifiable to handle several calibres of ammunition*
 
 ## Level 2
-#### Manufactured handgun
+#### Mass-produced handgun
 *Medium, Light, Advanced, Common*
 
 Weight: 1kg

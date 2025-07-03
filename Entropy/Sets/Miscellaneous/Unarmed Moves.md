@@ -28,4 +28,13 @@ Critical: +47
 ---
 *If you're lucky, once on the ground they'll realise they're beaten, otherwise determination will become their downfall*
 
+#### Hide
+
+##### Actions
+
+ *Hide:* 4 AP, all creatures that can see you (and fail the avoidance roll) lose awareness of you, activate only if you can suggest a reasonable hiding spot determined by your Game Master
+
+  Avoidance type: Reasoning
+  Roll minimum: +3 + Reasoning (Yours)
+
 #LearnableSkills

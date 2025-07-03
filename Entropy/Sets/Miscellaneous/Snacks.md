@@ -7,7 +7,7 @@ Weight: 0.5kg
 
 ---
 
-*Throw:* 2 AP, 20m, 1 bludgeoning damage, this unequips this item
+*Throw:* 2 AP, 20m, 1 bludgeoning damage, this unequips this weapon, sending it to the target's location
 
 Accuracy: +40
 Critical: +2

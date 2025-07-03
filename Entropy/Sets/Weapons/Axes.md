@@ -22,7 +22,7 @@ Critical: +5
 
 ---
 
-*Throw:* 2 AP, 20m, 1d4 piercing damage, on critical hit -1 EP to the target, this unequips this weapon
+*Throw:* 2 AP, 20m, 1d4 piercing damage, on critical hit -1 EP to the target, this unequips this weapon, sending it to the target's location
 
 Proficiency requirement: 2
 

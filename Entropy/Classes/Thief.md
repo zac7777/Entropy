@@ -31,7 +31,7 @@ AP: 3 + Reasoning * 3
 ###### Moves
 *Duck:* 1 AP, you gain +20 dodge until your next turn, this ends your turn
 
-*Bait:* 2 AP, you throw an item that weighs less than 1kg, within melee range at any target within 5m * Power, then if a creature that can see you fails the avoidance roll they lose awareness of you
+*Bait:* 2 AP, you throw an item that weighs less than 2kg, within melee range at any target within 5m * Power, then if a creature that can see you fails the avoidance roll they lose awareness of you
 
 Avoidance type: Memory
 Roll minimum: 2 + Power (Yours)

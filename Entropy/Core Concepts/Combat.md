@@ -40,8 +40,8 @@ Many types of fighters try to avoid the gaze of their opponents during combat, "
 
 Fights should take place in environments with obstacles and shape, the amount of cover is dependant on how much of a creature can be hit through it, then that amount effects the accuracy. For example:
 
-- Quarter cover: +25 Accuracy or -1 minimum
-- Half cover: +50 Accuracy or -2 minimum
+- Quarter cover: +25 Accuracy or -2 minimum
+- Half cover: +50 Accuracy or -5 minimum
 - Full cover: +100 Accuracy or -10 minimum
 
 #gameRules

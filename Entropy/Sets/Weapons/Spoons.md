@@ -15,7 +15,7 @@ Critical: +6
 
 ---
 
-*Throw:* 4 AP, 15m, 1d6 + 1 bludgeoning damage, on critical hit the target gets stunned, this unequips this weapon
+*Throw:* 4 AP, 15m, 1d6 + 1 bludgeoning damage, on critical hit the target gets stunned, this unequips this weapon, sending it to the target's location
 
 Proficiency requirement: 2
 

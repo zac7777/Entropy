@@ -9,7 +9,7 @@ Two handed: Unusable
 
 ##### Actions
 
-*Throw:* 2 AP, 15m, all creatures within 5m of the target take 1d8 shock damage, activate only if you have a source of flame
+*Throw:* 2 AP, 15m, all creatures within 5m of the target take 1d8 shock damage, activate only if you have a source of flame, this unequips this weapon, sending it to the target's location
 
 Accuracy: +12
 Critical: +10
@@ -27,7 +27,7 @@ Two handed: Unusable
 
 ##### Actions
 
-*Throw:* 3 AP, 15m, all creatures within 5m of the target take 1d8 fire damage, this creates a circle of fire with radius 5m on the floor that deals 1d4 fire damage to any creature standing in it at the beginning of their turn, this circle lasts for 5 turns. Activate only if you have a source of flame
+*Throw:* 3 AP, 15m, all creatures within 5m of the target take 1d8 fire damage, this creates a circle of fire with radius 5m on the floor that deals 1d4 fire damage to any creature standing in it at the beginning of their turn, this circle lasts for 5 turns. Activate only if you have a source of flame, this unequips this weapon, sending it to the target's location
 
 Accuracy: +20
 Critical: +5

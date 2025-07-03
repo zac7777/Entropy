@@ -13,11 +13,11 @@
 *Accuracy:* +15
 *Critical:* +3
 
-#### 9 millimetre bean-bag
+#### 9 millimetre rubber
 
 *Damage:* 0, when this bullet lands a critical hit the target receives -5 EP
 *Accuracy:* +20
-*Critical:* +20
+*Critical:* +40
 
 #### 9 millimetre concussive
 
