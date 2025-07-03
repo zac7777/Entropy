@@ -9,5 +9,6 @@
 [[Reptus]]
 [[Incanus]]
 [[Terraque]]
+[[Avas]]
 
 #gameInformation 
