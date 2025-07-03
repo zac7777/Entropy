@@ -8,5 +8,7 @@
 
 ## Armour sets
 [[Leathers]]
+[[Chain-mails]]
+[[Plate Armours]]
 
 #itemType 

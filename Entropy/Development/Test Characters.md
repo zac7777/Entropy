@@ -323,7 +323,7 @@ Rea: -3
 Ins: +1
 Con: -1
 
-*Intuitive Arcanum:* Upon the creation of a Witch, they may select a spell set. During downtime, they may learn innate spells from this set of any level. ([[Summon Demon]])
+*Intuitive Arcanum:* Upon the creation of a Witch, they may select a spell set. During downtime, they may learn innate spells from this set of any level. (Summon Demon)
 
 *Darker People:* any move that would make a creature lose awareness of a Dafall has +1 to it's minimum. During combat, if no creature has awareness of a Dafall, they have +2 DT to heat, radiation, and mental damage.
 #### Stats

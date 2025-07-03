@@ -27,7 +27,7 @@ Dodge bonus: +4
 *Won't offer much cover or winter protection, but will defend against the odd whack or spark*
 
 #### Leather Jacket
-*Partial, Manageable, Advanced, Rare*
+*Half, Manageable, Advanced, Rare*
 
 Weight: 3kg
 
