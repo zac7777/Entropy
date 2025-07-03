@@ -12,6 +12,8 @@ Move action: 2 AP, move 3 meter in any direction
 
 Swap weapon action: 4 AP, swap any one equipment from either hand to storage, or from storage to hand
 
+Pick up action: 3 AP, equip target unequipped item within Melee range or place target unequipped item within Melee range into storage
+
 Speak action: 1 AP, you may speak up to one sentence verbally
 
 Unarmed action: 2 AP, Melee range, 2d8 - 2 heat damage

@@ -12,6 +12,8 @@ Move action: 2 AP, if on land move 1 meter in any direction, if currently flying
 
 Swap weapon action: 5 AP, swap any one equipment from either hand to storage, or from storage to hand
 
+Pick up action: 3 AP, equip target unequipped item within Melee range or place target unequipped item within Melee range into storage
+
 Speak action: 1 AP, you may speak up to two sentences verbally
 
 Unarmed action: 3 AP, Melee range + 1m, 1d4 slicing damage

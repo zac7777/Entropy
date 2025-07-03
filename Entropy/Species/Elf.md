@@ -12,6 +12,8 @@ Move action: 1 AP, move 1 meter in any direction
 
 Swap weapon action: 5 AP, swap any one equipment from either hand to storage, or from storage to hand
 
+Pick up action: 5 AP, equip target unequipped item within Melee range or place target unequipped item within Melee range into storage
+
 Speak action: 2 AP, you may speak up to four sentences verbally
 
 Unarmed action: 2 AP, Melee range, Power * 2 - 4 bludgeoning damage
