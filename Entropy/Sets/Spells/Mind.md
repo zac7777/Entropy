@@ -4,7 +4,7 @@
 
 ##### Actions
 
-*Stroll to Madness:* target creature you can see loses spell focuses and takes 1d4 + Power mental damage at the beginning of each of it's turns
+*Stroll to Madness:* target creature you can see loses spell focuses and takes 1d4 + Power mental damage at the beginning of each of it's turns. This effect lasts for three turns or until you lose focus.
 
 Avoidance type: Insight
 Roll minimum: 6

@@ -12,7 +12,7 @@ Battle surgeon
 	From patching up wounds, to making new ones, while a doctor's oath should not be ignored, one may not have a choice
 Plague bringer
 	For one's entire career, it's important they keep a sample of the many blights and maladies that afflict their patients, for re-use of course
-Augmenter of bodies
+Augmenter
 	Everyone in a doctor's team has potential, it's important they have the right upgrades to achieve it
 Holy healer
 	The gods, most worthy of worship, a doctor must do their best to help their patients match that immortality
@@ -29,7 +29,7 @@ Challenge minimums when targeting allies: -2
 HP: 1d8 + 2 * Reasoning
 AP: 2 + Memory
 
-*Home Territory:* If standing within the effect of a spell you are focused on, you will not be affected by that spell, instead your movement actions will move you an extra 1m and any attacks or challenges made against you will have disadvantage
+*Wound Expertise:* Upon the creation of a Doctor, they may choose a damage type. During combat, if the last time a creature was damaged was by that type, any moves you activate on that creature that would give it HP give it an additional amount of HP equal to your Memory
 ###### Moves
 *Selective Entrapment:* 2 AP, target a creature, until the end of your next turn, if a spell you control would effect that creature, you may instead have it not.
 
@@ -56,7 +56,7 @@ Battle surgeon:
 Plague bringer:
 - 
 
-Augmenter of bodies:
+Augmenter:
 - 
 
 Holy healer:
