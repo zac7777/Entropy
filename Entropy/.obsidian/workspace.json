@@ -107,28 +107,37 @@
               "icon": "lucide-file",
               "title": "AP"
             }
-          }
-        ]
-      },
-      {
-        "id": "a7ca559fd129af0e",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "ca90ad6c06e56f48",
+            "id": "5dbfdc471cf4594e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sets/Weapons/Axes.md",
+                "file": "Sets/Weapons/Hammers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Axes"
+              "title": "Hammers"
+            }
+          },
+          {
+            "id": "d2fe7af0603a8043",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/Trickster.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Trickster"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -275,11 +284,15 @@
   },
   "active": "964fc5003e9f95bb",
   "lastOpenFiles": [
+    "Classes/Trickster.md",
+    "Core Concepts/Damage Types.md",
+    "Classes/Spellslinger.md",
+    "Sets/Weapons/Hammers.md",
+    "Core Concepts/Weapons.md",
+    "Classes/Witch.md",
     "Sets/Weapons/Axes.md",
     "Stats/EP.md",
-    "Classes/Witch.md",
     "Stats/AP.md",
-    "Classes/Spellslinger.md",
     "Development/Developer notes.md",
     "Sets/Miscellaneous/Implants.md",
     "Sets/Miscellaneous/Jewellery.md",
@@ -297,10 +310,6 @@
     "Classes/Knight.md",
     "Classes/Zealot.md",
     "Sets/Spells/Health.md",
-    "Sets/Miscellaneous/Snacks.md",
-    "Core Concepts/Spells.md",
-    "Sets/Spells/Mind.md",
-    "Species/Terraque.md",
     "Pasted image 20250628201830.png",
     "Sets/Miscellaneous",
     "Sets/Creatures",
