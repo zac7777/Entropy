@@ -456,3 +456,6 @@ Avoidance type: Power
 Roll minimum: 6
 11. *Icicle spikes:* 3 AP, the next attack target contact weapon within melee range + 2m deals an additional 1d8 + Power piercing damage, this can only be applied to each weapon once
 12. 
+
+
+#meta 

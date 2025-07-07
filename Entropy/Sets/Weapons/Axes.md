@@ -38,7 +38,7 @@ Critical: +15
 Weight: 2kg
 
 One handed: +5 Accuracy
-Two handed: -1 EP cost to all moves
+Two handed: -1 EP loss to all moves
 ##### Actions
 
 *Swing:* 3 AP, Melee Range + 1m, 1d6 bludgeoning damage

@@ -1,6 +1,6 @@
-Energy Points; the resource used when an action is made, when it reaches 0, the creature will go unconscious until they awake in 1d6 hours. Each turn of combat a creature will be given an allotted amount of EP points as temporary [[AP]] points.
+Energy Points: These determine how long a creature can fight before falling unconscious. When a move is activated, a player normally loses EP equal to the AP cost however, if an effect alters the AP cost of a move, this won't change how much EP is lost, although some effects change the amount of EP lost, these won't change the AP cost.,
 
-EP can be calculated by: 
+The total EP a player has can be calculated by: 
 
 EP = Level * ( 10 + Endurance ), then any bonuses that player may have
 

@@ -21,7 +21,7 @@ Witch of the Bond
 
 ##### Base:
 EP bonus: +15
-AP costs for spells: -1 ( this cannot reduce their cost to below 1 )
+EP loss for spells: -1 ( this cannot reduce their cost to below 1 )
 
 ---
 #### Level 1:
@@ -68,7 +68,7 @@ Witch of the World:
 
 Witch of the Bond: 
 - *Protective Lair:* your lair now offers a shield around the circumference stretching 50m high, creatures and objects of your choice cannot enter as though it was an invisible wall, but the shield will be destroyed if it sustains 30 points of damage and cannot be regenerated until combat ends
-- *Acceptable Aura:* the first spell you cast that targets an ally each turn has -1 to it's minimum and +10m to it's range
+- *Acceptable Aura:* the first spell you cast that targets an ally each turn has +1 to it's minimum and +10m to it's range
 - *Repair Rune:* 4 AP, target creature other than you within melee range has all crippled limbs repaired and regains 5 EP
 
 #gameInformation #class
