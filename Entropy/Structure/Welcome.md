@@ -3,8 +3,7 @@
 [[Items]]
 [[Setting]]
 [[Combat]]
+[[Non-Combat]]
 [[Maths Rules]]
-[[Damage Types]]
-[[Status Effects]]
 
 #structure

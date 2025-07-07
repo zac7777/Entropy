@@ -1,12 +1,12 @@
-*Stun:* A creature that is stunned will have 0 AP it's next turn, then will become un-stunned
+*Stun:* A creature that is stunned cannot activate any moves on it's next turn, then will become un-stunned
 
 *Immobilised:* A creature that is immobilised cannot activate any movement actions until the effect ends
 
-*Bleeding:* A creature that is bleeding takes 1d6 rot damage at the beginning of their turn, this can be applied multiple times. A creature only stops bleeding at the end of combat or healed by a move that specifically stops bleeding.
+*Bleeding:* A creature that is bleeding takes 1d4 rot damage at the beginning of their turn, this can be applied multiple times. A creature only stops bleeding at the end of combat or healed by a move that specifically stops bleeding.
 
-Poisoned: A creature that is poisoned takes 1d4 - 1 toxic damage whenever they take an action, this cannot be applied multiple times. A creature is not healed from poison until they are acted on by a move that specifically heals poison.
+Poisoned: A creature that is poisoned takes 1d6 - 3 toxic damage whenever they take an action, this cannot be applied multiple times. A creature is not healed from poison until they are acted on by a move that specifically heals poison.
 
-*Crippled:* Each limb of a creature can be crippled individually, this means they can no longer equip a weapon in that limb or use that limb to cast spells. If any of a creature's legs are crippled the cost of their movement action is doubled, if all legs are crippled they can no longer use movement actions.
+*Crippled:* Each limb of a creature can be crippled individually, this means they can no longer equip a weapon in that limb or use that limb to cast spells. If any of a creature's legs are crippled the cost of their movement action is doubled, if all legs are crippled they can no longer use movement actions. A limb is not healed from crippling until acted on by a move that specifically heals crippling or by spending a downtime to fix it.
 
 *Blinded:* A creature that is blinded loses awareness of all other creatures, then any attacks they make have +20 accuracy, and any challenges they make have -2 to their minimum. A creature only stops being blind at the end of combat or healed by a move that specifically heals blindness.
 
