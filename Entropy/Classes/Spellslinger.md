@@ -28,13 +28,13 @@ AP costs for spells: -1 ( this cannot reduce their cost to below 1 )
 HP: 4d4 + Memory
 AP: 3 + Connection
 
-*Intuitive Arcanum:* Upon the creation of a Witch, they may select a spell set. During downtime, they may learn innate spells from this set of any level.
+*Strong Cast:* once per turn you may "strong cast" a spell, this means it gets advantage on the damage roll and you may give the target(s) an additional Knockback equal to your Connection * 2m
 ###### Moves
 *Arcane Sight:* 1 AP, for each creature you can see, you gain knowledge of the spells currently in their action list, and you can ask your Game Master for their damage thresholds to each Magical type.
 
 *Focus into Item:* 3 AP, you may cast spells using an equipped Conduit's bonuses even if it is not a "Conduit" spell until end of turn.
 
-*Transport Lair:* 6 AP, you summon a personal, circular field of arcane comfort of 10m in diameter at your location, objects can be stored here, rituals prepared and then moved. The lair always exists in physical space and time, and conscious beings teleported this way will be stunned if done so during combat. This action is incredibly loud and bright, all creatures within 200m will gain awareness of you. Any unequipped/stored objects within 10m of you will be teleported to the last location of your lair, and conscious beings will be pushed to the exterior of the circle.
+*Ethereal Armour:* 3 AP, this spell requires focus, any creatures of your choice within 20m gain +2 DT to piercing, bludgeoning, and cold damage
 
 #### Level 2:
 
@@ -43,15 +43,16 @@ AP: 6 + Memory
 
 ###### Pathway bonuses
 
-Witch of the Pious: 
+Elementalist: 
 - 
 
-Witch of the Dead: 
+Shuffler: 
 - 
 
-Witch of the World: 
+Enchanter: 
 - 
 
-Witch of the Bond: 
+Songstress: 
 - 
+
 #gameInformation #class
