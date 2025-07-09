@@ -62,7 +62,7 @@ Gun nut:
 Mass assassin:
 - *Quicker action:* when rolling for turn order you may use Endurance as a bonus instead of Insight
 - *Unseen and Deadly:* any turns you take during combat while enemies are unaware of your presence gain an additional AP equal to your Endurance
-- *Sneak attack:* 2 AP, Melee Range, 1d10 + Power suffocation damage, the target rolls 1d10 + their Endurance, if it's less than 5, they are instantly brought to 0 EP. This attack may only be used if the target is unaware of your presence
+- *Sneak attack:* 2 AP, Melee Range, 1d10 + Power suffocation damage, the target rolls 1d10 + their Endurance, if it's less than 3, they are instantly brought to 0 EP. This attack may only be used if the target is unaware of your presence
 
   Accuracy: +22
   Critical: +3

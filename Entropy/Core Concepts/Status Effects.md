@@ -12,6 +12,6 @@ Poisoned: A creature that is poisoned takes 1d6 - 3 toxic damage whenever they t
 
 *Knocked:* A creature that is knocked is lying on the floor, their movement actions cost double the EP ( this does not effect the required AP for activation ), their attacks have disadvantage and attacks made on them have advantage. A creature may spend 4 AP at any time to stand up and no longer be knocked
 
-*Aggravated:* A creature that is Aggravated will use all of it's AP to attack the creature that it's Aggravated against until it can no longer attack, if it has no moves with enough range to hit you, it will use movement actions until it can reach you. This will occur until the effect ends
+*Aggravated:* A creature that is Aggravated will use all of it's AP to attack the creature that it's Aggravated against until it can no longer attack, if it has no moves with enough range to hit you, it will use movement actions until it can reach you. This will occur for each of the creature's turns until the effect ends
 
 #gameInformation 

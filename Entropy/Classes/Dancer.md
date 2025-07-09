@@ -54,7 +54,7 @@ Light feeted ballet:
 
 Living buzzsaw:
 - *Sever Flesh:* whenever you deal damage to a creature, if it's the third or later time you have this combat, apply one level of bleeding
-- *Spin:* 2 AP, while "Spinning" you have +12 dodge, movement actions cost -1 AP ( this cannot reduce their cost to below 2 AP ), and if any creature steps within Melee range +2m they receive 1d4 + Endurance slicing damage. However, while spinning you cannot spell focus, gain awareness of creatures, or succeed challenges based on Reasoning or Memory. This effect end when you are knocked back or choose to end the effect.
+- *Spin:* 2 AP, while "Spinning" you have +12 dodge, movement actions cost -1 AP ( this cannot reduce their cost to below 2 AP ), and if any creature steps within Melee range +2m they receive 1d4 + Endurance slicing damage. However, while spinning you cannot spell focus, gain awareness of creatures, or succeed challenges based on Reasoning or Memory. This effect ends when you are knocked back or choose to end the effect.
 - *Interpret Pain:* 4 AP, target creature that can see you gains vulnerability to slicing damage and loses any DT to slicing, piercing, and shock. This effect lasts for 3 turns.
 
   Avoidance type: Reasoning

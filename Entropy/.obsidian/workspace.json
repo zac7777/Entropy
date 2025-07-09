@@ -114,12 +114,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sets/Weapons/Hammers.md",
+                "file": "Core Concepts/Damage Types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hammers"
+              "title": "Damage Types"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Trickster.md",
+                "file": "Classes/Soldier.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trickster"
+              "title": "Soldier"
             }
           }
         ],
@@ -190,7 +190,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -282,11 +283,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "964fc5003e9f95bb",
+  "active": "b75de7821adcaa74",
   "lastOpenFiles": [
+    "Classes/Soldier.md",
+    "Classes/Knight.md",
+    "Classes/Spellslinger.md",
+    "Classes/Dancer.md",
     "Classes/Trickster.md",
     "Core Concepts/Damage Types.md",
-    "Classes/Spellslinger.md",
+    "Core Concepts/Status Effects.md",
     "Sets/Weapons/Hammers.md",
     "Core Concepts/Weapons.md",
     "Classes/Witch.md",
@@ -300,16 +305,12 @@
     "Core Concepts/Non-Combat.md",
     "Classes/Doctor.md",
     "Development/Test Characters.md",
-    "Core Concepts/Status Effects.md",
     "Core Concepts/Combat.md",
     "Sets/Miscellaneous/Shoes.md",
     "Core Concepts/Player Characters.md",
     "Structure/Welcome.md",
     "Sets/Spells/Bond.md",
     "Sets/Spells/Flame.md",
-    "Classes/Knight.md",
-    "Classes/Zealot.md",
-    "Sets/Spells/Health.md",
     "Pasted image 20250628201830.png",
     "Sets/Miscellaneous",
     "Sets/Creatures",
