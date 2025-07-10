@@ -16,7 +16,7 @@ Pick up action: 3 AP, equip target unequipped item within Melee range or place t
 
 Speak action: 1 AP, you may speak up to one sentence verbally
 
-Unarmed action: 2 AP, Melee range, 2d8 - 2 heat damage
+Unarmed action: 4 AP, Melee range, 2d8 - 2 heat damage
 
 Accuracy: +20
 Critical: +3

@@ -25,4 +25,6 @@ Critical: +11
 ---
 *Not often thought of as a weapon, but some weirdos love throwing them*
 
+Spork
+
 #itemSet #weapons

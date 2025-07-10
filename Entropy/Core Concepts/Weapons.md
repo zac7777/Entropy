@@ -12,7 +12,7 @@
 [[Gloves]]
 [[Swords]]
 [[Knives]]
-[[Spoons]]
+[[Utensils]]
 [[Pistols]]
 [[Slow Rifles]]
 [[Thrown Explosives]]
