@@ -65,16 +65,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Spellslinger.md",
+                "file": "Classes/Survivalist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spellslinger"
+              "title": "Survivalist"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "8e37846b47c4e3c8",
@@ -296,9 +296,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "271e1160572b201a",
+  "active": "964fc5003e9f95bb",
   "lastOpenFiles": [
     "Classes/Spellslinger.md",
+    "Development/Developer notes.md",
     "Classes/Trapper.md",
     "Classes/Soldier.md",
     "Stats/Criticals.md",
@@ -313,7 +314,6 @@
     "Sets/Weapons/Axes.md",
     "Stats/EP.md",
     "Stats/AP.md",
-    "Development/Developer notes.md",
     "Sets/Miscellaneous/Implants.md",
     "Sets/Miscellaneous/Jewellery.md",
     "Core Concepts/Miscellaneous.md",

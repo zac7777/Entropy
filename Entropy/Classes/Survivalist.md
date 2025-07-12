@@ -26,8 +26,8 @@ Number of rolls for advantage: 3
 ---
 #### Level 1:
 
-HP: 4d12 + 2 * Power
-AP: 3 + Endurance
+HP: 2d8 + 3 * Reasoning
+AP: 4 + Connection / 2
 
 *Zero in:* whenever you land a hit (either with a spell or a weapon), spells you cast this turn have +1 to their minimum and you gain -5 accuracy until end of turn
 ###### Moves
@@ -39,29 +39,21 @@ AP: 3 + Endurance
 
 #### Level 2:
 
-HP: Previous HP + 1d12
-AP: 3 + Endurance * 2
+HP: Previous HP + 1d8
+AP: 3 + Connection
 
 ###### Pathway bonuses
 
-Commander: 
-- *Strength in squads:* gain +2 accuracy for each allied creature within 20m
-- *Light instruction:* in any downtime you may teach one of your allies how to use a single weapon, this will give them +2 proficiency in that specific weapon (this does not apply to categories like "Pistols" only one weapon like "Manufactured handgun")
-- *Harden spirit:* 2 AP, target ally that can hear you gains +2 to it's next avoidance roll when targeted by a spell
+Scavenger: 
+- 
 
-Battle mage:
-- *Weak resistance:* if a target of a spell you cast rolls 5 lower than the minimum, that spell will deal double damage after all other bonuses are applied
-- *Imbue:* 3 AP, choose a move from a spell you know, the next attack with target weapon within 5m will cast that spell when it hits a target, the spell will be casted where the weapon hits, and any creatures that would be affected by the spell will automatically fail the avoidance roll
-- *Lay trap:* 1 AP, the next spell you cast will instead be cast as an invisible trap attached to a surface within 20m. When a creature steps within 1m of this trap, the spell will be cast at that location with an additional minimum equal to your Power
+Field engineer:
+- 
 
-Gun nut:
-- *Passionate tinkering:* in any downtime you may add or remove attachments from firearms, you now also gain the knowledge to craft any craftable attachments that are used for guns
-- *Tactical reload:* 1 AP, you may activate the "reload" move on any number of equipped weapons for free, this may only be activated once per combat
-- *Dead eye:* 5 AP, you may activate the "fire" move a total amount of times equal to your Power distributed on any number of equipped weapons (as long as your weapons don't run out of cartridges). As long as they all target the same creature, you gain -10 accuracy for all of these attacks
+Herbalist:
+- 
 
-Mass assassin:
-- *Quicker action:* when rolling for turn order you may use Endurance as a bonus instead of Insight
-- *Unseen and Deadly:* any turns you take during combat while enemies are unaware of your presence gain an additional AP equal to your Endurance
-- *Sneak attack:* 2 AP, Melee Range, 1d10 + Power suffocation damage, the target rolls 1d10 + their Endurance, if it's less than 5, they are instantly brought to 0 EP. This attack may only be used if the target is unaware of your presence
+Armourer:
+- 
 
 #gameInformation #class
