@@ -48,7 +48,8 @@ AP: 1 + Connection * 2
 
 Elementalist: 
 - *Natural Strength:* when you "strong cast" a spell, if the damage type(s) that it deals are among heat, cold, and electric, you may change the damage type it would deal to any other type in that list, if you do and the spell hits then you may roll a d100, if the roll is higher than 80 the damage will be critical.
-- 
+- *Potent Source:* 2 AP, when you next cast an ingredient or ritual spell, if it only has one target it may affect an additional target. Or if that spell already effects multiple creatures, they have disadvantage on the avoidance roll.
+- *Warped Field:* 6 AP, this spell requires focus, choose heat, cold or electric, all creatures within 15m take 1d8 - 1 of that damage type, then take that damage again if they enter or leave this range. Then you may give them all a negative Nerf to any one of their attributes equal to your Connection ( such as giving them all -4 to their Reasoning ). This effect lasts for two turns or until focus ends.
 
 Shuffler: 
 - *Shifting Strength:* when you "strong cast" a spell, if that move is from a spell that you did not cast last turn, spells you cast for the rest of the turn have -1 AP cost until you activate a move from a spell that you have previously activated a move from.
@@ -61,12 +62,12 @@ Enchanter:
 
   Avoidance type: Reasoning
   Roll minimum: 6
-- 
+- *Arcane Charge:* 3 AP, up to three contact or short weapons within 20m gain +10 Critical and deal an additional 1d4 + Connection radiation damage whenever they land a critical hit. This effect lasts for three turns and can only be applied once.
 
 Songstress: 
 - *Rythmic Strength:* when you "strong cast" a spell, you may have it make any noise in memory, or a noise you could reasonably come up with, instead of whatever noise it would normally make ( this includes silence ). You may also have the spell Stun the creature, Enrage the creature against you for a turn, or deal an additional 1d6 + Connection shock damage.
 - *Sing:* 3 AP, "Singing" requires spell focus, while "Singing" you have -2 DT to mental and suffocation, but your spells can now hit any creature that can hear you and your attacks have advantage on the hit roll. This effect ends when you take 5 or more damage in one turn, or choose to end the effect
-- *Shattering Resonance:* 7 AP, all creatures that can hear you, 3d6 + 2 * Memory shock damage, each creature effected loses awareness of you and gets stunned, then they roll 1d10 + their Endurance, if it's less than 2 their legs will be crippled
+- *Shattering Resonance:* 7 AP, all creatures that can hear you, 3d6 + 2 * Memory shock damage, each creature effected loses awareness of you and gets stunned, then they roll 1d10 + their Endurance, if it's less than 2 both of their legs will be crippled
 
   Accuracy: +35
   Critical: -3

@@ -4,7 +4,6 @@ Here, me and Cameron can talk easier
 - Finish first 2 levels of all classes
 	- Beastmaster
 	- Smith
-	- Spellslinger
 	- Survivalist
 - Probs need to re-do Knight, Soldier, and Boxer as they were done very early days
 - Write some test combats
