@@ -29,13 +29,13 @@ Number of rolls for advantage: 3
 HP: 2d8 + 3 * Reasoning
 AP: 4 + Connection / 2
 
-*Zero in:* whenever you land a hit (either with a spell or a weapon), spells you cast this turn have +1 to their minimum and you gain -5 accuracy until end of turn
+*Maverick:* moves you activate with non-weapon items have -2 EP cost ( this cannot reduce their cost to below 1 ), if they involve an attack it has -10 Accuracy, if they involve a challenge they have +1 minimum.
 ###### Moves
-*Hold breath:* 1 AP, you gain -10 accuracy for your next attack with a medium or long weapon and automatically fail the next spell minimum that targets you, this may only be activated once per turn
+*Rummage:* 1 AP, swap any one non-weapon equipment from either hand to storage, or from storage to hand, activate only once per turn
 
-*Hunker down:* 2 AP, if you have not moved this turn you may pay 0 AP instead. While "Hunkered Down" you have -10 accuracy and +10 dodge, your moves that affect your allies cost 1 AP less (This cannot reduce their cost to below 1), and if you would receive knockback you may roll 1d10 + Endurance, if this roll is higher than the distance you would be knocked the knockback fails to move you. If you move more than 2m in one turn this effect will end.
+*Quick Grab:* 1 AP, equip target unequipped item within Melee range + 2m or place target unequipped item within Melee range +2m into storage, activate up to twice in a turn
 
-*Rally cry:* 4 AP, all allies that can hear you gain +1 AP on their next turn and +2 DT to mental damage until the end of combat
+*Assess Enemy:* 3 AP, target creature you can see within 50m makes the avoidance roll, if they fail you may ask your Game Master for one piece of information about that creature and they must tell you the truth. Activate up to three times per combat
 
 #### Level 2:
 

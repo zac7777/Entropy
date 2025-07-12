@@ -46,6 +46,20 @@
             }
           },
           {
+            "id": "027bef44eb581440",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Concepts/Classes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Classes"
+            }
+          },
+          {
             "id": "e2a1da3be087de18",
             "type": "leaf",
             "state": {
@@ -72,9 +86,23 @@
               "icon": "lucide-file",
               "title": "Survivalist"
             }
+          },
+          {
+            "id": "77d7d8093ce2af0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/Spellslinger.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spellslinger"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "8e37846b47c4e3c8",
@@ -86,12 +114,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Witch.md",
+                "file": "Species/Human.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Witch"
+              "title": "Human"
             }
           },
           {
@@ -100,12 +128,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stats/AP.md",
+                "file": "Core Concepts/Storage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AP"
+              "title": "Storage"
             }
           },
           {
@@ -150,8 +178,7 @@
               "title": "Criticals"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -298,7 +325,16 @@
   },
   "active": "964fc5003e9f95bb",
   "lastOpenFiles": [
+    "Core Concepts/Classes.md",
+    "Core Concepts/Player Characters.md",
+    "Classes/Survivalist.md",
+    "Species/Human.md",
+    "Species/Ocham.md",
+    "Classes/Witch.md",
+    "Core Concepts/Storage.md",
     "Classes/Spellslinger.md",
+    "Classes/Smith.md",
+    "Stats/AP.md",
     "Development/Developer notes.md",
     "Classes/Trapper.md",
     "Classes/Soldier.md",
@@ -310,20 +346,11 @@
     "Core Concepts/Status Effects.md",
     "Sets/Weapons/Hammers.md",
     "Core Concepts/Weapons.md",
-    "Classes/Witch.md",
     "Sets/Weapons/Axes.md",
     "Stats/EP.md",
-    "Stats/AP.md",
     "Sets/Miscellaneous/Implants.md",
     "Sets/Miscellaneous/Jewellery.md",
     "Core Concepts/Miscellaneous.md",
-    "Core Concepts/Non-Combat.md",
-    "Classes/Doctor.md",
-    "Development/Test Characters.md",
-    "Core Concepts/Combat.md",
-    "Sets/Miscellaneous/Shoes.md",
-    "Core Concepts/Player Characters.md",
-    "Structure/Welcome.md",
     "Pasted image 20250628201830.png",
     "Sets/Miscellaneous",
     "Sets/Creatures",

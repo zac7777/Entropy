@@ -17,4 +17,10 @@ Whitesmith
 Experimentalist
 	What is the point of inventing if not to create something new! Create unique weapons inspired, and permitted, by the gods above.
 
+## Progression
+
+##### Base:
+EP bonus: +15
+Carry weight: +20
+
 #gameInformation #class
