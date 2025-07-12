@@ -37,6 +37,9 @@ AP: 4 + Connection / 2
 
 *Assess Enemy:* 3 AP, target creature you can see within 50m makes the avoidance roll, if they fail you may ask your Game Master for one piece of information about that creature and they must tell you the truth. Activate up to three times per combat
 
+Avoidance type: Reasoning
+Roll minimum: 3 + Reasoning ( yours )
+
 #### Level 2:
 
 HP: Previous HP + 1d8

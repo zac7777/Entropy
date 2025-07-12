@@ -41,9 +41,13 @@ Levels are a vague guideline for the power-level of characters, creatures, and i
 - A player may, instead of any class alterations, increase one of their Attribute values by one, this cannot increase them beyond +5
 
 
-## Learnable skills
+## Learnable skills and characteristics
 
 [[Unarmed Moves]]
 [[Features]]
+
+## Companions
+
+Players can have creatures, at any level of sentience, follow them around and sometimes assist in combat. If in combat, they tend to take their turns after that player, and to be commanded they require a challenge, otherwise they'll do what the Game Master decides. A player can have a number of companions during combat equal to 1 + their level / 4.
 
 #gameInformation 

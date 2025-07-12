@@ -18,7 +18,7 @@ Roll minimum: 6
 
 ---
 
-*Commanding Stance:* 2 AP, challenges targeting creatures you summoned with this spell have a 2 higher minimum until end of turn
+*Commanding Stance:* 2 AP, challenges targeting creatures you summoned with this spell have a 2 higher minimum until the end of this creatures next turn
 
 ---
 *Horror, disgust, smell, these creatures can force distress to any creature that happens to be their target, they fail to create as much damage*

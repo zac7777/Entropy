@@ -18,7 +18,7 @@ Roll minimum: 7
 
 ---
 
-*Accept Joy:* 2 AP, challenges targeting creatures you summoned with this spell have a 2 higher minimum until end of turn, you gain vulnerability to mental damage until the end of combat
+*Accept Joy:* 2 AP, challenges targeting creatures you summoned with this spell have a 2 higher minimum until the end of this creatures next turn, you gain vulnerability to mental damage until the end of combat
 
 ---
 *Demented beings that live deep underground, harvesting those near the end of their lives for food and enjoyment*

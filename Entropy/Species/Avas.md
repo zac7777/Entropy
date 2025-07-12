@@ -4,9 +4,11 @@ Melee range: 2m
 
 Number of limbs: two arms, two legs, one head
 
-*Winged:* you may fly, ignoring gravity and anything on the ground, however while flying your attacks have +15 Accuracy and attacks made against you have advantage
+*Winged:* you have the ability to fly, ignoring gravity and anything on the ground, however while flying your attacks have +15 Accuracy and attacks made against you have advantage
 
 ---
+
+*Fly:* 2 AP, start or stop flying
 
 Move action: 2 AP, if on land move 1 meter in any direction, if currently flying move 3 meters in any direction
 

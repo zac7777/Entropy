@@ -8,4 +8,12 @@ After Combat and Walking have taken their toll, lying down and performing leisur
 
 Speaking and Role-play is the most unique part of Entropy, players and the Game Master take their assigned roles and improvise entire conversations, these can immerse players in a world, move the story along, and even add fun gameplay elements such as deception, argumentation or persuasion. These may also have challenges, such getting a discount with a trader requiring a Connection roll higher that 8, or forgetting the mayor's name if you roll Memory less than 3.
 
+## Fall damage
+
+At a fall of 3 meters or higher, you will begin to take bludgeoning damage that bypasses any DT or vulnerabilities/resistances/immunities. Past 10m, you will begin crippling limbs, rolling a d2 for each limb and crippling them on a 0., 
+
+The damage taken from a fall can be calculated by:
+
+Fall damage = ( Height - 3m ) d4 bludgeoning damage
+
 #gameRules
