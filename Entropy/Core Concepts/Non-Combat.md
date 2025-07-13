@@ -10,7 +10,7 @@ Speaking and Role-play is the most unique part of Entropy, players and the Game 
 
 ## Fall damage
 
-At a fall of 3 meters or higher, you will begin to take bludgeoning damage that bypasses any DT or vulnerabilities/resistances/immunities. Past 10m, you will begin crippling limbs, rolling a d2 for each limb and crippling them on a 0., 
+At a fall of 3 meters or higher, you will begin to take bludgeoning damage that bypasses any DT or vulnerabilities/resistances/immunities. Past 10m, you will begin crippling limbs, rolling a d2 for each limb and crippling them on a 0. Falling happens at a speed of 50m per round, then damage is taken once the ground is reached.
 
 The damage taken from a fall can be calculated by:
 

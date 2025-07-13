@@ -38,7 +38,7 @@ Roll minimum: 2 + Number of companions
 
 *Feed and Care:* 4 AP, your army gains 5 HP and 10 EP, this action immediately ends your turn and your army is stunned
 
-*Assimilate:* 6 AP, this requires spell focus, you become one with your army, they will automatically follow your commands, you gain any bonuses from "Homogeny". This lasts for five turns or until you lose focus.
+*Assimilate:* 6 AP, this requires spell focus, you become one creature with your army, taking one turn together, they will automatically follow your commands, you gain any bonuses from "Homogeny". This lasts for five turns or until you lose focus.
 
 #### Level 2:
 
@@ -48,7 +48,12 @@ AP: 4 + Insight
 ###### Pathway bonuses
 
 Flock of Flight: 
-- *Soaring Family:* movement actions you or your army activate while flying move an additional 1m
+- *Soaring Family:* movement actions you or your army activate while flying move an additional 1m. While flying, you and your army gain -5 Accuracy and have -1 EP costs.
+- *Lift:* 3 AP, this move is added to your army's Action List, you may hold another target creature or inanimate object within Melee range + 5m, it will begin to move wherever you move. If the target is unwilling, it may make the avoidance roll, if it succeeds it will not be picked up.
+
+  Avoidance roll: Power
+  Roll minimum: 6
+- *Drop:* 1 AP, this move is added to your army's Action List, you place an equipped item, an item from storage, or an object/creature you're currently lifting, anywhere within Melee range + 1m. If placed in the air, the item/object/creature will be subject to Fall Damage, and if it hits another object/creature, damage will be dealt to the grounded object/creature also equal to the Fall Damage.
 
 Pack of Claws:
 - 
