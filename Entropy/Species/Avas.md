@@ -10,7 +10,7 @@ Number of limbs: two arms, two legs, one head
 
 *Fly:* 2 AP, start or stop flying
 
-Move action: 2 AP, if on land move 1 meter in any direction, if currently flying move 3 meters in any direction
+Move action: 2 AP, if on land move 1 meter in any direction, if currently flying move 4 meters in any direction
 
 Swap weapon action: 5 AP, swap any one equipment from either hand to storage, or from storage to hand
 

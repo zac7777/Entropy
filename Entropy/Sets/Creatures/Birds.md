@@ -16,26 +16,22 @@ Con: -1
 EP: 10
 AP: 2
 HP: 2
-Dodge: +13
+Dodge: +20
 
-*Bred Pet:* If this creature is your companion it must fail the avoidance roll for each action you want it to take, otherwise the Game Master will decide how it acts. It takes it's turn immediately after yours.
-
-Avoidance type: Reasoning
-Roll minimum: 4
+*Winged:* you have the ability to fly, ignoring gravity and anything on the ground, however while flying your attacks have +5 Accuracy and attacks made against you have advantage
 
 ---
 ##### Action list
 
-*Move:* 1 AP, move 3 meters in any direction
+*Fly:* 2 AP, start or stop flying
 
-*Scratch:* 1 AP, 1 meter range, 2 - 1d6 bludgeoning damage ( this will only deal damage when you roll a 1 )
+*Move:* 1 AP, if on land move 1 meter in any direction, if currently flying move 3 meters in any direction
+
+*Claw:* 1 AP, 1m range, 1d2 + 1 slicing damage, on critical hit target gets bleeding
 Accuracy: +27
-Critical: -7
+Critical: +5
 
-*Kitten Eyes:* 1 AP, target creature that you within 10m cannot target you for it's next turn
-
-Avoidance type: Endurance
-Roll minimum: 0
+*Adjust Neck:* 1 AP, you gain -10 Accuracy for three turns, this may only be activated once per combat
 
 ---
-*Such a cute little baby oh my god*
+*Street birds, taken in as messengers, then left as defects when their use was no more*

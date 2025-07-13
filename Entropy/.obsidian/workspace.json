@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "fc9bba75781fde07",
@@ -310,12 +310,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "313c73c6160945f0",
+  "active": "4e6c998b8c06b24b",
   "lastOpenFiles": [
     "Sets/Creatures/Birds.md",
+    "Sets/Weapons/Gloves.md",
+    "Species/Avas.md",
     "Core Concepts/Non-Combat.md",
     "Development/Developer notes.md",
-    "Species/Avas.md",
     "Sets/Creatures/House Pets.md",
     "Core Concepts/Non-player Creatures.md",
     "Classes/Beastmaster.md",
@@ -337,7 +338,6 @@
     "Classes/Soldier.md",
     "Stats/Criticals.md",
     "Classes/Knight.md",
-    "Classes/Dancer.md",
     "Pasted image 20250628201830.png",
     "Sets/Miscellaneous",
     "Sets/Creatures",
