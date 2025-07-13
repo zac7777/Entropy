@@ -5,5 +5,6 @@
 [[Inkbeasts]]
 [[Demons]]
 [[House Pets]]
+[[Automata]]
 
 #gameInformation 
