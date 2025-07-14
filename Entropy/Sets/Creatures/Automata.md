@@ -13,15 +13,18 @@ Con: -6
 ---
 ##### Stats
 
-EP: 25
+EP: 15
 AP: 1
-HP: 2
+HP: 3
 Dodge: +20
+Piercing DT: -1
 
 *Incorporated Blades:* when this creature moves within 1m of another creature, that creature takes 1d4 piercing damage unless it succeeds the avoidance roll
 
 Avoidance type: Reasoning
 Roll minimum: 5
+
+*Mechanical:* while conscious, this creature has vulnerability to Electric and Bludgeoning damage, but while unconscious, this creature will regenerate 1 EP for each Electric damage it would be dealt and then is immune to that electric damage
 
 ---
 ##### Action list

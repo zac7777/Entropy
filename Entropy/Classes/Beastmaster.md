@@ -61,7 +61,11 @@ Pack of Claws:
 Herd of the Dead:
 - 
 
-Clave of Machines:
-- 
+Clade of Machines:
+- *Recharge Bolt:* 3 AP, target creature within 75m that fails the avoidance roll takes 1d8 + Connection electric damage, if that creature is "Mechanical" it gains 2 HP
+
+  Avoidance type: Reasoning
+  Roll minimum: 7
+- *Order Destruction:* 4 AP, 
 
 #gameInformation #class
