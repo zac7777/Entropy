@@ -17,8 +17,9 @@ EP: 20
 AP: 3
 HP: 7
 Dodge: +2
-
 Rot Reduction: -2
+
+*Persistent:* Whenever this creature would be brought to 0 HP by a physical damage type, it takes an Endurance challenge where the minimum is the excess damage dealt this way, if it succeeds it returns to 1 HP
 
 ---
 ##### Action list
@@ -57,6 +58,8 @@ HP: 3
 Dodge: +2
 
 Rot Reduction: -2
+
+*Persistent:* Whenever this creature would be brought to 0 HP by a physical damage type, it takes an Endurance challenge where the minimum is the excess damage dealt this way, if it succeeds it returns to 1 HP
 
 ---
 ##### Action list

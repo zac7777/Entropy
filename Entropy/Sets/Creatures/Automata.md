@@ -17,7 +17,7 @@ EP: 15
 AP: 1
 HP: 3
 Dodge: +20
-Piercing DT: -1
+Piercing Reduction: -1
 
 *Incorporated Blades:* when this creature moves within 1m of another creature, that creature takes 1d4 piercing damage unless it succeeds the avoidance roll
 

@@ -2,7 +2,6 @@ Here, me and Cameron can talk easier
 
 ### Task list (We going Kanban with this shit):
 - Finish first 2 levels of all classes
-	- Beastmaster
 	- Smith
 	- Survivalist ( half way done but i wanted to do Beastmaster instead )
 - Probs need to re-do Knight, Soldier, and Boxer as they were done very early days

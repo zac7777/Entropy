@@ -14,7 +14,7 @@ Pack of Claws
 	The creatures of the forest, born to rip bone from sinew, and let the crimson flow
 Herd of the Dead
 	Not as animalistic as their counterparts, but just as devoid of humanity
-Clave of Machines
+Clade of Machines
 	An advanced army engineered to have no will of their own, weapons raised to serve their creator
 
 ## Progression
@@ -56,10 +56,17 @@ Flock of Flight:
 - *Drop:* 1 AP, this move is added to your army's Action List, you place an equipped item, an item from storage, or an object/creature you're currently lifting, anywhere within Melee range + 1m. If placed in the air, the item/object/creature will be subject to Fall Damage, and if it hits another object/creature, damage will be dealt to the grounded object/creature also equal to the Fall Damage.
 
 Pack of Claws:
-- 
+- *Battle Scarring:* whenever you or your army deals slicing damage to a creature, also apply levels of bleeding equal to your Connection if that creature fails the avoidance roll
+
+  Avoidance type: Memory
+  Roll minimum: 4
+- *Distinct Smell:* if a creature is bleeding, you have awareness of them, and gain advantage on attacks made against them. However, if your army is within 15m of a bleeding creature, you have disadvantage on any challenges your army and that creature make against you.
+- *Weakened Prey:* attacks you and your army make get -2 Accuracy for each Nerf applied to the target
 
 Herd of the Dead:
-- 
+- *Spark of Will:* whenever your army faces a challenge on Endurance, Insight, or Reasoning, you may give them advantage on the avoidance roll, if you do, the next command you make of them automatically fails ( this overrides the effect of "Assimilate" )
+- *Re-recruit:* during any downtime, you may revive one of your Undead companions, or resurrect a dead anthropomorphic companion as an Undead creature of the same level.
+- *Temporary Enlistment:* 7 AP, this spell requires focus, target creature with 0 HP is added to your army, activate only once each combat. This effect ends at the end of combat or when you lose focus
 
 Clade of Machines:
 - *Overclock:* 1 AP, you or your army gain +2 to Power, Endurance, and Reasoning until the end of your next turn, this may only be applied to either you or your army once.
