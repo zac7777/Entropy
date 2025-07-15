@@ -62,10 +62,14 @@ Herd of the Dead:
 - 
 
 Clade of Machines:
+- *Overclock:* 1 AP, you or your army gain +2 to Power, Endurance, and Reasoning until the end of your next turn, this may only be applied to either you or your army once.
 - *Recharge Bolt:* 3 AP, target creature within 75m that fails the avoidance roll takes 1d8 + Connection electric damage, if that creature is "Mechanical" it gains 2 HP
 
   Avoidance type: Reasoning
   Roll minimum: 7
-- *Order Destruction:* 4 AP, 
+- *Order Destruction:* 4 AP, this move is added to your army's Action List, a non-player "Mechanical" creature within your army moves up to 15m away in any direction and dies, dealing 4d8 + 2 * Insight shock damage to all creatures within 10m that fail the avoidance roll
+
+  Avoidance type: Insight
+  Roll minimum: 6 + Connection ( yours )
 
 #gameInformation #class
