@@ -6,5 +6,7 @@
 [[Demons]]
 [[House Pets]]
 [[Automata]]
+[[Dogs]]
+
 
 #gameInformation 
