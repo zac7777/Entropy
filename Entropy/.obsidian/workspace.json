@@ -37,16 +37,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Boxer.md",
+                "file": "Classes/Duellist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Boxer"
+              "title": "Duellist"
+            }
+          },
+          {
+            "id": "1a54884cffbfd3cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Concepts/Weapons.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Weapons"
+            }
+          },
+          {
+            "id": "02b67d1ba5a04f9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sets/Weapons/Spears.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spears"
+            }
+          },
+          {
+            "id": "d456a2315d81fe4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sets/Weapons/Axes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Axes"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -191,15 +233,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5eddf5b63a569d8d",
+  "active": "02b67d1ba5a04f9b",
   "lastOpenFiles": [
+    "Sets/Weapons/Axes.md",
+    "Sets/Weapons/Spears.md",
+    "Core Concepts/Weapons.md",
+    "Core Concepts/Spells.md",
+    "Resources/Ehlen Map Resource.png",
+    "Classes/Duellist.md",
     "Classes/Boxer.md",
-    "Classes/Soldier.md",
     "Development/Developer notes.md",
+    "Classes/Soldier.md",
     "Classes/Knight.md",
     "Classes/Beastmaster.md",
     "Core Concepts/Status Effects.md",
-    "Dogs.md",
+    "Sets/Creatures/Dogs.md",
     "Sets/Creatures/Undead.md",
     "Sets/Creatures/Automata.md",
     "Classes/Survivalist.md",
@@ -214,11 +262,6 @@
     "Sets/Spells/Mind.md",
     "Sets/Spells/Summon Undead.md",
     "Core Concepts/Player Characters.md",
-    "Core Concepts/Classes.md",
-    "Species/Human.md",
-    "Species/Ocham.md",
-    "Classes/Witch.md",
-    "Core Concepts/Storage.md",
     "Pasted image 20250628201830.png",
     "Sets/Miscellaneous",
     "Sets/Creatures",
@@ -230,7 +273,6 @@
     "Pasted image 20250626202807.png",
     "Species",
     "Development",
-    "Resources/Ehlen Map Resource.png",
     "Resources"
   ]
 }
