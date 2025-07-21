@@ -6,6 +6,8 @@ Weight: 2kg
 
 ##### Bonuses
 
+*Chest Attached:* this item can only be attached to half or full armour
+
 *Once Vulnerable:* while equipped, if you would receive a critical hit, the source takes the avoidance roll, if they fail you only take non-critical damage.
 
 Avoidance type: Power
