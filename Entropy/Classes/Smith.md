@@ -56,7 +56,9 @@ Weaponsmith:
 - *Prepare Volley:* 5 AP, next turn, whenever you unequip a weapon with a "Throw" action, you may swap another weapon with a "Throw" action from storage to hand for only 1 AP, this effect only activates a number of times equal to your Endurance. You can now forge "Thrown Explosives"
 
 Armoursmith:
-- 
+- *Leatherworking:* creatures that wear armours you have forged or modified also gain resistance to Bludgeoning damage. You may now forge armours for non-anthropomorphic creatures, and forge "Leathers"
+- *Overprotect:* 2 AP, this spell requires focus, target creature you can see doubles one of it's DT values. This effect lasts for 3 turns or until you lose focus. You can now forge "Armour Attachments"
+- *Decorate:* 4 AP, you cover any surface within melee range with at most a 5m by 5m area of coloured paint, summoned magically, in any image or style you like. Activate only once per combat. You can now forge "Tattoos"
 
 Whitesmith:
 - 

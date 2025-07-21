@@ -8,5 +8,6 @@ Utility items that can offer moves and/or bonuses.
 [[Hats]]
 [[Jewellery]]
 [[Implants]]
+[[Tattoos]]
 
 #itemType 
