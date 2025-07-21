@@ -29,7 +29,7 @@ Carry weight: +20
 HP: 2d6 + Endurance
 AP: 3 + Memory / 2
 
-*Tinker:* during any downtime, you may forge an item from a list given by the following abilities by destroying two items from the same item set then succeeding the avoidance roll. Whenever an ability in this class gives you access to forging an item, it will also give you +2 proficiency in that item ( this proficiency applies to the forged weapon, or any weapon of the same name ) if applicable. If the item you wish to forge has no level it cannot be forged.
+*Tinker:* during any downtime, you may forge an item from a list given by the following abilities by destroying two items from the same item set then succeeding the avoidance roll. Whenever an ability in this class gives you access to forging an item, it will also give you +2 proficiency in that item ( this proficiency applies to the forged weapon, or any weapon of the same name ) if applicable. If the item you wish to forge has no level it cannot be forged unless you can convince your Game Master that you could reasonably forge it from ingredients in your storage.
 
 Avoidance type: Memory
 Roll minimum: 3
@@ -51,7 +51,9 @@ AP: 3 + Memory
 ###### Pathway bonuses
 
 Weaponsmith: 
-- 
+- *Original Blade:* 2 AP, the next attack you make with a martial weapon deals an additional 1d4 slicing damage, and will apply bleed on a critical hit. You can now forge "Swords"
+- *Rifling Tune-up:* 3 AP, target medium or long weapon within Melee range +1m gains -10 Accuracy for 3 turns, this may only be activated once per combat. You can now forge "Slow Rifles"
+- *Prepare Volley:* 5 AP, next turn, whenever you unequip a weapon with a "Throw" action, you may swap another weapon with a "Throw" action from storage to hand for only 1 AP, this effect only activates a number of times equal to your Endurance. You can now forge "Thrown Explosives"
 
 Armoursmith:
 - 

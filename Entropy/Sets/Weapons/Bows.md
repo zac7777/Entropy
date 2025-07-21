@@ -1,5 +1,5 @@
 ## Level 1
-#### Thin Shortbow
+#### Thin Half-bow
 *Medium, Light, Primitive, Common*
 
 Weight: 1kg
