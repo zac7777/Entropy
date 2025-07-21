@@ -10,5 +10,6 @@
 [[Leathers]]
 [[Chain-mails]]
 [[Plate Armours]]
+[[Shields]]
 
 #itemType 
