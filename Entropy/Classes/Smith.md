@@ -61,9 +61,16 @@ Armoursmith:
 - *Decorate:* 4 AP, you cover any surface within melee range with at most a 5m by 5m area of coloured paint, summoned magically, in any image or style you like. Activate only once per combat. You can now forge "Tattoos"
 
 Whitesmith:
-- 
+- *Mass Production:* when forging a miscellaneous item in downtime, if you succeed the avoidance roll you make two of the item instead. You can now forge Utensils
+
+  Avoidance type: Endurance
+  Roll minimum: 8
+- *Ergonomics:* during combat, moves you activate on items you have forged have -2 EP cost ( this cannot lower their cost to below 2 ). You can now forge "Toys"
+- *Overpressure:* 1 AP, your next attack with a short advanced weapon has +5 critical. this can only be activated once per combat. You can now forge "Shells"
 
 Experimentalist:
-- 
+- *Chaotic Mind:* you can now forge new weapons never seen in the world of Entropy, their creation entirely negotiated with your Game Master, including: ingredients, attributes, and moves. A smith can only have a number of these custom weapons equal to their Memory.
+- *Forged Focus:* challenges you make to yourself have -1 to their minimum, while using a custom weapon you have -5 Accuracy
+- *Collaborative Experiment:* allied creatures have +1 Proficiency with your custom weapons
 
 #gameInformation #class
