@@ -54,7 +54,15 @@ Gambler:
 - 
 
 Survivor:
-- *Natural Cure:* during any downtime, you may use reasonable ingredients in your storage to craft "Medicines"
+- *Natural Cure:* during any downtime, you may use plant ingredients in your storage to craft one item from "Medicines" or "Poisons". During combat, whenever you gain health, you gain advantage on the next challenge that would target you, this can activate up to three times per combat.
+- *Cunning Reversal:* 3 AP, target creature within Melee Range + 5m that fails the avoidance roll activates an action of a non-weapon item you have equipped
+
+  Avoidance type: Power
+  Roll minimum: 7
+- *Predictive Instinct:* 5 AP, your Game Master will tell you what actions target creature you can see that fails the avoidance roll will take on it's next turn. If on that turn that creature is unable to make the described moves ( such as a creature it planned to target moved out of range ), you will gain +3 AP on your next turn.
+
+  Avoidance type: Insight
+  Roll minimum: 9
 
 Musician:
 - 

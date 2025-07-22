@@ -4,6 +4,7 @@ Utility items that can offer moves and/or bonuses.
 [[Shoes]]
 [[Snacks]]
 [[Medicines]]
+[[Poisons]]
 [[Masks]]
 [[Hats]]
 [[Jewellery]]
