@@ -54,9 +54,9 @@ Gambler:
 - 
 
 Survivor:
-- 
+- *Natural Cure:* during any downtime, you may use reasonable ingredients in your storage to craft "Medicines"
 
-Muscician:
+Musician:
 - 
 
 #gameInformation #class
