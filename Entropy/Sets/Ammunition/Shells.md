@@ -6,7 +6,7 @@
 *Multi-shot:* DT is multiplied by 10 when damage is calculated
 *Damage:* 10d4 + 1 piercing damage
 *Accuracy:* +25
-*Critical:* +17
+*Critical:* +1
 
 ## Level 4
 
@@ -15,6 +15,6 @@
 *Multi-shot:* DT is multiplied by 8 when damage is calculated
 *Damage:* 10d4 piercing + 2d8 heat damage
 *Accuracy:* +31
-*Critical:* +21
+*Critical:* -1
 
 #itemSet #ammunition 
