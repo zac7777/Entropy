@@ -35,6 +35,16 @@ Critical: +47
  *Hide:* 4 AP, all creatures that can see you (and fail the avoidance roll) lose awareness of you, activate only if you can suggest a reasonable hiding spot determined by your Game Master
 
   Avoidance type: Reasoning
-  Roll minimum: +3 + Reasoning (Yours)
+  Roll minimum: +2 + Reasoning (Yours)
+
+## Level 5
+
+#### Item Handling
+
+##### Actions
+
+*Rummage:* 1 AP, swap any one non-weapon equipment from either hand to storage, or from storage to hand, activate only once per turn
+
+*Quick Grab:* 1 AP, equip target unequipped item within Melee range + 2m or place target unequipped item within Melee range +2m into storage, activate up to twice in a turn
 
 #LearnableSkills
