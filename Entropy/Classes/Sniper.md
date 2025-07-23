@@ -31,7 +31,7 @@ AP: 1 + Reasoning
 
 *Pure focus:* being "Aimed" instead ends whenever you use a move other than "fire", "reload", "move", or if you are moved by an effect (this no longer ends when your turn does)
 ###### Moves
-*Take no prisoners:* 2 AP, this turn whenever you reduce an opponent's HP to below 1, gain 1 AP, this may only be activated 
+*Take no prisoners:* 2 AP, this turn whenever you reduce an opponent's HP to below 1, gain 1 AP, this may only be activated once per turn
 
 *Iron aim:* 3 AP, (This move puts you into the "Aimed" condition), While "Aimed" you have -5 accuracy and -20 dodge, "fire" moves on weapons you use cost 1 AP less (This cannot reduce their cost to below 1). This move may only be activated while you have a medium or long weapon that does not have an attached sight.
 

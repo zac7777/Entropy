@@ -51,7 +51,12 @@ Detective:
 - 
 
 Gambler:
-- 
+- *Jackpot:* If at any time you roll the highest value possible on a die, gain a "Jackpot" these may be spent at any time to re-roll one die, only one "Jackpot" may be earned per turn. If you ever roll the lowest possible value on a die take 3d4 - Reasoning mental damage and gain disadvantage on your next roll.
+- *Weighted Loss:* 3 AP, target creature that fails the avoidance roll has disadvantage for their next two turns, if they succeed the avoidance roll they take 1d2 + Connection mental damage
+
+  Avoidance type: Connection
+  Roll minimum: 6
+- *Split:* 4 AP and a "Jackpot", your next d100 roll is instead made with 10d10, activate up to three times each combat
 
 Survivor:
 - *Natural Cure:* during any downtime, you may use plant ingredients in your storage to craft one item from "Medicines" or "Poisons". During combat, whenever you gain health, you gain advantage on the next challenge that would target you, this can activate up to three times per combat.

@@ -132,12 +132,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core Concepts/Miscellaneous.md",
+                "file": "Classes/Zealot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Miscellaneous"
+              "title": "Zealot"
             }
           },
           {
@@ -146,7 +146,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Poisons.md",
+                "file": "Sets/Miscellaneous/Poisons.md",
                 "mode": "source",
                 "source": false
               },
@@ -155,7 +155,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -302,12 +302,14 @@
   },
   "active": "a7c79a068d42b353",
   "lastOpenFiles": [
-    "Poisons.md",
-    "Classes/Champion.md",
-    "Sets/Miscellaneous/Medicines.md",
+    "Classes/Zealot.md",
     "Core Concepts/Miscellaneous.md",
-    "Development/Developer notes.md",
+    "Classes/Champion.md",
     "Classes/Sniper.md",
+    "Sets/Miscellaneous/Instruments.md",
+    "Sets/Miscellaneous/Poisons.md",
+    "Sets/Miscellaneous/Medicines.md",
+    "Development/Developer notes.md",
     "Development/Survivalist (Axed).md",
     "Core Concepts/Classes.md",
     "Development/New 'Protagonist' Class concept.md",
@@ -326,8 +328,6 @@
     "Sets/Armours/Shields.md",
     "Sets/Armours/Leathers.md",
     "Core Concepts/Armours.md",
-    "Sets/Attachments/Armour Attachments.md",
-    "Core Concepts/Attachments.md",
     "Resources/Ehlen Map Resource.png",
     "Pasted image 20250628201830.png",
     "Sets/Miscellaneous",
