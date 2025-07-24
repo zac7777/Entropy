@@ -48,7 +48,9 @@ AP: 3 + Connection
 ###### Pathway bonuses
 
 Detective: 
-- 
+- *Great mind:* you have advantage with Reasoning challenges you take. You have an additional mental DT equal to you Connection. However, attacks made against you have +5 critical, and if they do land a critical hit you will lose all spell focus.
+- *Clue Tracker:* whenever you would lose awareness of a creature, you may stun yourself to take a turn searching for that creature. In the turn after you lose stun, you will gain awareness of that creature and you may choose for them to not be aware of you.
+- *Hypothesise:* 2 AP, write down a prediction of the next attack or spell that will hit you ( without telling your Game Master or allies ), if you are correct, you gain advantage on your next attack roll that targets the source of the attack or spell that hit you. Activate only once per turn and up to three times per combat.
 
 Gambler:
 - *Jackpot:* If at any time you roll the highest value possible on a die, gain a "Jackpot" these may be spent at any time to re-roll one die, only one "Jackpot" may be earned per turn. If you ever roll the lowest possible value on a die take 3d4 - Reasoning mental damage and gain disadvantage on your next roll.
