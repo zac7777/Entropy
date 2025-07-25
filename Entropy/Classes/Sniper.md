@@ -55,7 +55,7 @@ Hidden death:
 
 Collateraliser:
 - *Explosive knowledge:* in any downtime you may create up to 5 "explosive" variants of any ammo you have in storage by combining 2 of the regular ammunition and any flammable item
-- *Ranged Boomer:* you gain an additional +5m * Endurance to the effective range of "Throw" moves from weapons, they gain -10 Accuracy, and creatures will not gain awareness of you if you target them.
+- *Ranged Boomer:* you gain an additional +5m * Endurance to the effective range of "Throw" moves from weapons, they gain -10 Accuracy, and creatures will not gain awareness of you if you target them with these moves.
 - *Arsonist's lifestyle:* you gain resistance to fire and shock damage, if you would take suffocation damage from smoke you are now immune to it.
 
 Hunter:
