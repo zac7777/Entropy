@@ -7,18 +7,33 @@
 | Rarity        | Improvised | Common     | Rare     | Legendary |
 
 ## Weapon sets
-[[Axes]]
+
+#### Melee
+
+###### Piercing
+[[Knives]]
+[[Spears]]
+###### Bludgeoning
 [[Hammers]]
 [[Gloves]]
+###### Slicing
+[[Hooks]]
+[[Axes]]
+###### Miscellaneous
 [[Swords]]
-[[Knives]]
 [[Utensils]]
+[[Maces]]
+[[Whips]]
+
+#### Ranged
+
+###### Firearm
 [[Pistols]]
 [[Slow Rifles]]
-[[Thrown Explosives]]
 [[Shotguns]]
+###### Miscellaneous
+[[Thrown Explosives]]
 [[Wands]]
 [[Bows]]
-[[Spears]]
 
 #itemType 

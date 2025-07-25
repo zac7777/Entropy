@@ -6,7 +6,7 @@ Weight: 0.5kg
 
 ##### Bonuses
 
-*Dot downrange:* this weapon gains -5 accuracy
+*Dot downrange:* attached weapon gains -5 accuracy
 
 ##### Actions
 

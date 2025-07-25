@@ -16,7 +16,7 @@ Critical: +6
 
 ---
 
-*Pound:* 4 AP, Melee Range, 1d6 + Power bludgeoning damage
+*Pound:* 4 AP, Melee Range, 1d6 + Power bludgeoning damage, on critical hit the target gets stunned
 
 Accuracy: +17
 Critical: +16
@@ -44,12 +44,12 @@ Critical: +9
 
 ---
 
-*Pound:* 6 AP, Melee Range, 2d6 + Power * 2 bludgeoning damage
+*Pound:* 6 AP, Melee Range, 2d6 + Power * 2 bludgeoning damage, on critical hit the target gets stunned
 
 Proficiency requirement: 3
 
 Accuracy: +36
-Critical: +20
+Critical: +20 + Reasoning
 
 ---
 *Heavy head, long handle, all the calculations say it should be the ultimate weapon of destruction*

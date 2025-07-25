@@ -19,16 +19,16 @@ Critical: +5 + Power
 
 ---
 
-*Hook:* 3 AP, Melee Range, 1d6 bludgeoning damage
+*Hook:* 3 AP, Melee Range, 1d6 bludgeoning damage, on critical hit target gets -1 EP
 
 Accuracy: +45
-Critical: + Power * 2
+Critical: 0 + Power * 2
 
 ---
 
 *Uppercut:* 4 AP, Melee Range, 3d4 + ( Power * 2 ) bludgeoning damage, on critical hit give 2m of knockback and stun the target
 
-Proficiency requirement: 3
+Proficiency requirement: 2
 
 Accuracy: +10
 Critical: +5
@@ -37,7 +37,7 @@ Critical: +5
 
 *Force insulation:* 4 AP, target creature in melee range + 2m cannot cast spells from their hands, this effect lasts until that creature attacks you
 
-Proficiency requirement: 1
+Proficiency requirement: 3
 
 Avoidance type: Power
 Roll minimum: 5 + Power (Your Power)

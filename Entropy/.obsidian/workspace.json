@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a6fadc064bdd4a94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core Concepts/Classes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Classes"
-            }
-          },
-          {
             "id": "5eddf5b63a569d8d",
             "type": "leaf",
             "state": {
@@ -36,41 +22,150 @@
             }
           },
           {
-            "id": "a1cc1db57a591154",
+            "id": "89234e5e8d01701f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "89ca0a8598a944fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core Concepts/Classes.md",
+                "file": "Core Concepts/Weapons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Classes"
+              "title": "Weapons"
+            }
+          },
+          {
+            "id": "3cd2d7213510b340",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sets/Weapons/Whips.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Whips"
+            }
+          },
+          {
+            "id": "ad7aab8e5f60f6af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sets/Weapons/Maces.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Maces"
+            }
+          },
+          {
+            "id": "6c16cfed96a70a42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sets/Weapons/Hooks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hooks"
+            }
+          },
+          {
+            "id": "3fa7ec6dec8ce409",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sets/Weapons/Gloves.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gloves"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
-        "id": "46992fc55a3a02d3",
+        "id": "f156c059cc91e8c2",
         "type": "tabs",
         "children": [
           {
-            "id": "efa2dda912050b08",
+            "id": "8936f561cb45b398",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Sniper.md",
+                "file": "Sets/Weapons/Hammers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sniper"
+              "title": "Hammers"
+            }
+          },
+          {
+            "id": "11607fdeddff6201",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Concepts/Status Effects.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Status Effects"
+            }
+          },
+          {
+            "id": "bc31053cfcb3ff17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Concepts/Damage Types.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Damage Types"
+            }
+          },
+          {
+            "id": "0c425e6db19dd402",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sets/Ammunition/Small Cartridges.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Small Cartridges"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -215,34 +310,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "efa2dda912050b08",
+  "active": "89ca0a8598a944fb",
   "lastOpenFiles": [
-    "Development/Developer notes.md",
-    "Classes/Sniper.md",
-    "Sets/Miscellaneous/Poisons.md",
-    "Core Concepts/Classes.md",
-    "Classes/Champion.md",
-    "Stats/Criticals.md",
-    "Classes/Zealot.md",
-    "Core Concepts/Miscellaneous.md",
-    "Sets/Miscellaneous/Instruments.md",
-    "Sets/Miscellaneous/Medicines.md",
-    "Development/Survivalist (Axed).md",
-    "Development/New 'Protagonist' Class concept.md",
-    "Classes/Trapper.md",
-    "Classes/Trickster.md",
-    "Core Concepts/Player Characters.md",
-    "Story/Gods.md",
-    "Classes/Soldier.md",
-    "Sets/Miscellaneous/Shoes.md",
-    "Sets/Miscellaneous/Unarmed Moves.md",
-    "Classes/Smith.md",
+    "Sets/Weapons/Maces.md",
+    "Core Concepts/Weapons.md",
+    "Sets/Ammunition/Small Cartridges.md",
+    "Sets/Weapons/Hammers.md",
+    "Sets/Weapons/Spears.md",
+    "Sets/Weapons/Whips.md",
+    "Sets/Weapons/Hooks.md",
+    "Sets/Weapons/Knives.md",
+    "Sets/Weapons/Gloves.md",
+    "Sets/Weapons/Axes.md",
+    "Sets/Weapons/Utensils.md",
+    "Core Concepts/Damage Types.md",
+    "Core Concepts/Status Effects.md",
+    "Sets/Attachments/Pistol Attachments.md",
+    "Sets/Attachments/Slow Rifle Attachments.md",
+    "Sets/Weapons/Pistols.md",
+    "Sets/Attachments/Armour Attachments.md",
+    "Sets/Weapons/Bows.md",
+    "Sets/Weapons/Slow Rifles.md",
     "Sets/Weapons/Shotguns.md",
-    "Sets/Ammunition/Shells.md",
-    "Sets/Miscellaneous/Toys.md",
-    "Sets/Miscellaneous/Jewellery.md",
-    "Sets/Armours/Shields.md",
-    "Sets/Armours/Leathers.md",
+    "Core Concepts/Armours.md",
+    "Sets/Armours/Plate Armours.md",
+    "Sets/Armours/Chain-mails.md",
+    "Core Concepts/Spells.md",
+    "Classes/Sniper.md",
+    "Development/Developer notes.md",
     "Resources/Ehlen Map Resource.png",
     "Pasted image 20250628201830.png",
     "Sets/Miscellaneous",
