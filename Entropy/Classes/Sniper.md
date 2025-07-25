@@ -46,7 +46,7 @@ AP: 3 + Reasoning
 
 Hidden death: 
 - *Absorbent flesh:* 2 AP, until end of turn your attacks with medium and long weapons become completely silent, you can no longer roll critical hits.
-- *Quiet the arcane:* 2 AP, your next spell is completely silent
+- *Quiet the arcane:* 2 AP, your next spell is completely silent, if it hits a creature that is unaware of you they have disadvantage on any avoidance rolls
 - *Hide:* 2 AP, all creatures that can see you (and fail the avoidance roll) lose awareness of you, activate only if you can suggest a reasonable hiding spot determined by your Game Master
 
   Avoidance type: Reasoning
@@ -55,8 +55,8 @@ Hidden death:
 
 Collateraliser:
 - *Explosive knowledge:* in any downtime you may create up to 5 "explosive" variants of any ammo you have in storage by combining 2 of the regular ammunition and any flammable item
-- *Ranged Boomer:* you gain an additional +5m * Endurance to the effective range of "Throw" moves from weapons
-- *Arsonist's lifestyle:* you gain a resistance to fire and shock damage
+- *Ranged Boomer:* you gain an additional +5m * Endurance to the effective range of "Throw" moves from weapons, they gain -10 Accuracy, and creatures will not gain awareness of you if you target them.
+- *Arsonist's lifestyle:* you gain resistance to fire and shock damage, if you would take suffocation damage from smoke you are now immune to it.
 
 Hunter:
 - *Best friend:* at least one of your combat companions must be non-anthropomorphic, this companion will be your "Best Friend" and if they would die at any point you may take the avoidance roll, upon succeeding they will fall unconscious and return to 1 HP, this can only be activated twice per combat
@@ -64,12 +64,12 @@ Hunter:
   Avoidance type: Insight
   Roll minimum: 4
 - *Sniff out:* 3 AP, your "Best friend" will move to the nearest enemy creature (whether you are aware of them or not), arriving at them at a speed of 20m per turn
-- *Sick 'em:* 4 AP, your companion will activate an attack from their move list that costs less than 6 AP, activate only once per turn
+- *Sick 'em:* 4 AP, your "Best Friend" will activate an attack from their move list that costs less than 6 AP, activate only once per turn
 
 Giant slayer:
-- *Denting repetition:* Whenever you roll for an attack's hit, if the result after all bonuses applied is within a range of plus or minus your reasoning to the last attack you made on that target, that attack will ignore any DT when damage is calculated
+- *Denting repetition:* Whenever you roll for an attack's hit, if the result of the d100 roll is within 10 of the last attack's d100 roll on that target, the attack will ignore any DT or resistances
 - *Deep wounds:* If an enemy creature is brought to below half their maximum HP, instead of doubling their EP loss, they now triple it
-- *Improvised elementalism:* 2 AP, the next attack you make with a medium or long weapon will deal an additional 1d4 + Reasoning damage of any magical type you choose
+- *Improvised elementalism:* 3 AP, the next attack you make with a medium or long weapon will deal an additional 1d4 + Reasoning damage of any magical type you choose
 
 
 #gameInformation #class

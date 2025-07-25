@@ -72,6 +72,14 @@ Survivor:
   Roll minimum: 9
 
 Musician:
-- 
+- *Instrumental:* upon the levelling up of a Musician, they may select an instrument to be a part of their combat style, it has no moves, but can be used as a spellcasting conduit. During each turn that a Musician has not activated any attack moves and not used their spell focus, they may store their remaining AP as a "Bar"
+- *Exhausting Melody:* 2 AP, all creatures that can hear you that fail the avoidance roll have +1 AP cost to all their non-movement moves for their next turn, this may only be activated once per turn.
+
+  Avoidance type: Memory
+  Roll minimum: 4
+- *Banging Tune:* 5 AP and 5 "Bars", all creatures that can hear you take 3d6 + Connection mental damage, then any creatures within 15m take 2d10 + Reasoning shock damage
+
+  Accuracy: +16
+  Critical: +4
 
 #gameInformation #class
