@@ -4,7 +4,7 @@
 
 Weight: 2kg
 
-One handed: -1 damage to "Swing"
+One handed: -1 piercing damage to "Swing"
 Two handed: -1 AP cost to all moves
 
 ##### Actions
