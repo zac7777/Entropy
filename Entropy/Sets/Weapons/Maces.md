@@ -15,4 +15,4 @@ Accuracy: +26
 Critical: +11
 
 ---
-*Barely effective while covered in useless shards, but peasants easily imagine the tearing of flesh*
+*Barely effective while covered in superficially wounding shards, but peasants easily imagine the tearing of flesh*

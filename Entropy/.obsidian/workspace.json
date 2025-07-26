@@ -88,20 +88,6 @@
             }
           },
           {
-            "id": "6c16cfed96a70a42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sets/Weapons/Hooks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hooks"
-            }
-          },
-          {
             "id": "3fa7ec6dec8ce409",
             "type": "leaf",
             "state": {
@@ -116,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       },
       {
         "id": "f156c059cc91e8c2",
@@ -135,51 +121,8 @@
               "icon": "lucide-file",
               "title": "Hammers"
             }
-          },
-          {
-            "id": "11607fdeddff6201",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core Concepts/Status Effects.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Status Effects"
-            }
-          },
-          {
-            "id": "bc31053cfcb3ff17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core Concepts/Damage Types.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Damage Types"
-            }
-          },
-          {
-            "id": "0c425e6db19dd402",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sets/Ammunition/Small Cartridges.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Small Cartridges"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -324,15 +267,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a45e9b6629c84b1d",
+  "active": "3fa7ec6dec8ce409",
   "lastOpenFiles": [
-    "Core Concepts/Weapons.md",
     "Sets/Weapons/Maces.md",
-    "Sets/Ammunition/Small Cartridges.md",
+    "Sets/Weapons/Hooks.md",
     "Sets/Weapons/Hammers.md",
+    "Core Concepts/Weapons.md",
+    "Sets/Ammunition/Small Cartridges.md",
     "Sets/Weapons/Spears.md",
     "Sets/Weapons/Whips.md",
-    "Sets/Weapons/Hooks.md",
     "Sets/Weapons/Knives.md",
     "Sets/Weapons/Gloves.md",
     "Sets/Weapons/Axes.md",

@@ -1,5 +1,5 @@
 ## Level 1
-#### Farming Blade
+#### Farming Sickle
 *Contact, Manageable, Martial, Common*
 
 Weight: 3kg
@@ -23,3 +23,29 @@ Critical: +12
 
 ---
 *Swiped across grain to feed many, swiped across the many to bring them to heel*
+
+## Level 2
+#### Bladed Crook
+*Contact, Manageable, Primitive, Rare*
+
+Weight: 2kg
+
+One handed: -2 damage on "Pull"
+Two handed: -1 EP cost on all moves
+
+##### Actions
+
+*Swing:* 2 AP, Melee Range, 1d4 + 2 slicing damage
+
+Accuracy: +32
+Critical: +6
+
+---
+
+*Pull:* 3 AP, Melee Range + 1m, 1d8 + Power slicing damage, on critical hit the target is knocked
+
+Accuracy: +25
+Critical: +24
+
+---
+*I'm starting to learn you can put a sharp metal edge on basically anything and most objects will retain their original function*
