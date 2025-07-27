@@ -26,7 +26,7 @@ Critical: 0 + Power * 2
 
 ---
 
-*Uppercut:* 4 AP, Melee Range, 3d4 + ( Power * 2 ) bludgeoning damage, on critical hit give 2m of knockback and stun the target
+*Uppercut:* 4 AP, Melee Range, 3d4 + Power * 2  bludgeoning damage, on critical hit give 2m of knockback and stun the target
 
 Proficiency requirement: 2
 
@@ -75,7 +75,7 @@ Critical: 19 + Power * 2
 
 ---
 
-*Uppercut:* 2 AP, Melee Range, 3d4 + ( Power * 2 ) bludgeoning damage, this move has +20 critical if you have already hit the target with this weapon this turn, on critical hit target gets -3 EP
+*Uppercut:* 2 AP, Melee Range, 3d2 + Power * 2 bludgeoning damage, this move has +20 critical if you have already hit the target with this weapon this turn but this bonus can only be applied once, on critical hit target gets -3 EP
 
 Proficiency requirement: 2
 
