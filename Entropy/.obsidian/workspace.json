@@ -108,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -253,8 +253,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b7015031c1bf30f",
+  "active": "e7ba88607c73fe19",
   "lastOpenFiles": [
+    "Sets/Armours/Plate Armours.md",
     "Sets/Armours/Chain-mails.md",
     "Development/Developer notes.md",
     "Sets/Attachments/Slow Rifle Attachments.md",
@@ -271,7 +272,6 @@
     "Sets/Weapons/Hooks.md",
     "Sets/Weapons/Maces.md",
     "Sets/Weapons/Thrown Explosives.md",
-    "Sets/Armours/Plate Armours.md",
     "Sets/Weapons/Spears.md",
     "Sets/Weapons/Gloves.md",
     "Sets/Weapons/Hammers.md",

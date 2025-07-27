@@ -6,12 +6,12 @@
 
 Poisoned: A creature that is poisoned takes 1d6 - 3 toxic damage whenever they take an action, this cannot be applied multiple times. A creature is not healed from poison until they are acted on by a move that specifically heals poison.
 
-*Crippled:* Each limb of a creature can be crippled individually, this means they can no longer equip a weapon in that limb or use that limb to cast spells. If any of a creature's legs are crippled the cost of their movement action is doubled, if all legs are crippled they can no longer use movement actions. A limb is not healed from crippling until acted on by a move that specifically heals crippling or by spending a downtime to fix it.
+*Crippled:* Each limb of a creature can be crippled individually, this means they can no longer equip an item in that limb or use that limb to cast spells. If any of a creature's legs are crippled the cost of their movement action is doubled for each leg crippled, if all legs are crippled they may use a movement action only by spending AP equal to their maximum AP. A limb is not healed from crippling until acted on by a move that specifically heals crippling or by spending a downtime to fix it.
 
 *Blinded:* A creature that is blinded loses awareness of all other creatures, then any attacks they make have +20 accuracy, and any challenges they make have -2 to their minimum. A creature only stops being blind at the end of combat or healed by a move that specifically heals blindness.
 
 *Knocked:* A creature that is knocked is lying on the floor, their movement actions cost double the EP ( this does not effect the required AP for activation ), their attacks have disadvantage and attacks made on them have advantage. A creature may spend 4 AP at any time to stand up and no longer be knocked
 
-*Aggravated:* A creature that is Aggravated will use all of it's AP to attack the creature that it's Aggravated against until it can no longer attack, if it has no moves with enough range to hit you, it will use movement actions until it can reach you. This will occur for each of the creature's turns until the effect ends
+*Aggravated:* A creature that is Aggravated will use all of it's AP to attack the creature that it's Aggravated against until it can no longer attack, if it has no moves with enough range to hit the target, it will use movement actions until it can reach it. This will occur for each of the creature's turns until the effect ends
 
 #gameInformation 
