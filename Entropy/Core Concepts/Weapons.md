@@ -34,6 +34,7 @@
 ###### Miscellaneous
 [[Thrown Explosives]]
 [[Wands]]
+[[Staves]]
 [[Bows]]
 
 #itemType 

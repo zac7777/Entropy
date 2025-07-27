@@ -41,4 +41,4 @@ Accuracy: +34
 Critical: +18
 
 ---
-*Designed to bash right through expensive armour, the rich will be brought to heel*
+*Designed to bash right through expensive armour with the lightest of strengths, the rich will be brought to heel*
