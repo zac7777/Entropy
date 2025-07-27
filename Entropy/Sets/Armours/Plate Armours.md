@@ -4,7 +4,7 @@
 
 Weight: 9kg
 
-Piercing DT: -1
+Slicing DT: -1
 Radiant DT: -1
 
 Dodge bonus: -5

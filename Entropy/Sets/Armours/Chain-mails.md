@@ -4,7 +4,7 @@
 
 Weight: 6kg
 
-Slicing DT: -1
+Piercing DT: -1
 Electric DT: -1
 
 Dodge bonus: -1
