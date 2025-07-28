@@ -108,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -253,16 +253,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7ba88607c73fe19",
+  "active": "5eddf5b63a569d8d",
   "lastOpenFiles": [
     "Sets/Armours/Plate Armours.md",
-    "Sets/Armours/Chain-mails.md",
     "Development/Developer notes.md",
+    "Core Concepts/Status Effects.md",
+    "Sets/Armours/Chain-mails.md",
     "Sets/Attachments/Slow Rifle Attachments.md",
     "Core Concepts/Weapons.md",
     "Sets/Weapons/Staves.md",
     "Sets/Spells/Ice.md",
-    "Core Concepts/Status Effects.md",
     "Sets/Weapons/Pistols.md",
     "Sets/Weapons/Wands.md",
     "Sets/Attachments/Armour Attachments.md",
