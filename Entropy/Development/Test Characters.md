@@ -378,11 +378,11 @@ Accuracy: +19
 Critical: +3
 10. Break-action single shotgun: *Reload:* 3 AP, this action costs 1 round of "20 Gauge buckshot" or a variant to use
 11. Energy Bar: *Eat:* 1 AP, recover 10 EP and lose 1 HP, this consumes the Energy Bar
-12. Mindless Underdemons: *Raise Sprite:* 3 AP, raises a "Sprite" creature from [[Demons]] out of nearby soft ground, it must fail the avoidance roll for each action you want it to take, otherwise the Game Master will decide how it acts. It takes it's turn immediately after yours.
+12. Mindless Underdemons: *Raise Sprite:* 3 AP, raises a "Sprite" creature from "Demons" out of nearby soft ground, it must fail the avoidance roll for each action you want it to take, otherwise the Game Master will decide how it acts. It takes it's turn immediately after yours.
 
 Avoidance type: Connection
 Roll minimum: 4
-13. Mindless Underdemons: *Raise Sadista:* 6 AP, raises a "Sadista" creature from [[Demons]] out of nearby soft ground, it must fail the avoidance roll for each action you want it to take, otherwise the Game Master will decide how it acts. It takes it's turn immediately after yours.
+13. Mindless Underdemons: *Raise Sadista:* 6 AP, raises a "Sadista" creature from "Demons" out of nearby soft ground, it must fail the avoidance roll for each action you want it to take, otherwise the Game Master will decide how it acts. It takes it's turn immediately after yours.
 
 Avoidance type: Insight
 Roll minimum: 7

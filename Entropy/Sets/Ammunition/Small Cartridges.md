@@ -15,7 +15,7 @@
 
 #### 9 millimetre rubber
 
-*Damage:* 0, when this bullet lands a critical hit the target receives -5 EP
+*Damage:* 1d2 bludgeoning damage, when this bullet lands a critical hit the target receives -5 EP
 *Accuracy:* +20
 *Critical:* +40
 
