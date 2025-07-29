@@ -4,10 +4,24 @@
 
 Weight: 9kg
 
-Slicing DT: -1
+Slashing DT: -1
 Radiant DT: -1
 
 Dodge bonus: -5
 
 ---
 *It shines with the scratches of previous battles, reforged into lighter protective plates*
+
+## Level 2
+#### Concealable Body Plating
+*Full, Manageable, Primitive, Rare*
+
+Weight: 4kg
+
+Slashing DT: -2
+Piercing DT: -1
+
+Dodge bonus: -2
+
+---
+*Designed to be worn under clothes so that a shooter might fail a kill-shot without even knowing*

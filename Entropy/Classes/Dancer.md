@@ -31,11 +31,11 @@ AP: 4 + Endurance
 
 *The Sequence:* whenever an attack or spell misses you, if the source is within 10m, you may activate an attack move targeting that creature that costs less than 3 AP for free
 ###### Moves
-*Predetermine:* 1 AP, tell your GM exactly what moves you will activate this turn, as long as you perform these moves exactly as explained, you gain -10 Accuracy and +2 DT to slicing until your next turn. If at any point the described sequence is not replicated, you are Knocked and gain vulnerability to mental damage until your next turn, losing the Accuracy and DT bonus described before
+*Predetermine:* 1 AP, tell your GM exactly what moves you will activate this turn, as long as you perform these moves exactly as explained, you gain -10 Accuracy and +2 DT to slashing until your next turn. If at any point the described sequence is not replicated, you are Knocked and gain vulnerability to mental damage until your next turn, losing the Accuracy and DT bonus described before
 
 *Wide Turn:* 5 AP, you may activate any attack that costs 3 AP or less and would only target one creature for free, instead it targets every creature it's valid for it to target and the damage roll has advantage ( within range and any other requirements ).
 
-*Finale:* 7 AP, Melee Range + 1m, Insight d10 slicing damage, this can only target a creature that you have damaged 5 times this combat
+*Finale:* 7 AP, Melee Range + 1m, Insight d10 slashing damage, this can only target a creature that you have damaged 5 times this combat
 
 Accuracy: +14
 Critical: +8
@@ -54,8 +54,8 @@ Light feeted ballet:
 
 Living buzzsaw:
 - *Sever Flesh:* whenever you deal damage to a creature, if it's the third or later time you have this combat, apply one level of bleeding
-- *Spin:* 2 AP, while "Spinning" you have +12 dodge, movement actions cost -1 AP ( this cannot reduce their cost to below 2 AP ), and if any creature steps within Melee range +2m they receive 1d4 + Endurance slicing damage. However, while spinning you cannot spell focus, gain awareness of creatures, or succeed challenges based on Reasoning or Memory. This effect ends when you are knocked back or choose to end the effect.
-- *Interpret Pain:* 4 AP, target creature that can see you gains vulnerability to slicing damage and loses any DT to slicing, piercing, and shock. This effect lasts for 3 turns.
+- *Spin:* 2 AP, while "Spinning" you have +12 dodge, movement actions cost -1 AP ( this cannot reduce their cost to below 2 AP ), and if any creature steps within Melee range +2m they receive 1d4 + Endurance slashing damage. However, while spinning you cannot spell focus, gain awareness of creatures, or succeed challenges based on Reasoning or Memory. This effect ends when you are knocked back or choose to end the effect.
+- *Interpret Pain:* 4 AP, target creature that can see you gains vulnerability to slashing damage and loses any DT to slashing, piercing, and shock. This effect lasts for 3 turns.
 
   Avoidance type: Reasoning
   Roll minimum

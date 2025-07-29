@@ -38,7 +38,7 @@ AP: 3 + Connection
 Avoidance type: Connection
 Roll minimum: 3 + Reasoning ( yours )
 
-*The Web:* 5 AP, this spell requires focus, all creatures within 20m are immobilised if they fail the avoidance roll, otherwise they take 1d4 - 2 slicing slicing damage whenever they make an action within this area. This effect lasts for three turns or until focus ends.
+*The Web:* 5 AP, this spell requires focus, all creatures within 20m are immobilised if they fail the avoidance roll, otherwise they take 1d4 - 2 slashing damage whenever they make an action within this area. This effect lasts for three turns or until focus ends.
 
 Avoidance type: Power
 Roll minimum: 6

@@ -51,7 +51,7 @@ AP: 3 + Memory
 ###### Pathway bonuses
 
 Weaponsmith: 
-- *Original Blade:* 2 AP, the next attack you make with a martial weapon deals an additional 1d4 slicing damage, and will apply bleed on a critical hit. You can now forge "Swords"
+- *Original Blade:* 2 AP, the next attack you make with a martial weapon deals an additional 1d4 slashing damage, and will apply bleed on a critical hit. You can now forge "Swords"
 - *Rifling Tune-up:* 3 AP, target medium or long weapon within Melee range +1m gains -10 Accuracy for 3 turns, this may only be activated once per combat. You can now forge "Slow Rifles"
 - *Prepare Volley:* 5 AP, next turn, whenever you unequip a weapon with a "Throw" action, you may swap another weapon with a "Throw" action from storage to hand for only 1 AP, this effect only activates a number of times equal to your Endurance. You can now forge "Thrown Explosives"
 

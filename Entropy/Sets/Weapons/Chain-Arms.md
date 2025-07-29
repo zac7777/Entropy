@@ -42,7 +42,7 @@ Critical: +2
 
 ---
 
-*Strike:* 3 AP, Melee Range + 2m, 2d4 - 2 slicing damage, on critical hit the target gets bleeding
+*Strike:* 3 AP, Melee Range + 2m, 2d4 - 2 slashing damage, on critical hit the target gets bleeding
 
 Accuracy: +24
 Critical: +12

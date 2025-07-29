@@ -9,7 +9,7 @@ Two handed: +1 AP cost to all moves
 
 ##### Actions
 
-*Swing:* 3 AP, Melee Range + 1m, 1d8 + Power slicing damage
+*Swing:* 3 AP, Melee Range + 1m, 1d8 + Power slashing damage
 
 Accuracy: +15
 Critical: +5
@@ -45,7 +45,7 @@ Two handed: +1 AP cost to all moves
 
 ##### Actions
 
-*Swing:* 3 AP, Melee Range + 1m, 1d8 + Power slicing damage
+*Swing:* 3 AP, Melee Range + 1m, 1d8 + Power slashing damage
 
 Accuracy: +10
 Critical: +6
@@ -79,7 +79,7 @@ Two handed:
 
 ##### Actions
 
-*Swing:* 3 AP, Melee Range + 2m, 3d8 + ( Power * 2 ) slicing damage
+*Swing:* 3 AP, Melee Range + 2m, 3d8 + ( Power * 2 ) slashing damage
 
 Accuracy: +20
 Critical: +9

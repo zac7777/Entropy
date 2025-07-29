@@ -16,14 +16,14 @@
 ###### Bludgeoning
 [[Hammers]]
 [[Gloves]]
-###### Slicing
+###### Slashing
 [[Hooks]]
 [[Axes]]
 ###### Miscellaneous
 [[Swords]]
 [[Utensils]]
 [[Maces]]
-[[Whips]]
+[[Chain-Arms]]
 
 #### Ranged
 
@@ -36,5 +36,6 @@
 [[Wands]]
 [[Staves]]
 [[Bows]]
+
 
 #itemType 

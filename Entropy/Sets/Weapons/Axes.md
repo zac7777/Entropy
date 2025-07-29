@@ -8,7 +8,7 @@ One handed:
 Two handed: +1 damage to all moves
 ##### Actions
 
-*Swing:* 1 AP, Melee Range, 1 slicing damage
+*Swing:* 1 AP, Melee Range, 1 slashing damage
 
 Accuracy: +20
 Critical: +5
@@ -66,7 +66,7 @@ One handed:
 Two handed: -8 Accuracy to "Swing"
 ##### Actions
 
-*Swing:* 2 AP, Melee Range + 1m, 2d4 - 1 slicing damage
+*Swing:* 2 AP, Melee Range + 1m, 2d4 - 1 slashing damage
 
 Accuracy: +22
 Critical: +13

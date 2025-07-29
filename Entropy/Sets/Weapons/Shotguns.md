@@ -33,7 +33,7 @@ Proficiency requirement: 2
 
 ## Level 2
 #### Sawed-off double shotgun
-*Short, Light, Advanced, Improvised(Another shotgun, A weapon that deals Slicing damage)*
+*Short, Light, Advanced, Improvised(Another shotgun, A weapon that deals Slashing damage)*
 
 Weight: 1.5kg
 

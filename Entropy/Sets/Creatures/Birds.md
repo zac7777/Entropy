@@ -27,7 +27,7 @@ Dodge: +20
 
 *Move:* 1 AP, if on land move 1 meter in any direction, if currently flying move 3 meters in any direction
 
-*Scratch:* 1 AP, 1m range, 1d2 + 1 slicing damage, on critical hit target gets bleeding
+*Scratch:* 1 AP, 1m range, 1d2 + 1 slashing damage, on critical hit target gets bleeding
 Accuracy: +27
 Critical: +5
 

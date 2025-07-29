@@ -56,7 +56,7 @@ Flock of Flight:
 - *Drop:* 1 AP, this move is added to your army's Action List, you place an equipped item, an item from storage, or an object/creature you're currently lifting, anywhere within Melee range + 1m. If placed in the air, the item/object/creature will be subject to Fall Damage, and if it hits another object/creature, damage will be dealt to the grounded object/creature also equal to the Fall Damage.
 
 Pack of Claws:
-- *Battle Scarring:* whenever you or your army deals slicing damage to a creature, also apply levels of bleeding equal to your Connection if that creature fails the avoidance roll
+- *Battle Scarring:* whenever you or your army deals slashing damage to a creature, also apply levels of bleeding equal to your Connection if that creature fails the avoidance roll
 
   Avoidance type: Memory
   Roll minimum: 4

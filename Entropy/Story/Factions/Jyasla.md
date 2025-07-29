@@ -100,7 +100,7 @@ Piercing Reduction: -2
 
 *Move:* 1 AP, move 1 meters in any direction
 
-*Swing:* 3 AP, 2m, 1d8 - 3 slicing damage
+*Swing:* 3 AP, 2m, 1d8 - 3 slashing damage
 
 Accuracy: +13
 Critical: +13

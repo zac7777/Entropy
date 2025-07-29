@@ -27,7 +27,7 @@ Shock Increase: +2
 
 *Move:* 2 AP, move 3 meters in any direction
 
-*Swipe:* 1 AP, 2m, 1d4 slicing damage, on critical hit the target is knocked
+*Swipe:* 1 AP, 2m, 1d4 slashing damage, on critical hit the target is knocked
 Accuracy: +23
 Critical: +11
 

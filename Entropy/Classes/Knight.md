@@ -31,7 +31,7 @@ AP: 5 + Connection / 2
 
 *Resistant heart:* Whenever incoming damage to this knight would be reduced to below one, it is reduced to zero instead of one
 ###### Moves
-*Stand Stalwart:* 1 AP, you and target creature that can see you both gain +2 DT to Slicing, Bludgeoning, and Mental until your next turn
+*Stand Stalwart:* 1 AP, you and target creature that can see you both gain +2 DT to Slashing, Bludgeoning, and Mental until your next turn
 
 *Righteous Backhand:* 2 AP, Melee Range, 1d6 bludgeoning damage, gain +2 DT to a type of your choice until your next turn
 

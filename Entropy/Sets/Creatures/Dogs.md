@@ -26,7 +26,7 @@ Cold DT: -1
 
 *Bite:* 1 AP, 1m, 1d2 piercing damage
 
-*Claw:* 2 AP, 1m, 1d4 - 1 slicing damage
+*Claw:* 2 AP, 1m, 1d4 - 1 slashing damage
 
 ---
 *The young of their pack, ferocious but not honed, given time they will grow into the fierce howling of full moons*

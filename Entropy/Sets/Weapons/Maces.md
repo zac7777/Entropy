@@ -28,14 +28,14 @@ Two handed:
 
 ##### Actions
 
-*Drag:* 2 AP, Melee Range, 1d4 + 1 slicing damage
+*Drag:* 2 AP, Melee Range, 1d4 + 1 slashing damage
 
 Accuracy: +17
 Critical: +8
 
 ---
 
-*Swing:* 3 AP, Melee Range + 1m, 1d2 + Power bludgeoning damage + 1d2 slicing damage
+*Swing:* 3 AP, Melee Range + 1m, 1d2 + Power bludgeoning damage + 1d2 slashing damage
 
 Accuracy: +34
 Critical: +18

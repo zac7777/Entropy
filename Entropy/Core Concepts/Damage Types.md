@@ -1,6 +1,6 @@
 ## Physical:
 
-Slicing, Bludgeoning, Piercing, Suffocation
+Slashing, Bludgeoning, Piercing, Suffocation
 
 ## Magical:
 

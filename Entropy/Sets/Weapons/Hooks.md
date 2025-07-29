@@ -9,14 +9,14 @@ Two handed: +1 EP cost on all moves
 
 ##### Actions
 
-*Swing:* 2 AP, Melee Range, 2d4 - 2 slicing damage
+*Swing:* 2 AP, Melee Range, 2d4 - 2 slashing damage
 
 Accuracy: +27
 Critical: +3
 
 ---
 
-*Pull:* 4 AP, Melee Range + 2m, 1d10 - 1 slicing damage, on critical hit the target is knocked
+*Pull:* 4 AP, Melee Range + 2m, 1d10 - 1 slashing damage, on critical hit the target is knocked
 
 Accuracy: +8
 Critical: +12
@@ -35,14 +35,14 @@ Two handed: -1 EP cost on all moves
 
 ##### Actions
 
-*Swing:* 2 AP, Melee Range, 1d4 + 2 slicing damage
+*Swing:* 2 AP, Melee Range, 1d4 + 2 slashing damage
 
 Accuracy: +32
 Critical: +6
 
 ---
 
-*Pull:* 3 AP, Melee Range + 1m, 1d8 + Power slicing damage, on critical hit the target is knocked
+*Pull:* 3 AP, Melee Range + 1m, 1d8 + Power slashing damage, on critical hit the target is knocked
 
 Accuracy: +25
 Critical: +24

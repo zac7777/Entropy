@@ -17,3 +17,23 @@ Proficiency requirement: 2
 
 ---
 *A slab of fragile wood, at-least the weapons of your enemy won't be hitting your fragile bone*
+
+## Level 2
+#### Leather Shield
+*Held, Manageable, Martial, Common*
+
+Weight: 3kg
+
+Bludgeoning DT: -2
+Shock DT: -2
+
+Dodge bonus: +6
+
+##### Moves
+
+*Block:* 3 AP, gain +15 dodge until your next turn, during combat if a critical attack misses you, the source will be knocked back 5m
+
+Proficiency requirement: 2
+
+---
+*Wrapped taught around a circular frame, the skin of lesser beasts will protect yours*

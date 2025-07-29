@@ -16,7 +16,7 @@ Pick up action: 2 AP, equip target unequipped item within Melee range or place t
 
 Speak action: 1 AP, you may speak up to three sentences verbally
 
-Unarmed action: 3 AP, Melee range, 1d4 + Power slicing damage
+Unarmed action: 3 AP, Melee range, 1d4 + Power slashing damage
 
 Accuracy: +10
 Critical: +5

@@ -47,7 +47,7 @@ AP: 6 + Memory
 Witch of the Pious: 
 - *Holy Lair:* while within your lair, you and any allies gain your deities favour bonus
 - *Power Prayer:* 2 AP, until end of turn, when a spell you cast deals damage it deals an additional Mental damage equal to your Power
-- *Life Prayer:* 2 AP, heal each creature within your Lair by 1d4 + Memory, each gains +2 DT to Mental and Slicing until your next turn
+- *Life Prayer:* 2 AP, heal each creature within your Lair by 1d4 + Memory, each gains +2 DT to Mental and Slashing until your next turn
 
 Witch of the Dead: 
 - *Necrotic Lair:* undead creatures are no longer stunned when teleported by your lair, and during combat, at the beginning of your turn, you may deal 2d4 Rot damage to any number of creatures within your lair

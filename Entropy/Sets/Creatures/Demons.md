@@ -25,7 +25,7 @@ Bludgeoning Reduction: -1
 
 *Move:* 1 AP, move 3 meters in any direction
 
-*Scratch:* 1 AP, 2m, 3d4 - 6 slicing damage, on critical hit the target gets bleeding
+*Scratch:* 1 AP, 2m, 3d4 - 6 slashing damage, on critical hit the target gets bleeding
 Accuracy: +28
 Critical: +4
 
@@ -51,7 +51,7 @@ AP: 5
 HP: 12
 Dodge: +6
 
-Slicing Reduction: -1
+Slashing Reduction: -1
 Heat Reduction: -2
 
 ---

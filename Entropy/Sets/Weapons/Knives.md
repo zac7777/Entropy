@@ -8,7 +8,7 @@ One handed:
 Two handed: -1m range on "poke"
 ##### Actions
 
-*Swing:* 1 AP, Melee Range, 3d2 slicing damage
+*Swing:* 1 AP, Melee Range, 3d2 slashing damage
 
 Accuracy: +40
 Critical: +3
@@ -42,7 +42,7 @@ One handed: +1 AP cost on all moves, -5 Accuracy
 Two handed: 
 ##### Actions
 
-*Swing:* 1 AP, Melee Range + 1m, 1d6 slicing damage, on critical hit the target gets bleeding
+*Swing:* 1 AP, Melee Range + 1m, 1d6 slashing damage, on critical hit the target gets bleeding
 
 Accuracy: +35
 Critical: +4
@@ -75,7 +75,7 @@ One handed: +1 AP cost on all moves, -5 Accuracy
 Two handed: 
 ##### Actions
 
-*Swing:* 4 AP, Melee Range, 2d6 slicing damage
+*Swing:* 4 AP, Melee Range, 2d6 slashing damage
 
 Accuracy: +16
 Critical: +7

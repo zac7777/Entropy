@@ -214,7 +214,7 @@ Critical: +6
 
   Avoidance type: Reasoning
   Roll minimum: +7
-  12. Throwing Knife: *Swing:* 4 AP, 1m, 2d6 slicing damage
+  12. Throwing Knife: *Swing:* 4 AP, 1m, 2d6 slashing damage
 
 Accuracy: +13
 Critical: +10
@@ -245,7 +245,7 @@ HP: 34
 EP: 33
 AP: 6
 Melee range: 1m
-Slicing Damage: -3
+Slashing Damage: -3
 Bludgeoning Damage: -2
 Piercing Damage: -1
 Suffocation Damage: -1
@@ -281,13 +281,13 @@ Minor Soul Entanglement
 Accuracy: +34
 Critical: +26
 
-5. *Stand Stalwart:* 1 AP, you and target creature that can see you both gain +2 DT to Slicing, Bludgeoning, and Mental until your next turn
+5. *Stand Stalwart:* 1 AP, you and target creature that can see you both gain +2 DT to Slashing, Bludgeoning, and Mental until your next turn
 6. *Righteous Backhand:* 2 AP, Melee Range, 1d6 bludgeoning damage, gain +2 DT to a type of your choice until your next turn
 
 Accuracy: +5
 Critical: +14
 5. *Blade Focus:* 4 AP, your next attack with a Martial weapon will deal double damage after all other bonuses are applied, this can only be applied once before the weapon must be used
-6. Short Sword: *Swing:* 3 AP, 2m, 1d8 slicing damage
+6. Short Sword: *Swing:* 3 AP, 2m, 1d8 slashing damage
 
 Accuracy: +12
 Critical: +16
@@ -440,7 +440,7 @@ Critical: +10
 
 5. *Hunker down:* 2 AP, if you have not moved this turn you may pay 0 AP instead. While "Hunkered Down" you have -10 accuracy and +10 dodge, your moves that affect your allies cost 1 AP less (This cannot reduce their cost to below 1), and if you would receive knockback you may roll 1d10 + Endurance, if this roll is higher than the distance you would be knocked the knockback fails to move you. If you move more than 2m in one turn this effect will end.
 6. *Rally cry:* 4 AP, all allies that can hear you gain +1 AP on their next turn and +2 DT to mental damage until the end of combat
-7. Lumber axe: *Swing:* 2 AP, 3m, 2d4 -1 slicing damage
+7. Lumber axe: *Swing:* 2 AP, 3m, 2d4 -1 slashing damage
 
 Accuracy: +17
 Critical: +20
