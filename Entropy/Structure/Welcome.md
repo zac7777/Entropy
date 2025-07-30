@@ -24,11 +24,11 @@ I see you, I know what you want; red mist in your head, blood on your knuckles, 
 
 ## [[Non-Combat]]
 
-Don't listen to that last guy, the most expressive part of life is talking, problem solving, and searching. We become animals when we fight, we lose our identity not create it. 
+Don't listen to that last guy, the most expressive part of life is talking, problem solving, and searching. We become animals when we fight, we lose our identity not create it. The calm of storytelling is where we see interactions and learn what you've created.
 
 ## [[Maths Rules]]
 
-
+Sadly, once our world was re-designed in game form, compromises where made to maintain the many complexities of life. These are some global rules that describe what certain keywords mean, and how mathematical interactions take place, but they're subject to change by your taste.
 
 
 #structure
