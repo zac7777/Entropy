@@ -4,13 +4,13 @@
 
 ##### Actions
 
-*Attract combat:* 3 AP, target creature that can see you is Aggravated against you for 3 turns
+*Attract combat:* 3 AP, target creature that can see you that fails the avoidance roll is Aggravated against you for 3 turns
 
 Avoidance type: Insight
 Roll minimum: 3
 
 ---
-*Slightly blind:* 1 AP, target creature that can see you, and is within 20m is blinded
+*Slightly blind:* 1 AP, target creature that can see you that is within 20m and fails the avoidance roll is blinded
 
 Avoidance type: Reasoning
 Roll minimum: 2

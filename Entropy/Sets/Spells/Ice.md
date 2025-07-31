@@ -11,7 +11,7 @@ Roll minimum: 4
 
 ---
 
-*Trap:* 3 AP, target creature within 10m that fails the avoidance rollis immobilised for 3 turns
+*Trap:* 3 AP, target creature within 10m that fails the avoidance roll is immobilised for 3 turns
 
 Avoidance type: Power
 Roll minimum: 6

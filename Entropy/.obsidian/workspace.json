@@ -60,17 +60,17 @@
             }
           },
           {
-            "id": "996548843d6b7d1b",
+            "id": "401da4dd9f5e8338",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sets/Spells/Light.md",
+                "file": "Sets/Spells/Ice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Light"
+              "title": "Ice"
             }
           }
         ],
@@ -268,16 +268,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "996548843d6b7d1b",
+  "active": "401da4dd9f5e8338",
   "lastOpenFiles": [
-    "Core Concepts/Status Effects.md",
-    "Sets/Spells/Light.md",
+    "Core Concepts/Spells.md",
+    "Sets/Spells/Bond.md",
     "Sets/Spells/Flame.md",
+    "Sets/Spells/Light.md",
+    "Sets/Spells/Ice.md",
+    "Core Concepts/Status Effects.md",
     "Core Concepts/Combat.md",
     "Structure/Welcome.md",
     "Core Concepts/Non-Combat.md",
     "Story/Setting.md",
-    "Core Concepts/Spells.md",
     "Sets/Weapons/Knives.md",
     "Development/Test Characters.md",
     "Development/Developer notes.md",
@@ -294,8 +296,6 @@
     "Sets/Ammunition/Small Cartridges.md",
     "Sets/Armours/Leathers.md",
     "Sets/Armours/Shields.md",
-    "Sets/Armours/Chain-mails.md",
-    "Sets/Armours/Plate Armours.md",
     "Resources/Ehlen Map Resource.png",
     "Pasted image 20250628201830.png",
     "Sets/Miscellaneous",
