@@ -22,7 +22,7 @@ Roll minimum: 5
 
 ##### Actions
 
-*Light:* 1 AP, activate only if you have a limb with no item equipped, while "Lit" that limb generates a short stream of sharp fire, it cannot equip items. This effect ends when you lose focus or after 5 turns.
+*Light:* 4 AP, activate only if you have a limb with no item equipped, while "Lit" that limb generates a short stream of sharp fire, it cannot equip items. This effect ends when you lose focus or after 5 turns.
 
 ---
 
@@ -33,7 +33,7 @@ Critical: -1
 
 ---
 
-*Poke:* 1 AP, Melee Range + 1m, 1d4 piercing damage + 1d4 heat damage
+*Poke:* 1 AP, activate only while "Lit", Melee Range + 1m, 1d4 piercing damage + 1d4 heat damage
 
 Accuracy: +19
 Critical: +4

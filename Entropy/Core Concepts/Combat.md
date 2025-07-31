@@ -41,10 +41,12 @@ Many types of fighters try to avoid the gaze of their opponents during combat, "
 
 ## Cover
 
-Fights should take place in environments with obstacles and shape, the amount of cover is dependant on how much of a creature can be hit through it, then that amount effects the accuracy. For example:
+Fights should take place in environments with obstacles and shape, the amount of cover is dependant on how much of a creature can be seen through it, then that amount effects the accuracy. For example:
 
 - Quarter cover: +25 Accuracy or -2 minimum
 - Half cover: +50 Accuracy or -5 minimum
 - Full cover: +100 Accuracy or -10 minimum
+
+This effects all attacks, but not challenges, unless specified otherwise.
 
 #gameRules
