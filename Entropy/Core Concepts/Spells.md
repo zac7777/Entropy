@@ -19,6 +19,7 @@ If a spell has a lingering effect, it will often be tagged with "Focus", as it's
 [[Ice]]
 [[Hexus]]
 [[Bond]]
+
 [[Summon Undead]]
 [[Summon Demon]]
 [[Illusion]]
