@@ -1,3 +1,5 @@
+## Level 1
+
 #### Apple
 
 Weight: 0.5kg
@@ -24,6 +26,27 @@ Weight: 0.5kg
 
 ---
 *Distilled flesh, powering the fibrous muscles of the most valiant warriors*
+
+## Level 2
+
+#### Orange
+
+Weight: 0.5kg
+
+*Rationable:* this item can be consumed 3 times before breaking
+##### Moves
+
+*Eat:* 1 AP, recover 4 HP and 2 EP, this consumes the orange
+
+---
+
+*Squeeze:* 2 AP, Melee Range + 2m, on critical hit target takes 1d2 toxic damage, this consumes the orange twice
+
+Accuracy: +0
+Critical: +52
+
+---
+*Segmented as though nature designed it for our prolonged consumption, but how sour these fruits get can deter one from that view*
 
 #### Energy Bar
 
