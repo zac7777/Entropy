@@ -1,0 +1,7 @@
+C:\Users\zzz\Documents\GitHub\Entropy\Entropy Companion\Entropy Companion\bin\Debug\Entropy Companion.exe.config
+C:\Users\zzz\Documents\GitHub\Entropy\Entropy Companion\Entropy Companion\bin\Debug\Entropy Companion.exe
+C:\Users\zzz\Documents\GitHub\Entropy\Entropy Companion\Entropy Companion\bin\Debug\Entropy Companion.pdb
+C:\Users\zzz\Documents\GitHub\Entropy\Entropy Companion\Entropy Companion\obj\Debug\Entropy Companion.csproj.AssemblyReference.cache
+C:\Users\zzz\Documents\GitHub\Entropy\Entropy Companion\Entropy Companion\obj\Debug\Entropy Companion.csproj.CoreCompileInputs.cache
+C:\Users\zzz\Documents\GitHub\Entropy\Entropy Companion\Entropy Companion\obj\Debug\Entropy Companion.exe
+C:\Users\zzz\Documents\GitHub\Entropy\Entropy Companion\Entropy Companion\obj\Debug\Entropy Companion.pdb
