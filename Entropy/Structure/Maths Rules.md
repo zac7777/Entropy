@@ -26,4 +26,9 @@ Entropy follows several rules for the many calculations in it's ruleset:
 
 - Unless specified otherwise, if the outcome of a damage roll is negative, the value should be taken as zero instead. This is the same for rolls that would increase a target's health.
 
+- If multiple Buffs/Nerfs would come in conflict you may either:
+
+	- Have player effects always take priority over non-player sources, then if two player effects come in to conflict they may decide between them, and the game master may decide the priority of non-player effects
+	- Let your Game Master decide all priorities based on what is fair, or what would make sense within the world
+
 #gameInformation 

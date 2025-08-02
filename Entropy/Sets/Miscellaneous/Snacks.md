@@ -40,7 +40,7 @@ Weight: 0.5kg
 
 ---
 
-*Squeeze:* 2 AP, Melee Range + 2m, on critical hit target takes 1d2 toxic damage, this consumes the orange twice
+*Squeeze:* 2 AP, Melee Range + 2m, on critical hit target takes 1d2 + 1 toxic damage, this consumes the orange twice
 
 Accuracy: +0
 Critical: +52
