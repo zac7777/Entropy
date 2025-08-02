@@ -15,11 +15,16 @@ namespace Entropy_Companion
         private string description;
 
         private Move[] moves;
-        private String[] properties;
+        private string[] properties;
 
-        public Weapon() 
+        public Weapon(int Level, int Weight, string Name, string Description, string[] Properties) 
         {
-            
+            level = Level;
+            weight = Weight;
+            name = Name;
+            description = Description;
+            moves = new Move[0];
+            properties = Properties;
         }
     }
 }

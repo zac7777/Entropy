@@ -4,6 +4,7 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Text.Json;
 
 namespace Entropy_Companion
 {
@@ -11,9 +12,8 @@ namespace Entropy_Companion
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Program Start.");
-            int input = Console.ReadLine().Length;
-            Console.WriteLine(input + " Kinda gay bro");
+            Console.WriteLine("Program start.");
+            Weapon shortSword = new Weapon(2, 1, "Short Sword", "The blade most young squires start their careers with, easy to learn with room for mastery", null);
         }
     }
 }
