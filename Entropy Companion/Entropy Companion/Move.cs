@@ -8,11 +8,11 @@ namespace Entropy_Companion
 {
     internal class Move
     {
-        private int cost;
-        private int proficiencyRequirement;
+        private int cost { get; set; }
+        private int proficiencyRequirement { get; set; }
 
-        private string name;
-        private string text;
+        private string name { get; set; }
+        private string text { get; set; }
 
         public Move(int Cost, int ProficiencyRequirement, string Name, string Text) 
         {
@@ -20,46 +20,6 @@ namespace Entropy_Companion
             proficiencyRequirement = ProficiencyRequirement;
             name = Name;
             text = Text;
-        }
-
-        public void setCost(int Cost)
-        {
-            this.cost = Cost;
-        }
-
-        public void setProficiencyRequirement(int ProficiencyRequirement)
-        {
-            this.proficiencyRequirement = ProficiencyRequirement;
-        }
-
-        public void setName(string Name)
-        {
-            this.name = Name;
-        }
-
-        public void setText(string Text)
-        { 
-            this.text = Text;
-        }
-
-        public int getCost()
-        {
-            return this.cost;
-        }
-
-        public int getProficiencyRequirement()
-        {
-            return this.proficiencyRequirement;
-        }
-
-        public string getName()
-        {
-            return this.name;
-        }
-
-        public string getText()
-        {
-            return this.text;
         }
     }
 }
