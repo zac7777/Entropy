@@ -5,3 +5,27 @@ C:\Users\zzz\Documents\GitHub\Entropy\Entropy Companion\Entropy Companion\obj\De
 C:\Users\zzz\Documents\GitHub\Entropy\Entropy Companion\Entropy Companion\obj\Debug\Entropy Companion.csproj.CoreCompileInputs.cache
 C:\Users\zzz\Documents\GitHub\Entropy\Entropy Companion\Entropy Companion\obj\Debug\Entropy Companion.exe
 C:\Users\zzz\Documents\GitHub\Entropy\Entropy Companion\Entropy Companion\obj\Debug\Entropy Companion.pdb
+C:\Users\zzz\Documents\GitHub\Entropy\Entropy Companion\Entropy Companion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\zzz\Documents\GitHub\Entropy\Entropy Companion\Entropy Companion\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zzz\Documents\GitHub\Entropy\Entropy Companion\Entropy Companion\bin\Debug\System.Buffers.dll
+C:\Users\zzz\Documents\GitHub\Entropy\Entropy Companion\Entropy Companion\bin\Debug\System.IO.Pipelines.dll
+C:\Users\zzz\Documents\GitHub\Entropy\Entropy Companion\Entropy Companion\bin\Debug\System.Memory.dll
+C:\Users\zzz\Documents\GitHub\Entropy\Entropy Companion\Entropy Companion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\zzz\Documents\GitHub\Entropy\Entropy Companion\Entropy Companion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\zzz\Documents\GitHub\Entropy\Entropy Companion\Entropy Companion\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\zzz\Documents\GitHub\Entropy\Entropy Companion\Entropy Companion\bin\Debug\System.Text.Json.dll
+C:\Users\zzz\Documents\GitHub\Entropy\Entropy Companion\Entropy Companion\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\zzz\Documents\GitHub\Entropy\Entropy Companion\Entropy Companion\bin\Debug\System.ValueTuple.dll
+C:\Users\zzz\Documents\GitHub\Entropy\Entropy Companion\Entropy Companion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\zzz\Documents\GitHub\Entropy\Entropy Companion\Entropy Companion\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zzz\Documents\GitHub\Entropy\Entropy Companion\Entropy Companion\bin\Debug\System.Buffers.xml
+C:\Users\zzz\Documents\GitHub\Entropy\Entropy Companion\Entropy Companion\bin\Debug\System.IO.Pipelines.xml
+C:\Users\zzz\Documents\GitHub\Entropy\Entropy Companion\Entropy Companion\bin\Debug\System.Memory.xml
+C:\Users\zzz\Documents\GitHub\Entropy\Entropy Companion\Entropy Companion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\zzz\Documents\GitHub\Entropy\Entropy Companion\Entropy Companion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\zzz\Documents\GitHub\Entropy\Entropy Companion\Entropy Companion\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\zzz\Documents\GitHub\Entropy\Entropy Companion\Entropy Companion\bin\Debug\System.Text.Json.xml
+C:\Users\zzz\Documents\GitHub\Entropy\Entropy Companion\Entropy Companion\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\zzz\Documents\GitHub\Entropy\Entropy Companion\Entropy Companion\bin\Debug\System.ValueTuple.xml
+C:\Users\zzz\Documents\GitHub\Entropy\Entropy Companion\Entropy Companion\obj\Debug\Entropy Companion.exe.config
+C:\Users\zzz\Documents\GitHub\Entropy\Entropy Companion\Entropy Companion\obj\Debug\Entropy .87B9FB96.Up2Date

@@ -8,14 +8,24 @@ namespace Entropy_Companion
 {
     internal class Weapon
     {
-        private int level;
-        private int weight;
-        
-        private string name;
-        private string description;
+        public int level { get; set; }
+        public int weight { get; set; }
 
-        private Move[] moves;
-        private string[] properties;
+        public string name { get; set; }
+        public string description { get; set; }
+
+        public Move[] moves { get; set; }
+        public string[] properties { get; set; }
+
+        public Weapon()
+        {
+            this.level = 0;
+            this.weight = 0;
+            this.name = string.Empty;
+            this.description = string.Empty;
+            this.moves = new Move[0];
+            this.properties = new string[0];
+        }
 
         public Weapon(int Level, int Weight, string Name, string Description, string[] Properties) 
         {
