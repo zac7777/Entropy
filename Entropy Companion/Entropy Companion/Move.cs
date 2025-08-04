@@ -13,13 +13,5 @@ namespace Entropy_Companion
 
         private string name { get; set; }
         private string text { get; set; }
-
-        public Move(int Cost, int ProficiencyRequirement, string Name, string Text) 
-        {
-            cost = Cost;
-            proficiencyRequirement = ProficiencyRequirement;
-            name = Name;
-            text = Text;
-        }
     }
 }

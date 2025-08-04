@@ -6,35 +6,14 @@ using System.Threading.Tasks;
 
 namespace Entropy_Companion
 {
-    internal class Weapon
+    internal class Weapon : Item
     {
-        public int level { get; set; }
-        public int weight { get; set; }
+        private int level {  get; set; }
+        private int weight { get; set; }
+        
+        private string[] properties {  get; set; }
+        private string[] handEffects { get; set; }
 
-        public string name { get; set; }
-        public string description { get; set; }
-
-        public Move[] moves { get; set; }
-        public string[] properties { get; set; }
-
-        public Weapon()
-        {
-            this.level = 0;
-            this.weight = 0;
-            this.name = string.Empty;
-            this.description = string.Empty;
-            this.moves = new Move[0];
-            this.properties = new string[0];
-        }
-
-        public Weapon(int Level, int Weight, string Name, string Description, string[] Properties) 
-        {
-            level = Level;
-            weight = Weight;
-            name = Name;
-            description = Description;
-            moves = new Move[0];
-            properties = Properties;
-        }
+        private Move[] moves { get; set; }
     }
 }
