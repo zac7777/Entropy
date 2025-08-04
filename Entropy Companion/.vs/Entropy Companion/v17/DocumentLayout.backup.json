@@ -7,12 +7,72 @@
       "RelativeMoniker": "D:0:0:{B8B1CC2D-B54F-4540-ACC8-C862FC548B2F}|Entropy Companion\\Entropy Companion.csproj|solutionrelative:entropy companion\\core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8B1CC2D-B54F-4540-ACC8-C862FC548B2F}|Entropy Companion\\Entropy Companion.csproj|c:\\users\\zzz\\documents\\github\\entropy\\entropy companion\\entropy companion\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B8B1CC2D-B54F-4540-ACC8-C862FC548B2F}|Entropy Companion\\Entropy Companion.csproj|c:\\users\\zzz\\documents\\github\\entropy\\entropy companion\\entropy companion\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B1CC2D-B54F-4540-ACC8-C862FC548B2F}|Entropy Companion\\Entropy Companion.csproj|solutionrelative:entropy companion\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B1CC2D-B54F-4540-ACC8-C862FC548B2F}|Entropy Companion\\Entropy Companion.csproj|c:\\users\\zzz\\documents\\github\\entropy\\entropy companion\\entropy companion\\challenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B1CC2D-B54F-4540-ACC8-C862FC548B2F}|Entropy Companion\\Entropy Companion.csproj|solutionrelative:entropy companion\\challenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B1CC2D-B54F-4540-ACC8-C862FC548B2F}|Entropy Companion\\Entropy Companion.csproj|c:\\users\\zzz\\documents\\github\\entropy\\entropy companion\\entropy companion\\attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B1CC2D-B54F-4540-ACC8-C862FC548B2F}|Entropy Companion\\Entropy Companion.csproj|solutionrelative:entropy companion\\attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B1CC2D-B54F-4540-ACC8-C862FC548B2F}|Entropy Companion\\Entropy Companion.csproj|c:\\users\\zzz\\documents\\github\\entropy\\entropy companion\\entropy companion\\buffnerf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B1CC2D-B54F-4540-ACC8-C862FC548B2F}|Entropy Companion\\Entropy Companion.csproj|solutionrelative:entropy companion\\buffnerf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B1CC2D-B54F-4540-ACC8-C862FC548B2F}|Entropy Companion\\Entropy Companion.csproj|C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\entropy companion\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B1CC2D-B54F-4540-ACC8-C862FC548B2F}|Entropy Companion\\Entropy Companion.csproj|solutionrelative:entropy companion\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B1CC2D-B54F-4540-ACC8-C862FC548B2F}|Entropy Companion\\Entropy Companion.csproj|C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\entropy companion\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8B1CC2D-B54F-4540-ACC8-C862FC548B2F}|Entropy Companion\\Entropy Companion.csproj|solutionrelative:entropy companion\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B1CC2D-B54F-4540-ACC8-C862FC548B2F}|Entropy Companion\\Entropy Companion.csproj|c:\\users\\zzz\\documents\\github\\entropy\\entropy companion\\entropy companion\\spell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B1CC2D-B54F-4540-ACC8-C862FC548B2F}|Entropy Companion\\Entropy Companion.csproj|solutionrelative:entropy companion\\spell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B8B1CC2D-B54F-4540-ACC8-C862FC548B2F}|Entropy Companion\\Entropy Companion.csproj|C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\entropy companion\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8B1CC2D-B54F-4540-ACC8-C862FC548B2F}|Entropy Companion\\Entropy Companion.csproj|solutionrelative:entropy companion\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B1CC2D-B54F-4540-ACC8-C862FC548B2F}|Entropy Companion\\Entropy Companion.csproj|c:\\users\\zzz\\documents\\github\\entropy\\entropy companion\\entropy companion\\miscellaneous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B1CC2D-B54F-4540-ACC8-C862FC548B2F}|Entropy Companion\\Entropy Companion.csproj|solutionrelative:entropy companion\\miscellaneous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B1CC2D-B54F-4540-ACC8-C862FC548B2F}|Entropy Companion\\Entropy Companion.csproj|c:\\users\\zzz\\documents\\github\\entropy\\entropy companion\\entropy companion\\consumables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B1CC2D-B54F-4540-ACC8-C862FC548B2F}|Entropy Companion\\Entropy Companion.csproj|solutionrelative:entropy companion\\consumables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B1CC2D-B54F-4540-ACC8-C862FC548B2F}|Entropy Companion\\Entropy Companion.csproj|c:\\users\\zzz\\documents\\github\\entropy\\entropy companion\\entropy companion\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B1CC2D-B54F-4540-ACC8-C862FC548B2F}|Entropy Companion\\Entropy Companion.csproj|solutionrelative:entropy companion\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B1CC2D-B54F-4540-ACC8-C862FC548B2F}|Entropy Companion\\Entropy Companion.csproj|c:\\users\\zzz\\documents\\github\\entropy\\entropy companion\\entropy companion\\armour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B1CC2D-B54F-4540-ACC8-C862FC548B2F}|Entropy Companion\\Entropy Companion.csproj|solutionrelative:entropy companion\\armour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B1CC2D-B54F-4540-ACC8-C862FC548B2F}|Entropy Companion\\Entropy Companion.csproj|C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\entropy companion\\ammunition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B1CC2D-B54F-4540-ACC8-C862FC548B2F}|Entropy Companion\\Entropy Companion.csproj|solutionrelative:entropy companion\\ammunition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B1CC2D-B54F-4540-ACC8-C862FC548B2F}|Entropy Companion\\Entropy Companion.csproj|C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\entropy companion\\playercharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B1CC2D-B54F-4540-ACC8-C862FC548B2F}|Entropy Companion\\Entropy Companion.csproj|solutionrelative:entropy companion\\playercharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B1CC2D-B54F-4540-ACC8-C862FC548B2F}|Entropy Companion\\Entropy Companion.csproj|C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\entropy companion\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B1CC2D-B54F-4540-ACC8-C862FC548B2F}|Entropy Companion\\Entropy Companion.csproj|solutionrelative:entropy companion\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B1CC2D-B54F-4540-ACC8-C862FC548B2F}|Entropy Companion\\Entropy Companion.csproj|C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\entropy companion\\creature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B1CC2D-B54F-4540-ACC8-C862FC548B2F}|Entropy Companion\\Entropy Companion.csproj|solutionrelative:entropy companion\\creature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B1CC2D-B54F-4540-ACC8-C862FC548B2F}|Entropy Companion\\Entropy Companion.csproj|C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\entropy companion\\bonus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B1CC2D-B54F-4540-ACC8-C862FC548B2F}|Entropy Companion\\Entropy Companion.csproj|solutionrelative:entropy companion\\bonus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,33 +82,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Move.cs",
-              "DocumentMoniker": "C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\Entropy Companion\\Move.cs",
-              "RelativeDocumentMoniker": "Entropy Companion\\Move.cs",
-              "ToolTip": "C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\Entropy Companion\\Move.cs",
-              "RelativeToolTip": "Entropy Companion\\Move.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T16:52:39.553Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Weapon.cs",
-              "DocumentMoniker": "C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\Entropy Companion\\Weapon.cs",
-              "RelativeDocumentMoniker": "Entropy Companion\\Weapon.cs",
-              "ToolTip": "C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\Entropy Companion\\Weapon.cs",
-              "RelativeToolTip": "Entropy Companion\\Weapon.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T16:45:29.7Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -57,9 +92,225 @@
               "RelativeDocumentMoniker": "Entropy Companion\\Core.cs",
               "ToolTip": "C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\Entropy Companion\\Core.cs",
               "RelativeToolTip": "Entropy Companion\\Core.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBQAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwCoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-02T16:31:23.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Creature.cs",
+              "DocumentMoniker": "C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\Entropy Companion\\Creature.cs",
+              "RelativeDocumentMoniker": "Entropy Companion\\Creature.cs",
+              "ToolTip": "C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\Entropy Companion\\Creature.cs",
+              "RelativeToolTip": "Entropy Companion\\Creature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T11:55:11.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\Entropy Companion\\Character.cs",
+              "RelativeDocumentMoniker": "Entropy Companion\\Character.cs",
+              "ToolTip": "C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\Entropy Companion\\Character.cs",
+              "RelativeToolTip": "Entropy Companion\\Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T12:14:11.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PlayerCharacter.cs",
+              "DocumentMoniker": "C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\Entropy Companion\\PlayerCharacter.cs",
+              "RelativeDocumentMoniker": "Entropy Companion\\PlayerCharacter.cs",
+              "ToolTip": "C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\Entropy Companion\\PlayerCharacter.cs",
+              "RelativeToolTip": "Entropy Companion\\PlayerCharacter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T12:33:14.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Bonus.cs",
+              "DocumentMoniker": "C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\Entropy Companion\\Bonus.cs",
+              "RelativeDocumentMoniker": "Entropy Companion\\Bonus.cs",
+              "ToolTip": "C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\Entropy Companion\\Bonus.cs",
+              "RelativeToolTip": "Entropy Companion\\Bonus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T12:07:03.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Move.cs",
+              "DocumentMoniker": "C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\Entropy Companion\\Move.cs",
+              "RelativeDocumentMoniker": "Entropy Companion\\Move.cs",
+              "ToolTip": "C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\Entropy Companion\\Move.cs",
+              "RelativeToolTip": "Entropy Companion\\Move.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T16:52:39.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Attack.cs",
+              "DocumentMoniker": "C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\Entropy Companion\\Attack.cs",
+              "RelativeDocumentMoniker": "Entropy Companion\\Attack.cs",
+              "ToolTip": "C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\Entropy Companion\\Attack.cs",
+              "RelativeToolTip": "Entropy Companion\\Attack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T15:37:18.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Challenge.cs",
+              "DocumentMoniker": "C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\Entropy Companion\\Challenge.cs",
+              "RelativeDocumentMoniker": "Entropy Companion\\Challenge.cs",
+              "ToolTip": "C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\Entropy Companion\\Challenge.cs",
+              "RelativeToolTip": "Entropy Companion\\Challenge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T15:42:32.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BuffNerf.cs",
+              "DocumentMoniker": "C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\Entropy Companion\\BuffNerf.cs",
+              "RelativeDocumentMoniker": "Entropy Companion\\BuffNerf.cs",
+              "ToolTip": "C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\Entropy Companion\\BuffNerf.cs",
+              "RelativeToolTip": "Entropy Companion\\BuffNerf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T15:41:20.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\Entropy Companion\\Utility.cs",
+              "RelativeDocumentMoniker": "Entropy Companion\\Utility.cs",
+              "ToolTip": "C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\Entropy Companion\\Utility.cs",
+              "RelativeToolTip": "Entropy Companion\\Utility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T15:44:20.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\Entropy Companion\\Item.cs",
+              "RelativeDocumentMoniker": "Entropy Companion\\Item.cs",
+              "ToolTip": "C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\Entropy Companion\\Item.cs",
+              "RelativeToolTip": "Entropy Companion\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T12:01:13.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\Entropy Companion\\Weapon.cs",
+              "RelativeDocumentMoniker": "Entropy Companion\\Weapon.cs",
+              "ToolTip": "C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\Entropy Companion\\Weapon.cs",
+              "RelativeToolTip": "Entropy Companion\\Weapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T16:45:29.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Ammunition.cs",
+              "DocumentMoniker": "C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\Entropy Companion\\Ammunition.cs",
+              "RelativeDocumentMoniker": "Entropy Companion\\Ammunition.cs",
+              "ToolTip": "C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\Entropy Companion\\Ammunition.cs",
+              "RelativeToolTip": "Entropy Companion\\Ammunition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T13:30:47.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Armour.cs",
+              "DocumentMoniker": "C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\Entropy Companion\\Armour.cs",
+              "RelativeDocumentMoniker": "Entropy Companion\\Armour.cs",
+              "ToolTip": "C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\Entropy Companion\\Armour.cs",
+              "RelativeToolTip": "Entropy Companion\\Armour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T13:35:52.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Attachment.cs",
+              "DocumentMoniker": "C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\Entropy Companion\\Attachment.cs",
+              "RelativeDocumentMoniker": "Entropy Companion\\Attachment.cs",
+              "ToolTip": "C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\Entropy Companion\\Attachment.cs",
+              "RelativeToolTip": "Entropy Companion\\Attachment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T15:24:28.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Consumables.cs",
+              "DocumentMoniker": "C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\Entropy Companion\\Consumables.cs",
+              "RelativeDocumentMoniker": "Entropy Companion\\Consumables.cs",
+              "ToolTip": "C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\Entropy Companion\\Consumables.cs",
+              "RelativeToolTip": "Entropy Companion\\Consumables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T15:28:33.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Miscellaneous.cs",
+              "DocumentMoniker": "C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\Entropy Companion\\Miscellaneous.cs",
+              "RelativeDocumentMoniker": "Entropy Companion\\Miscellaneous.cs",
+              "ToolTip": "C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\Entropy Companion\\Miscellaneous.cs",
+              "RelativeToolTip": "Entropy Companion\\Miscellaneous.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T15:30:47.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Spell.cs",
+              "DocumentMoniker": "C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\Entropy Companion\\Spell.cs",
+              "RelativeDocumentMoniker": "Entropy Companion\\Spell.cs",
+              "ToolTip": "C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\Entropy Companion\\Spell.cs",
+              "RelativeToolTip": "Entropy Companion\\Spell.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T15:32:57.509Z",
               "EditorCaption": ""
             }
           ]

@@ -8,6 +8,8 @@ namespace Entropy_Companion
 {
     internal class Move
     {
+        private Boolean isSpell {  get; set; }
+
         private int cost { get; set; }
         private int proficiencyRequirement { get; set; }
 

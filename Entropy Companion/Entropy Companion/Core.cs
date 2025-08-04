@@ -16,12 +16,33 @@ namespace Entropy_Companion
             Core core = new Core();
 
             Console.WriteLine("Program start.");
-            string[] properties = { "Contact", "Manageable", "Martial", "Common" };
-            Weapon shortSword = new Weapon(2, 1, "Short Sword", "The blade most young squires start their careers with, easy to learn with room for mastery", properties);
-            FileStream newJson = File.Create(shortSword.name + ".Json");
-            core.WriteToJson<Weapon>("C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\ShortSword.Json", shortSword, false);
-            //Weapon swordCopy = core.ReadFromJson<Weapon>("C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\ShortSword.Json");
-            //Console.WriteLine(swordCopy.level + swordCopy.weight);
+
+            Boolean end = true;
+
+            while (end)
+            {
+                Console.WriteLine(  
+                                    "What would you like to do? \n" +
+                                    "1: Save a new creature \n" +
+                                    "2: Save a new character \n" +
+                                    "3: Save a new player character \n" +
+                                    "4: Read out a character sheet \n" +
+                                    "5: Save a new item \n" +
+                                    "6: Read a saved entry \n" +
+                                    "7: Delete a saved entry \n" +
+                                    "8: End program");
+                switch (Console.ReadLine())
+                {
+                    case "1":
+                        break;
+                    case "8":
+                        end = false;
+                        break;
+                    default:
+                        break;
+                }
+            }
+
             Console.WriteLine("Program end.");
         }
 

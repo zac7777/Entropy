@@ -37,8 +37,23 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Ammunition.cs" />
+    <Compile Include="Armour.cs" />
+    <Compile Include="Attachment.cs" />
+    <Compile Include="Attack.cs" />
+    <Compile Include="Bonus.cs" />
+    <Compile Include="BuffNerf.cs" />
+    <Compile Include="Challenge.cs" />
+    <Compile Include="Character.cs" />
+    <Compile Include="Consumables.cs" />
+    <Compile Include="Creature.cs" />
+    <Compile Include="Item.cs" />
+    <Compile Include="Miscellaneous.cs" />
     <Compile Include="Move.cs" />
     <Compile Include="Core.cs" />
+    <Compile Include="PlayerCharacter.cs" />
+    <Compile Include="Spell.cs" />
+    <Compile Include="Utility.cs" />
     <Compile Include="Weapon.cs" />
   </ItemGroup>
   <ItemGroup>
