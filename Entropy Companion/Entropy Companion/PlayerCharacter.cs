@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entropy_Companion
 {
-    internal class PlayerCharacter : Character
+    internal class PlayerCharacter : NonPlayerCharacter
     {
         public string playerName {  get; set; }
         public string heroClass { get; set; }

@@ -10,6 +10,7 @@ namespace Entropy_Companion
     {
         public Boolean isActive {  get; set; }
 
+        public string name { get; set; }
         public string effect {  get; set; }
     }
 }

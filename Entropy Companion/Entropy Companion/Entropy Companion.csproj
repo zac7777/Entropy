@@ -44,7 +44,7 @@
     <Compile Include="Bonus.cs" />
     <Compile Include="BuffNerf.cs" />
     <Compile Include="Challenge.cs" />
-    <Compile Include="Character.cs" />
+    <Compile Include="NonPlayerCharacter.cs" />
     <Compile Include="Consumable.cs" />
     <Compile Include="Creature.cs" />
     <Compile Include="Item.cs" />
