@@ -8,9 +8,9 @@ namespace Entropy_Companion
 {
     internal class Character : Creature
     {
-        private string bio {  get; set; }
+        public string bio {  get; set; }
 
-        private Item[] storage {  get; set; }
-        private Item[] equipment { get; set; }
+        public Item[] storage {  get; set; }
+        public Item[] equipment { get; set; }
     }
 }

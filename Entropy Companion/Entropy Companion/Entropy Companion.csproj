@@ -45,7 +45,7 @@
     <Compile Include="BuffNerf.cs" />
     <Compile Include="Challenge.cs" />
     <Compile Include="Character.cs" />
-    <Compile Include="Consumables.cs" />
+    <Compile Include="Consumable.cs" />
     <Compile Include="Creature.cs" />
     <Compile Include="Item.cs" />
     <Compile Include="Miscellaneous.cs" />

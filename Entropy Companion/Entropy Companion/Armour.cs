@@ -8,15 +8,15 @@ namespace Entropy_Companion
 {
     internal class Armour : Item
     {
-        private int level { get; set; }
-        private int weight { get; set; }
-        private int dodge { get; set; }
+        public int level { get; set; }
+        public int weight { get; set; }
+        public int dodge { get; set; }
 
-        private string[] properties { get; set; }
+        public string[] properties { get; set; }
 
-        private Bonus[] bonuses { get; set; }
+        public Bonus[] bonuses { get; set; }
 
-        private Move[] moves { get; set; }
+        public Move[] moves { get; set; }
 
         // 0: Slash
         // 1: Bludg
@@ -30,6 +30,6 @@ namespace Entropy_Companion
         // 9: Toxic
         // 10: Rot
         // 11: Radiation
-        private int[] DTs { get; set; } = new int[12];
+        public int[] DTs { get; set; } = new int[12];
     }
 }

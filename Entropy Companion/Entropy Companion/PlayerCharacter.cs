@@ -8,12 +8,12 @@ namespace Entropy_Companion
 {
     internal class PlayerCharacter : Character
     {
-        private string playerName {  get; set; }
-        private string heroClass { get; set; }
-        private string species { get; set; }
-        
-        private int level { get; set; }
-        private int currentHP { get; set; }
-        private int currentEP { get; set; }
+        public string playerName {  get; set; }
+        public string heroClass { get; set; }
+        public string species { get; set; }
+
+        public int level { get; set; }
+        public int currentHP { get; set; }
+        public int currentEP { get; set; }
     }
 }

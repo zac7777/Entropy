@@ -14,6 +14,7 @@ namespace Entropy_Companion
         static void Main(string[] args)
         {
             Core core = new Core();
+            string folderPath = "C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\EntityJsons";
 
             Console.WriteLine("Program start.");
 
@@ -34,6 +35,9 @@ namespace Entropy_Companion
                 switch (Console.ReadLine())
                 {
                     case "1":
+                        Creature newCreature = new Creature();
+                        Console.WriteLine("What is the name of this creature?");
+                        newCreature.name = Console.ReadLine();
                         break;
                     case "8":
                         end = false;

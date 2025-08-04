@@ -8,10 +8,10 @@ namespace Entropy_Companion
 {
     internal class Miscellaneous
     {
-        private int weight { get; set; }
+        public int weight { get; set; }
 
-        private Bonus[] bonuses { get; set; }
+        public Bonus[] bonuses { get; set; }
 
-        private Move[] moves { get; set; }
+        public Move[] moves { get; set; }
     }
 }

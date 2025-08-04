@@ -8,7 +8,7 @@ namespace Entropy_Companion
 {
     internal class Challenge : Move
     {
-        private string avoidanceType {  get; set; }
-        private string rollMinimum { get; set; }
+        public string avoidanceType {  get; set; }
+        public string rollMinimum { get; set; }
     }
 }

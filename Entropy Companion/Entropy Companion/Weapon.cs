@@ -8,12 +8,12 @@ namespace Entropy_Companion
 {
     internal class Weapon : Item
     {
-        private int level {  get; set; }
-        private int weight { get; set; }
-        
-        private string[] properties {  get; set; }
-        private string[] handEffects { get; set; }
+        public int level {  get; set; }
+        public int weight { get; set; }
 
-        private Move[] moves { get; set; }
+        public string[] properties {  get; set; }
+        public string[] handEffects { get; set; }
+
+        public Move[] moves { get; set; }
     }
 }

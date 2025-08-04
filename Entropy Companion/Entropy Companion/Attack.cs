@@ -8,7 +8,7 @@ namespace Entropy_Companion
 {
     internal class Attack : Move
     {
-        private int accuracy {  get; set; }
-        private int critical { get; set; }
+        public int accuracy {  get; set; }
+        public int critical { get; set; }
     }
 }

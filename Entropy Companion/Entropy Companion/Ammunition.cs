@@ -8,9 +8,9 @@ namespace Entropy_Companion
 {
     internal class Ammunition : Item
     {
-        private string damage {  get; set; }
+        public string damage {  get; set; }
 
-        private int accuracy { get; set; }
-        private int critical { get; set; }
+        public int accuracy { get; set; }
+        public int critical { get; set; }
     }
 }

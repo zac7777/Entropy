@@ -6,11 +6,12 @@ using System.Threading.Tasks;
 
 namespace Entropy_Companion
 {
-    internal class Spell
+    internal class Consumable
     {
         public int level { get; set; }
+        public int weight { get; set; }
 
-        public string[] properties { get; set; }
+        public Bonus[] bonuses { get; set; }
 
         public Move[] moves { get; set; }
     }

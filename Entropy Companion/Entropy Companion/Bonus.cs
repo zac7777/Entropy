@@ -8,6 +8,8 @@ namespace Entropy_Companion
 {
     internal class Bonus
     {
+        public Boolean isActive {  get; set; }
 
+        public string effect {  get; set; }
     }
 }
