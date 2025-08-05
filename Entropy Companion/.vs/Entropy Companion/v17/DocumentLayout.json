@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{B8B1CC2D-B54F-4540-ACC8-C862FC548B2F}|Entropy Companion\\Entropy Companion.csproj|solutionrelative:entropy companion\\core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8B1CC2D-B54F-4540-ACC8-C862FC548B2F}|Entropy Companion\\Entropy Companion.csproj|c:\\users\\zzz\\documents\\github\\entropy\\entropy companion\\entropy companion\\nonplayercharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B8B1CC2D-B54F-4540-ACC8-C862FC548B2F}|Entropy Companion\\Entropy Companion.csproj|C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\entropy companion\\nonplayercharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8B1CC2D-B54F-4540-ACC8-C862FC548B2F}|Entropy Companion\\Entropy Companion.csproj|solutionrelative:entropy companion\\nonplayercharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -92,7 +92,7 @@
               "RelativeDocumentMoniker": "Entropy Companion\\Core.cs",
               "ToolTip": "C:\\Users\\zzz\\Documents\\GitHub\\Entropy\\Entropy Companion\\Entropy Companion\\Core.cs",
               "RelativeToolTip": "Entropy Companion\\Core.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAiwF8AAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAiwHQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-02T16:31:23.55Z",
               "EditorCaption": ""
@@ -107,8 +107,7 @@
               "RelativeToolTip": "Entropy Companion\\Creature.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T11:55:11.195Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-04T11:55:11.195Z"
             },
             {
               "$type": "Document",
@@ -120,8 +119,7 @@
               "RelativeToolTip": "Entropy Companion\\NonPlayerCharacter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T12:14:11.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-04T12:14:11.132Z"
             },
             {
               "$type": "Document",
@@ -133,8 +131,7 @@
               "RelativeToolTip": "Entropy Companion\\PlayerCharacter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T12:33:14.722Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-04T12:33:14.722Z"
             },
             {
               "$type": "Document",
@@ -146,8 +143,7 @@
               "RelativeToolTip": "Entropy Companion\\Bonus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T12:07:03.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-04T12:07:03.061Z"
             },
             {
               "$type": "Document",
@@ -159,8 +155,7 @@
               "RelativeToolTip": "Entropy Companion\\Move.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T16:52:39.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T16:52:39.553Z"
             },
             {
               "$type": "Document",
@@ -256,8 +251,7 @@
               "RelativeToolTip": "Entropy Companion\\Armour.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T13:35:52.929Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-04T13:35:52.929Z"
             },
             {
               "$type": "Document",

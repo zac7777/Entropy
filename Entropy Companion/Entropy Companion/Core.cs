@@ -51,7 +51,9 @@ namespace Entropy_Companion
                             string input = Console.ReadLine();
                             if (input == "Y")
                             {
-                                newCreature.moveList.Append(core.takeMove());
+                                Move[] temp = newCreature.moveList;
+                                temp.Append(core.takeMove());
+                                newCreature.moveList = temp;
                             }
                             else
                             {
@@ -66,7 +68,9 @@ namespace Entropy_Companion
                             string input = Console.ReadLine();
                             if (input == "Y")
                             {
-                                newCreature.bonuses.Append(core.takeBonus());
+                                Bonus[] temp = newCreature.bonuses;
+                                temp.Append(core.takeBonus());
+                                newCreature.bonuses = temp;
                             }
                             else
                             {
@@ -81,7 +85,9 @@ namespace Entropy_Companion
                             string input = Console.ReadLine();
                             if (input == "Y")
                             {
-                                newCreature.storage.Append(core.findItem());
+                                Item[] temp = newCreature.storage;
+                                temp.Append(core.findItem());
+                                newCreature.storage = temp;
                             }
                             else
                             {
