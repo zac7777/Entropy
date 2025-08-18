@@ -1,4 +1,4 @@
-*An ancient legend said they were sent by dark gods to trick and bedevil the holy townspeople, horned and hued figures that often find themselves in shadow working however necessary to survive*
+*An ancient legend said they were sent by demons to trick and bedevil the holy townspeople, horned and hued figures that often find themselves in shadow working however necessary to survive*
 
 Melee range: 1m
 
