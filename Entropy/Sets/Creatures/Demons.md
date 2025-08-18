@@ -63,7 +63,7 @@ Heat Reduction: -2
 Accuracy: +16
 Critical: +2
 
-*Laugh:* 4 AP, target creature that can hear you gains vulnerability to piercing damage for five turns
+*Laugh:* 4 AP, target creature that can hear you that fails the avoidance roll gains vulnerability to piercing damage for five turns
 
 Avoidance type: Endurance
 Roll minimum: 5

@@ -7,7 +7,7 @@
 *Raise Sprite:* 3 AP, raises a "Sprite" creature from [[Demons]] out of nearby soft ground, it must fail the avoidance roll for each action you want it to take, otherwise the Game Master will decide how it acts. It takes it's turn immediately after yours.
 
 Avoidance type: Connection
-Roll minimum: 4
+Roll minimum: 3
 
 ---
 
