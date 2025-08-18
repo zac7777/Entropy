@@ -23,4 +23,20 @@ Roll minimum: 5 + Reasoning ( yours )
 ---
 *A great beginner spell for early casters, harmless, fun, and with room to develop technique, well... harmless until students become creative*
 
+## Level 2
+#### Feign Strike
+*Contact, Martial, Common*
+
+##### Actions
+
+*False Attack:* 1 AP, you may activate any attack on a currently equipped weapon except it has no effect other than visually ( it doesn't deal damage or apply effects, but will trigger abilities of other creatures based on you activating an attack )
+
+---
+
+*Forced Image:* 4 AP, target creature within 20m activates any attack on a currently equipped weapon except it has no effect other than visually ( it doesn't deal damage or apply effects, but will trigger abilities of other creatures based on them activating an attack )
+
+---
+
+*Younger students see no value in not attacking, they have much to learn about tricking people*
+
 #itemSet #spells 
