@@ -17,11 +17,11 @@ If a spell has a lingering effect, it will often be tagged with "Focus", as it's
 [[Flame]]
 [[Light]]
 [[Ice]]
+[[Charge]]
 [[Hexus]]
 [[Bond]]
 [[Summon Undead]]
 [[Summon Demon]]
-
 [[Illusion]]
 [[Mind]]
 [[Health]]

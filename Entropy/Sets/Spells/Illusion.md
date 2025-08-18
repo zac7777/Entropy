@@ -29,11 +29,11 @@ Roll minimum: 5 + Reasoning ( yours )
 
 ##### Actions
 
-*False Attack:* 1 AP, you may activate any attack on a currently equipped weapon except it has no effect other than visually ( it doesn't deal damage or apply effects, but will trigger abilities of other creatures based on you activating an attack )
+*False Attack:* 1 AP, you may activate any attack on a currently equipped weapon except it has no effect other than visually ( it doesn't deal damage or apply effects, but will trigger abilities of other creatures based on you activating an attack and will make them think the attack has been activated )
 
 ---
 
-*Forced Image:* 4 AP, target creature within 20m activates any attack on a currently equipped weapon except it has no effect other than visually ( it doesn't deal damage or apply effects, but will trigger abilities of other creatures based on them activating an attack )
+*Forced Image:* 3 AP, target creature you can see within 20m activates any attack on a currently equipped weapon except it has no effect other than visually ( it doesn't deal damage or apply effects, but will trigger abilities of other creatures based on them activating an attack and will make them think the attack has been activated )
 
 ---
 

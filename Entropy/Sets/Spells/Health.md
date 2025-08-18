@@ -18,4 +18,24 @@ Roll minimum: 6
 ---
 *While simple, a spell with such unique power cannot be underutilised, lest we all perish in battle*
 
+## Level 2
+#### Uplift
+*Contact, Ingredient( at least 0.5kg of blood ), Advanced, Common*
+
+##### Actions
+
+*Return Consciousness:* 4 AP, if you succeed the avoidance roll, target unconscious creature within Melee Range returns to consciousness with 5 EP, activate only once per combat
+
+Avoidance type: Power
+Roll minimum: 7
+
+---
+*Return Life:* 5 AP, if you succeed the avoidance roll, target dead creature within Melee Range returns to life with 1 HP, activate only once before having to take a downtime. If you fail, their body is disintegrated and cannot be revived ever again with this spell.
+
+Avoidance type: Power
+Roll minimum: 8
+
+---
+*With a lot of luck and a fun amount of blood, what once was the barrier to Æx can now be crossed!*
+
 #itemSet #spells
