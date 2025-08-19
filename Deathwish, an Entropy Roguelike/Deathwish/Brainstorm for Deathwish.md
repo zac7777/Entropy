@@ -1,0 +1,29 @@
+- Begin with a party of ~4
+	- Begin at home base, with a permanent character for permanent upgrades, and maybe more home base characters as the party progresses
+	- Travel through 3 worlds until the Deathwish is reached at the end of the third
+	- The players are expected to die many times, upgrading after each death, and finding a new dungeon each time
+	- As they play again and again, they will learn more about the world of the Deathwish, find characters also searching for it, and face moral quandaries of legacy and sacrifice
+- Run through a tree of randomly generated rooms
+    - Types:
+	    - Combat
+		    - Tests physical
+		    - Rewards with items, levels, and currency
+	    - Boss
+		    - Tests physical
+		    - Rewards with passage to the next world and a strong item
+	    - Loot
+		    - Tests mental
+		    - Rewards with items, currency, and ingredients
+	    - Event
+		    - Tests mental
+		    - Rewards with anything
+	    - Store
+		    - Tests personal
+		    - Costs currency
+		    - Rewards with items, hints and information on future rooms
+	    - Civilisation
+		    - Tests personal
+		    - Rewards with downtime, companions, and story
+		- Lore
+			- Rewards with story
+- 
