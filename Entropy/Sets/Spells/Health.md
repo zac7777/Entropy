@@ -30,7 +30,7 @@ Avoidance type: Power
 Roll minimum: 7
 
 ---
-*Return Life:* 5 AP, if you succeed the avoidance roll, target dead creature within Melee Range returns to life with 1 HP, activate only once before having to take a downtime. If you fail, their body is disintegrated and cannot be revived ever again with this spell.
+*Return Life:* 5 AP, if you succeed the avoidance roll, target dead creature within Melee Range returns to life with 1 HP, activate only once between downtimes. If you fail, their body is disintegrated and cannot be revived ever again with this spell.
 
 Avoidance type: Power
 Roll minimum: 8

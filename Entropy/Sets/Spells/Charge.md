@@ -22,15 +22,24 @@ Roll minimum: 4
 
 ##### Actions
 
-*Throw:* 3 AP, 
+*Throw:* 3 AP, creates a glowing orb at most 5m away from you that will begin travelling at a rate of 2m away from you per turn. Any creature that contacts this orb will take the avoidance roll, if they fail they take 2d4 - 1 Lightning damage and are stunned. If they succeed, the orb is destroyed and they regain 2 EP. The orb will exist and continue travelling away from you until you lose focus or at the end of combat.
+
+Avoidance type: Power
+Roll minimum: 6
 
 ---
 
-*Hold:* 2 AP, 
+*Hold:* 2 AP, activate only if you are focused on an Electric Orb you have created, this spell does not require focus. The orb will stop moving, any creature in contact with it takes 2d4 - 1 Lightning damage for each turn it begins while still in contact with the orb, then if it fails the avoidance roll, it will be stunned.
+
+Avoidance type: Endurance
+Roll minimum: 3
 
 ---
 
-*Revive:* 5 AP, 
+*Revive:* 4 AP, if you succeed the avoidance roll, target unconscious creature within 5m returns to consciousness with 2d4 EP, activate only once between downtimes.
+
+Avoidance type: Connection
+Roll minimum: 9
 
 ---
 *Some hear it alive, a beating charged heart, perfectly spherical, pulsing with life energy*

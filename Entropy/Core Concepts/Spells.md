@@ -14,16 +14,32 @@ If a spell has a lingering effect, it will often be tagged with "Focus", as it's
 | Rarity        | Innate    | Common  | Rare        | Legendary |
 
 ## Spell sets
+
+#### Elemental
+
 [[Flame]]
 [[Light]]
 [[Ice]]
 [[Charge]]
-[[Hexus]]
+[[Bane]]
+
+#### Medical
+
 [[Bond]]
-[[Summon Undead]]
-[[Summon Demon]]
+[[Health]]
+
+#### Manipulation
+
 [[Illusion]]
 [[Mind]]
-[[Health]]
+
+#### Summon
+
+[[Summon Undead]]
+[[Summon Demon]]
+
+#### Commune
+
+[[Hexus]]
 
 #itemType 
