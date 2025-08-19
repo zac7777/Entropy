@@ -29,7 +29,7 @@ Carry weight: +20
 HP: 2d6 + Endurance
 AP: 3 + Memory / 2
 
-*Tinker:* during any downtime, you may forge an item from a list given by the following abilities by destroying two items from the same item set then succeeding the avoidance roll. Whenever an ability in this class gives you access to forging an item, it will also give you +2 proficiency in that item ( this proficiency applies to the forged weapon, or any weapon of the same name ) if applicable. If the item you wish to forge has no level it cannot be forged unless you can convince your Game Master that you could reasonably forge it from ingredients in your storage.
+*Tinker:* during any downtime, you may forge a non-legendary item from a list given by the following abilities by destroying two items from the same item set then succeeding the avoidance roll. Whenever an ability in this class gives you access to forging an item, it will also give you +2 proficiency in that item ( this proficiency applies to the forged weapon, or any weapon of the same name ) if applicable. If the item you wish to forge has no level it cannot be forged unless you can convince your Game Master that you could reasonably forge it from ingredients in your storage.
 
 Avoidance type: Memory
 Roll minimum: 3

@@ -22,11 +22,18 @@ In what was once her home plane, "Nighlush" was the name of a dark spirit from a
 *(They/Them)*
 A small hand in the birth of every new plane, they describe events never heard of before, they make new designs. A more powerful force than Entropy, chaotic, beautiful, and kind to those sharing their vision.
 
-*Favour:* Once per combat, you may re-describe an attack in a cool way, if your game-master decides it is worthy, that attack will gain a -30 accuracy bonus, and be executed how you describe.
+*Favour:* Once per combat, you may re-describe an attack in a cool way, if your game-master decides it is worthy, that attack will gain a -30 Accuracy bonus, and be executed how you describe.
 
 ### Palraq, courage's soul
-(Any)
+*(Any)*
 Died many times, never stayed that way. Pushed through the suffocation and freeze between planes just to meet his love once more. Her very spirit is found within anyone that fights and will not back down until victory is attained. It's often disputed whether Palraq was ever a conscious person, or always an incarnation of the mindless determination found from prey to apex.
 
 *Favour:* Once per combat, you may tell your Game Master that a certain action is narratively crucial to your character's story, if they decide you are correct, you may activate that action without any cost or restriction (this applies to range, requirements, AP cost, ETC)
+
+### Yawol, the I
+*(Only to be referred to as Yawol)*
+The only being to be born outside of a plane, the only god powerful enough to turn entire planes into Yawol's toy, the only Yawol grand enough to have countless libraries of countless books written in Yawol's name.
+
+*Favour:* Once per combat, you may convince your game master that your character is simply above an effect currently dragging you back from victory, if they decide you are correct, you no longer suffer from a Nerf of your choice.
+
 #creatureSet 
