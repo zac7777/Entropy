@@ -1,4 +1,4 @@
-## Level 1
+## Level 4
 #### Break-action single shotgun
 *Short, Light, Advanced, Common*
 
@@ -31,7 +31,7 @@ Proficiency requirement: 2
 ---
 *Designed for hunting, but truly devastating to anything not wearing armour and standing nearby*
 
-## Level 2
+## Level 5
 #### Sawed-off double shotgun
 *Short, Light, Advanced, Improvised(Another shotgun, A weapon that deals Slashing damage)*
 

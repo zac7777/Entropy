@@ -70,3 +70,5 @@ Roll minimum: 5
 
 ---
 *Torturers, specialising in lasting pain and suffering, not great at closing out fights... they don't want their fun to end!*
+
+#creatureSet 

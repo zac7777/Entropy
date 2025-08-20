@@ -3,7 +3,7 @@
 Weight: 0.5kg
 ##### Moves
 
-*Point:* 2 AP, create a dot of red light at any location you can see, if this is pointed at a creature they take the challenge, if they fail they take 2d2 radiation damage and are Blinded.
+*Point:* 2 AP, create a dot of red light at any location you can see, if this is pointed at a creature they take the challenge, if they fail they take 2d2 radiation damage and are Blinded until the end of their next turn.
 
 Avoidance type: Memory
 Roll minimum: -1

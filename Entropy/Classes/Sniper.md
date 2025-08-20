@@ -47,7 +47,7 @@ AP: 3 + Reasoning
 Hidden death: 
 - *Absorbent flesh:* 2 AP, until end of turn your attacks with medium and long weapons become completely silent, you can no longer roll critical hits.
 - *Quiet the arcane:* 2 AP, your next spell is completely silent, if it hits a creature that is unaware of you they have disadvantage on any avoidance rolls
-- *Hide:* 2 AP, all creatures that can see you (and fail the avoidance roll) lose awareness of you, activate only if you can suggest a reasonable hiding spot determined by your Game Master
+- *Hide:* 2 AP, all creatures that can see you and fail the avoidance roll lose awareness of you, activate only if you can suggest a reasonable hiding spot determined by your Game Master
 
   Avoidance type: Reasoning
   Roll minimum: +3 + Reasoning (Yours)

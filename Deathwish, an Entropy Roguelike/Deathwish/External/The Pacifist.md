@@ -1,0 +1,1 @@
+The defender of the Deathwish, wished that "No-one would ever have to die" causing countless creatures to be trapped within the dungeon's mortal coil, undying and determined to continue their lives. Must be convinced to allow the party to claim their wishes as they are far more powerful and could easily win any fight.

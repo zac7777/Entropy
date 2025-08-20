@@ -36,3 +36,5 @@ Roll minimum: 7
 
 ---
 *Flashes, sprinkling, coughing, bleeding. War is hell, and the invention of mass torture like this should be a crime!*
+
+#itemSet #spells

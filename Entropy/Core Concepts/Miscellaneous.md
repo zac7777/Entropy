@@ -8,3 +8,4 @@ Utility items that offer Buffs or Nerfs, often equipped without requiring a limb
 - [[Implants]]
 - [[Tattoos]]
 - [[Toys]]
+- [[Bags]]

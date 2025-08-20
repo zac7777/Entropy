@@ -7,6 +7,8 @@
 [[House Pets]]
 [[Automata]]
 [[Dogs]]
-
+[[Deer]]
+[[Pests]]
+[[Bandits]]
 
 #gameInformation 

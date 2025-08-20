@@ -71,7 +71,7 @@ Owe:
   Avoidance type: Connection
   Roll minimum: 4 - Insight ( yours )
 
-- *State of Guilt:* 3 AP, you are Knocked, you unequip any equipped weapons, and lose -2 to Memory and Reasoning, however, whenever you apply a Buff to an allied creature they get +2 DT to any magical type in addition, spells you cast have a +1 minimum, and if another creature within Melee range would be hit by a spell or a weapon, you may choose to have it hit you instead. This state lasts for 2 turns or until you use the "swap weapon action".
+- *State of Guilt:* 3 AP, you are Knocked, you unequip any equipped weapons, and lose -2 to Memory and Reasoning, however, whenever you apply a Buff to an allied creature they get +2 DT to any magical type in addition, spells you cast have a +1 minimum, and if another creature within Melee range would be hit by a spell or a weapon, you may choose to have it hit you instead. This state lasts for 2 turns or until you use the "swap item action".
 
 Peace:
 - *True Silence:* whenever you kill a creature, you may gain a "Mark of Silence" these may be spent whenever you would become Stunned to be immune to it until the next time you would be stunned. You begin each combat with 0 marks.

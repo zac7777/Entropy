@@ -10,7 +10,7 @@ Number of limbs: two arms, two legs, one head
 
 Move action: 1 AP, move 2 meters in any direction
 
-Swap weapon action: 4 AP, swap any one equipment from either hand to storage, or from storage to hand
+Swap item action: 4 AP, swap any one equipment from either hand to storage, or from storage to hand
 
 Pick up action: 3 AP, equip target unequipped item within Melee range or place target unequipped item within Melee range into storage
 

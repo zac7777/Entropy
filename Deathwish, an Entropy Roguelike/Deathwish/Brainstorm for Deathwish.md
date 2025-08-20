@@ -41,4 +41,10 @@
 		    - Rewards with downtime, companions, and story
 		- Lore
 			- Rewards with story
-- 
+- Players should level up at 10XP then at 25XP then 45 XP
+	- XP to get into lvl n = 2.5n^2 +2.5n - 5
+- Currency is in crystal coins:
+	- 1 Feldspar coin = 10 Quartz coins
+	- 1 Garnet coin = 10 Feldspar coins
+	- 1 Beryl coin = 10 Garnet coins
+	- 1 Diamond coin = 10 Beryl coins
