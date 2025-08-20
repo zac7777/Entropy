@@ -15,7 +15,7 @@ Accuracy: +26
 Critical: +11
 
 ---
-*Barely effective while covered in superficially wounding shards, but peasants easily imagine the tearing of flesh*
+*Barely effective while covered in superficially wounding shards, but peasants easily fear the tearing of flesh*
 
 ## Level 2
 #### Light Cudgel
