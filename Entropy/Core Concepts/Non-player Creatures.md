@@ -10,5 +10,6 @@
 [[Deer]]
 [[Pests]]
 [[Bandits]]
+[[Mercenaries]]
 
 #gameInformation 

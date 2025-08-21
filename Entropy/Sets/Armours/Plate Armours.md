@@ -25,3 +25,25 @@ Dodge bonus: -2
 
 ---
 *Designed to be worn under clothes so that a shooter might fail a kill-shot without even knowing*
+
+## Level 3
+#### Eykilus's Shin-less Plate
+*Full, Heavy, Martial, Legendary*
+
+Weight: 12kg
+
+*Minor Weakness:* if an attack does critical damage, ignore all DT bonuses given by this armour, attacks made against you have +5 critical
+
+Slashing DT: -6
+Piercing DT: -3
+Bludgeoning DT: -4
+Radiant DT: -3
+Heat DT: -4
+Cold DT: +1
+Lightning DT: -3
+Rot DT: -5
+
+Dodge bonus: -6
+
+---
+*Some's critical weakness is their ego, their mortal attachments, hers was the bit on her leg below the knees*
