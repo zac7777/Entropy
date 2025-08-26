@@ -26,7 +26,7 @@ Dodge bonus: -2
 ---
 *Designed to be worn under clothes so that a shooter might fail a kill-shot without even knowing*
 
-## Level 3
+## Level 5
 #### Eykilus's Shin-less Plate
 *Full, Heavy, Martial, Legendary*
 
