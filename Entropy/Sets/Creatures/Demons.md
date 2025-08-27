@@ -76,12 +76,12 @@ Roll minimum: 5
 
 ##### Attributes
 
-Pow: +1
-End: -4
-Mem: 0
-Rea: -4
-Ins: +2
-Con: -3
+Pow: +4
+End: +2
+Mem: +3
+Rea: -7
+Ins: -3
+Con: +6
 
 ---
 ##### Stats

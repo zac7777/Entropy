@@ -1,7 +1,7 @@
 #### Boss Fight table
 
 
-| d2  | Layout | Creature(s) | Description | Reward |
-| --- | ------ | ----------- | ----------- | ------ |
-| 0   |        | The Tender  |             |        |
-| 1   |        |             |             |        |
+| d2  | Layout                        | Creature(s) | Bonuses                                                                                                                                                           | Description                                                                                                                                       | Reward |
+| --- | ----------------------------- | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| 0   | ![[Forest boss layout 1.png]] | The Tender  | Movement actions taken by the Tender while in ash or behind trees will make each player that fails a 1d10 + Memory > 7 will make that player lose awareness of it | "Five tendrils of ash cling to a central spirit, it's head a roaring flaming fox, it's slender body unseen among the cindered husks of the trees" |        |
+| 1   |                               |             |                                                                                                                                                                   |                                                                                                                                                   |        |
