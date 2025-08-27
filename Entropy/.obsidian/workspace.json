@@ -58,9 +58,71 @@
               "icon": "lucide-file",
               "title": "Demons"
             }
+          },
+          {
+            "id": "00cf69d6c1064a27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Concepts/Status Effects.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Status Effects"
+            }
+          },
+          {
+            "id": "54e2774442c8dcd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sets/Miscellaneous/Masks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Masks"
+            }
+          },
+          {
+            "id": "16bc601c980846b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Concepts/Miscellaneous.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Miscellaneous"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -206,10 +268,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1e07a2df800c96ec",
+  "active": "54e2774442c8dcd1",
   "lastOpenFiles": [
-    "Core Concepts/Non-player Creatures.md",
+    "Core Concepts/Miscellaneous.md",
+    "Sets/Miscellaneous/Masks.md",
+    "Core Concepts/Status Effects.md",
     "Sets/Creatures/Demons.md",
+    "Core Concepts/Non-player Creatures.md",
     "Sets/Armours/Plate Armours.md",
     "Sets/Armours/Leathers.md",
     "Sets/Miscellaneous/Hats.md",
@@ -231,9 +296,6 @@
     "Species/Incanus.md",
     "Classes/Soldier.md",
     "Classes/Doctor.md",
-    "Core Concepts/Spells.md",
-    "Core Concepts/Combat.md",
-    "Core Concepts/Damage Types.md",
     "Sets/Consumables",
     "Resources/Ehlen Map Resource.png",
     "Pasted image 20250628201830.png",
