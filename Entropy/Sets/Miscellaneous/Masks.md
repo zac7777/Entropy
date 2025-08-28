@@ -17,4 +17,13 @@ Weight: 0.5kg
 ---
 *When the natural world is destroyed by flaming means, there will be vengeance, there will be death, then there will be life again*
 
+#### Mask of the Patient Predator
+
+Weight: 0.5kg
+
+*Stall:* For each turn that you have not attacked, gain +10 critical up to a total of +50, this buff resets at the end of a turn in which you attacked
+
+---
+*The greatest hunters wait and learn, until their mind is more full than their gut will ever be*
+
 #itemSet #miscellaneous

@@ -137,40 +137,32 @@ Con: +2
 ---
 ##### Stats
 
-EP: 90
-AP: 7
-HP: 58
-Dodge: +23
+EP: 100
+AP: 6
+HP: 37
+Dodge: +40
 
-Bludgeoning Reduction: -3
-Shock Reduction: -2
-Cold Reduction: +2
-Toxic Reduction: -1
-Rot Reduction: -3
+Piercing Reduction: -2
+Mental Reduction: -4
 
-*Ash-born:* The Tender is immune to heat damage, when the Tender kills a creature they will be turned into a tree such that they cannot be revived by conventional means, whenever a creature within 5m deals heat damage the Tender gets advantage on their next damage roll
+*Unseen:* As long as you are not well lit, attacks made against you have -1 to their hit roll for each 1m away they are activated from
+
+*Colossal:* Creatures cannot move within 5m of the Cavebeast, whenever the Cavebeast moves into another creature they are moved alongside it, the Cavebeast can act as cover to creatures behind it
 
 ---
 ##### Action list
 
-*Move:* 1 AP, move 2 meters in any direction, this movement action cannot be affected by any Nerf.
+*Study:* 1 AP, you gain Advantage on your next damage roll, you gain one "Knowledge Point". This may only be activated once per turn
 
-*Hidden Bite:* 1 AP, 1m, 1d6 piercing damage, gains +30 critical on targets with no awareness of you
-Accuracy: +23
-Critical: +12
+*Move:* 3 AP, move 1 meters in any direction, this movement action cannot be affected by any Nerf.
 
-*Tail Swipe:* 3 AP, 4m, 2d6 - 2 bludgeoning damage, you may knock the target back up to 5m
-Accuracy: +15
-Critical: +3
+*Cover:* 5 AP, gain +30 Dodge and +2 DT to all physical types until your next turn
 
-*Vengeful Breath:* 4 AP, target creature within 7m takes the avoidance roll, if they succeed they take 2d4 + 3 shock damage, if they fail they take 2d10 + 1 heat damage and are blinded
-
-Avoidance type: Connection
-Roll minimum: 8
-
-*Extinguish:* 6 AP, all creatures with awareness of you that fail the avoidance roll lose awareness of you. Next turn, attacks on creatures without awareness of you have advantage on the hit rolls, those creatures have disadvantage on challenges made against them, you have an additional 3 AP.
+*Unbridled Assault:* 6 AP and three "Knowledge Points", 10m, 1d20 + 4 slashing damage
+Accuracy: +4
+Critical: +1
 
 ---
-*The vengeance of a lush forest scorched, crawls through shadow and char as a fox-headed coil to turn the dust of man to fertiliser, such that life can begin anew*
+*Studies it's prey as they wander past it's home, only glowing eyes and shining teeth visible.*
 
 #creatureSet 

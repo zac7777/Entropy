@@ -18,6 +18,30 @@
             }
           },
           {
+            "id": "aa3bd64a0e3d4140",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Brainstorm for Deathwish.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Brainstorm for Deathwish"
+            }
+          },
+          {
             "id": "a20843ac30a341c5",
             "type": "leaf",
             "state": {
@@ -70,6 +94,30 @@
             }
           },
           {
+            "id": "2c93f4e34b17e2be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forest/Forest Bosses.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Forest Bosses"
+            }
+          },
+          {
             "id": "a5393de6de665b6c",
             "type": "leaf",
             "state": {
@@ -94,12 +142,12 @@
             }
           },
           {
-            "id": "2c93f4e34b17e2be",
+            "id": "c9b0ef81924ee262",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forest/Forest Bosses.md",
+                "file": "Forest/Forest Civilisations.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -114,11 +162,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Forest Bosses"
+              "title": "Forest Civilisations"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -266,11 +314,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "2c93f4e34b17e2be",
+  "active": "aa3bd64a0e3d4140",
   "lastOpenFiles": [
-    "Forest/Forest Combat Rooms.md",
+    "Forest/Forest Civilisations.md",
     "Forest/Forest Items.md",
     "Forest/Forest Bosses.md",
+    "Resources/Forest boss layout 2.png",
+    "Forest/Forest Combat Rooms.md",
     "Resources/Forest boss layout 1.png",
     "Brainstorm for Deathwish.md",
     "Resources/Forest combat layout 6.png",
@@ -285,7 +335,6 @@
     "Resources/Forest combat layout 1.png",
     "Resources",
     "External/The Pacifist.md",
-    "Forest/Forest Civilisations.md",
     "Forest/Forest Shops.md",
     "External",
     "Forest/Forest Events.md",
