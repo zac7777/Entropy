@@ -198,9 +198,33 @@
               "icon": "lucide-file",
               "title": "Forest Events"
             }
+          },
+          {
+            "id": "efcd6b56f8019f86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forest/Forest Shops.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Forest Shops"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -348,14 +372,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "c9b0ef81924ee262",
+  "active": "efcd6b56f8019f86",
   "lastOpenFiles": [
-    "Forest/Forest Events.md",
-    "Forest/Forest Items.md",
     "Forest/Forest Civilisations.md",
+    "Forest/Forest Events.md",
+    "Brainstorm for Deathwish.md",
+    "Forest/Forest Items.md",
     "Forest/Forest Bosses.md",
     "External/Home Base.md",
-    "Brainstorm for Deathwish.md",
     "Resources/Forest boss layout 2.png",
     "Forest/Forest Combat Rooms.md",
     "Resources/Forest boss layout 1.png",
