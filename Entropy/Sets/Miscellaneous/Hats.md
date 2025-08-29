@@ -7,4 +7,13 @@ Weight: 1kg
 ---
 *Accidents happen to us all, the smartest workers get their valuable assets protected from such cataclysms*
 
+#### Survivor's Cap
+
+Weight: 1kg
+
+*Strife-Worn:* while equipped, you have an additional +2 Endurance
+
+---
+*You keep going, no matter how many friends die, no matter how this world tries to change you, you run and you stay unbitten*
+
 #itemSet #miscellaneous
