@@ -25,19 +25,29 @@
               "state": {
                 "file": "Development/Developer notes.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "Developer notes"
             }
           },
           {
-            "id": "f57003a5e128c818",
+            "id": "989c68d6cc05a9bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core Concepts/Non-player Creatures.md",
+                "file": "Core Concepts/Items.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +62,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Non-player Creatures"
+              "title": "Items"
             }
           },
           {
-            "id": "3b7f220b0affe089",
+            "id": "942b350bae250482",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sets/Creatures/Demons.md",
+                "file": "Core Concepts/Consumables.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,16 +86,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Demons"
+              "title": "Consumables"
             }
           },
           {
-            "id": "16bc601c980846b9",
+            "id": "5280f2755faab42f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core Concepts/Miscellaneous.md",
+                "file": "Sets/Consumables/Medicines.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,16 +110,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Miscellaneous"
+              "title": "Medicines"
             }
           },
           {
-            "id": "0ae1df9ec12cf8c7",
+            "id": "ac69b290eee24d09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sets/Miscellaneous/Hats.md",
+                "file": "Sets/Miscellaneous/Jewellery.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +134,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Hats"
+              "title": "Jewellery"
             }
           }
         ],
@@ -274,34 +284,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0ae1df9ec12cf8c7",
+  "active": "ac69b290eee24d09",
   "lastOpenFiles": [
+    "Sets/Spells/Bond.md",
+    "Sets/Spells/Charge.md",
+    "Sets/Spells/Health.md",
+    "Sets/Weapons/Shotguns.md",
+    "Sets/Weapons/Utensils.md",
+    "Sets/Weapons/Wands.md",
+    "Sets/Miscellaneous/Implants.md",
+    "Sets/Consumables/Medicines.md",
+    "Core Concepts/Consumables.md",
+    "Sets/Consumables/Snacks.md",
+    "Sets/Weapons/Pistols.md",
+    "Core Concepts/Items.md",
+    "Development/Developer notes.md",
+    "Core Concepts/Non-player Creatures.md",
+    "Sets/Miscellaneous/Hats.md",
     "Core Concepts/Miscellaneous.md",
     "Sets/Miscellaneous/Curses.md",
-    "Sets/Miscellaneous/Hats.md",
     "Sets/Miscellaneous/Tattoos.md",
-    "Sets/Miscellaneous/Implants.md",
     "Sets/Miscellaneous/Masks.md",
     "Sets/Creatures/Demons.md",
-    "Core Concepts/Non-player Creatures.md",
     "Core Concepts/Status Effects.md",
     "Sets/Armours/Plate Armours.md",
     "Sets/Armours/Leathers.md",
     "Sets/Spells/Mind.md",
     "Sets/Spells/Bane.md",
     "Sets/Weapons/Swords.md",
-    "Sets/Creatures/Bandits.md",
-    "Sets/Creatures/Mercenaries.md",
-    "Sets/Creatures/Inkbeasts.md",
-    "Sets/Spells/Bond.md",
-    "Sets/Spells/Illusion.md",
-    "Sets/Spells/Flame.md",
-    "Development/Developer notes.md",
-    "Story/Factions/Ospresis.md",
-    "Stats/Criticals.md",
-    "Stats/EP.md",
-    "Stats/Dodge.md",
-    "Stats/Accuracy.md",
     "Sets/Consumables",
     "Resources/Ehlen Map Resource.png",
     "Pasted image 20250628201830.png",

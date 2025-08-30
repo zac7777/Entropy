@@ -6,7 +6,7 @@
 | 2   | Chain Scraps                                                     | 8 Quartz   |
 | 3   | Leather Shield                                                   | 6 Quartz   |
 | 4   | Leather Jacket                                                   | 5 Quartz   |
-| 5   | Minor holomimic Scroll                                           | 1 Feldspar |
+| 5   | Minor holomimic Scroll (Teaches Minor holomimic)                 | 1 Feldspar |
 | 6   | 2d8 .223 Remington                                               | ~4 Quartz  |
 | 7   | 1d10 + 5 9 millimetre + 2d2 9 millimetre rubber                  | ~5 Quartz  |
 | 8   | 3 Stick explosives                                               | 6 Quartz   |
@@ -38,11 +38,11 @@
 | 9   | Protein Bar                                                                | 2 Quartz   |
 #### Major loot table
 
-| d6  | Item                                                         | Value      |
-| --- | ------------------------------------------------------------ | ---------- |
-| 1   | Shrinking Tent (Allows for three instant downtimes anywhere) | 2 Feldspar |
-| 2   | Twistwood Key (Unlocks chests and rooms in the Forest)       | 1 Feldspar |
-| 3   | The Paintbrush                                               | 3 Feldspar |
-| 4   | Toxic Spray Grimoire (Three charges of Toxic Spray for 1 AP) | 2 Feldspar |
-| 5   | Minor Convincion Scroll (Teaches Minor Convincion)           | 1 Feldspar |
-| 6   | Eykilus's Shin-less Plate                                    | 4 Feldspar |
+| d6  | Item                                                              | Value      |
+| --- | ----------------------------------------------------------------- | ---------- |
+| 1   | Shrinking Tent (Allows for three instant downtimes anywhere)      | 2 Feldspar |
+| 2   | Twistwood Key (Unlocks chests and rooms in the Forest)            | 1 Feldspar |
+| 3   | The Paintbrush                                                    | 3 Feldspar |
+| 4   | Toxic Spray Grimoire (Three charges of Toxic Spray for 1 AP each) | 2 Feldspar |
+| 5   | Minor Convincion Scroll (Teaches Minor Convincion)                | 1 Feldspar |
+| 6   | Eykilus's Shin-less Plate                                         | 4 Feldspar |
