@@ -66,12 +66,12 @@
             }
           },
           {
-            "id": "942b350bae250482",
+            "id": "17bdb90ca9af9f74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core Concepts/Consumables.md",
+                "file": "Core Concepts/Weapons.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -86,16 +86,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Consumables"
+              "title": "Weapons"
             }
           },
           {
-            "id": "5280f2755faab42f",
+            "id": "a3605a26e41ae033",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sets/Consumables/Medicines.md",
+                "file": "Sets/Weapons/Knives.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -110,35 +110,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Medicines"
-            }
-          },
-          {
-            "id": "ac69b290eee24d09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sets/Miscellaneous/Jewellery.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Jewellery"
+              "title": "Knives"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -284,8 +260,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ac69b290eee24d09",
+  "active": "a3605a26e41ae033",
   "lastOpenFiles": [
+    "Core Concepts/Weapons.md",
+    "Core Concepts/Items.md",
+    "Core Concepts/Consumables.md",
+    "Sets/Consumables/Medicines.md",
+    "Sets/Miscellaneous/Jewellery.md",
     "Sets/Spells/Bond.md",
     "Sets/Spells/Charge.md",
     "Sets/Spells/Health.md",
@@ -293,11 +274,8 @@
     "Sets/Weapons/Utensils.md",
     "Sets/Weapons/Wands.md",
     "Sets/Miscellaneous/Implants.md",
-    "Sets/Consumables/Medicines.md",
-    "Core Concepts/Consumables.md",
     "Sets/Consumables/Snacks.md",
     "Sets/Weapons/Pistols.md",
-    "Core Concepts/Items.md",
     "Development/Developer notes.md",
     "Core Concepts/Non-player Creatures.md",
     "Sets/Miscellaneous/Hats.md",
@@ -310,8 +288,6 @@
     "Sets/Armours/Plate Armours.md",
     "Sets/Armours/Leathers.md",
     "Sets/Spells/Mind.md",
-    "Sets/Spells/Bane.md",
-    "Sets/Weapons/Swords.md",
     "Sets/Consumables",
     "Resources/Ehlen Map Resource.png",
     "Pasted image 20250628201830.png",

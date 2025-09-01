@@ -99,4 +99,58 @@ Critical: +13
 ---
 *They dig deep and accurate, heavy enough to bore into muscle, light enough to glide through air*
 
+## Level 3
+#### Gravity Knife
+*Contact, Manageable, Advanced, Rare*
+
+Weight: 1.5kg
+
+One handed: 
+Two handed: +10 Accuracy, -1m range on Poke
+##### Actions
+
+*Swing:* 2 AP, Melee Range, 1d10 slashing damage, on critical hit the target gets bleeding
+
+Accuracy: +28
+Critical: +7
+
+---
+
+*Thrust:* 4 AP, Melee Range + 2m, 2d4 + Reasoning piercing damage
+
+Accuracy: +31
+Critical: +6
+
+Proficiency requirement: 3
+
+---
+*My kids love this thing, they don't even stab people they just love flipping the blade out and back in. I don't know if they're fidgeting or want to look tough*
+
+## Level 4
+#### Light Dagger
+*Contact, Light, Martial, Common*
+
+Weight: 1.5kg
+
+One handed: 
+Two handed: +10 Accuracy, -1m range on Poke
+##### Actions
+
+*Swing:* 2 AP, Melee Range, 1d10 slashing damage, on critical hit the target gets bleeding
+
+Accuracy: +28
+Critical: +7
+
+---
+
+*Thrust:* 4 AP, Melee Range + 2m, 2d4 + Reasoning piercing damage
+
+Accuracy: +31
+Critical: +6
+
+Proficiency requirement: 3
+
+---
+*My kids love this thing, they don't even stab people they just love flipping the blade out and back in. I don't know if they're fidgeting or want to look tough*
+
 #itemSet #weapons
