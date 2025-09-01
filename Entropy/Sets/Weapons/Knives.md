@@ -133,24 +133,52 @@ Proficiency requirement: 3
 Weight: 1.5kg
 
 One handed: 
-Two handed: +10 Accuracy, -1m range on Poke
+Two handed: + Power piercing damage to all moves
 ##### Actions
 
-*Swing:* 2 AP, Melee Range, 1d10 slashing damage, on critical hit the target gets bleeding
+*Cut:* 2 AP, Melee Range, 2d6 - 1 slashing damage, on critical hit the target gets 2 levels of bleeding
 
-Accuracy: +28
-Critical: +7
+Accuracy: +15
+Critical: +5
+
+Proficiency requirement: 2
 
 ---
 
-*Thrust:* 4 AP, Melee Range + 2m, 2d4 + Reasoning piercing damage
+*Stab:* 2 AP, Melee Range, 2d4 piercing damage, the target automatically fails the next challenge that targets them
 
 Accuracy: +31
 Critical: +6
 
-Proficiency requirement: 3
+---
+*A deep bore will leave you powerless, a wide slice will make you drip a fountain of blood, never get close*
+
+## Level 5
+#### Parrying Blade
+*Short, Manageable, Martial, Rare*
+
+Weight: 1.5kg
+
+One handed: 
+Two handed: +2 avoidance roll on "Parry", +2 Proficiency requirement on all moves
+##### Actions
+
+*Cut:* 3 AP, Melee Range, 1d8 + 2 slashing damage, on critical hit the target gets bleeding
+
+Accuracy: +21
+Critical: +2
 
 ---
-*My kids love this thing, they don't even stab people they just love flipping the blade out and back in. I don't know if they're fidgeting or want to look tough*
+
+*Parry:* 2 AP, the next time you would be hit with a contact or short weapon, the source takes the avoidance roll, if they fail you may perform a move from your equipped weapons with an AP cost less than 4 without paying their cost, using this move Immediately ends your turn. If they succeed, you will be hit successfully and take an additional 2d6 - 3 mental damage.
+
+Avoidance type: Memory
+Roll minimum: 7
+
+Proficiency requirement: 2
+
+---
+*Timing is everything, so is cold, dependable steel*
+
 
 #itemSet #weapons
