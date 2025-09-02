@@ -90,12 +90,12 @@
             }
           },
           {
-            "id": "a3605a26e41ae033",
+            "id": "162b3e587a61e3d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sets/Weapons/Knives.md",
+                "file": "Sets/Weapons/Staves.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -110,41 +110,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Knives"
+              "title": "Staves"
             }
           }
         ],
         "currentTab": 4
-      },
-      {
-        "id": "8425667a97ec80cd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c67d76365e11955b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes/Knight.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Knight"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -290,21 +260,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a3605a26e41ae033",
+  "active": "162b3e587a61e3d4",
   "lastOpenFiles": [
-    "Classes/Knight.md",
-    "Sets/Weapons/Knives.md",
     "Core Concepts/Weapons.md",
+    "Sets/Weapons/Wands.md",
+    "Sets/Weapons/Staves.md",
+    "Sets/Spells/Health.md",
+    "Sets/Weapons/Knives.md",
+    "Classes/Knight.md",
     "Core Concepts/Items.md",
     "Core Concepts/Consumables.md",
     "Sets/Consumables/Medicines.md",
     "Sets/Miscellaneous/Jewellery.md",
     "Sets/Spells/Bond.md",
     "Sets/Spells/Charge.md",
-    "Sets/Spells/Health.md",
     "Sets/Weapons/Shotguns.md",
     "Sets/Weapons/Utensils.md",
-    "Sets/Weapons/Wands.md",
     "Sets/Miscellaneous/Implants.md",
     "Sets/Consumables/Snacks.md",
     "Sets/Weapons/Pistols.md",
@@ -317,7 +288,6 @@
     "Sets/Miscellaneous/Masks.md",
     "Sets/Creatures/Demons.md",
     "Core Concepts/Status Effects.md",
-    "Sets/Armours/Plate Armours.md",
     "Sets/Consumables",
     "Resources/Ehlen Map Resource.png",
     "Pasted image 20250628201830.png",

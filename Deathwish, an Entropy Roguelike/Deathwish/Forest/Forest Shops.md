@@ -15,11 +15,11 @@ A steel shack plastered in shadowy photos of forest creatures, ran by a mad surv
 
 Carved into a Twistwood tree, an exiled magician named Henrick Favleby manages a shop selling scrolls, grimoires, and conduits. All to help offers perform the magic that was stripped of him.
 
-| d4  | Slot 1              | Price    | Slot 2 | Price | Slot 3 | Price |
-| --- | ------------------- | -------- | ------ | ----- | ------ | ----- |
-| 1   | Extra magical Stick | 2 Quartz |        |       |        |       |
-| 2   |                     |          |        |       |        |       |
-| 3   |                     |          |        |       |        |       |
-| 4   |                     |          |        |       |        |       |
-| 5   |                     |          |        |       |        |       |
-| 6   |                     |          |        |       |        |       |
+| d4  | Slot 1              | Price    | Slot 2        | Price    | Slot 3        | Price      |
+| --- | ------------------- | -------- | ------------- | -------- | ------------- | ---------- |
+| 1   | Extra magical Stick | 2 Quartz | Basic Channel | 6 Quartz | Dazé's Stinge | 2 Feldspar |
+| 2   | Projective Staff    | 4 Quartz |               |          |               |            |
+| 3   |                     |          |               |          |               |            |
+| 4   |                     |          |               |          |               |            |
+| 5   |                     |          |               |          |               |            |
+| 6   |                     |          |               |          |               |            |

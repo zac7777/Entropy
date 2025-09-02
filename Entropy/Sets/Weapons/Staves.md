@@ -42,4 +42,48 @@ Proficiency requirement: 2
 ---
 *The difference between light and physical matter is not as great as you'd think, all things can be heated to glow, and glow can be strengthened to bruise*
 
+## Level 3
+#### Scorching Staff
+*Short, Heavy, Primitive, Common*
+
+Weight: 6kg
+
+One handed: Requires Power of 3 or greater
+Two handed: 
+
+*Charge Consumption:* this weapon stores a certain amount of "Charges", they are loaded and consumed by certain actions. This weapon can have a maximum of 3 "charges"
+##### Actions
+
+*Smack:* 3 AP, Melee Range, 1 bludgeoning + 2d2 heat damage
+
+Accuracy: +27
+Critical: +3
+
+---
+
+*Stream:* 1 AP and a "Charge", this spell requires focus, 
+
+Avoidance type: Power
+Roll minimum: 6
+
+---
+
+*Grill:* 1 AP and two "Charges", 
+
+Avoidance type: Reasoning
+Roll minimum: 7
+
+---
+
+*Ingredient Reload:* 1 AP and 0.5kg of flammable objects, gain 3 "Charges" and advantage on the damage roll of the next move you activate with this weapon
+
+---
+
+*Imbue Reload:* 5 AP, gain 2 "Charges"
+
+Proficiency requirement: 2
+
+---
+*Fire was the first form of energy, and it will be the last you see*
+
 #itemSet #weapons 
