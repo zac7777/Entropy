@@ -12,5 +12,6 @@ Most armours are equipped during downtime, then can't be removed or changed unti
 [[Chain-mails]]
 [[Plate Armours]]
 [[Shields]]
+[[Caster's Garbs]]
 
 #itemType 

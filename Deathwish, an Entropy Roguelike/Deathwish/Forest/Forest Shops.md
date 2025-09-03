@@ -15,11 +15,11 @@ A steel shack plastered in shadowy photos of forest creatures, ran by a mad surv
 
 Carved into a Twistwood tree, an exiled magician named Henrick Favleby manages a shop selling scrolls, grimoires, and conduits. All to help offers perform the magic that was stripped of him.
 
-| d4  | Slot 1              | Price    | Slot 2          | Price      | Slot 3          | Price      |
-| --- | ------------------- | -------- | --------------- | ---------- | --------------- | ---------- |
-| 1   | Extra magical Stick | 2 Quartz | Basic Channel   | 6 Quartz   | Dazé's Stinge   | 2 Feldspar |
-| 2   | Projective Staff    | 4 Quartz | Scorching Staff | 1 Feldspar | Glutton's Staff | 3 Feldspar |
-| 3   |                     |          |                 |            |                 |            |
-| 4   |                     |          |                 |            |                 |            |
-| 5   |                     |          |                 |            |                 |            |
-| 6   |                     |          |                 |            |                 |            |
+| d4  | Slot 1                                                | Price    | Slot 2                                                                 | Price      | Slot 3          | Price      |
+| --- | ----------------------------------------------------- | -------- | ---------------------------------------------------------------------- | ---------- | --------------- | ---------- |
+| 1   | Extra magical Stick                                   | 2 Quartz | Basic Channel                                                          | 6 Quartz   | Dazé's Stinge   | 2 Feldspar |
+| 2   | Projective Staff                                      | 4 Quartz | Scorching Staff                                                        | 1 Feldspar | Glutton's Staff | 3 Feldspar |
+| 3   | Scroll of Assassin's Prick (Teaches Assassin's Prick) | 3 Quartz | Grimoire of Spark Palms (Holds 3 charges of Spark Palms for 1 AP each) | 8 Quartz   |                 |            |
+| 4   | Scroll of Creeping Frost (Teaches Creeping Frost)     | 3 Quartz | Scroll of Flame Dagger (Teaches Flame Dagger)                          | 6 Quartz   |                 |            |
+| 5   | Studious Robe                                         | 2 Quartz | Magup                                                                  | 7 Quartz   |                 |            |
+| 6   | Minor potion of Strength                              | 3 Quartz |                                                                        |            |                 |            |

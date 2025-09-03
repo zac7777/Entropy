@@ -66,12 +66,12 @@
             }
           },
           {
-            "id": "17bdb90ca9af9f74",
+            "id": "92a5c79656addd0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core Concepts/Weapons.md",
+                "file": "Core Concepts/Armours.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -86,16 +86,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Weapons"
+              "title": "Armours"
             }
           },
           {
-            "id": "162b3e587a61e3d4",
+            "id": "af5d756e326270db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sets/Weapons/Staves.md",
+                "file": "Sets/Armours/Leathers.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -110,11 +110,66 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Staves"
+              "title": "Leathers"
             }
           }
         ],
         "currentTab": 4
+      },
+      {
+        "id": "040963ff83fb25b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b6ced81c3d1c1ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Caster's Garbs.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Caster's Garbs"
+            }
+          },
+          {
+            "id": "0476824a121c7990",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sets/Consumables/Stimulants.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Stimulants"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -260,17 +315,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "162b3e587a61e3d4",
+  "active": "0476824a121c7990",
   "lastOpenFiles": [
-    "Classes/Trapper.md",
+    "Core Concepts/Consumables.md",
+    "Caster's Garbs.md",
+    "Core Concepts/Items.md",
+    "Sets/Armours/Leathers.md",
+    "Core Concepts/Armours.md",
+    "Sets/Armours/Plate Armours.md",
+    "Sets/Spells/Flame.md",
+    "Sets/Spells/Ice.md",
+    "Sets/Spells/Bane.md",
     "Sets/Weapons/Staves.md",
+    "Classes/Trapper.md",
     "Core Concepts/Weapons.md",
     "Sets/Weapons/Wands.md",
     "Sets/Spells/Health.md",
     "Sets/Weapons/Knives.md",
     "Classes/Knight.md",
-    "Core Concepts/Items.md",
-    "Core Concepts/Consumables.md",
     "Sets/Consumables/Medicines.md",
     "Sets/Miscellaneous/Jewellery.md",
     "Sets/Spells/Bond.md",
@@ -281,13 +343,6 @@
     "Sets/Consumables/Snacks.md",
     "Sets/Weapons/Pistols.md",
     "Development/Developer notes.md",
-    "Core Concepts/Non-player Creatures.md",
-    "Sets/Miscellaneous/Hats.md",
-    "Core Concepts/Miscellaneous.md",
-    "Sets/Miscellaneous/Curses.md",
-    "Sets/Miscellaneous/Tattoos.md",
-    "Sets/Miscellaneous/Masks.md",
-    "Sets/Creatures/Demons.md",
     "Sets/Consumables",
     "Resources/Ehlen Map Resource.png",
     "Pasted image 20250628201830.png",
