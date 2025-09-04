@@ -42,30 +42,6 @@
             }
           },
           {
-            "id": "989c68d6cc05a9bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core Concepts/Items.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Items"
-            }
-          },
-          {
             "id": "92a5c79656addd0f",
             "type": "leaf",
             "state": {
@@ -87,6 +63,30 @@
               },
               "icon": "lucide-file",
               "title": "Armours"
+            }
+          },
+          {
+            "id": "961ee103464667bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sets/Armours/Plate Armours.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Plate Armours"
             }
           },
           {
@@ -112,45 +112,14 @@
               "icon": "lucide-file",
               "title": "Leathers"
             }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "040963ff83fb25b4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6b6ced81c3d1c1ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Caster's Garbs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Caster's Garbs"
-            }
           },
           {
-            "id": "0476824a121c7990",
+            "id": "bf334616766ba28c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sets/Consumables/Stimulants.md",
+                "file": "Sets/Weapons/Pistols.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -165,10 +134,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Stimulants"
+              "title": "Pistols"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -314,34 +284,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b6ced81c3d1c1ea",
+  "active": "bf334616766ba28c",
   "lastOpenFiles": [
+    "Sets/Weapons/Swords.md",
+    "Sets/Attachments/Pistol Attachments.md",
+    "Sets/Armours/Chain-mails.md",
+    "Species/Dafall.md",
+    "Sets/Armours/Leathers.md",
+    "Classes/Trickster.md",
+    "Classes/Trapper.md",
+    "Classes/Witch.md",
+    "Classes/Thief.md",
+    "Classes/Champion.md",
+    "Classes/Sniper.md",
+    "Sets/Armours/Plate Armours.md",
+    "Core Concepts/Armours.md",
+    "Sets/Miscellaneous/Tattoos.md",
+    "Core Concepts/Miscellaneous.md",
+    "Sets/Miscellaneous/Hats.md",
+    "Sets/Miscellaneous/Shoes.md",
+    "Sets/Miscellaneous/Masks.md",
+    "Core Concepts/Items.md",
+    "Caster's Garbs.md",
     "Sets/Consumables/Stimulants.md",
     "Core Concepts/Consumables.md",
-    "Caster's Garbs.md",
-    "Core Concepts/Items.md",
-    "Sets/Armours/Leathers.md",
-    "Core Concepts/Armours.md",
-    "Sets/Armours/Plate Armours.md",
     "Sets/Spells/Flame.md",
     "Sets/Spells/Ice.md",
     "Sets/Spells/Bane.md",
     "Sets/Weapons/Staves.md",
-    "Classes/Trapper.md",
-    "Core Concepts/Weapons.md",
-    "Sets/Weapons/Wands.md",
-    "Sets/Spells/Health.md",
-    "Sets/Weapons/Knives.md",
-    "Classes/Knight.md",
-    "Sets/Consumables/Medicines.md",
-    "Sets/Miscellaneous/Jewellery.md",
-    "Sets/Spells/Bond.md",
-    "Sets/Spells/Charge.md",
-    "Sets/Weapons/Shotguns.md",
-    "Sets/Weapons/Utensils.md",
-    "Sets/Miscellaneous/Implants.md",
-    "Sets/Consumables/Snacks.md",
-    "Sets/Weapons/Pistols.md",
     "Sets/Consumables",
     "Resources/Ehlen Map Resource.png",
     "Pasted image 20250628201830.png",

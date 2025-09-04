@@ -64,4 +64,35 @@ Proficiency requirement: 2
 ---
 *Simple and common, perfectly effective enough to bring down thieves and escaping prisoners*
 
+## Level 3
+#### Deringer
+*Short, Light, Advanced, Rare*
+
+Weight: 0.5kg
+
+One handed: -5 Accuracy to "Whip"
+Two handed: -10 Accuracy to "Fire", +1 AP cost to "Whip"
+
+*Magazine:* this weapon stores a certain amount of ammunition, they are loaded and unless specified otherwise, the "Fire" action will unload one round dealing damage that the ammunition specifies with the combined Accuracy and Critical values of both the weapon and the ammunition
+##### Actions
+
+*Whip:* 1 AP, Melee Range, 1d4 - 1 bludgeoning damage
+
+Accuracy: +18
+Critical: +1
+
+---
+
+*Fire:* 1 AP, 30m, gain + 1 EP, this move may only be used until all loaded ammunition is spent
+
+Accuracy: +6
+Critical: +7
+
+---
+
+*Reload:* 3 AP, return all ammunition currently loaded to storage, load up to 1 round of "9 millimetre" or a variant to use
+
+---
+*The lightest trigger you will ever feel, I don't know why they can't just put this on a better gun*
+
 #itemSet #weapons 

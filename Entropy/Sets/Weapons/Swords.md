@@ -68,6 +68,43 @@ Critical: +4
 
 ---
 *The painter of Medius found it a perfect tool to convey his work, time to give those beasts a lesson in critical wound analysis*
+
+## Level 3
+#### Straight Sword
+*Contact, Manageable, Martial, Common*
+
+Weight: 2kg
+
+One handed: -1 EP cost to "Swing"
+Two handed: -5 Accuracy
+
+##### Actions
+
+*Swing:* 2 AP, Melee Range, 2d6 + Power slashing damage
+
+Accuracy: +14
+Critical: +4
+
+---
+
+*Stab:* 4 AP, Melee Range + 2m, 1d10 + 2 piercing damage
+
+Accuracy: +22
+Critical: +3
+
+---
+
+*Pommel:* 3 AP, Melee Range, 1d4 bludgeoning damage + 3d2 piercing damage, on critical hit stun the target
+
+Proficiency requirement: 2
+
+Accuracy: +45
+Critical: +12
+
+---
+*The blade most young squires start their careers with, easy to learn with room for mastery*
+
+
 ## Level 6
 #### Zweihander
 *Contact, Heavy, Martial, Rare*

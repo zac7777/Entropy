@@ -2,7 +2,7 @@
 
 A steel shack plastered in shadowy photos of forest creatures, ran by a mad survivalist and conspiracy theorist named Elroy McTratten, specialising in consumable items and information on the bosses of the Forest.
 
-| d4  | Slot 1            | Price    | Slot 2                                           | Price      | Slot 3                          | Price      |
+| d6  | Slot 1            | Price    | Slot 2                                           | Price      | Slot 3                          | Price      |
 | --- | ----------------- | -------- | ------------------------------------------------ | ---------- | ------------------------------- | ---------- |
 | 1   | 10 .223 Remington | 3 Quartz | Adrenaline Pen                                   | 6 Quartz   | Igle Eyes                       | 2 Feldspar |
 | 2   | Antidote          | 5 Quartz | Mass-produced handgun                            | 8 Quartz   | Break-action single shotgun     | 3 Feldspar |
@@ -15,11 +15,24 @@ A steel shack plastered in shadowy photos of forest creatures, ran by a mad surv
 
 Carved into a Twistwood tree, an exiled magician named Henrick Favleby manages a shop selling scrolls, grimoires, and conduits. All to help offers perform the magic that was stripped of him.
 
-| d4  | Slot 1                                                | Price    | Slot 2                                                                 | Price      | Slot 3          | Price      |
-| --- | ----------------------------------------------------- | -------- | ---------------------------------------------------------------------- | ---------- | --------------- | ---------- |
-| 1   | Extra magical Stick                                   | 2 Quartz | Basic Channel                                                          | 6 Quartz   | Dazé's Stinge   | 2 Feldspar |
-| 2   | Projective Staff                                      | 4 Quartz | Scorching Staff                                                        | 1 Feldspar | Glutton's Staff | 3 Feldspar |
-| 3   | Scroll of Assassin's Prick (Teaches Assassin's Prick) | 3 Quartz | Grimoire of Spark Palms (Holds 3 charges of Spark Palms for 1 AP each) | 8 Quartz   | Runic cloth     | 1 Feldspar |
-| 4   | Scroll of Creeping Frost (Teaches Creeping Frost)     | 3 Quartz | Scroll of Flame Dagger (Teaches Flame Dagger)                          | 6 Quartz   |                 |            |
-| 5   | Studious Robe                                         | 2 Quartz | Magup                                                                  | 7 Quartz   |                 |            |
-| 6   | Minor potion of Strength                              | 3 Quartz |                                                                        |            |                 |            |
+| d6  | Slot 1                                                | Price    | Slot 2                                                                 | Price      | Slot 3                                                                              | Price      |
+| --- | ----------------------------------------------------- | -------- | ---------------------------------------------------------------------- | ---------- | ----------------------------------------------------------------------------------- | ---------- |
+| 1   | Extra magical Stick                                   | 2 Quartz | Basic Channel                                                          | 6 Quartz   | Dazé's Stinge                                                                       | 2 Feldspar |
+| 2   | Projective Staff                                      | 4 Quartz | Scorching Staff                                                        | 1 Feldspar | Glutton's Staff                                                                     | 3 Feldspar |
+| 3   | Scroll of Assassin's Prick (Teaches Assassin's Prick) | 3 Quartz | Grimoire of Spark Palms (Holds 3 charges of Spark Palms for 1 AP each) | 8 Quartz   | Runic cloth                                                                         | 1 Feldspar |
+| 4   | Scroll of Creeping Frost (Teaches Creeping Frost)     | 3 Quartz | Scroll of Flame Dagger (Teaches Flame Dagger)                          | 6 Quartz   | Blank Grimoire (Use a downtime to imprint 3 charges of any spell costing 1 AP each) | 2 Feldspar |
+| 5   | Studious Robe                                         | 2 Quartz | Magup                                                                  | 7 Quartz   | 2 Twistwood keys                                                                    | 2 Feldspar |
+| 6   | Minor potion of Strength                              | 3 Quartz | Leather Jacket                                                         | 5 Quartz   | Olo's Sigil                                                                         | 3 Feldspar |
+
+## Karta's Ammutorium
+
+A lodge with many bullet holes and burns, Karta Unlead slowly sells of pieces of her vast arsenal gathered to protect her from an ancient prophecy about her oncoming death.
+
+| d6  | Slot 1                  | Price    | Slot 2         | Price    | Slot 3                 | Price      |
+| --- | ----------------------- | -------- | -------------- | -------- | ---------------------- | ---------- |
+| 1   | Chain Strips            | 3 Quartz | Steel Torso    | 8 Quartz | Gift of the Nightbulls | 2 Feldspar |
+| 2   | Small Holographic Sight | 5 Quartz | Straight Sword | 7 Quartz |                        |            |
+| 3   | Light pipe gun          | 2 Quartz | Deringer       | 6 Quartz |                        |            |
+| 4   |                         |          |                |          |                        |            |
+| 5   |                         |          |                |          |                        |            |
+| 6   |                         |          |                |          |                        |            |

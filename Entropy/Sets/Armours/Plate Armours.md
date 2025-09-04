@@ -26,6 +26,22 @@ Dodge bonus: -2
 ---
 *Designed to be worn under clothes so that a shooter might fail a kill-shot without even knowing*
 
+## Level 3
+#### Steel Torso
+*Half, Heavy, Martial, Common*
+
+Weight: 12kg
+
+Slashing DT: -4
+Piercing DT: -1
+Radiant DT: -2
+Bludgeoning DT: +1
+
+Dodge bonus: -7
+
+---
+*Takes little skill to forge, but the ore required takes some well trained miners*
+
 ## Level 5
 #### Eykilus's Shin-less Plate
 *Full, Heavy, Martial, Legendary*
