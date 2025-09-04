@@ -28,11 +28,11 @@ Carved into a Twistwood tree, an exiled magician named Henrick Favleby manages a
 
 A lodge with many bullet holes and burns, Karta Unlead slowly sells of pieces of her vast arsenal gathered to protect her from an ancient prophecy about her oncoming death.
 
-| d6  | Slot 1                  | Price    | Slot 2         | Price    | Slot 3                 | Price      |
-| --- | ----------------------- | -------- | -------------- | -------- | ---------------------- | ---------- |
-| 1   | Chain Strips            | 3 Quartz | Steel Torso    | 8 Quartz | Gift of the Nightbulls | 2 Feldspar |
-| 2   | Small Holographic Sight | 5 Quartz | Straight Sword | 7 Quartz |                        |            |
-| 3   | Light pipe gun          | 2 Quartz | Deringer       | 6 Quartz |                        |            |
-| 4   |                         |          |                |          |                        |            |
-| 5   |                         |          |                |          |                        |            |
-| 6   |                         |          |                |          |                        |            |
+| d6  | Slot 1                  | Price    | Slot 2           | Price    | Slot 3                                          | Price      |
+| --- | ----------------------- | -------- | ---------------- | -------- | ----------------------------------------------- | ---------- |
+| 1   | Chain Strips            | 3 Quartz | Steel Torso      | 8 Quartz | Gift of the Nightbulls                          | 2 Feldspar |
+| 2   | Small Holographic Sight | 5 Quartz | Straight Sword   | 7 Quartz | Parrying Blade                                  | 1 Feldspar |
+| 3   | Light pipe gun          | 2 Quartz | Deringer         | 6 Quartz | Low-magnifying scope                            | 2 Feldspar |
+| 4   | 10 9 millimetre         | 3 Quartz | Dense Mallet     | 6 Quartz | Small Holster                                   | 3 Feldspar |
+| 5   | 5 Broad bolts           | 3 Quartz | Dull Scythe      | 8 Quartz | Manual of Item Handling (Teaches Item Handling) | 4 Feldspar |
+| 6   | Light crossbow          | 4 Quartz | Small game rifle | 8 Quartz | Venus's Morningstar                             | 3 Feldspar |

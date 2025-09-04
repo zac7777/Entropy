@@ -49,3 +49,29 @@ Critical: +24
 
 ---
 *I'm starting to learn you can put a sharp metal edge on basically anything and most objects will retain their original function*
+
+## Level 4
+#### Dull Scythe
+*Short, Manageable, Primitive, Common*
+
+Weight: 2kg
+
+One handed: +1 AP cost on "Swing"
+Two handed: -1 EP cost on all moves
+
+##### Actions
+
+*Swing:* 2 AP, Melee Range + 1m, 1d6 + Power slashing damage
+
+Accuracy: +12
+Critical: +7
+
+---
+
+*Pull:* 5 AP, Melee Range, 2d4 + 1 slashing damage, on critical hit the target is knocked
+
+Accuracy: +25
+Critical: +32
+
+---
+*A harvester of crops, a defender of the rural, a taker of souls to some*

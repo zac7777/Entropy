@@ -41,6 +41,7 @@
 		    - Rewards with downtime, companions, and story
 		- Lore
 			- Rewards with story
+			- Fuck these actually, just make them events
 - Players should level up at 10XP then at 25XP then 45 XP
 	- XP to get into lvl n = 2.5n^2 +2.5n - 5
 - Currency is in crystal coins:
@@ -48,3 +49,22 @@
 	- 1 Garnet coin = 10 Feldspar coins
 	- 1 Beryl coin = 10 Garnet coins
 	- 1 Diamond coin = 10 Beryl coins
+- Algorithm for Dungeon Generation
+	- Begin at starting room
+	- 2d2 + 2 exits
+	- Each exit has a 1d4 = 1 chance to be locked
+	- decide each room's type with the d10 table:
+
+| d10 | Room type                                            |
+| --- | ---------------------------------------------------- |
+| 0   | Combat                                               |
+| 1   | Combat                                               |
+| 2   | Combat                                               |
+| 3   | Combat                                               |
+| 4   | Shop                                                 |
+| 5   | Shop                                                 |
+| 6   | Civilisation                                         |
+| 7   | Event                                                |
+| 8   | Event                                                |
+| 9   | Reroll, after 3 rerolls in total automatic boss room |
+	- After ten rooms, there is a boss room anyway

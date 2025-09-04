@@ -7,5 +7,11 @@ The Bartender; Edward Varmunkle, the Reptus Barkeep with a massive array of know
 | ------------ | -------------- | ------------------------------------------------------- |
 | 0            | N/A            | N/A                                                     |
 | 1            | 1 Desire point | Players start each run with 1x Minor potion of Strength |
+The Storyteller; Furz Bal, the Reptus Barkeep with a massive array of knowledge on every substance that can make a man more determined, mostly booze.
+
+| Desire Level | Cost           | Bonus                                                                            |
+| ------------ | -------------- | -------------------------------------------------------------------------------- |
+| 0            | N/A            | Players start each run with a Blank Grimoire                                     |
+| 1            | 1 Desire point | Players start each run with a Blank Grimoire<br>Players start each run with 5 XP |
 
 The party starts at level 1 with no items and can then enter the dungeon

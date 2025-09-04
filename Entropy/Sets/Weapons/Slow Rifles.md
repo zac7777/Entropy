@@ -64,4 +64,37 @@ Proficiency requirement: 2
 ---
 *Best used in squads, veterans of great battles still hear the ringing of staggered fire*
 
+## Level 4
+#### Small game rifle
+*Medium, Manageable, Martial, Common*
+
+Weight: 3kg
+
+One handed: Unusable
+Two handed:
+
+*Magazine:* this weapon stores a certain amount of ammunition, they are loaded and unless specified otherwise, the "Fire" action will unload one round dealing damage that the ammunition specifies with the combined Accuracy and Critical values of both the weapon and the ammunition
+##### Actions
+
+*Stock bash:* 4 AP, Melee Range, 1d6 bludgeoning damage
+
+Accuracy: +11
+Critical: +2
+
+---
+
+*Fire:* 3 AP, 60m, this move may only be used until all loaded ammunition is spent
+
+Proficiency requirement: 3
+
+Accuracy: +10
+Critical: +6
+
+---
+
+*Reload:* 5 AP, return all ammunition currently loaded to storage, load up to 10 rounds of ".223 Remington" or a variant to use
+
+---
+*Has a complex safety system so that hunters don't blow their own feet off, or their dog's*
+
 #itemSet #weapons 
