@@ -19,7 +19,7 @@ Carved into a Twistwood tree, an exiled magician named Henrick Favleby manages a
 | --- | ----------------------------------------------------- | -------- | ---------------------------------------------------------------------- | ---------- | --------------- | ---------- |
 | 1   | Extra magical Stick                                   | 2 Quartz | Basic Channel                                                          | 6 Quartz   | Dazé's Stinge   | 2 Feldspar |
 | 2   | Projective Staff                                      | 4 Quartz | Scorching Staff                                                        | 1 Feldspar | Glutton's Staff | 3 Feldspar |
-| 3   | Scroll of Assassin's Prick (Teaches Assassin's Prick) | 3 Quartz | Grimoire of Spark Palms (Holds 3 charges of Spark Palms for 1 AP each) | 8 Quartz   |                 |            |
+| 3   | Scroll of Assassin's Prick (Teaches Assassin's Prick) | 3 Quartz | Grimoire of Spark Palms (Holds 3 charges of Spark Palms for 1 AP each) | 8 Quartz   | Runic cloth     | 1 Feldspar |
 | 4   | Scroll of Creeping Frost (Teaches Creeping Frost)     | 3 Quartz | Scroll of Flame Dagger (Teaches Flame Dagger)                          | 6 Quartz   |                 |            |
 | 5   | Studious Robe                                         | 2 Quartz | Magup                                                                  | 7 Quartz   |                 |            |
 | 6   | Minor potion of Strength                              | 3 Quartz |                                                                        |            |                 |            |

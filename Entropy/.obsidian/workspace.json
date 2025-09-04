@@ -168,8 +168,7 @@
               "title": "Stimulants"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -315,8 +314,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0476824a121c7990",
+  "active": "6b6ced81c3d1c1ea",
   "lastOpenFiles": [
+    "Sets/Consumables/Stimulants.md",
     "Core Concepts/Consumables.md",
     "Caster's Garbs.md",
     "Core Concepts/Items.md",
@@ -342,7 +342,6 @@
     "Sets/Miscellaneous/Implants.md",
     "Sets/Consumables/Snacks.md",
     "Sets/Weapons/Pistols.md",
-    "Development/Developer notes.md",
     "Sets/Consumables",
     "Resources/Ehlen Map Resource.png",
     "Pasted image 20250628201830.png",
