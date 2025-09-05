@@ -38,7 +38,7 @@ Roll minimum: 2 + Number of companions
 
 *Feed and Care:* 4 AP, your army gains 5 HP and 10 EP, this action immediately ends your turn and your army is stunned
 
-*Assimilate:* 6 AP, this requires spell focus, you become one creature with your army, taking one turn together, they will automatically follow your commands, you gain any bonuses from "Homogeny". This lasts for five turns or until you lose focus.
+*Assimilate:* 6 AP, this requires spell focus, you become one creature with your army, taking one turn together, they will automatically follow your commands, you gain any buffs from "Homogeny". This lasts for five turns or until you lose focus.
 
 #### Level 2:
 
@@ -78,5 +78,20 @@ Clade of Machines:
 
   Avoidance type: Insight
   Roll minimum: 6 + Connection ( yours )
+
+#### Level 3:
+
+HP: Previous HP + 1d6
+AP: 3 + Insight * 2
+
+*Primal Family:* your army gains +10 Dodge and advantage on the first challenge made against them each combat, if your army would be brought to 0 HP you may instantly use "Assimilate" for no cost, if combat ends while this move is still active your army will be left with 1 HP after combat.
+###### Moves
+*Elevate Mind:* 2 AP, this requires spell focus, you form a telepathic link with your army, they copy your Reasoning, Memory, and Connection, then you both get +2 to all three. This lasts for five turns or until you lose focus
+
+*Mark as Prey:* 4 AP, target creature within 25m that fails the avoidance roll loses resistance and DT to a damage type of your choice
+
+Avoidance type: Memory
+Roll minimum: 3 + Insight (Yours)
+*Feast:* 6 AP, until the end of your army's next turn, whenever you or them deal damage they gain 1d4 + Connection HP
 
 #gameInformation #class

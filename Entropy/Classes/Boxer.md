@@ -76,4 +76,23 @@ Life knuckles:
   Roll minimum: 8
 - *Pain to life:* 3 AP, any number of other target creatures within 10m heal damage equal to half the amount of life you lost since your last turn
 
+#### Level 3:
+
+HP: Previous HP + 1d8
+AP: 5 + Power * 2
+
+*Cultural Technique:* Unarmed moves activated from you species move list have advantage on the hit roll, and any other player in your party may add that move to their Action List
+###### Moves
+*Light Feet:* 3 AP, movement actions you activate this turn move you an additional 1m, after each movement action take the avoidance roll if you fail you become knocked
+
+Avoidance type: Reasoning
+Minimum roll: 4
+
+*Triple Jab:* 4 AP, you may activate a move on a currently equipped glove that costs 2 AP or less up to three times, if they all hit you may activate a fourth with +15 critical
+
+*the Drop on them:* 7 AP, Melee Range + 10m, activate only on a target at least 3m below you, 2d20 bludgeoning damage, the target is immobilised until your next turn and has disadvantage on the next challenge you make on them, you are sent to their location.
+
+Accuracy: +10
+Critical: +25
+
 #gameInformation #class

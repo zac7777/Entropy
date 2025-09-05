@@ -42,12 +42,12 @@
             }
           },
           {
-            "id": "44e7e53400afd88a",
+            "id": "fa5dcd58e7888ebc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/Test Characters.md",
+                "file": "Core Concepts/Classes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,11 +62,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Test Characters"
+              "title": "Classes"
+            }
+          },
+          {
+            "id": "3977cd2b6db8fcdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/Boxer.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Boxer"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -212,8 +236,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "44e7e53400afd88a",
+  "active": "3977cd2b6db8fcdb",
   "lastOpenFiles": [
+    "Stats/EP.md",
+    "Classes/Boxer.md",
+    "Core Concepts/Classes.md",
+    "Classes/Beastmaster.md",
+    "Development/Test Characters.md",
     "~WRL0001.tmp",
     "~WRD0000.tmp",
     "~$aracter Creation Guide and Sheet.docx",
@@ -221,22 +250,18 @@
     "Character Creation Guide and Sheet.pdf",
     "Core Concepts/Player Characters.md",
     "Species/Reptus.md",
-    "Classes/Boxer.md",
     "Sets/Armours/Chain-mails.md",
     "Sets/Weapons/Gloves.md",
     "Sets/Weapons/Swords.md",
     "Core Concepts/Species.md",
-    "Development/Test Characters.md",
     "Core Concepts/Storage.md",
     "Stats/Criticals.md",
     "Stats/Dodge.md",
     "Stats/Action List.md",
-    "Stats/EP.md",
     "Species/Ocham.md",
     "Species/Sparach.md",
     "Species/Dwarf.md",
     "Species/Elf.md",
-    "Core Concepts/Classes.md",
     "Classes/Zealot.md",
     "Sets/Spells/Bane.md",
     "Development/Developer notes.md",
@@ -251,7 +276,6 @@
     "Sets/Creatures",
     "Sets/Armours",
     "Sets/Attachments",
-    "Sets/Spells",
     "Pasted image 20250626202807.png"
   ]
 }
