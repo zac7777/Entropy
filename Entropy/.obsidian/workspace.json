@@ -42,12 +42,12 @@
             }
           },
           {
-            "id": "bf334616766ba28c",
+            "id": "44e7e53400afd88a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sets/Miscellaneous/Curses.md",
+                "file": "Development/Test Characters.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,35 +62,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Curses"
-            }
-          },
-          {
-            "id": "28d4319a7d3b4742",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sets/Weapons/Gloves.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Gloves"
+              "title": "Test Characters"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"Avoidance type: Memory\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -236,34 +212,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "28d4319a7d3b4742",
+  "active": "44e7e53400afd88a",
   "lastOpenFiles": [
+    "~WRL0001.tmp",
+    "~WRD0000.tmp",
+    "~$aracter Creation Guide and Sheet.docx",
+    "Character Creation Guide and Sheet.docx",
+    "Character Creation Guide and Sheet.pdf",
+    "Core Concepts/Player Characters.md",
+    "Species/Reptus.md",
+    "Classes/Boxer.md",
+    "Sets/Armours/Chain-mails.md",
+    "Sets/Weapons/Gloves.md",
     "Sets/Weapons/Swords.md",
+    "Core Concepts/Species.md",
+    "Development/Test Characters.md",
+    "Core Concepts/Storage.md",
+    "Stats/Criticals.md",
+    "Stats/Dodge.md",
+    "Stats/Action List.md",
+    "Stats/EP.md",
+    "Species/Ocham.md",
+    "Species/Sparach.md",
+    "Species/Dwarf.md",
+    "Species/Elf.md",
+    "Core Concepts/Classes.md",
+    "Classes/Zealot.md",
+    "Sets/Spells/Bane.md",
+    "Development/Developer notes.md",
     "Sets/Miscellaneous/Curses.md",
     "Classes/Smith.md",
     "Sets/Armours/Plate Armours.md",
     "Sets/Weapons/Maces.md",
-    "Sets/Armours/Leathers.md",
-    "Species/Human.md",
-    "Sets/Weapons/Chain-Arms.md",
-    "Sets/Miscellaneous/Unarmed Moves.md",
-    "Sets/Miscellaneous/Features.md",
-    "Sets/Miscellaneous/Bags.md",
-    "Development/Developer notes.md",
-    "Core Concepts/Armours.md",
-    "Sets/Attachments/Slow Rifle Attachments.md",
-    "Sets/Weapons/Knives.md",
-    "Sets/Weapons/Slow Rifles.md",
-    "Sets/Weapons/Hooks.md",
-    "Sets/Weapons/Hammers.md",
-    "Sets/Weapons/Gloves.md",
-    "Sets/Weapons/Bows.md",
-    "Sets/Ammunition/Arrows.md",
-    "Sets/Weapons/Pistols.md",
-    "Sets/Attachments/Pistol Attachments.md",
-    "Sets/Armours/Chain-mails.md",
-    "Species/Dafall.md",
-    "Classes/Trickster.md",
     "Sets/Consumables",
     "Resources/Ehlen Map Resource.png",
     "Pasted image 20250628201830.png",
@@ -272,10 +252,6 @@
     "Sets/Armours",
     "Sets/Attachments",
     "Sets/Spells",
-    "Sets/Ammunition",
-    "Sets/Weapons",
-    "Pasted image 20250626202807.png",
-    "Species",
-    "Development"
+    "Pasted image 20250626202807.png"
   ]
 }

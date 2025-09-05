@@ -1,7 +1,7 @@
 There is no greater magic than dedication to one's goals, and the emotions that that devotion springs to mind. 
 
-Primary Stat: Insight
-Secondary Stat: Power
+Primary Stat: Power
+Secondary Stat: Insight
 
 Weapon Proficiencies: Contact, Manageable, Heavy, Primitive, Martial, Improvised, Common, Rare
 
