@@ -53,7 +53,7 @@ Detective:
 - *Hypothesise:* 2 AP, write down a prediction of the next attack or spell that will hit you ( without telling your Game Master or allies ), if you are correct, you gain advantage on your next attack roll that targets the source of the attack or spell that hit you. Activate only once per turn and up to three times per combat.
 
 Gambler:
-- *Jackpot:* If at any time you roll the highest value possible on a die, gain a "Jackpot" these may be spent at any time to re-roll one die, only one "Jackpot" may be earned per turn. If you ever roll the lowest possible value on a die take 3d4 - Reasoning mental damage and gain disadvantage on your next roll.
+- *Gambler's Fallacy:* If at any time you roll the highest value possible on a die, gain a "Jackpot" these may be spent at any time to re-roll one die, only one "Jackpot" may be earned per turn. If you ever roll the lowest possible value on a die take 3d4 - Reasoning mental damage and gain disadvantage on your next roll.
 - *Weighted Loss:* 3 AP, target creature that fails the avoidance roll has disadvantage for their next two turns, if they succeed the avoidance roll they take 1d2 + Connection mental damage
 
   Avoidance type: Connection
@@ -81,5 +81,18 @@ Musician:
 
   Accuracy: +16
   Critical: +4
+
+#### Level 3:
+
+HP: Previous HP + Reasoning
+AP: 5 + Connection
+
+*Lone Spirit:* you gain +2 DT to all physical damage types while there is no ally within 20m of you, any other Champions in your party lose 1 AP and are vulnerable to mental damage
+###### Moves
+*Ramble:* 1 AP, you may speak up to five sentences verbally, or one through body language
+
+*Wait:* 2 AP, pause your turn, you may continue it after every other creature this round ( you do not regain AP )
+
+*Run:* 3 AP, move up to 6 meters in any direction, the next attack that targets you has +10 Accuracy
 
 #gameInformation #class

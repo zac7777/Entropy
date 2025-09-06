@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Boxer.md",
+                "file": "Classes/Dancer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -86,11 +86,41 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Boxer"
+              "title": "Dancer"
             }
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "f99bdca63485720a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa17382177488f19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Species/Human.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Human"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -238,8 +268,10 @@
   },
   "active": "3977cd2b6db8fcdb",
   "lastOpenFiles": [
-    "Stats/EP.md",
+    "Classes/Champion.md",
+    "Species/Human.md",
     "Classes/Boxer.md",
+    "Stats/EP.md",
     "Core Concepts/Classes.md",
     "Classes/Beastmaster.md",
     "Development/Test Characters.md",
@@ -267,8 +299,6 @@
     "Development/Developer notes.md",
     "Sets/Miscellaneous/Curses.md",
     "Classes/Smith.md",
-    "Sets/Armours/Plate Armours.md",
-    "Sets/Weapons/Maces.md",
     "Sets/Consumables",
     "Resources/Ehlen Map Resource.png",
     "Pasted image 20250628201830.png",
