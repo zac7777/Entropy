@@ -61,7 +61,7 @@ Living buzzsaw:
   Roll minimum
 
 Enraging act:
-- *Minimise Attention:* 1 AP, target creature that has awareness of you and is further than 10m away loses awareness of you or any creatures of your choice within 20m
+- *Minimise Attention:* 1 AP, target creature that has awareness of you and is further than 10m away loses awareness of you or any creature of your choice within 20m
 
   Avoidance type: Memory
   Roll minimum: 5
@@ -79,6 +79,22 @@ Enraging act:
 Dance of bullets:
 - *Run and Gun:* whenever you use the "Fire" action on a weapon, you may also move 1m in any direction, if you do that action has +5 Accuracy
 - *Large Audience:* whenever you land a hit on a creature, if you have not damaged that creature before this turn, you deal an additional Insight - 1d4 mental damage to each creature that you've damaged this turn
-- *Firing Duet:* for each ally within 10m with a gun equipped, they all gain +5 Accuracy
+- *Firing Duet:* for each ally within 10m with a gun equipped, they all gain -5 Accuracy
+
+#### Level 3:
+
+HP: Previous HP + 1d6
+AP: 4 + Endurance * 2
+
+*Grace:* if you fail a Reasoning or Connection challenge, you gain 5 EP and 5 HP, this may only activate up to three times per combat
+###### Moves
+*Free Movement:* 1 AP, activate only if you currently are not wearing armour and only once per turn, you gain +10 Dodge until your next turn, if an attack hits you while this effect is still active you gain -15 Dodge
+
+*Wide Turn:* 5 AP, you may activate any attack that costs 3 AP or less and would only target one creature for free, instead it targets every creature it's valid for it to target and the damage roll has advantage ( within range and any other requirements ).
+
+*Synchronise:* 5 AP, this action requires spell focus, select two target creatures you can see within 50m, whenever one would: lose health, receive a nerf, or go unconscious, so does the other as long as they fail the avoidance roll
+
+Avoidance type: Insight
+Roll minimum: 6
 
 #gameInformation #class

@@ -33,7 +33,7 @@ AP: 2 + Memory
 ###### Moves
 *Medical Application:* 2 AP, target creature within Melee range + 5m that fails the avoidance roll uses the "Eat", "Drink", "Inject", or any similar Consume action on an item you have equipped without paying the AP cost
 
-*Treat Wounds:* 4 AP, target creature within Melee range + 1m gains 2d6 HP, this requires and consumes an item that could reasonably be used to treat a wound e.g. bandages, alcohol
+*Treat Wounds:* 4 AP, target creature within Melee range + 1m gains 2d6 HP, this requires and consumes an item that could reasonably be used to treat a wound e.g. bandages, alcohol (determined by your Game Master)
 
 *Adrenalitic Revive:* 6 AP, if you succeed the avoidance roll, target creature within Melee range that is unconscious ( but not dead ) returns to consciousness with 10 EP and they take 2d4 Toxic damage. Activate only once between downtimes
 
@@ -81,5 +81,20 @@ Holy healer:
   Avoidance type: Reasoning
   Roll minimum: 4 + 1 for each Nerf applied - 1 for each Buff applied
   
+#### Level 3:
+
+HP: Previous HP + Reasoning
+AP: 6 + Memory
+
+*Wound Expertise:* Upon the creation of a Doctor, they may choose a damage type. During combat, if the last time a creature was damaged was by that type, any moves you activate on that creature that would give it HP give it an additional amount of HP equal to your Memory
+###### Moves
+*Medical Application:* 2 AP, target creature within Melee range + 5m that fails the avoidance roll uses the "Eat", "Drink", "Inject", or any similar Consume action on an item you have equipped without paying the AP cost
+
+*Treat Wounds:* 4 AP, target creature within Melee range + 1m gains 2d6 HP, this requires and consumes an item that could reasonably be used to treat a wound e.g. bandages, alcohol
+
+*Adrenalitic Revive:* 6 AP, if you succeed the avoidance roll, target creature within Melee range that is unconscious ( but not dead ) returns to consciousness with 10 EP and they take 2d4 Toxic damage. Activate only once between downtimes
+
+Avoidance type: Reasoning
+Roll minimum: 8
 
 #gameInformation #class
