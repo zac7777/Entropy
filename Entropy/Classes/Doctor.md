@@ -31,7 +31,10 @@ AP: 2 + Memory
 
 *Wound Expertise:* Upon the creation of a Doctor, they may choose a damage type. During combat, if the last time a creature was damaged was by that type, any moves you activate on that creature that would give it HP give it an additional amount of HP equal to your Memory
 ###### Moves
-*Medical Application:* 2 AP, target creature within Melee range + 5m that fails the avoidance roll uses the "Eat", "Drink", "Inject", or any similar Consume action on an item you have equipped without paying the AP cost
+*Medical Application:* 2 AP, target creature within Melee range + 5m that fails the avoidance roll activates the "Eat", "Drink", "Inject", or any similar Consume action on an item you have equipped without paying the AP cost
+
+Avoidance type: Endurance
+Roll minimum: 6
 
 *Treat Wounds:* 4 AP, target creature within Melee range + 1m gains 2d6 HP, this requires and consumes an item that could reasonably be used to treat a wound e.g. bandages, alcohol (determined by your Game Master)
 
@@ -70,7 +73,7 @@ Augmenter:
 - *Implant Knowledge:* if implanting an implant from "Implants" during downtime you have advantage on the avoidance roll and won't cripple any limbs if you fail
 
 Holy healer:
-- *Pray for Health:* 1 AP, this turn, whenever you use a spell that targets an allied creature they also heal 1d4 + 1 HP and become vulnerable to Radiant damage
+- *Pray for Health:* 1 AP, this turn, whenever you use a spell that targets an allied creature they also heal 1d4 + 1 HP and become vulnerable to Radiation damage for 3 turns. This may only be activated once per turn
 - *Sight the Blind:* 3 AP, remove Blindness from target creature within 10m that fails the avoidance roll, they gain your deity's favour bonus for two turns
 
   Avoidance type: -Connection (take their avoidance roll and minus their Connection)
@@ -86,15 +89,18 @@ Holy healer:
 HP: Previous HP + Reasoning
 AP: 6 + Memory
 
-*Wound Expertise:* Upon the creation of a Doctor, they may choose a damage type. During combat, if the last time a creature was damaged was by that type, any moves you activate on that creature that would give it HP give it an additional amount of HP equal to your Memory
+*Sterile Environment:* During downtime, you may give each of your allies an additional 10 temporary HP, or give them advantage on any rolls they take during downtime
 ###### Moves
-*Medical Application:* 2 AP, target creature within Melee range + 5m that fails the avoidance roll uses the "Eat", "Drink", "Inject", or any similar Consume action on an item you have equipped without paying the AP cost
+*Raise Blood Pressure:* 1 AP, target creature within 10m that fails the avoidance roll gains vulnerability to Rot and Toxic damage and has disadvantage on the next Reasoning, Memory, or Insight challenge that targets them
 
-*Treat Wounds:* 4 AP, target creature within Melee range + 1m gains 2d6 HP, this requires and consumes an item that could reasonably be used to treat a wound e.g. bandages, alcohol
+Avoidance type: Connection
+Roll minimum: 4
 
-*Adrenalitic Revive:* 6 AP, if you succeed the avoidance roll, target creature within Melee range that is unconscious ( but not dead ) returns to consciousness with 10 EP and they take 2d4 Toxic damage. Activate only once between downtimes
+*Trained Restoration:* 6 AP, lose 3 EP, target creature within Melee range + 3m gains 2d8 + Memory HP
 
-Avoidance type: Reasoning
-Roll minimum: 8
+*Set and Splint:* 8 AP, if you succeed the avoidance roll, target creature within Melee range heals one crippled limb of your choice, if you fail they take 5d4 - 1 Rot damage then heal one crippled limb of your choice
+
+Avoidance type: Power
+Roll minimum: 7
 
 #gameInformation #class
