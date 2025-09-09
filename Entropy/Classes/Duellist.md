@@ -64,5 +64,21 @@ Jack of all:
 - *Equal eyes:* if you receive an increase to your spell's minimums from anything but this ability you additionally receive that much of an decrease to your accuracy multiplied by 5, if you receive a decrease to your accuracy from anything but this ability you additionally increase your spell's minimums by that amount divided by 5
 - *Arcane weaponry:* you may use martial weapons as spellcasting conduits, spells cast through them gain an additional +1 to their minimum roll, but have -5m range
 
+#### Level 3:
+
+HP: Previous HP + Insight
+AP: 6 + Reasoning * 2
+
+*Item Bond:* upon unlocking level three choose a weapon or armour set, you permanently gain +5 proficiency with all items from that set
+###### Moves
+*Violent overture:* 1 AP, you gain an additional amount of AP equal to your Reasoning * 2, this effect lasts until the end of your turn. You may not spend AP in your next turn. This may only be activated once per turn, and only in your first turn
+
+*Draw:* 1 AP, swap any number of equipment from either hand to storage, or from storage to hand, this may only be activated up to twice per turn
+
+*Skilled Disarm:* 3 AP, target weapon an opposing creature that fails the avoidance roll within melee range has equipped is sent 5m away to the floor behind them
+
+Avoidance type: Insight
+Roll minimum: 4 + your weapon proficiency (on a currently equipped weapon)
+
 
 #gameInformation #class

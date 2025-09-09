@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Doctor.md",
+                "file": "Classes/Duellist.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -86,11 +86,41 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Doctor"
+              "title": "Duellist"
             }
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "c13a6ee9ac2fc201",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73f0f1f205180d3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/Thief.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Thief"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Avoidance type: Memory\"",
+                "query": "disarm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -236,8 +266,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a44c621eac7783b9",
+  "active": "8317809c0fa4d756",
   "lastOpenFiles": [
+    "Classes/Thief.md",
+    "Classes/Duellist.md",
+    "Classes/Doctor.md",
     "Classes/Dancer.md",
     "Classes/Champion.md",
     "Classes/Trickster.md",
@@ -266,9 +299,6 @@
     "Stats/Action List.md",
     "Species/Ocham.md",
     "Species/Sparach.md",
-    "Species/Dwarf.md",
-    "Species/Elf.md",
-    "Classes/Zealot.md",
     "Sets/Consumables",
     "Resources/Ehlen Map Resource.png",
     "Pasted image 20250628201830.png",

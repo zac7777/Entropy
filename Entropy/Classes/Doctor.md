@@ -96,7 +96,7 @@ AP: 6 + Memory
 Avoidance type: Connection
 Roll minimum: 4
 
-*Trained Restoration:* 6 AP, lose 3 EP, target creature within Melee range + 3m gains 2d8 + Memory HP
+*Trained Restoration:* 6 AP, lose 3 EP, target creature within Melee range + 3m gains Memory d4 HP
 
 *Set and Splint:* 8 AP, if you succeed the avoidance roll, target creature within Melee range heals one crippled limb of your choice, if you fail they take 5d4 - 1 Rot damage then heal one crippled limb of your choice
 
