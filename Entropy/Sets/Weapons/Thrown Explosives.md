@@ -61,4 +61,35 @@ Critical: +7
 ---
 *Initially invented when little options were available, became a staple of the oppressed and angry*
 
+## Level 3
+#### Timed Charge
+*Short, Light, Advanced, Rare*
+
+Weight: 1kg
+
+One handed: 
+Two handed: -2 AP cost to "Detonate", +10m effective range to all moves
+
+##### Actions
+
+*Place:* 2 AP, This unequips this weapon, sending it to the floor at your location
+
+---
+
+*Throw:* 4 AP, This unequips this weapon, take the challenge, if you succeed this unequips the weapon sending it to any location within 30m, if you fail the weapon will be sent halfway to the intended location
+
+Avoidance type: Power
+Minimum roll: 6 - weapon proficiency
+
+---
+
+*Detonate:* 1 AP, all "Timed Charges" within 50m break then deal 1d6 + 1 shock damage + 1d6 + 1 heat damage to all creatures within 5m, if this deals critical damage it also cripples a random limb of each creature damaged. This move is an attack
+
+Accuracy: +43
+Critical: +6
+
+---
+
+*Anyone can click a detonator trigger, it takes intention and hate to place the bomb*
+
 #itemSet #weapons 

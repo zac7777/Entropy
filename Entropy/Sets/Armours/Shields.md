@@ -31,9 +31,34 @@ Dodge bonus: +6
 
 ##### Moves
 
-*Block:* 3 AP, gain +15 dodge until your next turn, during combat if a critical attack misses you, the source will be knocked back 5m
+*Block:* 3 AP, gain +15 dodge until your next turn, during combat if a critical attack misses you, the source will be knocked back 5m. this may only be activated once per turn
 
 Proficiency requirement: 2
 
 ---
 *Wrapped taught around a circular frame, the skin of lesser beasts will protect yours*
+
+## Level 3
+#### Flimsy Buckler
+*Held, Light, Martial, Rare*
+
+Weight: 1kg
+
+Piercing DT: -2
+bludgeoning DT: -3
+Lightning DT: -1
+
+Dodge bonus: +2
+
+##### Moves
+
+*Block:* 1 AP, gain +3 dodge until your next turn, during combat if a critical attack misses you the source will take 1d4 - 1 shock damage
+
+Proficiency requirement: 2
+
+*Bounce:* 4 AP, the next time an attack from a contact or short weapon would target you, it misses and the source is sent to your location and becomes knocked
+
+Proficiency requirement: 3
+
+---
+*A usable bubble, small and barely sturdy enough, but even the smallest of defences hold remarkable power with proper technique*
