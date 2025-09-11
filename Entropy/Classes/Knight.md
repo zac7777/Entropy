@@ -73,4 +73,20 @@ Master swordsman:
   Roll minimum: 4 + Endurance
 - *Finesse motion:* 1 AP, moves from martial or advanced weapons that cost more than 3 AP cost 1 EP less to activate this turn ( this cannot reduce their cost lower than 0 ), this may only be activated once per turn
 
+#### Level 3:
+
+HP: Previous HP + Endurance * 2
+AP: 3 + Connection * 2
+
+*Armour Expertise:* upon unlocking level three choose an armour set, whenever you equip armour from that set you gain 10 temporary HP and have +10 Dodge
+###### Moves
+*Stand Stalwart:* 1 AP, you and target creature that can see you both gain +2 DT to Slashing, Bludgeoning, and Mental until your next turn
+
+*Righteous Backhand:* 2 AP, Melee Range, 1d6 bludgeoning damage, gain +2 DT to a type of your choice until your next turn
+
+Accuracy: +5
+Critical: 0 + Connection
+
+*Blade Focus:* 4 AP, your next attack with a Martial weapon will deal double damage after all other bonuses are applied, this can only be applied to each weapon once
+
 #gameInformation #class

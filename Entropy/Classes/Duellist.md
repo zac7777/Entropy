@@ -71,9 +71,9 @@ AP: 6 + Reasoning * 2
 
 *Item Bond:* upon unlocking level three choose a weapon or armour set, you permanently gain +5 proficiency with all items from that set
 ###### Moves
-*Violent overture:* 1 AP, you gain an additional amount of AP equal to your Reasoning * 2, this effect lasts until the end of your turn. You may not spend AP in your next turn. This may only be activated once per turn, and only in your first turn
+*Empower:* 1 AP, attacks you activate this turn have +2 AP cost but have +30 critical and their hit rolls have advantage. This may only be activated once per combat
 
-*Draw:* 1 AP, swap any number of equipment from either hand to storage, or from storage to hand, this may only be activated up to twice per turn
+*Dulling repetition:* 2 AP, target creature has disadvantage on all damage rolls on it's next three turns, activate only on a creature you've damaged 3 or more times this turn
 
 *Skilled Disarm:* 3 AP, target weapon an opposing creature that fails the avoidance roll within melee range has equipped is sent 5m away to the floor behind them
 
