@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "89234e5e8d01701f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stats/DT.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "DT"
-            }
-          },
-          {
             "id": "5eddf5b63a569d8d",
             "type": "leaf",
             "state": {
@@ -102,6 +78,85 @@
               "icon": "lucide-file",
               "title": "Welcome"
             }
+          },
+          {
+            "id": "89234e5e8d01701f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sets/Weapons/Pistols.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Pistols"
+            }
+          },
+          {
+            "id": "edc1ce17c376503d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sets/Ammunition/Large Cartridges.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Large Cartridges"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "48fb592a442e67b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36c8cc9856b9d2fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sets/Ammunition/Small Cartridges.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Small Cartridges"
+            }
           }
         ]
       }
@@ -135,7 +190,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "disarm",
+                "query": "\"armour piercing\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,7 +211,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -249,8 +305,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89234e5e8d01701f",
+  "active": "36c8cc9856b9d2fa",
   "lastOpenFiles": [
+    "Sets/Ammunition/Large Cartridges.md",
+    "Sets/Ammunition/Small Cartridges.md",
+    "Sets/Weapons/Pistols.md",
+    "Structure/Maths Rules.md",
+    "Core Concepts/Combat.md",
+    "Stats/Dodge.md",
+    "Stats/AP.md",
+    "Stats/DT.md",
     "Structure/Welcome.md",
     "Core Concepts/Non-player Creatures.md",
     "Core Concepts/Weapons.md",
@@ -259,7 +323,6 @@
     "Core Concepts/Items.md",
     "Core Concepts/Damage Types.md",
     "Core Concepts/Consumables.md",
-    "Core Concepts/Combat.md",
     "Resources/Character Creation Guide and Sheet.pdf",
     "Core Concepts/Classes.md",
     "Core Concepts/Attachments.md",
@@ -271,13 +334,6 @@
     "Sets/Weapons/Staves.md",
     "Sets/Weapons/Chain-Arms.md",
     "Sets/Weapons/Bows.md",
-    "Sets/Weapons/Axes.md",
-    "Sets/Armours/Chain-mails.md",
-    "Sets/Armours/Leathers.md",
-    "Sets/Armours/Plate Armours.md",
-    "Sets/Armours/Shields.md",
-    "Sets/Ammunition/Arrows.md",
-    "Development/Survivalist (Axed).md",
     "~WRL0001.tmp",
     "~WRD0000.tmp",
     "~$aracter Creation Guide and Sheet.docx",

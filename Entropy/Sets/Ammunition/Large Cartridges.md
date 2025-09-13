@@ -11,7 +11,7 @@
 #### .223 Remington subsonic
 
 *Beneath Sound:* shots made with this ammunition are significantly quieter but have -5m effective range
-*Damage:* 1d4 + 1 piercing damage
+*Damage:* 1d4 - 1 piercing damage
 *Accuracy:* +5
 *Critical:* +7
 
