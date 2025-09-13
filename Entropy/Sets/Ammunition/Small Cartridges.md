@@ -32,6 +32,7 @@
 *Damage:* 3d4 piercing damage
 *Accuracy:* +25
 *Critical:* +6
+
 ## Level 4
 
 #### 9 millimetre armour piercing
@@ -49,8 +50,16 @@
 
 #### 45 ACP explosive
 
-*Damage:* 1d4 piercing damage, all creatures within 10m of the target take 1d10 shock damage and get 5m of knockback (this includes the target)
+*Damage:* 2d4 + 2 piercing damage, all creatures within 10m of the target take 1d10 shock damage and get 5m of knockback (this includes the target)
 *Accuracy:* +30
 *Critical:* +8
+
+## Level 5
+
+#### .44 Magnum
+
+*Damage:* 2d10 + 1 piercing damage
+*Accuracy:* +20
+*Critical:* +11
 
 #itemSet #ammunition

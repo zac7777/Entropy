@@ -190,7 +190,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"armour piercing\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -309,13 +309,14 @@
   "lastOpenFiles": [
     "Sets/Ammunition/Large Cartridges.md",
     "Sets/Ammunition/Small Cartridges.md",
+    "Sets/Weapons/Slow Rifles.md",
+    "Structure/Welcome.md",
     "Sets/Weapons/Pistols.md",
     "Structure/Maths Rules.md",
     "Core Concepts/Combat.md",
     "Stats/Dodge.md",
     "Stats/AP.md",
     "Stats/DT.md",
-    "Structure/Welcome.md",
     "Core Concepts/Non-player Creatures.md",
     "Core Concepts/Weapons.md",
     "Core Concepts/Storage.md",
@@ -333,7 +334,6 @@
     "Sets/Weapons/Thrown Explosives.md",
     "Sets/Weapons/Staves.md",
     "Sets/Weapons/Chain-Arms.md",
-    "Sets/Weapons/Bows.md",
     "~WRL0001.tmp",
     "~WRD0000.tmp",
     "~$aracter Creation Guide and Sheet.docx",

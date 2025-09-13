@@ -57,14 +57,14 @@ Critical: +5
 
 ---
 
-*Reload:* 3 AP, return all ammunition currently loaded to storage, load up to 5 rounds of ".223 Remington" or a variant to use
+*Reload:* 3 AP, return all ammunition currently loaded to storage, load up to 5 rounds of ".22 LR" or a variant to use
 
 Proficiency requirement: 2
 
 ---
 *Best used in squads, veterans of great battles still hear the ringing of staggered fire*
 
-## Level 4
+## Level 3
 #### Small game rifle
 *Medium, Manageable, Martial, Common*
 
@@ -92,7 +92,7 @@ Critical: +6
 
 ---
 
-*Reload:* 5 AP, return all ammunition currently loaded to storage, load up to 10 rounds of ".223 Remington" or a variant to use
+*Reload:* 5 AP, return all ammunition currently loaded to storage, load up to 10 rounds of ".22 LR" or a variant to use
 
 ---
 *Has a complex safety system so that hunters don't blow their own feet off, or their dog's*
