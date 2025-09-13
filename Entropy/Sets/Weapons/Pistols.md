@@ -123,7 +123,7 @@ Critical: +3
 
 *Burst:* 4 AP, 20m, this move "Fires" up to three times with the following Accuracy and Critical values and may only be used until all loaded ammunition is spent
 
-Accuracy: +35
+Accuracy: +35 - 2 * Endurance
 Critical: +6
 
 ---

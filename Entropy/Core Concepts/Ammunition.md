@@ -3,6 +3,7 @@ Loaded into certain types of weapon, each has it's own damage, accuracy, and cri
 ## Ammo sets
 [[Small Cartridges]]
 [[Large Cartridges]]
+[[Cowboy Cartridges]]
 [[Shells]]
 [[Arrows]]
 

@@ -31,4 +31,6 @@ Entropy follows several rules for the many calculations in it's ruleset:
 	- Have player effects always take priority over non-player sources, then if two player effects come in to conflict they may decide between them, and the game master may decide the priority of non-player effects
 	- Let your Game Master decide all priorities based on what is fair, or what would make sense within the world
 
+- If an AP or EP cost would be reduced to less than one, it is reduced to one instead
+
 #gameInformation 

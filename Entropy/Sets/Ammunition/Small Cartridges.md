@@ -56,10 +56,18 @@
 
 ## Level 5
 
-#### .44 Magnum
+#### FN 5.7
 
 *Damage:* 2d10 + 1 piercing damage
 *Accuracy:* +20
 *Critical:* +11
+
+## Level 8
+
+#### 50 AE
+
+*Damage:* 5d8 piercing damage
+*Accuracy:* +15
+*Critical:* +3
 
 #itemSet #ammunition

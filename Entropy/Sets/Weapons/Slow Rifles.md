@@ -45,7 +45,7 @@ Two handed:
 
 *Stock bash:* 2 AP, Melee Range, 1d6 bludgeoning damage
 
-Accuracy: +12
+Accuracy: +12 - Power
 Critical: +1
 
 ---

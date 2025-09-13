@@ -66,4 +66,12 @@
 *Accuracy:* +5
 *Critical:* +4
 
+## Level 8
+
+#### 50 BMG
+
+*Damage:* 1d20 - 1 piercing damage + 1d20 - 1 shock damage
+*Accuracy:* +12
+*Critical:* -1
+
 #itemSet #ammunition 

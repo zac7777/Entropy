@@ -31,6 +31,7 @@
 [[Pistols]]
 [[Slow Rifles]]
 [[Shotguns]]
+[[Cowboy Guns]]
 ###### Miscellaneous
 [[Thrown Explosives]]
 [[Wands]]
