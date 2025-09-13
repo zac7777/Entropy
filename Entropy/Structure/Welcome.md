@@ -28,7 +28,7 @@ Don't listen to that last guy, the most expressive part of life is talking, prob
 
 ## [[Maths Rules]]
 
-Sadly, once our world was re-designed in game form, compromises where made to maintain the many complexities of life. These are some global rules that describe what certain keywords mean, and how mathematical interactions take place, but they're subject to change by your taste.
+Sadly, once our world was re-designed in game form, compromises where made to maintain the many complexities of life. These are some global rules that describe what certain key-words mean, and how mathematical interactions take place, but they're subject to change by your taste.
 
 
 #structure

@@ -28,9 +28,9 @@ Turns are composed of moves that have AP costs, there are four different types o
 
 - Challenges: these are often spells or special moves, they sometimes deal damage or have special effects and target only one creature within a given range unless specified otherwise. These have avoidance types and minimums, describing the modifier the target should add to their d10 roll then if they roll below the minimum they will fail the challenge and the move will hit as described.
 
-- Buffs and Nerfs: these apply lasting effects to creatures or objects ranging from "the next use" to "for several turns".
+- Buffs and Nerfs: these apply lasting effects to creatures or objects ranging from "the next use" to "for several turns". Buffs being defined as positive effects, Nerfs as negative one's (determined by a Game Master)
 
-- Utilities: this includes any other kind of move such as walking or equipping a weapon, these often require no rolls or calculations, and are necessary to a rounded action list
+- Utilities: this includes any other kind of move such as walking or equipping a weapon, these often require no rolls or calculations, and are necessary to a well-rounded action list
 
 When damage is dealt by a move, it will have a type defined in [[Damage Types]], each character may have unique ways they react to each form of damage.
 
