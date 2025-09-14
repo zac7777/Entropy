@@ -240,7 +240,7 @@ Two handed:
 
 *Magazine:* this weapon stores a certain amount of ammunition, they are loaded and unless specified otherwise the "Fire" action will unload one round dealing damage that the ammunition specifies with the combined Accuracy and Critical values of both the weapon and the ammunition
 
-*Sentry:* this item cannot be placed in storage, instead it acts as a physical object within the world. Whenever a creature within 2m uses a movement action with no items equipped in their arms they may attempt the challenge to move the "Chain-gun" along with them
+*Sentry:* this item cannot be placed in storage, instead it acts as a physical object within the world. Whenever a creature within 2m uses a movement action with no items equipped in their arms they may spend 3 EP and attempt the challenge to move the "Chain-gun" along with them
 
 Avoidance type: Power
 Roll minimum: 3
