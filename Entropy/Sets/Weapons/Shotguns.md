@@ -24,7 +24,7 @@ Critical: 0
 
 ---
 
-*Reload:* 3 AP, return all ammunition currently loaded to storage, load up to 1 round of "20 Gauge Buckshot" or a variant
+*Reload:* 3 AP, return all ammunition currently loaded to storage, load up to 1 round of ".410 Bore" or a variant
 
 Proficiency requirement: 2
 
@@ -57,12 +57,46 @@ Critical: +2
 
 ---
 
-*Reload:* 4 AP, return all ammunition currently loaded to storage, load up to 2 rounds of "20 Gauge Buckshot" or a variant to use
+*Reload:* 4 AP, return all ammunition currently loaded to storage, load up to 2 rounds of ".410 Bore" or a variant to use
 
 Proficiency requirement: 2
 
 ---
 *Concealable, light, and unbelievably inaccurate, I think most users just think they look cool*
 
+## Level 6
+#### Leverbuck
+*Medium, Manageable, Primitive, Rare*
+
+Weight: 2kg
+
+One handed: +3 AP cost to "Lever", +5 Accuracy to all moves
+Two handed: 
+
+*Magazine:* this weapon stores a certain amount of ammunition, they are loaded and unless specified otherwise the "Fire" action will unload one round dealing damage that the ammunition specifies with the combined Accuracy and Critical values of both the weapon and the ammunition
+##### Actions
+
+*Stock Bash:* 1 AP, Melee Range, 1d6 - 1 bludgeoning damage
+
+Accuracy: +17
+Critical: -3
+
+---
+
+*Fire:* 2 AP, 15m, this move may only be used until all loaded ammunition is spent, and only once before "Lever" must be activated
+
+Accuracy: +5 
+Critical: +3
+
+---
+
+*Lever:* 1 AP
+
+---
+
+*Reload:* 1 AP, load up to 1 round of "20 Gauge buckshot" or a variant to use, this move may only be activated until there are six rounds loaded
+
+---
+*Some kid showed me this trick where you can reload it with one hand by spinning it like thi-*
 
 #itemSet #weapons 

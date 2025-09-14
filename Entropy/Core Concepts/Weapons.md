@@ -19,7 +19,7 @@
 ###### Slashing
 [[Hooks]]
 [[Axes]]
-###### Miscellaneous
+###### Combined
 [[Swords]]
 [[Utensils]]
 [[Maces]]
@@ -27,11 +27,11 @@
 
 #### Ranged
 
-###### Firearm
+###### Firearms
 [[Pistols]]
 [[Slow Rifles]]
-[[Shotguns]]
 [[Cowboy Guns]]
+[[Shotguns]]
 ###### Miscellaneous
 [[Thrown Explosives]]
 [[Wands]]

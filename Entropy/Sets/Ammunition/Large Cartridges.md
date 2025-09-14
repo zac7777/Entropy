@@ -60,7 +60,7 @@
 
 ## Level 5
 
-#### .308 Battle
+#### .308 Winchester
 
 *Damage:* 4d6 - 2 piercing damage
 *Accuracy:* +5

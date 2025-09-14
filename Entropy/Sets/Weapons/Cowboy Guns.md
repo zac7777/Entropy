@@ -65,7 +65,7 @@ Critical: +3
 
 ---
 
-*Single-Load:* 1 AP, load up to 1 round of ".375 FMJ" or a variant to use, this move may only be activated until there are seven rounds loaded
+*Reload:* 1 AP, load up to 1 round of ".375 FMJ" or a variant to use, this move may only be activated until there are seven rounds loaded
 
 ---
 *We used to do all the work! Now your new fangled hippy-dippy rifles load a new round for ya! I bet you don't even know why the heck t'was called a repeater!*
