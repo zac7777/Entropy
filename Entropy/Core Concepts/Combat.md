@@ -26,6 +26,8 @@ Turns are composed of moves that have AP costs, there are four different types o
   Lower "hit" bound = Accuracy + Dodge, if the d100 roll is lower than this the attack will not hit
   Upper "crit" bound = 100 - Attack Critical - Creature Critical Modifier, if the d100 is greater than this the attack will land a critical hit
 
+  If a move would sit below the hit bound but above the crit bound, a Game Master may choose for it to either normally hit that target, or somehow critically hit a completely different creature.
+
 - Challenges: these are often spells or special moves, they sometimes deal damage or have special effects and target only one creature within a given range unless specified otherwise. These have avoidance types and minimums, describing the modifier the target should add to their d10 roll then if they roll below the minimum they will fail the challenge and the move will hit as described.
 
 - Buffs and Nerfs: these apply lasting effects to creatures or objects ranging from "the next use" to "for several turns". Buffs being defined as positive effects, Nerfs as negative one's (determined by a Game Master)

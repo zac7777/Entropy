@@ -181,9 +181,40 @@ Critical: +9 + Connection
 ---
 *In the hell of battle some were gifted with the reliability of steel, and the explosive potential of gunpowder, enough to protect their brothers alongside them and in the trenches*
 
+## Level 9
+#### Twitch Sheller
+*Medium, Manageable, Advanced, Rare*
+
+Weight: 4kg
+
+One handed: +20 Accuracy on all moves, +5 proficiency requirement on "Reload"
+Two handed: 
+
+*Magazine:* this weapon stores a certain amount of ammunition, they are loaded and unless specified otherwise the "Fire" action will unload one round dealing damage that the ammunition specifies with the combined Accuracy and Critical values of both the weapon and the ammunition
+##### Actions
+
+*Stock Bash:* 1 AP, Melee Range + 1m,  2d6 - 1 bludgeoning damage
+
+Accuracy: +20
+Critical: +6
+
+---
+
+*Fire:* 1 AP, 30m, this move may only be used until all loaded ammunition is spent, and only once before "Pump" must be activated
+
+Accuracy: +43
+Critical: +13
+
+---
+
+*Reload:* 1 AP, load up to 1 round of "12 Gauge buckshot" or a variant to use, this move may only be activated until there are eight rounds loaded
+
+---
+*The flick of a trigger makes the semi-auto boom, a pull from each finger kills everyone in the room!*
+
 ## Level 10
 #### Beast gun
-*Long, Manageable, Martial, Rare*
+*Long, Manageable, Martial, Improvised(A slow rifle, gunsmith's tools)*
 
 Weight: 5kg
 
