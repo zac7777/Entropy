@@ -1,4 +1,4 @@
-## Level 1
+ ## Level 1
 #### Enforcer
 *Medium, Manageable, Primitive, Rare*
 
@@ -191,9 +191,85 @@ Critical: +11
 
 ---
 
-*Reload:* 1 AP, load up to 2 round of ".44 Magnum" or a variant to use, this move may only be activated until there are seven rounds loaded
+*Reload:* 1 AP, load up to 2 rounds of ".44 Magnum" or a variant to use, this move may only be activated until there are seven rounds loaded
 
 ---
 *I don't know when pump-fire becomes slam-fire, probably when the enemy starts complaining*
+
+## Level 6
+#### Roll-Breach
+*Long, Heavy, Martial, Rare*
+
+Weight: 10kg
+
+One handed: Unusable
+Two handed: 
+
+*Magazine:* this weapon stores a certain amount of ammunition, they are loaded and unless specified otherwise the "Fire" action will unload one round dealing damage that the ammunition specifies with the combined Accuracy and Critical values of both the weapon and the ammunition
+##### Actions
+
+*Stock Bash:* 2 AP, Melee Range + 1m,  2d4 + Power bludgeoning damage
+
+Accuracy: +25
+Critical: +2
+
+---
+
+*Fire:* 3 AP, 75m, this move may only be used until all loaded ammunition is spent
+
+Accuracy: +10 - Endurance * 2
+Critical: +5
+
+---
+
+*Reload:* 3 AP, return all currently loaded ammunition to storage, load up to 1 round of ".45-70 Springfield" or a variant to use
+
+Proficiency Requirement: 3
+
+---
+*Question: how does such a simple rifle become a staple of sentinels and assassins alike? Answer: big bullets*
+
+## Level 7
+#### Chain-gun
+*Medium, Heavy, Advanced, Common*
+
+Weight: 25kg
+
+One handed: Unusable
+Two handed: 
+
+*Magazine:* this weapon stores a certain amount of ammunition, they are loaded and unless specified otherwise the "Fire" action will unload one round dealing damage that the ammunition specifies with the combined Accuracy and Critical values of both the weapon and the ammunition
+
+*Sentry:* this item cannot be placed in storage, instead it acts as a physical object within the world. Whenever a creature within 2m uses a movement action with no items equipped in their arms they may attempt the challenge to move the "Chain-gun" along with them
+
+Avoidance type: Power
+Roll minimum: 3
+##### Actions
+
+*Stock Bash:* 2 AP, Melee Range + 1m,  2d4 + Power bludgeoning damage
+
+Accuracy: +25
+Critical: +2
+
+---
+
+*Fire:* 2 AP, 30m, this move may only be used until all loaded ammunition is spent
+
+Accuracy: +36
+Critical: +2
+
+---
+
+*Crank:* 6 AP, up to three targets within 25m, this move "Fires" up to ten times distributed among the targets with the following Accuracy and Critical values and may only be used until all loaded ammunition is spent
+
+Accuracy: +60 - 2 * Power
+Critical: -1
+
+---
+
+*Reload:* 8 AP, return all currently loaded ammunition to storage, load up to 50 rounds of ".45-70 Springfield" or a variant to use
+
+---
+*Like the gangs forced to work the pathways, the steel rings holding them together, the bond between cartridges of a chain-gun can be broken to free one from their weakness*
 
 #itemSet #weapons 
