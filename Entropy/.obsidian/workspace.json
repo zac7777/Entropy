@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sets/Ammunition/Cowboy Guns.md",
+                "file": "Sets/Weapons/Cowboy Guns.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -212,7 +212,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sets/Weapons/Cowboy Cartridges.md",
+                "file": "Sets/Ammunition/Cowboy Cartridges.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -253,9 +253,33 @@
               "icon": "lucide-file",
               "title": "Maths Rules"
             }
+          },
+          {
+            "id": "f86701f04c8975a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sets/Weapons/Pistols.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Pistols"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -403,13 +427,14 @@
   },
   "active": "738f9a5ba31cbc20",
   "lastOpenFiles": [
-    "Sets/Weapons/Cowboy Cartridges.md",
+    "Sets/Weapons/Pistols.md",
+    "Sets/Attachments/Pistol Attachments.md",
+    "Sets/Weapons/Cowboy Guns.md",
+    "Sets/Ammunition/Cowboy Cartridges.md",
     "Sets/Ammunition/Shells.md",
     "Core Concepts/Ammunition.md",
-    "Sets/Ammunition/Cowboy Guns.md",
     "Structure/Maths Rules.md",
     "Sets/Weapons/Slow Rifles.md",
-    "Sets/Weapons/Pistols.md",
     "Sets/Ammunition/Small Cartridges.md",
     "Sets/Ammunition/Large Cartridges.md",
     "Core Concepts/Weapons.md",
@@ -429,7 +454,6 @@
     "Core Concepts/Attachments.md",
     "Core Concepts/Armours.md",
     "Core Concepts/Player Characters.md",
-    "Classes/Zealot.md",
     "~WRL0001.tmp",
     "~WRD0000.tmp",
     "~$aracter Creation Guide and Sheet.docx",
