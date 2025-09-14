@@ -180,5 +180,31 @@ Proficiency requirement: 2
 ---
 *Timing is everything, so is cold, dependable steel*
 
+## Level 6
+#### Serrated knife
+*Contact, Light, Advanced, Improvised(A knife, A material hard enough to cut metal*
+
+Weight: 2kg
+
+One handed: 
+Two handed: +1 rot damage to all moves
+##### Actions
+
+*Cut:* 1 AP, Melee Range, 1d6 + 1 slashing damage, on critical hit the target get 1 level of bleeding
+
+Accuracy: +28
+Critical: +4
+
+Proficiency requirement: 2
+
+---
+
+*Gore:* 4 AP, Melee Range, 2d12 + 2 piercing damage + 2d4 rot damage, on a critical hit cripple all of the opponent's arms
+
+Accuracy: +31
+Critical: +6 + 5 * levels of bleeding the target has
+
+---
+*I never knew that blood powered our body, I just thought the gods had gifted us death confetti*
 
 #itemSet #weapons

@@ -43,8 +43,10 @@ Levels are a vague guideline for the power-level of characters, creatures, and i
 
 ## Learnable skills and characteristics
 
-[[Unarmed Moves]]
-[[Features]]
+Along their journey, some ways that players grow can't be found in objects or study. The events they face will teach them more about themselves than they could possibly know before adventure like kicking or being a main-character.
+
+[[Learned Moves]]
+[[Learned Bonuses]]
 
 ## Companions
 
