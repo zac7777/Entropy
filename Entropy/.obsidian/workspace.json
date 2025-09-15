@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core Concepts/Player Characters.md",
+                "file": "Classes/Champion.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Player Characters"
+              "title": "Champion"
             }
           },
           {
@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -274,13 +274,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b4e95d8bf3780b9",
+  "active": "fa5dcd58e7888ebc",
   "lastOpenFiles": [
+    "Core Concepts/Classes.md",
     "Core Concepts/Player Characters.md",
+    "Sets/Miscellaneous/Learned Moves.md",
     "Sets/Miscellaneous/Learned Bonuses.md",
     "Sets/Weapons/Cowboy Guns.md",
-    "Sets/Miscellaneous/Learned Moves.md",
-    "Core Concepts/Classes.md",
     "Sets/Weapons/Knives.md",
     "Development/Developer notes.md",
     "Core Concepts/Weapons.md",
