@@ -35,10 +35,10 @@ AP: 5 + Connection / 2
 
 *Righteous Backhand:* 2 AP, Melee Range, 1d6 bludgeoning damage, gain +2 DT to a type of your choice until your next turn
 
-Accuracy: +5
+Accuracy: +22
 Critical: 0 + Connection
 
-*Blade Focus:* 4 AP, your next attack with a Martial weapon will deal double damage after all other bonuses are applied, this can only be applied to each weapon once
+*Blade Focus:* 4 AP, your next attack with a Martial weapon will deal double damage after all other bonuses are applied, this can only be applied to each weapon once at a time and only once per combat
 
 #### Level 2:
 
@@ -78,15 +78,15 @@ Master swordsman:
 HP: Previous HP + Endurance * 2
 AP: 3 + Connection * 2
 
-*Armour Expertise:* upon unlocking level three choose an armour set, whenever you equip armour from that set you gain 10 temporary HP and have +10 Dodge
+*Armour Expertise:* upon unlocking level three choose an armour set, whenever you equip armour from that set you gain 10 temporary HP and have +10 Dodge until you unequip the armour
 ###### Moves
-*Stand Stalwart:* 1 AP, you and target creature that can see you both gain +2 DT to Slashing, Bludgeoning, and Mental until your next turn
+*Honour Bond:* 3 AP, this requires spell focus, you and target creature that you can see can't be the target of attacks from medium or long weapons, this effect lasts until you or that creature land a hit with an attack or spell or until you lose focus
 
-*Righteous Backhand:* 2 AP, Melee Range, 1d6 bludgeoning damage, gain +2 DT to a type of your choice until your next turn
+*Cut Through:* 5 AP, up to three creatures within Melee Range + 1m, 2d8 - 1 slashing damage, those creatures gain -2 DT to slashing and rot damage
 
-Accuracy: +5
-Critical: 0 + Connection
+*Perfect Shell:* 8 AP, the next time any number of target creatures that fail the avoidance roll would be damaged, reduce that damage by 8d2
 
-*Blade Focus:* 4 AP, your next attack with a Martial weapon will deal double damage after all other bonuses are applied, this can only be applied to each weapon once
+Avoidance type: Endurance
+Roll minimum: 6
 
 #gameInformation #class

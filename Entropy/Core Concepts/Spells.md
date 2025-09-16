@@ -23,6 +23,10 @@ If a spell has a lingering effect, it will often be tagged with "Focus", as it's
 [[Charge]]
 [[Bane]]
 
+#### Artillery
+
+[[Gladiesis]]
+[[Arcusine]]
 #### Medical
 
 [[Bond]]
