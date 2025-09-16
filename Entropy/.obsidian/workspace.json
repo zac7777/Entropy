@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "fa5dcd58e7888ebc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes/Knight.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Knight"
-            }
-          },
-          {
             "id": "5b4e95d8bf3780b9",
             "type": "leaf",
             "state": {
@@ -80,7 +56,7 @@
             }
           },
           {
-            "id": "ed639e58e07e384f",
+            "id": "6c85b62c2cc19dac",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -102,105 +78,9 @@
               "icon": "lucide-file",
               "title": "Learned Bonuses"
             }
-          },
-          {
-            "id": "4db9a0e987f817fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sets/Weapons/Cowboy Guns.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Cowboy Guns"
-            }
-          },
-          {
-            "id": "ded0671a6b660712",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core Concepts/Spells.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Spells"
-            }
-          },
-          {
-            "id": "e1e5c8dadb7d718b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arcusine.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Arcusine"
-            }
-          },
-          {
-            "id": "760ef07ebbee35af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gladiesis.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Gladiesis"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -346,34 +226,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e1e5c8dadb7d718b",
+  "active": "6c85b62c2cc19dac",
   "lastOpenFiles": [
-    "Gladiesis.md",
-    "Arcusine.md",
+    "Classes/Zealot.md",
+    "Classes/Witch.md",
+    "Classes/Trickster.md",
+    "Development/Survivalist (Axed).md",
+    "Classes/Spellslinger.md",
+    "Classes/Soldier.md",
+    "Classes/Sniper.md",
+    "Sets/Attachments/Pistol Attachments.md",
+    "Sets/Attachments/Slow Rifle Attachments.md",
+    "Classes/Knight.md",
+    "Classes/Champion.md",
+    "Sets/Weapons/Cowboy Guns.md",
+    "Sets/Armours/Caster's Garbs.md",
+    "Sets/Miscellaneous/Learned Bonuses.md",
+    "Sets/Spells/Arcusane.md",
+    "Sets/Spells/Gladiesis.md",
+    "Sets/Weapons/Swords.md",
+    "Sets/Weapons/Pistols.md",
     "Core Concepts/Spells.md",
     "Sets/Spells/Flame.md",
-    "Classes/Knight.md",
     "Sets/Weapons/Machine Guns.md",
     "Classes/Thief.md",
-    "Classes/Zealot.md",
-    "Classes/Champion.md",
     "Core Concepts/Classes.md",
     "Core Concepts/Player Characters.md",
     "Sets/Miscellaneous/Learned Moves.md",
-    "Sets/Miscellaneous/Learned Bonuses.md",
-    "Sets/Weapons/Cowboy Guns.md",
     "Sets/Weapons/Knives.md",
-    "Development/Developer notes.md",
-    "Core Concepts/Weapons.md",
-    "Sets/Weapons/Fast Rifles.md",
-    "Core Concepts/Combat.md",
-    "Stats/Accuracy.md",
-    "Sets/Weapons/Pistols.md",
-    "Sets/Weapons/Slow Rifles.md",
-    "Sets/Weapons/Shotguns.md",
-    "Species/Avas.md",
-    "Classes/Beastmaster.md",
-    "Sets/Ammunition/Shells.md",
     "Resources/Character Creation Guide and Sheet.pdf",
     "~WRL0001.tmp",
     "~WRD0000.tmp",

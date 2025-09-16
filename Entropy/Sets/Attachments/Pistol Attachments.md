@@ -57,7 +57,7 @@ Weight: 0.5kg
 
 ##### Actions
 
-*Aim:* 3 AP, While "Aimed" you have -5 accuracy and -20 dodge, "fire" moves on weapons you use cost 1 AP less (This cannot reduce their cost to below 1), this effect ends whenever you use an action other than "fire" or when your turn ends
+*Aim:* 3 AP, While "Aimed" you have -5 accuracy and -20 dodge, "fire" moves on weapons you use cost 1 AP less, this effect ends whenever you use an action other than "fire" or when your turn ends
 
 ---
 *If only the guns in entropy had iron sights, someone should invent those*

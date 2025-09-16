@@ -10,7 +10,7 @@ Weight: 0.5kg
 
 ##### Actions
 
-*Aim:* 2 AP, While "Aimed" you have -10 accuracy and -15 dodge, "fire" moves on weapons you use cost 1 EP less (This cannot reduce their cost to below 1), this effect ends whenever you use an action other than "fire" or when your turn ends
+*Aim:* 2 AP, While "Aimed" you have -10 accuracy and -15 dodge, "fire" moves on weapons you use cost 1 EP less, this effect ends whenever you use an action other than "fire" or when your turn ends
 
 ---
 *Make sure your eye is aligned, place the dot on a head, pull the trigger, and watch real magic happen*
@@ -58,7 +58,7 @@ Weight: 0.5kg
 *Zoom:* attached weapon has +10m effective range to "Fire", when making attacks at a distance of 30m or more you have -5 Accuracy
 ##### Actions
 
-*Aim:* 2 AP, While "Aimed" you have -10 accuracy and -15 dodge, "fire" moves on weapons you use cost 1 EP less (This cannot reduce their cost to below 1), this effect ends whenever you use an action other than "fire" or when your turn ends
+*Aim:* 2 AP, While "Aimed" you have -10 accuracy and -15 dodge, "fire" moves on weapons you use cost 1 EP less, this effect ends whenever you use an action other than "fire" or when your turn ends
 
 ---
 *Lenses turned weaponry from pushing a knife really hard, to a modern and unstoppable industry*

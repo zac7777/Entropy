@@ -141,7 +141,7 @@ Critical: +5
 
 ---
 
-*Aim:* 2 AP, While "Aimed" you have -5 accuracy and -20 dodge, "fire" and "Lever" moves on weapons you use cost 1 AP less (This cannot reduce their cost to below 1), this effect ends whenever you use an action other than "fire", "Lever" or when your turn ends
+*Aim:* 2 AP, While "Aimed" you have -5 accuracy and -20 dodge, "fire" and "Lever" moves on weapons you use cost 1 AP less, this effect ends whenever you use an action other than "fire", "Lever" or when your turn ends
 
 ---
 

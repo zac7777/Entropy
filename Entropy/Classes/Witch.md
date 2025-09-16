@@ -21,7 +21,7 @@ Witch of the Bond
 
 ##### Base:
 EP bonus: +15
-EP loss for spells: -1 ( this cannot reduce their cost to below 1 )
+EP loss for spells: -1
 
 ---
 #### Level 1:

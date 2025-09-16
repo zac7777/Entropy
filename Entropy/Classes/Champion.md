@@ -29,7 +29,7 @@ Number of rolls for advantage: 3
 HP: 2d8 + 3 * Reasoning
 AP: 4 + Connection / 2
 
-*Maverick:* moves you activate with non-weapon items have -2 EP cost ( this cannot reduce their cost to below 1 ), if they involve one or more rolls, one roll among them has advantage
+*Maverick:* moves you activate with non-weapon items have -2 EP cost, if they involve one or more rolls, one roll among them has advantage
 ###### Moves
 *Search:* 2 AP, swap any one non-weapon equipment from either hand to storage, or from storage to hand, activate only once per turn
 

@@ -71,7 +71,7 @@ Master swordsman:
 
   Avoidance type: Reasoning
   Roll minimum: 4 + Endurance
-- *Finesse motion:* 1 AP, moves from martial or advanced weapons that cost more than 3 AP cost 1 EP less to activate this turn ( this cannot reduce their cost lower than 0 ), this may only be activated once per turn
+- *Finesse motion:* 1 AP, moves from martial or advanced weapons that cost more than 3 AP cost 1 EP less to activate this turn, this may only be activated once per turn
 
 #### Level 3:
 

@@ -26,7 +26,7 @@ If a spell has a lingering effect, it will often be tagged with "Focus", as it's
 #### Artillery
 
 [[Gladiesis]]
-[[Arcusine]]
+[[Arcusane]]
 #### Medical
 
 [[Bond]]

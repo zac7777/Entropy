@@ -4,7 +4,7 @@
 
 Weight: 2kg
 
-*Arcanist Mind:* while equipped, spells you cast have -2 EP cost (this cannot reduce their cost to below 1)
+*Arcanist Mind:* while equipped, spells you cast have -2 EP cost
 
 Rot DT: -1
 

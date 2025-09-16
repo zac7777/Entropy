@@ -20,7 +20,7 @@ Songstress
 
 ##### Base:
 EP bonus: +20
-AP costs for spells: -1 ( this cannot reduce their cost to below 1 )
+AP costs for spells: -1
 
 ---
 #### Level 1:
