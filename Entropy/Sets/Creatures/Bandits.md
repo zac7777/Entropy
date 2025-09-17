@@ -29,7 +29,7 @@ Bludgeoning DT: -1
 Accuracy: +25
 Critical: +4
 
-*Slicing Bolt:* 3 AP, target creature within 1m that fails the avoidance roll takes 2d2 lightning damage + 1d6 - 2 slashing damage and is stunned
+*Slicing Bolt:* 3 AP, target creature within 1m that fails the avoidance roll takes 2d2 electric damage + 1d6 - 2 slashing damage and is stunned
 
 Avoidance type: Reasoning
 Roll minimum: 3

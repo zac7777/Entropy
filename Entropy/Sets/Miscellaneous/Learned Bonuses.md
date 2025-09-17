@@ -41,6 +41,7 @@ Upon reaching ten "Death Points" you instantly die, upon falling to zero "Death 
 ##### Level 1:
 
 You have +2 Proficiency with all "Cowboy Guns"
+
 ##### Level 2:
 
 You may craft 2d8 of any "Cowboy Cartridges" by spending a downtime and succeeding the challenge
@@ -50,7 +51,7 @@ Minimum roll: 4
 
 ##### Level 3:
 
-Whenever you activate a move on a weapon from "Cowboy Guns" the next move you activate on that weapon not named "Fire" has -2 AP and -2 EP cost
+Whenever you activate a move on a weapon from "Cowboy Guns" the next move not named "Fire" you activate on that weapon has -2 AP and -2 EP cost
 
 ---
 

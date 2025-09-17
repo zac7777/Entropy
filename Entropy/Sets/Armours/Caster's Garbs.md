@@ -22,7 +22,7 @@ Weight: 2kg
 *Presented Focus:* during combat, when you cast a spell that targets one creature, you may reduce their avoidance roll by 1d4
 
 Toxic DT: -1
-Lightning DT: -1
+Electric DT: -1
 
 Dodge bonus: +3
 
@@ -38,7 +38,7 @@ Weight: 1kg
 *Natural Memory:* while equipped, you gain 5 extra move list slots
 
 Heat DT: -1
-Lightning DT: -1
+Electric DT: -1
 Cold DT: -1
 Suffocation DT: -1
 

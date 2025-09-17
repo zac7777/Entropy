@@ -46,7 +46,7 @@ Weight: 1kg
 
 Piercing DT: -2
 bludgeoning DT: -3
-Lightning DT: -1
+Electric DT: -1
 
 Dodge bonus: +2
 
@@ -62,3 +62,29 @@ Proficiency requirement: 3
 
 ---
 *A usable bubble, small and barely sturdy enough, but even the smallest of defences hold remarkable power with proper technique*
+
+## Level 4
+#### Chain Cape
+*Held, Heavy, Martial, Improvised(A Chain-mail item, A flame able to melt steel)*
+
+Weight: 5kg
+
+Piercing DT: -5
+Bludgeoning DT: -1
+Slashing DT: -3
+Electric DT: -2
+Radiation DT: -1
+Heat DT: +2
+
+Dodge bonus: -3
+
+##### Moves
+
+*Drape:* 3 AP, attacks made with medium or long weapons that attack you have -20 Accuracy 
+
+Proficiency requirement: 2
+
+---
+*Arrows and Bullets will swish into the metal fabric, stopping in their tracks as they are caught in metallic restraints*
+
+#itemSet #armours

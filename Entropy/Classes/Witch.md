@@ -58,13 +58,13 @@ Witch of the Dead:
   Roll minimum: +3
 
 Witch of the World: 
-- *Wild Lair:* while within your lair, creatures of your choice gain vulnerability to Heat, Lightning, Cold, and Toxic damage. Your Lair's size is now extended to 25m in diameter
+- *Wild Lair:* while within your lair, creatures of your choice gain vulnerability to Heat, Electric, Cold, and Toxic damage. Your Lair's size is now extended to 25m in diameter
 - *Reclaim Nature:* 3 AP, you create a small twisting web of branches that ensnare a target creature within 20m, they are immobilised for 3 turns and gain vulnerability to Piercing damage. This can only target creatures shorter than 3m
 
   Avoidance type: Power
   Roll minimum: +4 + Connection (Yours)
 
-- *Channel Disaster:* 9 AP, you gain 18 AP this turn and 20 EP. This may only be activated while near a strong elemental source, and then you may only use that AP to cast spells of a type that matches the source (e.g. Flame spells if near a volcano, Lightning if in the heart of a storm). This may only be activated once per combat. 
+- *Channel Disaster:* 9 AP, you gain 18 AP this turn and 20 EP. This may only be activated while near a strong elemental source, and then you may only use that AP to cast spells of a type that matches the source (e.g. Flame spells if near a volcano, Electric if in the heart of a storm). This may only be activated once per combat. 
 
 Witch of the Bond: 
 - *Protective Lair:* your lair now offers a shield around the circumference stretching 50m high, creatures and objects of your choice cannot enter as though it was an invisible wall, but the shield will be destroyed if it sustains 30 points of damage and cannot be regenerated until combat ends

@@ -56,7 +56,7 @@ Bludgeoning DT: -4
 Radiant DT: -3
 Heat DT: -4
 Cold DT: +1
-Lightning DT: -3
+Electric DT: -3
 Rot DT: -5
 
 Dodge bonus: -6
