@@ -18,7 +18,7 @@ Speak action: 2 AP, you may speak up to four sentences verbally
 
 Unarmed action: 2 AP, Melee range, Power * 2 - 4 bludgeoning damage
 
-Accuracy: +15 - Insight
+Accuracy: +25 - Insight
 Critical: +14
 
 #gameInformation #species

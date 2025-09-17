@@ -150,9 +150,16 @@
               "icon": "lucide-file",
               "title": "Balance Planning"
             }
-          },
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "7547ea7d6b72b43e",
+        "type": "tabs",
+        "children": [
           {
-            "id": "3acae5ad176c648e",
+            "id": "19f99e3d5521094a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -174,57 +181,8 @@
               "icon": "lucide-file",
               "title": "Inkbeasts"
             }
-          },
-          {
-            "id": "34bcacf116b04f67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes/Soldier.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Soldier"
-            }
-          },
-          {
-            "id": "3e9902bfcbe74bba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stats/EP.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "EP"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -372,32 +330,32 @@
   },
   "active": "2992aa18555a8232",
   "lastOpenFiles": [
+    "Sets/Creatures/Inkbeasts.md",
+    "Development/Balance Planning.md",
+    "Sets/Creatures/House Pets.md",
+    "Sets/Creatures/Goblins.md",
+    "Sets/Creatures/Dogs.md",
+    "Sets/Creatures/Demons.md",
+    "Sets/Creatures/Deer.md",
+    "Sets/Creatures/Birds.md",
+    "Sets/Creatures/Bandits.md",
+    "Sets/Creatures/Automata.md",
+    "Sets/Ammunition/Arrows.md",
+    "Species/Terraque.md",
+    "Species/Sparach.md",
+    "Species/Reptus.md",
+    "Species/Ocham.md",
+    "Species/Lemen.md",
+    "Species/Incanus.md",
+    "Species/Human.md",
+    "Species/Gefelan.md",
+    "Species/Elf.md",
+    "Species/Dwarf.md",
+    "Species/Dafall.md",
+    "Species/Avas.md",
     "Classes/Soldier.md",
     "Classes/Spellslinger.md",
     "Classes/Thief.md",
-    "Classes/Beastmaster.md",
-    "Classes/Boxer.md",
-    "Classes/Dancer.md",
-    "Classes/Champion.md",
-    "Development/Balance Planning.md",
-    "Sets/Creatures/Birds.md",
-    "Development/Developer notes.md",
-    "Sets/Creatures/Inkbeasts.md",
-    "Classes/Doctor.md",
-    "Classes/Duellist.md",
-    "Stats/EP.md",
-    "Development/Test Characters.md",
-    "Development/Survivalist (Axed).md",
-    "Development/New 'Protagonist' Class concept.md",
-    "Sets/Weapons/Utensils.md",
-    "Sets/Weapons/Swords.md",
-    "Sets/Armours/Shields.md",
-    "Classes/Witch.md",
-    "Sets/Armours/Plate Armours.md",
-    "Sets/Spells/Charge.md",
-    "Sets/Armours/Caster's Garbs.md",
-    "Sets/Creatures/Bandits.md",
-    "Core Concepts/Damage Types.md",
     "Resources/Character Creation Guide and Sheet.pdf",
     "~WRL0001.tmp",
     "~WRD0000.tmp",

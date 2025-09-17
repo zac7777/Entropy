@@ -16,9 +16,9 @@ Pick up action: 4 AP, equip target unequipped item within Melee range or place t
 
 Speak action: 1 AP, you may speak up to two sentences verbally, or up to four if speaking through water
 
-Unarmed action: 3 AP, Melee range, 2d6 + Power slashing damage
+Unarmed action: 3 AP, Melee range, 2d6 - 1 slashing damage
 
 Accuracy: +12
-Critical: +9
+Critical: +9 + Power
 
 #gameInformation #species

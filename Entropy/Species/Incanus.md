@@ -18,7 +18,7 @@ Speak action: 2 AP, you may speak up to three sentences verbally
 
 Unarmed action: 1 AP, Melee range, 1d4 piercing damage
 
-Accuracy: +5
-Critical: +6
+Accuracy: +32
+Critical: +3
 
 #gameInformation #species

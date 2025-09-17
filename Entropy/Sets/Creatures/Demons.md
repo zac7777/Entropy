@@ -26,7 +26,7 @@ Bludgeoning Reduction: -1
 *Move:* 1 AP, move 3 meters in any direction
 
 *Scratch:* 1 AP, 2m, 3d4 - 6 slashing damage, on critical hit the target gets bleeding
-Accuracy: +28
+Accuracy: +48
 Critical: +4
 
 ---
@@ -59,7 +59,7 @@ Heat Reduction: -2
 
 *Move:* 1 AP, move 1 meters in any direction
 
-*Poke:* 2 AP, 1m, 1d8 - 3 piercing damage, the target gets bleeding
+*Poke:* 3 AP, 1m, 1d8 - 3 piercing damage, the target gets bleeding
 Accuracy: +16
 Critical: +2
 

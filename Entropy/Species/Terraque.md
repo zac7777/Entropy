@@ -16,7 +16,7 @@ Pick up action: 4 AP, equip target unequipped item within Melee range or place t
 
 Speak action: 1 AP, you may speak up to two sentences verbally
 
-Unarmed action: 4 AP, Melee range, 3 + Endurance * 2 bludgeoning damage
+Unarmed action: 6 AP, Melee range, 3 + Endurance * 2 bludgeoning damage
 
 Accuracy: +18 - Power
 Critical: +17

@@ -16,7 +16,7 @@ Pick up action: 2 AP, equip target unequipped item within Melee range or place t
 
 Speak action: 1 AP, you may speak up to two sentences verbally or one telepathically
 
-Unarmed action: 3 AP, Melee range, 0 + Power bludgeoning damage
+Unarmed action: 3 AP, Melee range, Power bludgeoning damage
 
 Accuracy: +25 - Connection
 Critical: +15

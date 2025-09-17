@@ -19,6 +19,6 @@ Speak action: 1 AP, you may speak up to three sentences verbally
 Unarmed action: 1 AP, Melee range, 1d4 bludgeoning damage
 
 Accuracy: +34
-Critical: +16
+Critical: +6
 
 #gameInformation #species

@@ -23,4 +23,24 @@ Last for 7 turns total
 
 Output 0.5 damage a turn
 
+### So a baseline level 1 player attack:
+
+#### Melee
+1 AP: 1m, deal 2 damage
+
+Accuracy: 0
+Critical: 0
+
+#### Short
+1 AP: 5m, deal 1 damage
+
+Accuracy: 0
+Critical: 0
+
+#### Ranged
+1 AP: 20m, deal 1 damage
+
+Accuracy: +50
+Critical: 0
+
 #meta

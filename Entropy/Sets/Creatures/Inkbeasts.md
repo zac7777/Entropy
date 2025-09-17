@@ -16,7 +16,7 @@ Con: +3
 EP: 20
 AP: 3
 HP: 12
-Dodge: +3
+Dodge: -7
 
 Piercing Reduction: -2
 Heat Reduction: -1
@@ -27,7 +27,7 @@ Shock Increase: +2
 
 *Move:* 2 AP, move 3 meters in any direction
 
-*Swipe:* 1 AP, 2m, 1d4 slashing damage, on critical hit the target is knocked
+*Swipe:* 3 AP, 2m, 1d4 slashing damage, on critical hit the target is knocked
 Accuracy: +23
 Critical: +11
 
@@ -35,7 +35,7 @@ Critical: +11
 Accuracy: +14
 Critical: +3
 
-*Dark Spit:* 2 AP, up to two creatures within 20m take 2d2 + 1 toxic damage and are blinded
+*Dark Spit:* 4 AP, up to two creatures within 20m take 2d2 + 1 toxic damage and are blinded
 
 Avoidance type: Reasoning
 Roll minimum: 4
