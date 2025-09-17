@@ -59,4 +59,4 @@ Herbalist:
 Armourer:
 - 
 
-#gameInformation #class
+#meta
