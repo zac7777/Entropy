@@ -6,11 +6,11 @@
 
 ### A baseline level 1 player:
 
-~ 25 EP
+~ 30 EP
 ~ 5 AP
 ~ 15 HP
 
-Last for 5 turns total
+Last for 6 turns total
 
 Outputs 10 damage a turn
 ### A baseline level 1 creature:
@@ -42,5 +42,19 @@ Critical: 0
 
 Accuracy: +50
 Critical: 0
+
+### Reasonable equipment:
+
+1. A weapon
+2. An armour
+3. An offensive spell
+4. A defensive spell
+5. Their class
+
+So supposedly a player's equipment will increase in power by 5th root of 2 so 1.15 per level
+
+### Guns currently
+
+
 
 #meta

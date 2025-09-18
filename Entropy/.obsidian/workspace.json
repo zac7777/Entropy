@@ -181,6 +181,30 @@
               "icon": "lucide-file",
               "title": "Inkbeasts"
             }
+          },
+          {
+            "id": "d6bed9c82709dee6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sets/Ammunition/Cowboy Cartridges.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Cowboy Cartridges"
+            }
           }
         ]
       }
@@ -328,10 +352,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2992aa18555a8232",
+  "active": "19f99e3d5521094a",
   "lastOpenFiles": [
-    "Sets/Creatures/Inkbeasts.md",
     "Development/Balance Planning.md",
+    "Sets/Ammunition/Cowboy Cartridges.md",
+    "Sets/Ammunition/Arrows.md",
+    "Stats/EP.md",
+    "Sets/Creatures/Inkbeasts.md",
     "Sets/Creatures/House Pets.md",
     "Sets/Creatures/Goblins.md",
     "Sets/Creatures/Dogs.md",
@@ -340,7 +367,6 @@
     "Sets/Creatures/Birds.md",
     "Sets/Creatures/Bandits.md",
     "Sets/Creatures/Automata.md",
-    "Sets/Ammunition/Arrows.md",
     "Species/Terraque.md",
     "Species/Sparach.md",
     "Species/Reptus.md",
@@ -354,8 +380,6 @@
     "Species/Dafall.md",
     "Species/Avas.md",
     "Classes/Soldier.md",
-    "Classes/Spellslinger.md",
-    "Classes/Thief.md",
     "Resources/Character Creation Guide and Sheet.pdf",
     "~WRL0001.tmp",
     "~WRD0000.tmp",

@@ -2,6 +2,6 @@ Energy Points: These determine how long a creature can fight before falling unco
 
 The total EP a player has can be calculated by: 
 
-EP = Level * ( 10 + Endurance ), then any bonuses that player may have
+EP = Level * ( 15 + Endurance ), then any bonuses that player may have
 
 #gameRules #statistic

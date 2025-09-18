@@ -17,7 +17,7 @@
 #### Broad bolt
 
 *Damage:* 1d2 piercing damage + 1d6 bludgeoning damage
-*Accuracy:* +25
+*Accuracy:* +35
 *Critical:* +6
 
 #### Full Arrow
