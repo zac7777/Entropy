@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sets/Weapons/Hammers.md",
+                "file": "Sets/Weapons/Spears.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Hammers"
+              "title": "Spears"
             }
           }
         ],
@@ -204,6 +204,8 @@
   },
   "active": "194d2ca6664216be",
   "lastOpenFiles": [
+    "Sets/Weapons/Knives.md",
+    "Sets/Weapons/Hammers.md",
     "Sets/Weapons/Gloves.md",
     "Sets/Weapons/Fast Rifles.md",
     "Sets/Weapons/Chain-Arms.md",
@@ -211,7 +213,6 @@
     "Sets/Weapons/Axes.md",
     "Sets/Weapons/Machine Guns.md",
     "Sets/Weapons/Cowboy Guns.md",
-    "Sets/Weapons/Knives.md",
     "Sets/Weapons/Maces.md",
     "Core Concepts/Spells.md",
     "Classes/Thief.md",
@@ -229,7 +230,6 @@
     "Sets/Ammunition/Arrows.md",
     "Stats/EP.md",
     "Sets/Creatures/House Pets.md",
-    "Sets/Creatures/Goblins.md",
     "Resources/Character Creation Guide and Sheet.pdf",
     "~WRL0001.tmp",
     "~WRD0000.tmp",

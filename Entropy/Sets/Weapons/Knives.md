@@ -236,4 +236,16 @@ Critical: +7
 ---
 *Tiny and deadly needles, if you're lucky they'll hit something important, but they can't keep chasing you if they keep trying to pull rods from their muscles*
 
+## Level 8
+#### Cleaver
+Cripples on crits, high slashing damage
+
+## Level 9
+#### Kunai
+Another throwable knife with high damage and AP costs
+
+## Level 10
+#### Micro-saw
+Slashing, piercing and electric damage massive bleeding levels
+
 #itemSet #weapons
