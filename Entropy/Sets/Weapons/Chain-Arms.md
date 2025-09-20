@@ -50,4 +50,36 @@ Critical: +12
 ---
 *Trust me, animals love doing what you tell them, sometimes they just need a little smack to get them to hear you*
 
+## Level 3
+#### Weak Sling
+Able to throw anything, generally doing bludgeoning damage
+
+## Level 4
+#### Basic Flail
+Mace but higher range
+
+## Level 5
+#### Farm Whip
+Better crop
+
+## Level 6
+#### Chained Batons
+Nun-chucks, versatile and powerful
+
+## Level 7
+#### Hooker
+High piercing damage requiring retrieval move that can pull
+
+## Level 8
+#### Heavy sling
+Able to throw anything at high range and increased damage
+
+## Level 9
+#### Rocket Hammer
+Good range, really good damage, high AP cost
+
+## Level 10
+#### Two-head Flail
+High damage of all physical types
+
 #itemSet #weapons

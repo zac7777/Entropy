@@ -52,4 +52,36 @@ Critical: +4
 ---
 *A modern reinterpretation of bow design, mechanised and horizontal with a lightweight trigger that even initiates can learn to use*
 
+## Level 3
+#### Hunting bow
+Adds some amount of damage to the arrow
+
+## Level 4
+#### Archer Pistol
+Low AP cost
+
+## Level 5
+#### War bow
+High range, high AP cost
+
+## Level 6
+#### Auto Bolter
+Triple burst Crossbow
+
+## Level 7
+#### Wide Guard bow
+Triple burst arrows, or three targets at once
+
+## Level 8
+#### Hand Crossbow
+Triple burst Crossbow
+
+## Level 9
+#### Recurve bow
+High damage at close range
+
+## Level 10
+#### Compound bow
+Highly accurate death machine 
+
 #itemSet #weapons
