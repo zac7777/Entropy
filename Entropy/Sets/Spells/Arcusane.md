@@ -26,4 +26,20 @@ Critical: +3
 ---
 *Once cartridges were developed, some thought that their firearms became irrelevant*
 
+## Level 2
+#### Karlako's Mystic Eye
+*Medium, Ingredients(Metal Fragments, 0.5 Kg of Explosive substance), Martial, Legendary*
+
+##### Actions
+
+*Aim:* 3 AP, While "Aimed" you have -10 accuracy and -15 dodge, "fire" moves on weapons you use cost 1 EP less, this effect ends whenever you use an action not from a medium or long weapon
+
+---
+
+*Scope-Out:* 7 AP, activate only while "Aimed", your next attack with a medium or long weapon gains -100 Accuracy, you are no longer "aimed"
+
+---
+
+*They say she scavenged every gun they ever used, the trash and the scrap left for her dead-eye to harness*
+
 #itemSet #spells

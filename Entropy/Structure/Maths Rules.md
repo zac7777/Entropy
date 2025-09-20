@@ -33,4 +33,6 @@ Entropy follows several rules for the many calculations in it's ruleset:
 
 - If an AP or EP cost would be reduced to less than one, it is reduced to one instead
 
+- Some moves will put you into states such as "Aimed" or "Spinning", these can only be applied once at a time, and will apply to every move referencing them even if the source of that state was a separate move
+
 #gameInformation 

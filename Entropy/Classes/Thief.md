@@ -18,7 +18,7 @@ Blaster
 	A mix of an arsonist, demolitions expert and shotgun-firing-corpse-maker, exploding into a rain of treasure and future flammables## Progression
 
 ##### Base:
-EP bonus: +50
+EP bonus: +20
 Roll minimum for non-spell challenges: +2 ( this applies to the moves **you** activate )
 
 ---

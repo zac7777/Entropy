@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forest/Forest Shops.md",
+                "file": "Brainstorm for Deathwish.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,7 +38,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Forest Shops"
+              "title": "Brainstorm for Deathwish"
+            }
+          },
+          {
+            "id": "4748d8b685270ca2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "External/The Pacifist.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Pacifist"
             }
           },
           {
@@ -288,12 +312,13 @@
   },
   "active": "aa3bd64a0e3d4140",
   "lastOpenFiles": [
+    "External/The Pacifist.md",
+    "Brainstorm for Deathwish.md",
+    "Forest/Forest Shops.md",
     "Forest/Forest Items.md",
     "Forest/Forest Events.md",
     "Forest/Forest Combat Rooms.md",
     "Forest/Forest Bosses.md",
-    "Brainstorm for Deathwish.md",
-    "Forest/Forest Shops.md",
     "External/Home Base.md",
     "Storyline Ideas.md",
     "Forest/Forest Civilisations.md",
@@ -308,7 +333,6 @@
     "Pasted image 20250820141518.png",
     "Resources/Forest combat layout 1.png",
     "Resources",
-    "External/The Pacifist.md",
     "External",
     "Forest",
     "Welcome.md",

@@ -207,4 +207,33 @@ Critical: +6 + 5 * levels of bleeding the target has
 ---
 *I never knew that blood powered our body, I just thought the gods had gifted us death confetti*
 
+## Level 7
+#### Throwing Spike
+*Short, Light, Martial, Common*
+
+Weight: 0.5kg
+
+One handed: +1 AP cost on all moves, -5 Accuracy
+Two handed: 
+##### Actions
+
+---
+
+*Poke:* 2 AP, Melee Range, 1d20 piercing damage the target gains 1 level of bleeding
+
+Accuracy: +14
+Critical: +7
+
+---
+
+*Throw:* 3 AP, 60m, 2d8 + 1 piercing damage, this unequips this weapon, sending it to the target's location, on critical hit the target gains 3 levels of bleeding
+
+Proficiency requirement: 3
+
+Accuracy: +27 - 3 * proficiency
+Critical: +7
+
+---
+*Tiny and deadly needles, if you're lucky they'll hit something important, but they can't keep chasing you if they keep trying to pull rods from their muscles*
+
 #itemSet #weapons

@@ -272,4 +272,16 @@ Critical: -1
 ---
 *Like the gangs forced to work the pathways, the steel rings holding them together, the bond between cartridges of a chain-gun can be broken to free one from their weakness*
 
+## Level 8
+#### Hunter's Hand
+45-70 revolver
+
+## Level 9
+#### Death Rattle
+500 Magnum gatling gun
+
+## Level 10
+#### Death Rattle
+500 Magnum harmonica
+
 #itemSet #weapons 

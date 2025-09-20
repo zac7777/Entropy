@@ -3,17 +3,23 @@
 	- Begin at home base, with a permanent character for permanent upgrades, and maybe more home base characters as the party progresses
 	- Travel through worlds until the Deathwish is reached at the end of the seventh
 		- Forest with stealthy enemies, mess with lighting and awareness. Theme with plants and wild animals, then horror story style monsters for bosses.
-			- Level 1-5
+			- Player level 1-5
+			- Item level 1 and 2 legendary 3s
 		- Ocean with mobility enemies, swapping from land to sea and outranging players. Theme with fish and pirates, then oilpunk nightmares for bosses
-			- Level 6-10
+			- Player Level 6-10
+			- Item level 3 and 4 legendary 5s
 		- Arcane-lands with status effects, nerfing players until they struggle to fight. Theme with outcast magicians in wild ethereal lands, then elementals and failed experiments for bosses.
-			- Level 11-15
+			- Player Level 11-15
+			- Item level 5 and 6 legendary 7s
 		- Industrial with tactical enemies, using cover and team tactics to swarm players. Theme with post war destruction and soldiers, then great war machines for bosses
-			- Level 16-20
+			- Player Level 16-20
+			- Item level 6 and 7 legendary 8s
 		- Cybercity with tanky enemies, immovable threats that constantly advance. Theme cyberpunk but devoid of humanity, with tangled bio-amalgams as bosses.
-			- Level 21-25
+			- Player Level 21-25
+			- Item level 7 and 8 legendary 9s
 		- Extraplanar with unique enemies, flipping the rules and never expected. Theme as eldritch horror beyond comprehension, non-Euclidian and non-sensical bosses
-			- Level 26-30
+			- Player Level 26-30
+			- Item level 8 and 9 legendary 10s
 		- Finale, the Pacifist, refuses to kill the party or let them access the Deathwish. Believes no-one should have to die ever, must be convinced through conversation.
 			- The party's knowledge of the story, and moral reasoning should let them convince the Pacifist of a more nuanced truth
 	- The players are expected to die many times, upgrading after each death, and finding a new dungeon each time

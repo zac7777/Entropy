@@ -1,4 +1,16 @@
 ## Level 4
+#### Disk Rifle
+22 LR semi auto
+
+## Level 5
+#### Longnail gun
+AS val style 22 LR
+
+## Level 6
+#### Disk Rifle
+22 LR dinnerplate
+
+## Level 7
 #### Battery rifle
 *Medium, Manageable, Advanced, Common*
 
@@ -37,5 +49,17 @@ Critical: +4 + Memory * 2
 
 ---
 *Electricity and a little gunsmithing magic can find the perfect middle-ground between boring single-shots and chaotic full-auto*
+
+## Level 8
+#### Modular rifle
+M4
+
+## Level 9
+#### Pinger
+Garand
+
+## Level 10
+#### Auto Sniper
+FN Fal
 
 #itemSet #weapons 

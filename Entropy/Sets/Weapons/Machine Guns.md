@@ -1,4 +1,16 @@
 ## Level 4
+#### Flat gun
+sten
+
+## Level 5
+#### Shorty
+uzi
+
+## Level 6
+#### Modular SMG
+mp5
+
+## Level 7
 #### Richard gun
 *Medium, Manageable, Martial, Rare*
 
@@ -37,5 +49,17 @@ Critical: +10
 
 ---
 *Ratta-tat-tat...Ratta-tat-tat!*
+
+## Level 8
+#### Vulture Speeder
+Vector
+
+## Level 9
+#### Backloader
+P90
+
+## Level 10
+#### Heavy Action gun
+some long rifle looking smg shooting fn 57
 
 #itemSet #weapons 
