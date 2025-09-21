@@ -1,3 +1,29 @@
+## Level 1
+#### Training Wood
+*Contact, Light, Primitive, Improvised(1 Kg of wood, a sufficient carving tool)*
+
+Weight: 0.5kg
+
+One handed:
+Two handed: Unusable
+
+##### Actions
+
+*Swing:* 3 AP, Melee Range, 1d6 bludgeoning damage
+
+Accuracy: +18
+Critical: +6
+
+---
+
+*Stab:* 2 AP, Melee Range, 4d2 piercing damage, on crit cripple the opponent's head
+
+Accuracy: +25
+Critical: +3
+
+---
+*Kid wanted a sword I made him a sword! What's your problem? He poked someone's eye out?*
+
 ## Level 2
 #### Short Sword
 *Contact, Manageable, Martial, Common*

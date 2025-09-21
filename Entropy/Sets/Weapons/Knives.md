@@ -248,4 +248,6 @@ Another throwable knife with high damage and AP costs
 #### Micro-saw
 Slashing, piercing and electric damage massive bleeding levels
 
+Some legendary knife the can allow for blood to be used as spell ingredients
+
 #itemSet #weapons

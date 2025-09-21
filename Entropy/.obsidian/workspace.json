@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sets/Weapons/Spears.md",
+                "file": "Sets/Weapons/Gloves.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Spears"
+              "title": "Gloves"
             }
           }
         ],
@@ -205,6 +205,8 @@
   "active": "194d2ca6664216be",
   "lastOpenFiles": [
     "Sets/Weapons/Knives.md",
+    "Sets/Weapons/Swords.md",
+    "Sets/Weapons/Spears.md",
     "Sets/Weapons/Hammers.md",
     "Sets/Weapons/Gloves.md",
     "Sets/Weapons/Fast Rifles.md",
@@ -228,8 +230,6 @@
     "Sets/Creatures/Inkbeasts.md",
     "Development/Balance Planning.md",
     "Sets/Ammunition/Arrows.md",
-    "Stats/EP.md",
-    "Sets/Creatures/House Pets.md",
     "Resources/Character Creation Guide and Sheet.pdf",
     "~WRL0001.tmp",
     "~WRD0000.tmp",

@@ -85,4 +85,36 @@ Critical: +5
 ---
 *You could imagine what a punchers game could look like if they didn't wear those stupid gloves, their fists would be an entirely different shade of red!*
 
+## Level 3
+#### Steel Knuckles
+Bludgeoning and a bit of piercing damage
+
+## Level 4
+#### Blade Gloves
+Slashing and a bit of piercing damage
+
+## Level 5
+#### Steel gauntlet
+High bludgeoning damage with very high EP cost
+
+## Level 6
+#### Heavy Rubber Glove
+Reduces EP like the boxing gloves before but better
+
+## Level 7
+#### Wizard's Punchers
+Allows for spellcasting upon hits
+
+## Level 8
+#### Cleaving Knuckles
+Cripple and bleed with glaives
+
+## Level 9
+#### Saw Gauntlet
+Charges with slashing damage
+
+## Level 10
+#### Power Glove
+Able to crush and cripple with electric charges
+
 #itemSet #weapons 

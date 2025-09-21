@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Brainstorm for Deathwish.md",
+                "file": "Ocean/Ocean Items.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,7 +38,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Brainstorm for Deathwish"
+              "title": "Ocean Items"
             }
           },
           {
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -310,18 +310,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "aa3bd64a0e3d4140",
+  "active": "a20843ac30a341c5",
   "lastOpenFiles": [
-    "External/The Pacifist.md",
-    "Brainstorm for Deathwish.md",
+    "Ocean/Ocean Items.md",
+    "Ocean/Ocean Shops.md",
+    "Ocean/Ocean Combat Rooms.md",
+    "Ocean/Ocean Events.md",
+    "Ocean/Ocean Civilisations.md",
+    "Ocean/Ocean Bosses.md",
     "Forest/Forest Shops.md",
     "Forest/Forest Items.md",
     "Forest/Forest Events.md",
     "Forest/Forest Combat Rooms.md",
+    "Forest/Forest Civilisations.md",
     "Forest/Forest Bosses.md",
+    "Brainstorm for Deathwish.md",
+    "Ocean",
+    "External/The Pacifist.md",
     "External/Home Base.md",
     "Storyline Ideas.md",
-    "Forest/Forest Civilisations.md",
     "Resources/Forest boss layout 2.png",
     "Resources/Forest boss layout 1.png",
     "Resources/Forest combat layout 6.png",
