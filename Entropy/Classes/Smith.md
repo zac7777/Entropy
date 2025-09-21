@@ -29,7 +29,7 @@ Carry weight: +20
 HP: 2d6 + Endurance
 AP: 3 + Memory / 2
 
-*Tinker:* during any downtime, you may forge a non-legendary item from a list given by the following abilities by destroying two items from the same item set then succeeding the avoidance roll. Whenever an ability in this class gives you access to forging an item, it will also give you +2 proficiency in that item ( this proficiency applies to the forged weapon, or any weapon of the same name ) if applicable. If the item you wish to forge has no level it cannot be forged unless you can convince your Game Master that you could reasonably forge it from ingredients in your storage.
+*Tinker:* during any downtime, you may forge a non-legendary item from a list given by the following abilities by breaking two items from the same item set then succeeding the avoidance roll. Whenever an ability in this class gives you access to forging an item, it will also give you +2 proficiency in that item set if applicable ( this proficiency applies to the forged weapons, or any weapon of the same name ). If the item you wish to forge has no level it cannot be forged unless you can convince your Game Master that you could reasonably forge it from ingredients in your storage.
 
 Avoidance type: Memory
 Roll minimum: 3
@@ -69,8 +69,30 @@ Whitesmith:
 - *Overpressure:* 1 AP, your next attack with a short advanced weapon has +5 critical. this can only be activated once per combat. You can now forge "Shells"
 
 Experimentalist:
-- *Chaotic Mind:* you can now forge new weapons never seen in the world of Entropy, their creation entirely negotiated with your Game Master, including: ingredients, attributes, and moves. A smith can only have a number of these custom weapons equal to their Memory.
+- *Chaotic Mind:* you can now forge new weapons never seen in the world of Entropy, their creation entirely negotiated with your Game Master, including: ingredients, attributes, and moves. A smith can only have a number of these custom weapons in existence equal to their Memory.
 - *Forged Focus:* challenges you make to yourself have -1 to their minimum, while using a custom weapon you have -5 Accuracy
 - *Collaborative Experiment:* allied creatures have +1 Proficiency with your custom weapons
+
+#### Level 3:
+
+HP: Previous HP + Endurance
+AP: 1 + Memory * 2
+
+*Recognised Talent:* you now have +5 proficiency in legendary items, and can forge them using the same rules as "Tinker" as long as you have the item you're trying to copy in your storage, the challenge for forging a legendary item has +4 minimum roll
+
+Avoidance type: Memory
+Roll minimum: 3
+###### Moves
+*Quick Cook:* 2 AP, Melee range + 1m, 2d6 + 1 heat damage. You can now forge "Meals"
+
+Accuracy: +26
+Critical: +4
+
+*Harden Headgear:* 3 AP, attacks targeting you have -10 critical until your next turn. You can now forge "Hats"
+
+*Medical Application:* 5 AP, target other creature that fails the avoidance roll gains 2d6 - 2 health. You can now forge "Medicines"
+
+Avoidance type: Insight
+Roll minimum: 3
 
 #gameInformation #class

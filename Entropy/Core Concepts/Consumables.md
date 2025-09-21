@@ -2,6 +2,7 @@ Utility items that are broken upon consumption, normally offering a one-time bon
 
 ## Item sets
 - [[Snacks]]
+- [[Meals]]
 - [[Medicines]]
 - [[Poisons]]
 - [[Stimulants]]

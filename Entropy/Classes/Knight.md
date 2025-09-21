@@ -84,7 +84,7 @@ AP: 3 + Connection * 2
 
 *Cut Through:* 5 AP, up to three creatures within Melee Range + 1m, 2d8 - 1 slashing damage, those creatures gain -2 DT to slashing and rot damage
 
-*Perfect Shell:* 8 AP, the next time any number of target creatures that fail the avoidance roll would be damaged, reduce that damage by 8d2
+*Perfect Shell:* 8 AP, the next time any number of target creatures within 50m that fail the avoidance roll would be damaged, reduce that damage by 8d2
 
 Avoidance type: Endurance
 Roll minimum: 6
