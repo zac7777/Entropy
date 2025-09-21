@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Sniper.md",
+                "file": "Classes/Soldier.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sniper"
+              "title": "Soldier"
             }
           }
         ],
@@ -329,11 +329,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68a6034786df2b9c",
+  "active": "194d2ca6664216be",
   "lastOpenFiles": [
     "Classes/Sniper.md",
-    "Core Concepts/Classes.md",
     "Core Concepts/Combat.md",
+    "Core Concepts/Classes.md",
     "Stats/Accuracy.md",
     "Classes/Smith.md",
     "Meals.md",

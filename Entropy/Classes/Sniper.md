@@ -78,11 +78,11 @@ AP: 5 + Reasoning
 
 *Bespoke Firearm:* attacks you activate with medium or long weapons gain -2 * total number of buffs on you or that weapon Accuracy
 ###### Moves
-*Iron aim:* 3 AP, (This move puts you into the "Aimed" condition), While "Aimed" you have -5 accuracy and -20 dodge, "fire" moves on weapons you use cost 1 AP less. This move may only be activated while you have a medium or long weapon that does not have an attached sight.
+*Arc:* 2 AP, activate only while "Aimed", attacks you make while "Aimed" have +20m effective range. This effect ends when you are no longer "Aimed"
 
 *Restrictive Wounding:* 5 AP, the next time you hit an opponent, non-attack moves they activate have additional 2 AP cost. This effect lasts until you apply this nerf to another creature
 
-*Identify threat:* 4 AP, target creature you can see takes an additional mental damage equal to your Reasoning every time it would be damaged, this effect ends when you lose sight of that creature or if you re-use this move on a different creature. This may only be activated once per turn.
+*Improvise Ammunition:* 7 AP, the next time you would activate a move named "Reload" it does not consume any ammunition from storage, activate only if you have consumed at least that many units of ammunition this combat. This may only be activated once per combat.
 
 
 #gameInformation #class
