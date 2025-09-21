@@ -53,6 +53,6 @@ This effects all attacks, but not challenges, unless specified otherwise.
 
 ## Distance
 
-
+For each meter away the target of an attack is, there will be a +1 Accuracy bonus.
 
 #gameRules
