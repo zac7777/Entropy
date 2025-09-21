@@ -51,4 +51,8 @@ Fights should take place in environments with obstacles and shape, the amount of
 
 This effects all attacks, but not challenges, unless specified otherwise.
 
+## Distance
+
+
+
 #gameRules

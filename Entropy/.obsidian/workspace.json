@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Smith.md",
+                "file": "Classes/Sniper.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Smith"
+              "title": "Sniper"
             }
           }
         ],
@@ -62,6 +62,7 @@
         "id": "d092cc05f3b8d1d0",
         "type": "tabs",
         "children": [
+          {
             "id": "db532ea0091a86e7",
             "type": "leaf",
             "state": {
@@ -132,9 +133,57 @@
               "icon": "lucide-file",
               "title": "Meals"
             }
+          },
+          {
+            "id": "68a6034786df2b9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Concepts/Combat.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Combat"
+            }
+          },
+          {
+            "id": "5e63c995227466ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stats/Accuracy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Accuracy"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -280,11 +329,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "194d2ca6664216be",
+  "active": "68a6034786df2b9c",
   "lastOpenFiles": [
+    "Classes/Sniper.md",
+    "Core Concepts/Classes.md",
+    "Core Concepts/Combat.md",
+    "Stats/Accuracy.md",
+    "Classes/Smith.md",
     "Meals.md",
     "Sets/Consumables/Snacks.md",
-    "Classes/Smith.md",
     "Core Concepts/Consumables.md",
     "Classes/Doctor.md",
     "Untitled",
@@ -305,10 +358,6 @@
     "Classes/Thief.md",
     "Species/Gefelan.md",
     "Sets/Spells/Gladiesis.md",
-    "Sets/Spells/Arcusane.md",
-    "Structure/Maths Rules.md",
-    "Sets/Attachments/Slow Rifle Attachments.md",
-    "Sets/Ammunition/Cowboy Cartridges.md",
     "Resources/Character Creation Guide and Sheet.pdf",
     "~WRL0001.tmp",
     "~WRD0000.tmp",

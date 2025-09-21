@@ -61,7 +61,7 @@ Armoursmith:
 - *Decorate:* 4 AP, you cover any surface within melee range with at most a 5m by 5m area of coloured paint, summoned magically, in any image or style you like. Activate only once per combat. You can now forge "Tattoos"
 
 Whitesmith:
-- *Mass Production:* when forging a miscellaneous item in downtime, if you succeed the avoidance roll you make two of the item instead. You can now forge Utensils
+- *Mass Production:* when forging a miscellaneous item in downtime, if you succeed the avoidance roll you make two of the item instead. You can now forge "Utensils"
 
   Avoidance type: Endurance
   Roll minimum: 8

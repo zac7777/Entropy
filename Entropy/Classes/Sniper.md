@@ -71,5 +71,18 @@ Giant slayer:
 - *Deep wounds:* If an enemy creature is brought to below half their maximum HP, instead of doubling their EP loss, they now triple it
 - *Improvised elementalism:* 3 AP, the next attack you make with a medium or long weapon will deal an additional 1d4 + Reasoning damage of any magical type you choose
 
+#### Level 3:
+
+HP: Previous HP + 1d8
+AP: 5 + Reasoning
+
+*Bespoke Firearm:* attacks you activate with medium or long weapons gain -2 * total number of buffs on you or that weapon Accuracy
+###### Moves
+*Iron aim:* 3 AP, (This move puts you into the "Aimed" condition), While "Aimed" you have -5 accuracy and -20 dodge, "fire" moves on weapons you use cost 1 AP less. This move may only be activated while you have a medium or long weapon that does not have an attached sight.
+
+*Restrictive Wounding:* 5 AP, the next time you hit an opponent, non-attack moves they activate have additional 2 AP cost. This effect lasts until you apply this nerf to another creature
+
+*Identify threat:* 4 AP, target creature you can see takes an additional mental damage equal to your Reasoning every time it would be damaged, this effect ends when you lose sight of that creature or if you re-use this move on a different creature. This may only be activated once per turn.
+
 
 #gameInformation #class
