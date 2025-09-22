@@ -72,12 +72,18 @@ Mass assassin:
 HP: Previous HP + Power
 AP: 4 + Endurance * 2
 
-*Zero in:* whenever you land a hit (either with a spell or a weapon), spells you cast this turn have +1 to their minimum and you gain -5 accuracy until end of turn
+*Physically Trained:* up to three times per combat you may change the type of a challenge that targets you to Power or Endurance, choosing to do this will give you an additional +5 EP
 ###### Moves
-*Hold breath:* 1 AP, you gain -10 accuracy for your next attack with a medium or long weapon and automatically fail the next spell minimum that targets you, this may only be activated once per turn
+*Half Rest:* 3 AP, activate only while "Hunkered Down", you gain 10 EP and target other creature within 20m has -2 EP cost for it's moves for it's next turn
 
-*Hunker down:* 2 AP, if you have not moved this turn you may pay 0 AP instead. While "Hunkered Down" you have -10 accuracy and +10 dodge, your moves that affect your allies cost 1 AP less, and if you would receive knockback you may roll 1d10 + Endurance, if this roll is higher than the distance you would be knocked the knockback fails to move you. If you move more than 2m in one turn this effect will end.
+*Swift Sacrifice:* 4 AP, the next time target allied creature would be the target of an attack, the target is switched to you unless the source passes the challenge, if the source succeeds the challenge the attack is calculated normally then the source loses awareness of you and the allied creature.
 
-*Rally cry:* 4 AP, all allies that can hear you gain +1 AP on their next turn and +2 DT to mental damage until the end of combat
+Avoidance type: Memory
+Minimum roll: 6
+
+*Intellectualise Magic:* 5 AP, choose a spell property, spells you cast with this property have +2 to their minimum, and you cannot be the target of spells with this property unless their source passes the challenge. This effect lasts for three turns or until a creature succeeds the challenge
+
+Avoidance type: Reasoning
+Roll minimum: 7
 
 #gameInformation #class

@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sets/Creatures/Mercenaries.md",
+                "file": "Classes/Spellslinger.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mercenaries"
+              "title": "Spellslinger"
             }
           },
           {
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sets/Creatures/Demons.md",
+                "file": "Core Concepts/Spells.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Demons"
+              "title": "Spells"
             }
           }
         ],
@@ -379,23 +379,26 @@
   },
   "active": "009b2712d6e22fc8",
   "lastOpenFiles": [
+    "Classes/Soldier.md",
+    "Core Concepts/Spells.md",
+    "Sets/Spells/Bond.md",
+    "Sets/Creatures/Demons.md",
+    "Sets/Creatures/Mercenaries.md",
     "Sets/Creatures/Inkbeasts.md",
     "Sets/Creatures/House Pets.md",
     "Sets/Creatures/Goblins.md",
     "Sets/Creatures/Dogs.md",
-    "Sets/Creatures/Demons.md",
     "Sets/Creatures/Deer.md",
     "Sets/Creatures/Birds.md",
     "Sets/Creatures/Bandits.md",
     "Sets/Creatures/Automata.md",
     "Sets/Creatures/Sigardum.md",
-    "Classes/Soldier.md",
     "Classes/Sniper.md",
     "Core Concepts/Combat.md",
     "Core Concepts/Classes.md",
     "Stats/Accuracy.md",
     "Classes/Smith.md",
-    "Meals.md",
+    "Sets/Consumables/Meals.md",
     "Sets/Consumables/Snacks.md",
     "Core Concepts/Consumables.md",
     "Classes/Doctor.md",
@@ -403,9 +406,6 @@
     "Classes/Knight.md",
     "Sets/Weapons/Gloves.md",
     "Sets/Weapons/Knives.md",
-    "Sets/Weapons/Swords.md",
-    "Sets/Weapons/Spears.md",
-    "Sets/Weapons/Hammers.md",
     "Resources/Character Creation Guide and Sheet.pdf",
     "~WRL0001.tmp",
     "~WRD0000.tmp",
