@@ -1,3 +1,5 @@
+*A symbol of death, and the strength required to take a life. Every piece of them rewards their killer, and yet most hunt the deer for fun*
+
 ## Level 3
 #### Elk
 

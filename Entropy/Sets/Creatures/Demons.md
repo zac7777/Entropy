@@ -1,3 +1,5 @@
+*One of the few types of unintelligent animals I've ever seen express happiness so clearly, they form small groups and burrow underground, capturing and torturing intelligent creatures for entertainment and sustenance*
+
 ## Level 1
 #### Sprite
 

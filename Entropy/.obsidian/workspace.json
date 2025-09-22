@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sets/Creatures/Deer.md",
+                "file": "Sets/Creatures/Mercenaries.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Deer"
+              "title": "Mercenaries"
             }
           },
           {
@@ -379,11 +379,16 @@
   },
   "active": "009b2712d6e22fc8",
   "lastOpenFiles": [
+    "Sets/Creatures/Inkbeasts.md",
+    "Sets/Creatures/House Pets.md",
+    "Sets/Creatures/Goblins.md",
+    "Sets/Creatures/Dogs.md",
+    "Sets/Creatures/Demons.md",
+    "Sets/Creatures/Deer.md",
     "Sets/Creatures/Birds.md",
     "Sets/Creatures/Bandits.md",
     "Sets/Creatures/Automata.md",
     "Sets/Creatures/Sigardum.md",
-    "Sets/Creatures/Demons.md",
     "Classes/Soldier.md",
     "Classes/Sniper.md",
     "Core Concepts/Combat.md",
@@ -401,11 +406,6 @@
     "Sets/Weapons/Swords.md",
     "Sets/Weapons/Spears.md",
     "Sets/Weapons/Hammers.md",
-    "Sets/Weapons/Fast Rifles.md",
-    "Sets/Weapons/Chain-Arms.md",
-    "Sets/Weapons/Bows.md",
-    "Sets/Weapons/Axes.md",
-    "Sets/Weapons/Machine Guns.md",
     "Resources/Character Creation Guide and Sheet.pdf",
     "~WRL0001.tmp",
     "~WRD0000.tmp",

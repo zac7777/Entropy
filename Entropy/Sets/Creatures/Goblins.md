@@ -1,3 +1,5 @@
+*The closest thing to anthropomorphic consciousness among beasts, can empathise and memorise but are found to be incapable of critical reasoning and conceptualisation. Scholars still debate their rights on most planes*
+
 ## Level 1
 #### Goblin Grunt
 

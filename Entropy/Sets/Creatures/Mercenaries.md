@@ -1,3 +1,5 @@
+*Everyone needs a helping hand to do some... unseemly work. And different jobs need different workers.*
+
 ## Level 2
 #### Stealth Mage
 

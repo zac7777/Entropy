@@ -1,3 +1,5 @@
+*A magicians favourite summon, low level and simply composed, with much room for personalisation and taming. Without a killing instinct, or any need to sustain itself, they are completely abnormal to our natural world*
+
 ## Level 1
 #### Small inkbeast
 

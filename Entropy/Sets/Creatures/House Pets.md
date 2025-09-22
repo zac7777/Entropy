@@ -1,3 +1,5 @@
+*I don't call it ownership, it's stewarding for my fluffy companions. We're kin in a way, they are just incapable of providing their own safety in our urbanised hellscape*
+
 ## Level 1
 #### House Cat
 

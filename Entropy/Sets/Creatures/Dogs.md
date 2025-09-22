@@ -1,3 +1,5 @@
+*Hunters with families to feed, they're ravenous and proud, only accepting the pure bloodlust of their kin as assistance*
+
 ## Level 1
 #### Wolf Cub
 
