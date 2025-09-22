@@ -1,3 +1,5 @@
+*Ancestors of the Avas, agile and avoidant, toothless and thus they attempt a kill by many claw marks, tenderising meals before they swallow*
+
 ## Level 1
 #### Pigeon
 

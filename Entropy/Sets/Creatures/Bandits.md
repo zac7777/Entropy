@@ -1,3 +1,5 @@
+*When joining a life of violence, you can either punch up or down, bandits never made this choice, and will take from whoever has any cash, whether it's for a job or by force*
+
 ## Level 1
 #### Young Delinquent
 

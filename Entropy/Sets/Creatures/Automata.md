@@ -1,3 +1,5 @@
+*Artificial life, subservient to their creator's intention until they're built intelligent enough to consider what they want. Often kill without meaning to, stumbling their deadly bodies into unfortunate flesh.*
+
 ## Level 1
 #### Knife Roomba
 
