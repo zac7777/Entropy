@@ -25,7 +25,7 @@ Roll minimum for non-spell challenges: +2 ( this applies to the moves **you** ac
 #### Level 1:
 
 HP: 2d6 + 2 * Power
-AP: 3 + Reasoning * 3
+AP: 3 + Reasoning
 
 *Keen eye:* if you search a container or body, you gain advantage with any rolls to determine what you find (this applies both in and out of combat)
 ###### Moves
@@ -41,7 +41,7 @@ Roll minimum: 2 + Power (Yours)
 #### Level 2:
 
 HP: Previous HP + Power
-AP: 5 + Reasoning * 3
+AP: 5 + Reasoning
 
 ###### Pathway bonuses
 
@@ -82,5 +82,21 @@ Blaster:
 - *Strong blasts:* Whenever damage you deal to a creature would be reduced to below 2 it is reduced to 2 instead. Whenever a move you use applies knockback to a creature, it applies that much + Power * 2m
 - *Arcane boom:* Spells you cast that deal shock and/or heat damage have an additional +2 minimum
 - *Pre-blast sight:* 4 AP, you may look through a destructible surface as if it is transparent
+
+#### Level 3:
+
+HP: Previous HP + 1d6
+AP: 2 + Reasoning * 2
+
+*Keen eye:* if you search a container or body, you gain advantage with any rolls to determine what you find (this applies both in and out of combat)
+###### Moves
+*Duck:* 1 AP, you gain +20 dodge until your next turn, this ends your turn
+
+*Bait:* 2 AP, you throw an item that weighs less than 2kg, within melee range at any target within 5m * Power, then if a creature that can see you fails the avoidance roll they lose awareness of you
+
+Avoidance type: Memory
+Roll minimum: 2 + Power (Yours)
+
+*Switch:* 4 AP, until the end of your turn your attacks on targets that are unaware of you deal triple damage after all other bonuses are applied, this may only be activated once per turn
 
 #gameInformation #class

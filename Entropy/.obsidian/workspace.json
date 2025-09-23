@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Spellslinger.md",
+                "file": "Classes/Thief.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Spellslinger"
+              "title": "Thief"
             }
           },
           {
@@ -379,6 +379,7 @@
   },
   "active": "009b2712d6e22fc8",
   "lastOpenFiles": [
+    "Classes/Spellslinger.md",
     "Classes/Soldier.md",
     "Core Concepts/Spells.md",
     "Sets/Spells/Bond.md",
@@ -405,7 +406,6 @@
     "Untitled",
     "Classes/Knight.md",
     "Sets/Weapons/Gloves.md",
-    "Sets/Weapons/Knives.md",
     "Resources/Character Creation Guide and Sheet.pdf",
     "~WRL0001.tmp",
     "~WRD0000.tmp",
