@@ -72,4 +72,20 @@ Songstress:
   Accuracy: +35
   Critical: -3
 
+#### Level 3:
+
+HP: Previous HP + Memory
+AP: 3 + Connection * 2
+
+*Expert Cast:* you may now "strong cast" up to three spells per turn, when you do, up to one buff created by your spell focus gets applied an additional time
+###### Moves
+*Slow Conduction:* 3 AP, target creature that fails the avoidance roll has +2 AP cost to all it's spells for it's next two turns
+
+*Elemental Shell:* 4 AP, target creature within 30m that fails the avoidance roll is "Elementally Shelled". While "Elementally Shelled" the next time they would be damaged by a magical damage type they instead are not
+
+Avoidance Type: Insight
+Minimum roll: 6
+
+*Purify Output:* 6 AP, choose a magical damage type, the next three spells you cast will deal damage as that type and won't trigger any buffs that would respond to being targeted or dealt damage
+
 #gameInformation #class
