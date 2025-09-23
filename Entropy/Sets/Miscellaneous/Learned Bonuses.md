@@ -2,7 +2,37 @@ These will show how types of afflictions or lifestyles will effect a creature in
 
 #### Old
 
-You have -2 DT to bludgeoning, rot, and mental, but get +2 to your insight outside of combat.
+You have -1 DT to bludgeoning, rot, and mental, but get +2 to your insight.
+
+---
+#### Blessed
+
+You have -1 DT to radiation, piercing, and mental, but get +2 to your Connection.
+
+---
+#### Bulky
+
+You have -1 DT to slashing, shock, and mental, but get +2 to your Power.
+
+---
+#### Wise
+
+You have -1 DT to bludgeoning, toxic, and mental, but get +2 to your Memory.
+
+---
+#### Smart
+
+You have -1 DT to heat, piercing, and mental, but get +2 to your Reasoning.
+
+---
+#### Healthy
+
+You have -1 DT to slashing, cold, and mental, but get +2 to your Endurance.
+
+---
+#### Prepper
+
+The targets of "Ritual" spells you cast have disadvantage on the challenges, "Ritual" spells you cast have -3 EP cost
 
 ---
 #### Resurrected
@@ -52,6 +82,41 @@ Minimum roll: 4
 ##### Level 3:
 
 Whenever you activate a move on a weapon from "Cowboy Guns" the next move not named "Fire" you activate on that weapon has -2 AP and -2 EP cost
+
+---
+
+#### Archer
+
+##### Level 1:
+
+You have +2 Proficiency with all "Bows"
+
+##### Level 2:
+
+You may craft 2d8 of any "Arrows" by spending a downtime and succeeding the challenge
+
+Avoidance type: Connection
+Minimum roll: 6
+
+##### Level 3:
+
+Attacking with a weapon from "Bows" will never cause a creature to gain awareness of you, attacks made with these weapons at 30m or more have -20 Accuracy
+
+---
+
+#### Breaker
+
+##### Level 1:
+
+You have +2 Proficiency with all "Maces"
+
+##### Level 2:
+
+Whenever you deal damage to a creature with no DT to that damage type, you gain advantage on that damage roll
+
+##### Level 3:
+
+Choose a damage type, attacks with weapons from "Maces" will always deal an additional 1d6 + 1 damage of that type
 
 ---
 

@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Thief.md",
+                "file": "Sets/Miscellaneous/Learned Bonuses.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Thief"
+              "title": "Learned Bonuses"
             }
           },
           {
@@ -105,133 +105,6 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "d092cc05f3b8d1d0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "db532ea0091a86e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core Concepts/Consumables.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Consumables"
-            }
-          },
-          {
-            "id": "dbe685f7863a8a5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sets/Consumables/Snacks.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Snacks"
-            }
-          },
-          {
-            "id": "a4442088bbf93ce0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meals.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Meals"
-            }
-          },
-          {
-            "id": "68a6034786df2b9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core Concepts/Combat.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Combat"
-            }
-          },
-          {
-            "id": "5e63c995227466ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stats/Accuracy.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Accuracy"
-            }
-          }
-        ],
-        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -379,33 +252,33 @@
   },
   "active": "009b2712d6e22fc8",
   "lastOpenFiles": [
-    "Classes/Spellslinger.md",
-    "Classes/Soldier.md",
-    "Core Concepts/Spells.md",
-    "Sets/Spells/Bond.md",
-    "Sets/Creatures/Demons.md",
-    "Sets/Creatures/Mercenaries.md",
-    "Sets/Creatures/Inkbeasts.md",
-    "Sets/Creatures/House Pets.md",
-    "Sets/Creatures/Goblins.md",
-    "Sets/Creatures/Dogs.md",
-    "Sets/Creatures/Deer.md",
-    "Sets/Creatures/Birds.md",
-    "Sets/Creatures/Bandits.md",
-    "Sets/Creatures/Automata.md",
-    "Sets/Creatures/Sigardum.md",
-    "Classes/Sniper.md",
-    "Core Concepts/Combat.md",
-    "Core Concepts/Classes.md",
-    "Stats/Accuracy.md",
-    "Classes/Smith.md",
-    "Sets/Consumables/Meals.md",
-    "Sets/Consumables/Snacks.md",
-    "Core Concepts/Consumables.md",
-    "Classes/Doctor.md",
-    "Untitled",
-    "Classes/Knight.md",
+    "Sets/Miscellaneous/Learned Moves.md",
+    "Sets/Weapons/Wands.md",
+    "Sets/Weapons/Utensils.md",
+    "Sets/Weapons/Thrown Explosives.md",
+    "Sets/Weapons/Swords.md",
+    "Sets/Weapons/Staves.md",
+    "Sets/Weapons/Spears.md",
+    "Sets/Weapons/Slow Rifles.md",
+    "Sets/Weapons/Pistols.md",
+    "Sets/Weapons/Maces.md",
+    "Sets/Weapons/Knives.md",
+    "Sets/Weapons/Hooks.md",
+    "Sets/Weapons/Hammers.md",
     "Sets/Weapons/Gloves.md",
+    "Sets/Weapons/Cowboy Guns.md",
+    "Sets/Weapons/Chain-Arms.md",
+    "Sets/Weapons/Bows.md",
+    "Sets/Weapons/Axes.md",
+    "Sets/Spells/Summon Undead.md",
+    "Sets/Spells/Summon Demon.md",
+    "Sets/Spells/Mind.md",
+    "Sets/Spells/Light.md",
+    "Sets/Spells/Illusion.md",
+    "Sets/Spells/Ice.md",
+    "Sets/Spells/Hexus.md",
+    "Sets/Spells/Health.md",
+    "Untitled",
     "Resources/Character Creation Guide and Sheet.pdf",
     "~WRL0001.tmp",
     "~WRD0000.tmp",

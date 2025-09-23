@@ -1,0 +1,5 @@
+Edward Varmunkle addresses the party directly as they find themselves in a warm tavern. A blazing, eternal fire, a packed and limitless bar, and a mesmerising timeless swirl burning the image of the doorway to their right into their minds.
+
+"I know why you've all come here, and I'm sorry you did. You've fallen into a coincidental trap, baited by the all-powerful Deathwish. One of your predecessors made a foolish wish, and caused a paradox that warped this land for all of eternity. And now, with enough desire for it, no-one can die anymore, and we are bound to fight through randomised rooms like avatars in some sick, repetitive game" *Chuckles* "I apologise for my unnatural humour, but it becomes apparent that your journey to a Deathwish is... ironic. Please, if you have any questions, I can answer with all the knowledge I posses, but if you're ready to start... pushing your boulder up that hill, I recommend you leave through the door on your right."
+
+The party stands in the Home Base

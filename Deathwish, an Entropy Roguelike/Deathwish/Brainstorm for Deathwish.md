@@ -58,7 +58,7 @@
 - Algorithm for Dungeon Generation
 	- Begin at starting room
 	- 2d2 + 2 exits
-	- Each exit has a 1d4 = 1 chance to be locked
+	- Each exit has a 1d4 = 1 chance to be locked, a locked door will show what type of room it is
 	- decide each room's type with the d10 table:
 
 | d10 | Room type                                            |
@@ -74,3 +74,8 @@
 | 8   | Event                                                |
 | 9   | Reroll, after 3 rerolls in total automatic boss room |
 	- After ten rooms, there is a boss room anyway
+- Different item types can function on different items
+	- Grimoires give three charges of a spell for 1 AP each
+	- Tonics grant a learned bonus
+	- Manuals grant a learned move
+	- Scrolls teach a spell
