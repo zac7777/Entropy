@@ -64,9 +64,21 @@
               "icon": "lucide-file",
               "title": "Forest Combat Rooms"
             }
+          },
+          {
+            "id": "ecf3ccb68810ddc8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Resources/Forest combat layout 4.png"
+              },
+              "icon": "lucide-image",
+              "title": "Forest combat layout 4"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -214,16 +226,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "8e14d8694346ba28",
+  "active": "ecf3ccb68810ddc8",
   "lastOpenFiles": [
-    "Forest/Forest Items.md",
-    "Forest/Forest Events.md",
+    "Resources/Forest combat layout 5.png",
+    "Resources/Forest combat layout 6.png",
+    "Resources/Forest combat layout 4.png",
+    "Resources/Forest combat layout 3.png",
+    "Resources/Forest boss layout 1.png",
+    "Resources/Forest boss layout 2.png",
     "Brainstorm for Deathwish.md",
     "Forest/Forest Combat Rooms.md",
+    "Forest/Forest Civilisations.md",
+    "Forest/Forest Events.md",
     "Forest/Forest Shops.md",
+    "Forest/Forest Items.md",
     "External/Intro.md",
     "Storyline Ideas.md",
-    "Forest/Forest Civilisations.md",
     "External/The Pacifist.md",
     "External/Home Base.md",
     "Ocean/Ocean Items.md",
@@ -234,12 +252,6 @@
     "Ocean/Ocean Bosses.md",
     "Forest/Forest Bosses.md",
     "Ocean",
-    "Resources/Forest boss layout 2.png",
-    "Resources/Forest boss layout 1.png",
-    "Resources/Forest combat layout 6.png",
-    "Resources/Forest combat layout 5.png",
-    "Resources/Forest combat layout 4.png",
-    "Resources/Forest combat layout 3.png",
     "Resources/Forest combat layout 2.png",
     "Pasted image 20250820141542.png",
     "Pasted image 20250820141518.png",
