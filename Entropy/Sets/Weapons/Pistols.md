@@ -95,6 +95,41 @@ Critical: +7
 ---
 *The lightest trigger you will ever feel, I don't know why they can't just put this on a better gun*
 
+#### The Azur Lady's Man
+*Short, Light, Advanced, Legendary*
+
+Weight: 0.5kg
+
+One handed: -5 Accuracy to "Whip", -2 EP cost to all moves
+Two handed: -10 Accuracy to "Fire", +1 AP cost to "Whip"
+
+*Unseen Protector:* attacks made immediately after this weapon is equipped or while the target has no awareness of you have advantage on the damage roll and will stun the target unless they succeed the challenge
+
+Avoidance type: Power
+Roll minimum: 4
+
+*Magazine:* this weapon stores a certain amount of ammunition, they are loaded and unless specified otherwise, the "Fire" action will unload one round dealing damage that the ammunition specifies with the combined Accuracy and Critical values of both the weapon and the ammunition
+##### Actions
+
+*Whip:* 2 AP, Melee Range, 1d8 - 1 bludgeoning damage
+
+Accuracy: +13
+Critical: +6
+
+---
+
+*Fire:* 1 AP, 25m, gain + 1 EP, add +1 damage to the ammunition used, this move may only be used until all loaded ammunition is spent
+
+Accuracy: +12
+Critical: +4
+
+---
+
+*Reload:* 3 AP, return all ammunition currently loaded to storage, load up to 2 rounds of "9 millimetre" or a variant to use
+
+---
+*Her work in the brothel kept everyone safe, unseemly people attack poor girls when they think there's no-one that'll stop them, then a blue flash*
+
 ## Level 4
 #### War Side-arm
 *Medium, Manageable, Advanced, Rare*

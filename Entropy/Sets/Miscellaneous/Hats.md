@@ -16,4 +16,31 @@ Weight: 1kg
 ---
 *You keep going, no matter how many friends die, no matter how this world tries to change you, you run and you stay unbitten*
 
+#### Druid's Crown
+
+Weight: 0.5kg
+
+*Imprinted Thorns:* while equipped, you have an additional +2 Connection
+
+---
+*From the mark of a tortured prophet, a crown of thorns connects one to the most primal feeling, pain*
+
+#### Top Hat
+
+Weight: 1kg
+
+*Dapper:* while equipped, you have an additional +2 Insight
+
+---
+*Good day sir!*
+
+#### Detective's Cap
+
+Weight: 1kg
+
+*Deductive:* while equipped, you have an additional +2 Reasoning
+
+---
+*You've actually been using induction this whole time you stupid idiot*
+
 #itemSet #miscellaneous

@@ -16,7 +16,7 @@ Roll minimum: 4
 
 Weight: 2kg
 
-*Implant:* this item is permanently equipped, requiring a downtime and succeeding the avoidance roll to successfully do so. If failed, you may not try implanting again until your next downtime and you will take 3d4 Rot damage, then roll another d10, if you roll less than 2 you will cripple your left arm.
+*Implant:* this item is permanently equipped, requiring a downtime and succeeding the avoidance roll to successfully do so. If failed, you may not try implanting again until your next downtime and you will take 1d6 + 1 Rot damage, then roll another d10, if you roll less than 2 you will cripple your head.
 
 Avoidance type: Reasoning
 Roll minimum: 6
@@ -25,5 +25,19 @@ Roll minimum: 6
 
 ---
 *The most common side effects are bleeding from the tear ducts, migraines, and complete blindness in one or both eyes... want to try one eye first?*
+
+#### Enertech Fingertips
+
+Weight: 3kg
+
+*Implant:* this item is permanently equipped, requiring a downtime and succeeding the avoidance roll to successfully do so. If failed, you may not try implanting again until your next downtime and you will take 2d8 Rot damage, then roll another d10, if you roll less than 2 you will cripple both your arms.
+
+Avoidance type: Memory
+Roll minimum: 3
+
+*Conductive Pathways:* while implanted, contact spells you cast have an additional +2 to their minimum roll, and you can ignore up to one ingredient when casting them
+
+---
+*My veins glow, that's fine, what's not fine is when I held Johir's hand to zap him as a joke and he burst in to flames. It's more than fine, it's great!*
 
 #itemSet #miscellaneous

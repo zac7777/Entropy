@@ -13,9 +13,9 @@
 #### Enemy table
 
 
-| d4  | Enemies                                               | Rewards                                                                                                        |
-| --- | ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| 1   | 2d2 + 1 Pack Wolves<br>1d2 Wolf Alpha<br>1d4 Wolf Cub | 2 XP + 1 for each enemy killed<br>1d6 + 1 Quartz coins<br>1d4 - 1 Leather scraps<br>1 Minor Combat item        |
-| 2   | 1d2 + 1 Elk<br>1d4 - 1 Mite swarm                     | 3 XP + 1 for each enemy killed<br>2d4 Quartz coins<br>2 Meat scraps for each Elk killed<br>1 Minor Combat item |
-| 3   | 3d2 + 1 Young Deliquent<br>1d4 Novice Thief           | 2 XP for each enemy killed<br>1d10 Quartz coins<br>3 Minor Combat item                                         |
-| 4   | 1d6 Stealth Mages<br>1d4 + 1 Medium Inkbeasts         | 8 XP<br>3d4 - 1 Quartz coins<br>1 Major loot + 1 Minor utility                                                 |
+| d4  | Enemies                                               | Rewards                                                                                                         |
+| --- | ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| 1   | 2d2 + 1 Pack Wolves<br>1d2 Wolf Alpha<br>1d4 Wolf Cub | 2 XP + 1 for each enemy killed<br>1d6 + 1 Quartz coins<br>1d4 - 1 Leather scraps<br>1 Minor Combat item         |
+| 2   | 1d2 + 1 Elk<br>1d4 - 1 Mite swarm                     | 3 XP + 1 for each enemy killed<br>2d4 Quartz coins<br>2 Meat scraps for each Elk killed<br>2 Minor Utility item |
+| 3   | 3d2 + 1 Young Deliquent<br>1d4 Novice Thief           | 2 XP for each enemy killed<br>1d10 Quartz coins<br>3 Minor Combat item                                          |
+| 4   | 1d6 Stealth Mages<br>1d4 + 1 Medium Inkbeasts         | 8 XP<br>3d4 - 1 Quartz coins<br>1 Major loot + 1 Minor utility                                                  |

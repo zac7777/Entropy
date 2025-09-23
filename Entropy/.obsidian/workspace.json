@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sets/Miscellaneous/Learned Bonuses.md",
+                "file": "Sets/Weapons/Staves.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,31 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Learned Bonuses"
-            }
-          },
-          {
-            "id": "d2d9219fa79084e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core Concepts/Spells.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Spells"
+              "title": "Staves"
             }
           }
         ],
@@ -252,32 +228,32 @@
   },
   "active": "009b2712d6e22fc8",
   "lastOpenFiles": [
+    "Sets/Weapons/Thrown Explosives.md",
+    "Sets/Weapons/Knives.md",
+    "Sets/Armours/Chain-mails.md",
+    "Sets/Weapons/Pistols.md",
+    "Sets/Spells/Flame.md",
+    "Sets/Miscellaneous/Implants.md",
+    "Sets/Consumables/Stimulants.md",
+    "Sets/Consumables/Snacks.md",
+    "Sets/Consumables/Medicines.md",
+    "Sets/Consumables/Meals.md",
+    "Sets/Miscellaneous/Hats.md",
+    "Sets/Miscellaneous/Bags.md",
+    "Species/Human.md",
+    "Classes/Smith.md",
+    "Sets/Miscellaneous/Learned Bonuses.md",
     "Sets/Miscellaneous/Learned Moves.md",
     "Sets/Weapons/Wands.md",
     "Sets/Weapons/Utensils.md",
-    "Sets/Weapons/Thrown Explosives.md",
     "Sets/Weapons/Swords.md",
     "Sets/Weapons/Staves.md",
     "Sets/Weapons/Spears.md",
     "Sets/Weapons/Slow Rifles.md",
-    "Sets/Weapons/Pistols.md",
     "Sets/Weapons/Maces.md",
-    "Sets/Weapons/Knives.md",
     "Sets/Weapons/Hooks.md",
     "Sets/Weapons/Hammers.md",
     "Sets/Weapons/Gloves.md",
-    "Sets/Weapons/Cowboy Guns.md",
-    "Sets/Weapons/Chain-Arms.md",
-    "Sets/Weapons/Bows.md",
-    "Sets/Weapons/Axes.md",
-    "Sets/Spells/Summon Undead.md",
-    "Sets/Spells/Summon Demon.md",
-    "Sets/Spells/Mind.md",
-    "Sets/Spells/Light.md",
-    "Sets/Spells/Illusion.md",
-    "Sets/Spells/Ice.md",
-    "Sets/Spells/Hexus.md",
-    "Sets/Spells/Health.md",
     "Untitled",
     "Resources/Character Creation Guide and Sheet.pdf",
     "~WRL0001.tmp",

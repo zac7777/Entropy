@@ -24,3 +24,19 @@ Dodge bonus: -3
 
 ---
 *It's a shame the common dagger stab will still poke through the rings even a little, not painful just uncomfortable*
+
+## Level 3
+#### Mail Trousers
+*Half, Manageable, Primitive, Rare*
+
+Weight: 10kg
+
+Piercing DT: -4
+Electric DT: -2
+Toxic DT: -1
+Cold DT: -2
+
+Dodge bonus: +4
+
+---
+*Jingle, jangle, jingle, you'll walk in and everyone will hear your arrival, and they'll see you got goods to protect*

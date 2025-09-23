@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forest/Forest Items.md",
+                "file": "Forest/Forest Combat Rooms.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,31 +62,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Forest Items"
-            }
-          },
-          {
-            "id": "1db2f5e35e486bde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Brainstorm for Deathwish.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Brainstorm for Deathwish"
+              "title": "Forest Combat Rooms"
             }
           }
         ],
@@ -240,8 +216,9 @@
   },
   "active": "8e14d8694346ba28",
   "lastOpenFiles": [
-    "Brainstorm for Deathwish.md",
     "Forest/Forest Items.md",
+    "Forest/Forest Events.md",
+    "Brainstorm for Deathwish.md",
     "Forest/Forest Combat Rooms.md",
     "Forest/Forest Shops.md",
     "External/Intro.md",
@@ -255,7 +232,6 @@
     "Ocean/Ocean Events.md",
     "Ocean/Ocean Civilisations.md",
     "Ocean/Ocean Bosses.md",
-    "Forest/Forest Events.md",
     "Forest/Forest Bosses.md",
     "Ocean",
     "Resources/Forest boss layout 2.png",

@@ -1,13 +1,5 @@
 #### Minor combat item table
 
-10x ammunition slots
-10x Armour slots
-6x Attachment slots
-24x Spell slots
-36x Weapon slots
-7x learnable moves
-7x learnable bonuses
-
 | d100 | Item                        | d100 | Item                            | d100 | Item                     | d100 | Item                         |
 | ---- | --------------------------- | ---- | ------------------------------- | ---- | ------------------------ | ---- | ---------------------------- |
 | 1    | 2d6 Shoddy bolts            | 26   | Holographic Sight               | 51   | Rock Axe                 | 76   | Training Wood                |
@@ -37,25 +29,39 @@
 | 25   | Teeny Compensator           | 50   | Fresh Dead Scroll               | 75   | Projective Staff         | 100  | Prepper Tonic                |
 #### Minor utility item table
 
-| d10 | Item                                                                       |
-| --- | -------------------------------------------------------------------------- |
-| 0   | Arm Extender                                                               |
-| 1   | Boxy Backpack                                                              |
-| 2   | 2 sturdy affixers                                                          |
-| 3   | Hunter's Journal (Gives 3 XP)                                              |
-| 4   | 1d4 - 1 Feldspar Coins, if the roll is 0 double a player's current coinage |
-| 5   | 1d2 + 1 Antidote                                                           |
-| 6   | Improvised Bayonet                                                         |
-| 7   | Painkillers                                                                |
-| 8   | 2d2 Apple + Orange                                                         |
-| 9   | Protein Bar                                                                |
+| d20 | Item                                                                           |
+| --- | ------------------------------------------------------------------------------ |
+| 1   | Boxy Backpack                                                                  |
+| 2   | 2 sturdy affixers                                                              |
+| 3   | Hunter's Journal (Gives 3 XP)                                                  |
+| 4   | 1d4 - 1 Feldspar Coins, if the roll is 0 double a player's current coinage     |
+| 5   | 1d2 + 1 Antidote                                                               |
+| 6   | Smith's Tools                                                                  |
+| 7   | 1d6 Painkillers                                                                |
+| 8   | 2d4 - 1 Apple                                                                  |
+| 9   | Protein Bar                                                                    |
+| 10  | Arm Extender                                                                   |
+| 11  | Small Holster                                                                  |
+| 12  | Druid's Crown                                                                  |
+| 13  | Top Hat                                                                        |
+| 14  | Detective's Cap                                                                |
+| 15  | 1d2 + 2 Ration                                                                 |
+| 16  | 1d4 - 1 Meat Portion                                                           |
+| 17  | 1d6 - 1 Energy bars, if the roll is 0 that player magically returns to full EP |
+| 18  | 3d2 + 1 Magup                                                                  |
+| 19  | 1d4 Perceptitive                                                               |
+| 20  | Enertech Fingertips                                                            |
 #### Major loot table
 
-| d6  | Item                                                              |
+| d10 | Item                                                              |
 | --- | ----------------------------------------------------------------- |
-| 1   | Shrinking Tent (Allows for three instant downtimes anywhere)      |
-| 2   | Twistwood Key (Unlocks chests and rooms in the Forest)            |
-| 3   | The Paintbrush                                                    |
-| 4   | Toxic Spray Grimoire (Three charges of Toxic Spray for 1 AP each) |
-| 5   | Minor Convincion Scroll (Teaches Minor Convincion)                |
-| 6   | Eykilus's Shin-less Plate                                         |
+| 0   | Shrinking Tent (Allows for three instant downtimes anywhere)      |
+| 1   | Twistwood Key (Unlocks chests and rooms in the Forest)            |
+| 2   | The Paintbrush                                                    |
+| 3   | Toxic Spray Grimoire (Three charges of Toxic Spray for 1 AP each) |
+| 4   | The Azur Lady's Man                                               |
+| 5   | Mail Trousers                                                     |
+| 6   | Shop Coupon (gives a 50% off discount for one item)               |
+| 7   | 2d4 Holy Hand Grenade                                             |
+| 8   | Forest Map (reveals all future doors)                             |
+| 9   | Scorching Staff                                                   |

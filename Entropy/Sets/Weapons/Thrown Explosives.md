@@ -89,7 +89,25 @@ Accuracy: +43
 Critical: +6
 
 ---
-
 *Anyone can click a detonator trigger, it takes intention and hate to place the bomb*
+
+#### Holy Hand Grenade
+*Medium, Light, Advanced, Legendary*
+
+Weight: 1kg
+
+One handed: 
+Two handed: -2 EP cost to "Throw"
+
+*Antioch's Glory:* allied creatures will not be damaged by this weapon, instead they will be healed 1d4 + 1 HP unless they have DT, resistance, or immunity to radiation damage
+##### Actions
+
+*Throw:* 4 AP, 35m, all creatures within 5m of the target take 2d6 - 1 shock damage and all creatures within 10m take 1d4 + 1 radiation damage, this unequips this weapon, sending it to the target's location, then breaks it
+
+Accuracy: +37
+Critical: +8
+
+---
+*I hunt rabbits with it... it's a relic? They're worth how much‽*
 
 #itemSet #weapons 
