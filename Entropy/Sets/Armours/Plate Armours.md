@@ -42,11 +42,48 @@ Dodge bonus: -7
 ---
 *Takes little skill to forge, but the ore required takes some well trained miners*
 
+## Level 4
+#### Organ Guards
+*Partial, Manageable, Advanced, Rare*
+
+Weight: 7kg
+
+*Flawless:* attacks made against you have -20 Critical, if a limb of yours would be crippled you may spend 2 EP to attempt the challenge, if you succeed that limb won't be crippled
+
+Avoidance type: Connection
+Minimum roll: 8
+
+Slashing DT: -4
+Piercing DT: -3
+Radiant DT: -2
+Heat DT: +2
+Electric DT: +3
+
+Dodge bonus: +2
+
+---
+*Takes little skill to forge, but the ore required takes some well trained miners*
+
 ## Level 5
+#### Full Plate
+*Full, Heavy, Martial, Common
+
+Weight: 20kg
+
+Slashing DT: -8
+Piercing DT: -4
+Bludgeoning DT: +1
+Radiant DT: -4
+
+Dodge bonus: -10
+
+---
+*Some's critical weakness is their ego, their mortal attachments, hers was the bit on her leg below the knees*
+
 #### Eykilus's Shin-less Plate
 *Full, Heavy, Martial, Legendary*
 
-Weight: 12kg
+Weight: 18kg
 
 *Minor Weakness:* if an attack does critical damage, ignore all DT bonuses given by this armour, attacks made against you have +5 critical
 

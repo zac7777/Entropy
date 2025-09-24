@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sets/Weapons/Pistols.md",
+                "file": "Sets/Armours/Leathers.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pistols"
+              "title": "Leathers"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "legendary",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -209,8 +210,16 @@
   },
   "active": "5eddf5b63a569d8d",
   "lastOpenFiles": [
-    "Sets/Ammunition/Small Cartridges.md",
+    "Sets/Weapons/Knives.md",
+    "Sets/Spells/Hexus.md",
+    "Classes/Boxer.md",
+    "Sets/Spells/Arcusane.md",
+    "Sets/Armours/Plate Armours.md",
+    "Core Concepts/Item Types/Consumables.md",
+    "Core Concepts/Item Types",
+    "Resources/Ehlen Map Resource.png",
     "Sets/Weapons/Pistols.md",
+    "Sets/Ammunition/Small Cartridges.md",
     "Sets/Weapons/Machine Guns.md",
     "Development/Developer notes.md",
     "Classes/Soldier.md",
@@ -220,7 +229,6 @@
     "Classes/Thief.md",
     "Sets/Weapons/Staves.md",
     "Sets/Weapons/Thrown Explosives.md",
-    "Sets/Weapons/Knives.md",
     "Sets/Armours/Chain-mails.md",
     "Sets/Spells/Flame.md",
     "Sets/Miscellaneous/Implants.md",
@@ -231,22 +239,15 @@
     "Sets/Miscellaneous/Hats.md",
     "Sets/Miscellaneous/Bags.md",
     "Species/Human.md",
-    "Classes/Smith.md",
-    "Sets/Miscellaneous/Learned Bonuses.md",
-    "Sets/Miscellaneous/Learned Moves.md",
-    "Sets/Weapons/Wands.md",
-    "Sets/Weapons/Utensils.md",
     "Untitled",
     "~WRL0001.tmp",
     "~WRD0000.tmp",
     "~$aracter Creation Guide and Sheet.docx",
     "Character Creation Guide and Sheet.docx",
     "Sets/Consumables",
-    "Resources/Ehlen Map Resource.png",
     "Pasted image 20250628201830.png",
     "Sets/Miscellaneous",
     "Sets/Creatures",
-    "Sets/Armours",
     "Pasted image 20250626202807.png"
   ]
 }

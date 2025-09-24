@@ -1,6 +1,6 @@
 ## Level 6
 #### Doorway to the Hexagonal void
-*Medium, Ritual(6 wax candles, financial sacrifice worth more than 666 |INSERT CURRENCY NAME HERE|, chalk or soapstone to draw the runes, A chant and dance that takes 6 minutes), Advanced, Legendary*
+*Medium, Ritual(6 wax candles, financial sacrifice worth more than 666g of gold, chalk or soapstone to draw the runes, A chant and dance that takes 6 minutes), Advanced, Legendary*
 
 ##### Actions
 
