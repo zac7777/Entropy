@@ -176,4 +176,27 @@ Proficiency requirement: 4
 ---
 *There are many types of war, kid, but whether it's the streets or in ya head, take a gun*
 
+## Level 5
+#### Plastic Popper
+Glock 45
+
+## Level 6
+#### Oldern Semi
+Luger-ish heavy damage
+
+## Level 7
+#### Military Piercer
+57 big mag
+
+## Level 8
+#### Big Iron
+Revolver with 50 AE
+
+## Level 9
+#### Spring Eagle
+Deagle
+## Level 10
+#### Longue Hand Cannon
+50 AE massive damage, high AP costs
+
 #itemSet #weapons 

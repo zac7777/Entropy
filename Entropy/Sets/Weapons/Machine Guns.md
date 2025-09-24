@@ -60,6 +60,6 @@ P90
 
 ## Level 10
 #### Heavy Action gun
-some long rifle looking smg shooting fn 57
+Mini gun shooting fn 57
 
 #itemSet #weapons 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/Developer notes.md",
+                "file": "Sets/Weapons/Pistols.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,71 +28,40 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Developer notes"
-            }
-          },
-          {
-            "id": "194d2ca6664216be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes/Soldier.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Soldier"
-            }
-          },
-          {
-            "id": "009b2712d6e22fc8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Resources/Character Creation Guide and Sheet.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Character Creation Guide and Sheet"
-            }
-          },
-          {
-            "id": "87bac54432ce980f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core Concepts/Combat.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Combat"
+              "title": "Pistols"
             }
           }
-        ],
-        "currentTab": 2
+        ]
+      },
+      {
+        "id": "a06999af9b32db97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96fa9085e9e6fccb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sets/Ammunition/Small Cartridges.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Small Cartridges"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -238,8 +207,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "009b2712d6e22fc8",
+  "active": "5eddf5b63a569d8d",
   "lastOpenFiles": [
+    "Sets/Ammunition/Small Cartridges.md",
+    "Sets/Weapons/Pistols.md",
+    "Sets/Weapons/Machine Guns.md",
+    "Development/Developer notes.md",
+    "Classes/Soldier.md",
+    "Resources/Character Creation Guide and Sheet.pdf",
     "Core Concepts/Storage.md",
     "Core Concepts/Combat.md",
     "Classes/Thief.md",
@@ -247,7 +222,6 @@
     "Sets/Weapons/Thrown Explosives.md",
     "Sets/Weapons/Knives.md",
     "Sets/Armours/Chain-mails.md",
-    "Sets/Weapons/Pistols.md",
     "Sets/Spells/Flame.md",
     "Sets/Miscellaneous/Implants.md",
     "Sets/Consumables/Stimulants.md",
@@ -262,12 +236,7 @@
     "Sets/Miscellaneous/Learned Moves.md",
     "Sets/Weapons/Wands.md",
     "Sets/Weapons/Utensils.md",
-    "Sets/Weapons/Swords.md",
-    "Sets/Weapons/Spears.md",
-    "Sets/Weapons/Slow Rifles.md",
-    "Sets/Weapons/Maces.md",
     "Untitled",
-    "Resources/Character Creation Guide and Sheet.pdf",
     "~WRL0001.tmp",
     "~WRD0000.tmp",
     "~$aracter Creation Guide and Sheet.docx",
