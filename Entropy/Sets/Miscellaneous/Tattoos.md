@@ -12,4 +12,5 @@ Roll minimum: 4
 ---
 *While them and their realm are imperceptible, his followers formed a symbol of the broken circle between life and death, a reminder that only those with principles find eternity*
 
+![[Olo's Sigil.png]]
 #itemSet #miscellaneous

@@ -1,3 +1,5 @@
+*The first denizens of most planes, simple and enduring. Short lives, and thus, willing to throw theirs away for a single kill*
+
 ## Level 2
 #### Mite Swarm
 

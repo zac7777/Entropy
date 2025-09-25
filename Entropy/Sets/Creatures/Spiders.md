@@ -1,3 +1,5 @@
+*They form great webs of the light strings that hold the very energy of our universe, this gives them both physical control over their enemies and a great intuition with the arcane*
+
 ## Level 1
 #### Overgrown Spider
 

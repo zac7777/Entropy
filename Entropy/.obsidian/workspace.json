@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c94ae1d9b092739f",
+        "id": "2cedba21fcb460b1",
         "type": "tabs",
         "children": [
           {
-            "id": "5eddf5b63a569d8d",
+            "id": "161f1daffd9298ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sets/Armours/Leathers.md",
+                "file": "Sets/Creatures/Undead.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,37 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Leathers"
-            }
-          }
-        ]
-      },
-      {
-        "id": "a06999af9b32db97",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "96fa9085e9e6fccb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sets/Ammunition/Small Cartridges.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Small Cartridges"
+              "title": "Undead"
             }
           }
         ]
@@ -93,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "legendary",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -208,13 +177,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5eddf5b63a569d8d",
+  "active": "161f1daffd9298ad",
   "lastOpenFiles": [
+    "Sets/Creatures/Spiders.md",
+    "Sets/Creatures/Sigardum.md",
+    "Sets/Creatures/Pests.md",
+    "Sets/Creatures/Mercenaries.md",
+    "Sets/Creatures/Inkbeasts.md",
+    "Sets/Creatures/House Pets.md",
+    "Sets/Creatures/Goblins.md",
+    "Sets/Miscellaneous/Tattoos.md",
+    "Resources/Olo's Sigil.png",
+    "Sets/Miscellaneous/Implants.md",
+    "Sets/Miscellaneous/Curses.md",
+    "Sets/Creatures/Undead.md",
+    "Sets/Consumables/Poisons.md",
+    "Sets/Armours/Leathers.md",
+    "Sets/Armours/Plate Armours.md",
+    "Sets/Armours/Chain-mails.md",
+    "Sets/Armours/Caster's Garbs.md",
+    "Sets/Spells/Arcusane.md",
     "Sets/Weapons/Knives.md",
     "Sets/Spells/Hexus.md",
     "Classes/Boxer.md",
-    "Sets/Spells/Arcusane.md",
-    "Sets/Armours/Plate Armours.md",
     "Core Concepts/Item Types/Consumables.md",
     "Core Concepts/Item Types",
     "Resources/Ehlen Map Resource.png",
@@ -224,21 +209,6 @@
     "Development/Developer notes.md",
     "Classes/Soldier.md",
     "Resources/Character Creation Guide and Sheet.pdf",
-    "Core Concepts/Storage.md",
-    "Core Concepts/Combat.md",
-    "Classes/Thief.md",
-    "Sets/Weapons/Staves.md",
-    "Sets/Weapons/Thrown Explosives.md",
-    "Sets/Armours/Chain-mails.md",
-    "Sets/Spells/Flame.md",
-    "Sets/Miscellaneous/Implants.md",
-    "Sets/Consumables/Stimulants.md",
-    "Sets/Consumables/Snacks.md",
-    "Sets/Consumables/Medicines.md",
-    "Sets/Consumables/Meals.md",
-    "Sets/Miscellaneous/Hats.md",
-    "Sets/Miscellaneous/Bags.md",
-    "Species/Human.md",
     "Untitled",
     "~WRL0001.tmp",
     "~WRD0000.tmp",
