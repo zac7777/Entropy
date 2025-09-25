@@ -258,4 +258,20 @@ Roll minimum: 5
 ---
 *It's been prophesized that the day a Zweihander became lighter than a feather, martial arts would become irrelevant*
 
+## Level 7
+#### Falchion
+Meaty slashing damage with good opportunity for blocking
+
+## Level 8
+#### Katana
+Meaty piercing damage with high vulnerability but with good range and chances to cripple
+
+## Level 9
+#### Compound Sword
+Great range with multi-hit factor, killer to unarmoured opponents, low AP cost
+
+## Level 10
+#### Beam Lance
+Meaty radiation and heat damage with chances to cripple, better against targets with high dodge
+
 #itemSet #weapons 

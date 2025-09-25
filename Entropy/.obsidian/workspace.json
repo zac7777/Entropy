@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sets/Creatures/Undead.md",
+                "file": "Core Concepts/Item Types/Weapons.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Undead"
+              "title": "Weapons"
+            }
+          },
+          {
+            "id": "eb22ce659a2f51ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sets/Weapons/Swords.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Swords"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,8 +202,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "161f1daffd9298ad",
+  "active": "eb22ce659a2f51ca",
   "lastOpenFiles": [
+    "Core Concepts/Item Types/Weapons.md",
+    "Resources/Olo's Sigil.png",
+    "Sets/Miscellaneous/Jewellery.md",
+    "Sets/Miscellaneous/Hats.md",
+    "Sets/Consumables/Medicines.md",
+    "Sets/Consumables/Snacks.md",
+    "Sets/Creatures/Undead.md",
     "Sets/Creatures/Spiders.md",
     "Sets/Creatures/Sigardum.md",
     "Sets/Creatures/Pests.md",
@@ -187,10 +219,8 @@
     "Sets/Creatures/House Pets.md",
     "Sets/Creatures/Goblins.md",
     "Sets/Miscellaneous/Tattoos.md",
-    "Resources/Olo's Sigil.png",
     "Sets/Miscellaneous/Implants.md",
     "Sets/Miscellaneous/Curses.md",
-    "Sets/Creatures/Undead.md",
     "Sets/Consumables/Poisons.md",
     "Sets/Armours/Leathers.md",
     "Sets/Armours/Plate Armours.md",
@@ -203,11 +233,6 @@
     "Core Concepts/Item Types/Consumables.md",
     "Core Concepts/Item Types",
     "Resources/Ehlen Map Resource.png",
-    "Sets/Weapons/Pistols.md",
-    "Sets/Ammunition/Small Cartridges.md",
-    "Sets/Weapons/Machine Guns.md",
-    "Development/Developer notes.md",
-    "Classes/Soldier.md",
     "Resources/Character Creation Guide and Sheet.pdf",
     "Untitled",
     "~WRL0001.tmp",

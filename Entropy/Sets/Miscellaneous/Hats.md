@@ -43,4 +43,22 @@ Weight: 1kg
 ---
 *You've actually been using induction this whole time you stupid idiot*
 
+#### Priest headwrap
+
+Weight: 1kg
+
+*Scholarly:* while equipped, you have an additional +2 Memory
+
+---
+*They studied that whole book just to tell people what **they** think it means, it's a good scam don't get me wrong*
+
+#### Butcher's Hairnet
+
+Weight: 1kg
+
+*Cleaver:* while equipped, you have an additional +2 Power
+
+---
+*It's all the exercise I get and need, someone should cut these arms up they'd make a fine steak!*
+
 #itemSet #miscellaneous
